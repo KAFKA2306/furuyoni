@@ -260,10 +260,10 @@ main {
 .modal-container {
     position: relative;
     background: hsl(240, 10%, 6%);
-    width: 95%;
-    max-width: 1300px;
-    height: 85vh;
-    border-radius: 40px;
+    width: 90%;
+    max-width: 1400px;
+    height: 90vh;
+    border-radius: 24px;
     border: 1px solid var(--border);
     overflow: hidden;
     z-index: 1001;
@@ -272,12 +272,12 @@ main {
 
 .detail-container {
     display: grid;
-    grid-template-columns: 400px 1fr;
+    grid-template-columns: 350px 1fr;
     height: 100%;
 }
 
 .detail-sidebar {
-    padding: 4rem;
+    padding: 3rem;
     border-right: 1px solid var(--border);
     background: hsla(0, 0%, 100%, 0.01);
     overflow-y: auto;
@@ -315,22 +315,41 @@ main {
 .weakness { color: hsl(0, 100%, 66%) !important; }
 
 .detail-cards {
-    padding: 4rem;
+    padding: 3rem;
     overflow-y: auto;
     display: flex;
     flex-direction: column;
-    gap: 5rem;
+    gap: 4rem;
+}
+
+.char-section {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.char-header {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.char-portrait-large {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 3px solid var(--border);
 }
 
 .char-header h3 {
-    font-size: 2.2rem;
+    font-size: 2rem;
     font-weight: 700;
 }
 
 .char-card-list {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-    gap: 2.5rem;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 2rem;
 }
 
 /* Story Timeline Enhancements */
@@ -428,14 +447,26 @@ main {
     box-shadow: 0 0 20px var(--accent-glow);
 }
 
+.card-item {
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
 .card-item img {
-    border-radius: 16px;
-    transition: var(--transition);
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    border: 1px solid var(--border);
+    transition: all 0.3s ease;
+}
+
+.card-item:hover {
+    transform: translateY(-4px);
 }
 
 .card-item:hover img {
-    transform: translateY(-8px) rotate(2deg) scale(1.05);
-    box-shadow: 0 20px 40px rgba(0,0,0,0.6);
+    border-color: var(--accent);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.4);
 }
 
 .close-btn {
