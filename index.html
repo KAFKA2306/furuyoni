@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ふるよに初心者向けペアガイド | 桜降る代に決闘を</title>
+    <link rel="stylesheet" href="src/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="app">
+        <header>
+            <div class="header-content">
+                <h1>Furuyoni Pair Guide</h1>
+                <p class="subtitle">桜降る代に決闘を 初心者向け主要ペア紹介</p>
+            </div>
+        </header>
+
+        <main>
+            <div id="pair-grid" class="grid">
+                <!-- Pair cards will be rendered here -->
+            </div>
+        </main>
+
+        <div id="modal" class="modal hidden">
+            <div class="modal-overlay"></div>
+            <div class="modal-container">
+                <button id="close-modal" class="close-btn">&times;</button>
+                <div id="modal-content">
+                    <!-- Pair details will be rendered here -->
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>&copy; 2026 Furuyoni Guide. Card images are copyright of BakaFire Party.</p>
+        </footer>
+    </div>
+    <script type="module" src="src/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+version: '3'
+
+tasks:
+  default:
+    desc: Run the default task (serve)
+    cmds:
+      - task: serve
+
+  serve:
+    desc: Serve the application locally
+    cmds:
+      - uv run python -m http.server 8080
