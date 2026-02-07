@@ -4,7 +4,7 @@ tasks:
   default:
     desc: Run the default task (serve)
     cmds:
-      - task: serve
+      - task: run
 
   init:
     desc: Initialize project environment
@@ -18,14 +18,19 @@ tasks:
   fmt:
     desc: Format code
     cmds:
-      - uv run ruff format src
+      - uv run ruff format .
 
   lint:
     desc: Lint code
     cmds:
-      - uv run ruff check src --fix
+      - uv run ruff check . --fix
 
   serve:
     desc: Serve the application locally
     cmds:
       - uv run python -m http.server 8080
+
+  run:
+    desc: Run the application
+    cmds:
+      - task: serve

@@ -18,11 +18,30 @@
             </div>
         </header>
 
+        <nav class="main-nav">
+            <button class="nav-btn active" data-view="pairs">Pair Guide</button>
+            <button class="nav-btn" data-view="story">Beginner Story</button>
+        </nav>
+
         <main>
-            <div id="pair-grid" class="grid">
-                <!-- Pair cards will be rendered here -->
-            </div>
+            <section id="pair-view" class="view" aria-labelledby="pair-guide-heading">
+                <h2 id="pair-guide-heading" class="sr-only">Pair Guide Grid</h2>
+                <div id="pair-grid" class="grid">
+                    <!-- Pair cards will be rendered here -->
+                </div>
+            </section>
+            
+            <section id="story-view" class="view hidden" aria-labelledby="story-heading">
+                <div class="story-intro">
+                    <h2 id="story-heading">ミコトの歩み</h2>
+                    <p>決闘の基本から応用まで、物語を追うように学んでいきましょう。</p>
+                </div>
+                <div id="story-timeline" class="timeline">
+                    <!-- Story steps will be rendered here -->
+                </div>
+            </section>
         </main>
+
 
         <div id="modal" class="modal hidden">
             <div class="modal-overlay"></div>
