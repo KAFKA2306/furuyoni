@@ -1,0 +1,11 @@
+[project]
+name = "furuyoni"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jinja2>=3.1.6",
+    "mkdocs-glightbox>=0.5.2",
+    "mkdocs-material>=9.7.1",
+]

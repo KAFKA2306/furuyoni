@@ -26,9 +26,14 @@ tasks:
       - uv run ruff check . --fix
 
   serve:
-    desc: Serve the application locally
+    desc: Serve the application locally (MkDocs)
     cmds:
-      - uv run python -m http.server 8080 --directory .
+      - uv run mkdocs serve -a localhost:8080
+
+  build:
+    desc: Build the static site
+    cmds:
+      - uv run mkdocs build
 
   run:
     desc: Run the application

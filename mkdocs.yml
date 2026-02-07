@@ -1,0 +1,73 @@
+site_name: ふるよに ガイド
+site_url: https://kafka.github.io/furuyoni/
+site_description: 桜降る代に決闘を - 初心者向けペアガイド＆攻略情報
+
+theme:
+  name: material
+  language: ja
+  palette:
+    - scheme: slate
+      primary: pink
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: ライトモードに切替
+    - scheme: default
+      primary: pink
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: ダークモードに切替
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - content.tabs.link
+    - content.code.copy
+  font:
+    text: Noto Sans JP
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+
+nav:
+  - ホーム: index.md
+  - 概要: overview.md
+  - ルール:
+    - 基本ルール: mechanics/index.md
+    - ゲームの流れ: mechanics/flow.md
+  - メガミ:
+    - 一覧: megami/index.md
+    - カード: megami/cards.md
+  - ペア攻略:
+    - ペア一覧: pairs/index.md
+  - 初心者向け:
+    - 入門カリキュラム: beginner/curriculum.md
+  - 開発資料:
+    - 要求仕様: specs/req.md
+    - ユーザーストーリー: specs/user_stories.md
+    - マイルストーン:
+      - 2026-02-08 移行計画: specs/milestones/2026-02-08.md
+  - コミュニティ:
+    - ブログ記事: community/blogs.md
+
+plugins:
+  - search:
+      lang: ja
+  - glightbox
+
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/kafka/furuyoni
