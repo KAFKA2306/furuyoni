@@ -70,11 +70,12 @@ task serve
 ```
 furuyoni/
 ├── index.html              # メインHTML
-├── src/
-│   ├── main.js            # アプリケーションロジック
-│   ├── data.js            # ペア・カードデータ
-│   ├── story.js           # 初心者ストーリーデータ
-│   └── style.css          # スタイル定義
+├── main.js                 # アプリケーションロジック
+├── data.js                 # ペア・カードデータ
+├── mechanics.js            # ルール・メカニクスデータ
+├── megami.js               # メガミ一覧データ
+├── story.js                # 初心者ストーリーデータ
+├── style.css               # スタイル定義
 ├── docs/                  # 追加ドキュメント
 ├── Taskfile.yml           # タスク定義
 └── README.md              # このファイル
