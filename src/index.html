@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="description" content="ふるよに（桜降る代に決闘を）の初心者向けペアガイド。主要な組み合わせの強み、弱み、立ち回りを分かりやすく解説します。">
+    <title>ふるよに ペアガイド | 初心者向け主要組み合わせ紹介</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&family=Outfit:wght@300;400;600&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <header>
+        <h1>Furuyoni Pair Guide</h1>
+        <p class="subtitle">桜降る代に決闘を 初心者向け主要ペア紹介</p>
+    </header>
+    <nav>
+        <button class="nav-btn active" data-view="pair">Pair Guide</button>
+        <button class="nav-btn" data-view="story">Beginner Story</button>
+    </nav>
+    <main>
+        <div id="pair-view" class="view">
+            <div id="pair-grid" class="grid"></div>
+        </div>
+        <div id="story-view" class="view hidden">
+            <div class="story-intro">
+                <h2>ミコトの歩み</h2>
+                <p>決闘の基本から応用まで、物語を追うように学んでいきましょう。</p>
+            </div>
+            <div id="story-timeline" class="timeline"></div>
+        </div>
+    </main>
+    <div id="modal" class="modal hidden">
+        <div class="modal-overlay"></div>
+        <div class="modal-container">
+            <button id="close-modal" class="close-btn">&times;</button>
+            <div id="modal-content"></div>
+        </div>
+    </div>
+    <script type="module" src="main.js"></script>
+</body>
+
+</html>
