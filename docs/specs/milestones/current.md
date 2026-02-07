@@ -152,29 +152,29 @@ extra:
 ## 実装ステップ
 
 ### Phase 1: 環境構築 (30分)
-- [ ] `pip install mkdocs-material mkdocs-glightbox`
-- [ ] `mkdocs.yml` 作成
-- [ ] ディレクトリ構造の整理
+- [x] `pip install mkdocs-material mkdocs-glightbox`
+- [x] `mkdocs.yml` 作成
+- [x] ディレクトリ構造の整理
 
 ### Phase 2: コンテンツ移行 (60分)
-- [ ] 既存Markdownファイルの移動・リネーム
-- [ ] `cards.html` → `megami/cards.md` 変換
-- [ ] `chara.html` → `megami/index.md` 統合
-- [ ] 画像パスの確認と修正
+- [x] 既存Markdownファイルの移動・リネーム
+- [x] `cards.html` → `megami/cards.md` 変換
+- [x] `chara.html` → `megami/index.md` 統合
+- [x] 画像パスの確認と修正
 
 ### Phase 3: トップページ作成 (30分)
-- [ ] `docs/index.md` 作成（ヒーローセクション＋クイックリンク）
-- [ ] Material テーマの機能活用（アイコン、グリッド）
+- [x] `docs/index.md` 作成（ヒーローセクション＋クイックリンク）
+- [x] Material テーマの機能活用（アイコン、グリッド）
 
 ### Phase 4: ビルド＆デプロイ (30分)
-- [ ] `mkdocs build` で `site/` 生成
-- [ ] GitHub Actions ワークフロー更新
-- [ ] GitHub Pages へデプロイ確認
+- [x] `mkdocs build` で `site/` 生成
+- [x] GitHub Actions ワークフロー更新
+- [x] GitHub Pages へデプロイ確認
 
 ### Phase 5: クリーンアップ (15分)
-- [ ] 旧HTML/JS/CSSファイル削除
-- [ ] README更新
-- [ ] `.gitignore` に `site/` 追加
+- [x] 旧HTML/JS/CSSファイル削除
+- [x] README更新
+- [x] `.gitignore` に `site/` 追加
 
 ---
 
@@ -189,11 +189,11 @@ extra:
 
 ## 検証項目
 
-- [ ] 全ページがローカルで正しく表示される (`mkdocs serve`)
-- [ ] 画像が正しく読み込まれる（外部URL / ローカル）
-- [ ] 検索機能が日本語で動作する
-- [ ] モバイル表示が崩れない
-- [ ] GitHub Pages でデプロイ後アクセス可能
+- [x] 全ページがローカルで正しく表示される (`mkdocs serve`)
+- [x] 画像が正しく読み込まれる（外部URL / ローカル）
+- [x] 検索機能が日本語で動作する
+- [x] モバイル表示が崩れない
+- [x] GitHub Pages でデプロイ後アクセス可能
 
 ---
 

@@ -49,6 +49,8 @@ nav:
     - ユーザーストーリー: specs/user_stories.md
     - マイルストーン:
       - 2026-02-08 移行計画: specs/milestones/2026-02-08.md
+      - Phase 6 ロードマップ: specs/milestones/2026-02-15.md
+      - 現在の進捗: specs/milestones/current.md
   - コミュニティ:
     - ブログ記事: community/blogs.md
 
