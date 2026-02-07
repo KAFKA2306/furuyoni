@@ -165,7 +165,7 @@ main {
 
 .detail-container {
     display: grid;
-    grid-template-columns: 350px 1fr;
+    grid-template-columns: 400px 1fr;
     height: 100%;
 }
 
@@ -237,8 +237,8 @@ main {
 
 .char-card-list {
     display: grid;
-    grid-template-columns: repeat(auto-fill,minmax(180px,1fr));
-    gap: 1.5rem;
+    grid-template-columns: repeat(auto-fill,minmax(200px,1fr));
+    gap: 2rem;
 }
 
 .card-item {
