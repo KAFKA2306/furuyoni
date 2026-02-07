@@ -28,7 +28,7 @@ tasks:
   serve:
     desc: Serve the application locally
     cmds:
-      - uv run python -m http.server 8080 --directory src
+      - uv run python -m http.server 8080 --directory .
 
   run:
     desc: Run the application

@@ -1,5 +1,7 @@
 import { pairs, cards, portraits, baseUrl } from './data.js';
 import { storySteps } from './story.js';
+import { mechanicsContent } from './mechanics.js';
+import { renderMegamiRoster } from './megami.js';
 
 const grid = document.getElementById('pair-grid');
 const timeline = document.getElementById('story-timeline');
@@ -78,7 +80,10 @@ document.querySelectorAll('.nav-btn').forEach(b => b.onclick = () => {
     const view = b.dataset.view;
     document.querySelectorAll('.nav-btn').forEach(n => n.classList.toggle('active', n === b));
     document.querySelectorAll('.view').forEach(v => v.classList.toggle('hidden', v.id !== `${view}-view`));
+
     if (view === 'story') renderStory();
+    if (view === 'rules') document.getElementById('rules-view').innerHTML = mechanicsContent;
+    if (view === 'megami') document.getElementById('megami-view').innerHTML = renderMegamiRoster();
 });
 
 document.getElementById('close-modal').onclick = closeModal;
