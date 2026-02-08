@@ -62,3 +62,5 @@
 
 > [!NOTE]
 > 著作者：BakaFire Party (https://main-bakafire.ssl-lolipop.jp/furuyoni/)
+>
+> **Revision 04 (r04)** - 2026-02-08

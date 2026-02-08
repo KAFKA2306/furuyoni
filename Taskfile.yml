@@ -39,3 +39,8 @@ tasks:
     desc: Run the application
     cmds:
       - task: serve
+
+  deploy:
+    desc: Deploy the site to GitHub Pages
+    cmds:
+      - uv run mkdocs gh-deploy --force
