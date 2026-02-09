@@ -24,15 +24,15 @@ tasks:
 
   scripts:links:
     cmds:
-      - uv run scripts/add_internal_links.py
+      - uv run scripts/maintain.py add-links
 
   scripts:check:
     cmds:
-      - uv run scripts/check_links.py
+      - uv run scripts/maintain.py check-links
 
   scripts:cards:
     cmds:
-      - uv run scripts/convert_cards.py
+      - uv run scripts/maintain.py sync-cards
 
   serve:
     cmds:
