@@ -11,17 +11,17 @@
 | **03** | [ヒミカ](#himika)<br><img src="../assets/images/chara/ico-03.png" width="50"> | 銃 | **連火** | **超遠距離からの弾幕**。間合5-8で一方的に攻撃し、再構成で手札を回す。 |
 | **04** | [トコヨ](#tokoyo)<br><img src="../assets/images/chara/ico-04.png" width="50"> | 扇 | **境地** | **鉄壁の防御と制御**。集中力を高めて相手の攻撃を無効化・反射する。 |
 | **05** | [オボロ](#oboro)<br><img src="../assets/images/chara/ico-05.png" width="50"> | 忍 | **設置** | **技巧的な連続攻撃**。伏せ札からの不意打ちや再利用で手数負けしない。 |
-| **06** | [ユキヒ](#yukihi)<br><img src="../assets/images/chara/ico-06.png" width="50"> | 傘 | **開閉** | **中近距離のレンジ制御**。傘を閉じれば近距離、開けば中距離を支配する。 |
-| **07** | [シンラ](#shinra)<br><img src="../assets/images/chara/ico-07.png" width="50"> | 書 | **計略** | **盤面と情報の支配**。相手の行動を制限し、強引に自分の土俵に引き込む。 |
-| **08** | [ハガネ](#hagane)<br><img src="../assets/images/chara/ico-08.png" width="50"> | 槌 | **遠心** | **一撃必殺の重機動**。大移動から繰り出す高火力攻撃でオーラごと砕く。 |
-| **09** | [チカゲ](#chikage)<br><img src="../assets/images/chara/ico-09.png" width="50"> | 毒 | **毒** | **持続的なリソース妨害**。毒カードで相手の手札や精神を削り取る。 |
-| **10** | [クルル](#kururu)<br><img src="../assets/images/chara/ico-10.png" width="50"> | 機巧 | **機巧** | **爆発的なコンボ構築**。特殊な発動条件を満たし、即死級の恩恵を得る。 |
-| **11** | [サリヤ](#sariya)<br><img src="../assets/images/chara/ico-11.png" width="50"> | 乗騎 | **騎動** | **高機動・高出力の代償**。燃料(ライフ/フレア)を消費して加速する。 |
-| **12** | [ライラ](#laila)<br><img src="../assets/images/chara/ico-12.png" width="50"> | 爪 | **帯電** | **風雷を纏う連撃**。カードを使うほどゲージが溜まり、攻撃が激化する。 |
-| **13** | [ウツロ](#utsuro)<br><img src="../assets/images/chara/ico-13.png" width="50"> | 鎌 | **灰塵** | **死滅から這い出る魔王**。ダストが増える終盤、全能力が覚醒する。 |
-| **14** | [ホノカ](#honoka)<br><img src="../assets/images/chara/ico-14.png" width="50"> | 旗 | **守護** | **精霊との共鳴・成長**。カードを「開花」させ、後半に向けて強化する。 |
-| **15** | [コルヌ](#korunu)<br><img src="../assets/images/chara/ico-15.png" width="50"> | 橇 | **凍結** | **凍てつくリソースロック**。相手のオーラやフレアを凍結して奪う。 |
-| **16** | [ヤツハ](#yatsuha)<br><img src="../assets/images/chara/ico-16.png" width="50"> | 鏡 | **鏡映** | **変幻自在のコピー術**。相手のステータスや攻撃を自分に写し取る。 |
+| **06** | [ユキヒ](06_yukihi.md)<br><img src="../assets/images/chara/ico-06.png" width="50"> | 傘 | **開閉** | **中近距離のレンジ制御**。傘を閉じれば近距離、開けば中距離を支配する。 |
+| **07** | [シンラ](07_shinra.md)<br><img src="../assets/images/chara/ico-07.png" width="50"> | 書 | **計略** | **盤面と情報の支配**。相手の行動を制限し、強引に自分の土俵に引き込む。 |
+| **08** | [ハガネ](08_hagane.md)<br><img src="../assets/images/chara/ico-08.png" width="50"> | 槌 | **遠心** | **一撃必殺の重機動**。大移動から繰り出す高火力攻撃でオーラごと砕く。 |
+| **09** | [チカゲ](09_chikage.md)<br><img src="../assets/images/chara/ico-09.png" width="50"> | 毒 | **毒** | **持続的なリソース妨害**。毒カードで相手の手札や精神を削り取る。 |
+| **10** | [クルル](10_kururu.md)<br><img src="../assets/images/chara/ico-10.png" width="50"> | 機巧 | **機巧** | **爆発的なコンボ構築**。特殊な発動条件を満たし、即死級の恩恵を得る。 |
+| **11** | [サリヤ](11_sariya.md)<br><img src="../assets/images/chara/ico-11.png" width="50"> | 乗騎 | **騎動** | **高機動・高出力の代償**。燃料(ライフ/フレア)を消費して加速する。 |
+| **12** | [ライラ](12_laila.md)<br><img src="../assets/images/chara/ico-12.png" width="50"> | 爪 | **帯電** | **風雷を纏う連撃**。カードを使うほどゲージが溜まり、攻撃が激化する。 |
+| **13** | [ウツロ](13_utsuro.md)<br><img src="../assets/images/chara/ico-13.md")<br><img src="../assets/images/chara/ico-13.png" width="50"> | 鎌 | **灰塵** | **死滅から這い出る魔王**。ダストが増える終盤、全能力が覚醒する。 |
+| **14** | [ホノカ](14_honoka.md)<br><img src="../assets/images/chara/ico-14.png" width="50"> | 旗 | **守護** | **精霊との共鳴・成長**。カードを「開花」させ、後半に向けて強化する。 |
+| **15** | [コルヌ](15_korunu.md)<br><img src="../assets/images/chara/ico-15.png" width="50"> | 橇 | **凍結** | **凍てつくリソースロック**。相手のオーラやフレアを凍結して奪う。 |
+| **16** | [ヤツハ](16_yatsuha.md)<br><img src="../assets/images/chara/ico-16.png" width="50"> | 鏡 | **鏡映** | **変幻自在のコピー術**。相手のステータスや攻撃を自分に写し取る。 |
 
 ---
 

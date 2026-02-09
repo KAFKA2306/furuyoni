@@ -5,8 +5,9 @@ from urllib.error import HTTPError
 import time
 
 # Configuration
-DOCS_DIR = '/home/kafka/furuyoni/docs'
-DEST_DIR = '/home/kafka/furuyoni/docs/assets/images'
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DOCS_DIR = os.path.join(BASE_DIR, 'docs')
+DEST_DIR = os.path.join(DOCS_DIR, 'assets/images')
 BASE_URL = 'https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/'
 
 # Regex to find these specific external images
