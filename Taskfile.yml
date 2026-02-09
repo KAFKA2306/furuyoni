@@ -34,6 +34,10 @@ tasks:
     cmds:
       - uv run scripts/maintain.py sync-cards
 
+  scripts:assets:
+    cmds:
+      - uv run scripts/maintain.py download-assets
+
   serve:
     cmds:
       - uv run mkdocs serve -a localhost:8080

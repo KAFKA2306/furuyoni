@@ -1,66 +1,83 @@
-# ふるよに ガイドへようこそ
+<div class="premium-hero" markdown>
 
-桜降る代に決闘を（ふるよに） のための包括的なガイドです。
-初心者から上級者まで活用できる、ルール、メガミ詳細、戦略情報を集約しています。
+# 桜降る代に決闘を ガイド { .hero-title }
 
-<div class="grid cards" markdown>
+至高の戦術、美しき物語。全てのミコトに捧ぐ包括的アーカイブ。
+{ .accent-text }
 
--   :material-book-open-variant:{ .lg .middle } __概要__
+</div>
 
-    ---
+<div class="premium-grid" markdown>
 
-    ふるよにとはどんなゲームか、その魅力を紹介します。
+<div class="premium-card" markdown>
 
-    [:octicons-arrow-right-24: 続きを見る](overview.md)
+### :material-book-open-variant:{ .lg } 概要
 
--   :material-sword:{ .lg .middle } __ルール__
+ふるよにの魅力と、このゲームが描き出す世界を探索しましょう。
 
-    ---
+[:octicons-arrow-right-24: 続きを見る](overview.md){ .md-button .md-button--primary }
 
-    基本用語（[間合](mechanics/index.md)、[オーラ](mechanics/index.md)、[フレア](mechanics/index.md)など）とゲームの流れを解説。
+</div>
 
-    [:octicons-arrow-right-24: 続きを見る](mechanics/index.md)
+<div class="premium-card" markdown>
 
--   :material-account-group:{ .lg .middle } __メガミ一覧__
+### :material-sword:{ .lg } ルール
 
-    ---
+間合、オーラ、フレア。決闘の根幹を成すシステムを完全網羅。
 
-    全16柱のメガミの権能、戦術、カードを網羅。
+[:octicons-arrow-right-24: 詳細を確認](mechanics/index.md){ .md-button .md-button--primary }
 
-    [:octicons-arrow-right-24: 続きを見る](megami/index.md)
+</div>
 
--   :material-school:{ .lg .middle } __初心者カリキュラム__
+<div class="premium-card" markdown>
 
-    ---
+### :material-account-group:{ .lg } メガミ一覧
 
-    ストーリー形式で学べるステップバイステップガイド。
+16柱のメガミ、それぞれが紡ぐ物語と権能を今、その手に。
 
-    [:octicons-arrow-right-24: 続きを見る](beginner/curriculum.md)
+[:octicons-arrow-right-24: メガミを探す](megami/index.md){ .md-button .md-button--primary }
 
--   :material-cards-outline:{ .lg .middle } __ペア攻略__
+</div>
 
-    ---
+<div class="premium-card" markdown>
 
-    主要な2柱の組み合わせとその戦略を徹底紹介。
+### :material-school:{ .lg } 初心者カリキュラム
 
-    [:octicons-arrow-right-24: 続きを見る](pairs/index.md)
+初めてのミコトでも安心。ステップバイステップで基本をマスター。
 
--   :material-rss:{ .lg .middle } __コミュニティ__
+[:octicons-arrow-right-24: 修行を始める](beginner/curriculum.md){ .md-button .md-button--primary }
 
-    ---
+</div>
 
-    Advent Calendar記事などのアーカイブ。
+<div class="premium-card" markdown>
 
-    [:octicons-arrow-right-24: 続きを見る](community/blogs.md)
+### :material-cards-outline:{ .lg } ペア攻略
+
+究極の組み合わせ。2柱のシナジーを最大限に引き出す戦略。
+
+[:octicons-arrow-right-24: 戦術を磨く](pairs/index.md){ .md-button .md-button--primary }
+
+</div>
+
+<div class="premium-card" markdown>
+
+### :material-rss:{ .lg } コミュニティ
+
+知識の共有、最新のレポート。ミコトたちの歩みはこちらから。
+
+[:octicons-arrow-right-24: 波浪を追う](community/blogs.md){ .md-button .md-button--primary }
+
+</div>
 
 </div>
 
 ---
 
 ## このガイドについて
+
 このサイトは、すべての「ミコト」がより深くゲームを楽しめるように、情報を構造化した非公式サイトです。
 
-> [!NOTE]
-> 著作者：BakaFire Party (https://main-bakafire.ssl-lolipop.jp/furuyoni/)
->
-> Revision 04 (r04) - 2026-02-08
+> [!NOTE] 
+> **著作者**：BakaFire Party ([公式サイト](https://main-bakafire.ssl-lolipop.jp/furuyoni/))
+> 
+> **Revision 05 (r05)** - 2026-02-09 Special Edition
