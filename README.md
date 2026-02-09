@@ -3,7 +3,7 @@
 > **桜降る代に決闘を** 包括的ガイド  
 > _A comprehensive guide to Sakura Arms (Furuyoni)_
 
-[![Live Demo](https://img.shields.io/badge/🎴_Live_Demo-kafka.github.io/furuyoni-ff69b4?style=for-the-badge)](https://kafka.github.io/furuyoni/)
+[![Live Demo](https://img.shields.io/badge/🎴_Live_Demo-kafka2306.github.io/furuyoni-ff69b4?style=for-the-badge)](https://kafka2306.github.io/furuyoni/)
 
 ---
 

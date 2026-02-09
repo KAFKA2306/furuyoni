@@ -1,5 +1,5 @@
 site_name: ふるよに ガイド
-site_url: https://KAFKA2306.github.io/furuyoni/
+site_url: https://kafka2306.github.io/furuyoni/
 site_description: 桜降る代に決闘を - 初心者向けペアガイド＆攻略情報
 
 theme:
@@ -72,4 +72,4 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/kafka/furuyoni
+      link: https://github.com/kafka2306/furuyoni

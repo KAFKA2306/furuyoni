@@ -5,18 +5,65 @@
 
 ## ステップ 1: 目覚め (刀薙 - ユリナ/サイネ)
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/chara/ico-01.png" width="60" alt="ユリナ"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/chara/ico-02.png" width="60" alt="サイネ"> 
+<div class="grid cards" markdown>
 
-**ユリナ Cards:**
+-   ![ユリナ](../assets/images/chara/ico-01.png)
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_a1_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_a1_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_a2_n_3.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_a2_n_7.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_o_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_o_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_o_n_3.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_o_n_4.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_o_n_5.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_o_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_o_n_7.png" width="150" alt="Card"> 
+-   ![サイネ](../assets/images/chara/ico-02.png)
 
-**サイネ Cards:**
+</div>**ユリナ Cards:**
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_a1_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_a1_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_a2_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_a2_n_7.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_3.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_4.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_5.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_7.png" width="150" alt="Card"> 
+<div class="grid cards" markdown>
 
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_a1_n_1.png)
 
-**テーマ**: **基礎と攻撃**
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_a1_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_a2_n_3.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_a2_n_7.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_3.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_4.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_5.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png)
+
+</div>**サイネ Cards:**
+
+<div class="grid cards" markdown>
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_a1_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_a1_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_a2_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_a2_n_7.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_3.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_4.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_7.png)
+
+</div>**テーマ**: **基礎と攻撃**
 **フォーカスペア**: **刀 (ユリナ)** + **薙 (サイネ)**
 *   **コンセプト**: 前進し、攻撃し、リソース（オーラ/ライフ）管理を学ぶ。
 *   **なぜ？**: ユリナは「殴れば強い」という単純明快さを、サイネは中距離の安定性と対応（防御）を教えます。合わせて「倒れるまで殴り合う」という、最初のゲームに最適なスタイルになります。
@@ -46,18 +93,63 @@
 
 ## ステップ 2: 平衡 (刀扇 - ユリナ/トコヨ)
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/chara/ico-01.png" width="60" alt="ユリナ"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/chara/ico-04.png" width="60" alt="トコヨ"> 
+<div class="grid cards" markdown>
 
-**ユリナ Cards:**
+-   ![ユリナ](../assets/images/chara/ico-01.png)
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_a1_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_a1_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_a2_n_3.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_a2_n_7.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_o_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_o_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_o_n_3.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_o_n_4.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_o_n_5.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_o_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_o_n_7.png" width="150" alt="Card"> 
+-   ![トコヨ](../assets/images/chara/ico-04.png)
 
-**トコヨ Cards:**
+</div>**ユリナ Cards:**
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_a1_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_a1_n_4.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_a2_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_o_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_o_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_o_n_3.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_o_n_4.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_o_n_5.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_o_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_o_n_7.png" width="150" alt="Card"> 
+<div class="grid cards" markdown>
 
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_a1_n_1.png)
 
-**テーマ**: **攻防のバランス**
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_a1_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_a2_n_3.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_a2_n_7.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_3.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_4.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_5.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png)
+
+</div>**トコヨ Cards:**
+
+<div class="grid cards" markdown>
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_a1_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_a1_n_4.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_a2_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_3.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_4.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_5.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png)
+
+</div>**テーマ**: **攻防のバランス**
 **フォーカスペア**: **刀 (ユリナ)** + **扇 (トコヨ)**
 *   **コンセプト**: 防御とカウンターを学ぶ。
 *   **なぜ？**: トコヨは**「対応」**（攻撃された時に使うカード）の概念を導入します。ただ殴るだけでなく、守ることも覚えます。
@@ -87,18 +179,63 @@
 
 ## ステップ 3: 制御 (薙扇 - サイネ/トコヨ)
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/chara/ico-02.png" width="60" alt="サイネ"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/chara/ico-04.png" width="60" alt="トコヨ"> 
+<div class="grid cards" markdown>
 
-**サイネ Cards:**
+-   ![サイネ](../assets/images/chara/ico-02.png)
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_a1_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_a1_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_a2_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_a2_n_7.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_3.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_4.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_5.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_7.png" width="150" alt="Card"> 
+-   ![トコヨ](../assets/images/chara/ico-04.png)
 
-**トコヨ Cards:**
+</div>**サイネ Cards:**
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_a1_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_a1_n_4.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_a2_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_o_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_o_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_o_n_3.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_o_n_4.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_o_n_5.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_o_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_o_n_7.png" width="150" alt="Card"> 
+<div class="grid cards" markdown>
 
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_a1_n_1.png)
 
-**テーマ**: **忍耐とカウンター**
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_a1_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_a2_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_a2_n_7.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_3.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_4.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_7.png)
+
+</div>**トコヨ Cards:**
+
+<div class="grid cards" markdown>
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_a1_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_a1_n_4.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_a2_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_3.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_4.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_5.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png)
+
+</div>**テーマ**: **忍耐とカウンター**
 **フォーカスペア**: **薙 (サイネ)** + **扇 (トコヨ)**
 *   **コンセプト**: 攻撃せずに勝つ（コントロール）。
 *   **なぜ？**: どちらも防御と「待ち」が得意です。相手のミスを待ち、サイネの対応や・トコヨの境地で返り討ちにする戦術です。
@@ -128,18 +265,59 @@
 
 ## ステップ 4: 距離 (銃扇 - ヒミカ/トコヨ)
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/chara/ico-03.png" width="60" alt="ヒミカ"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/chara/ico-04.png" width="60" alt="トコヨ"> 
+<div class="grid cards" markdown>
 
-**ヒミカ Cards:**
+-   ![ヒミカ](../assets/images/chara/ico-03.png)
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_03_o_n/na_03_a1_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_03_o_n/na_03_a1_n_5.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_03_o_n/na_03_o_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_03_o_n/na_03_o_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_03_o_n/na_03_o_n_3.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_03_o_n/na_03_o_n_4.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_03_o_n/na_03_o_n_5.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_03_o_n/na_03_o_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_03_o_n/na_03_o_n_7.png" width="150" alt="Card"> 
+-   ![トコヨ](../assets/images/chara/ico-04.png)
 
-**トコヨ Cards:**
+</div>**ヒミカ Cards:**
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_a1_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_a1_n_4.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_a2_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_o_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_o_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_o_n_3.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_o_n_4.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_o_n_5.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_o_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_n/na_04_o_n_7.png" width="150" alt="Card"> 
+<div class="grid cards" markdown>
 
+-   ![Card](../assets/images/card/cards/na_03_o_n/na_03_a1_n_2.png)
 
-**テーマ**: **ゾーニングと射程支配**
+-   ![Card](../assets/images/card/cards/na_03_o_n/na_03_a1_n_5.png)
+
+-   ![Card](../assets/images/card/cards/na_03_o_n/na_03_o_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_03_o_n/na_03_o_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png)
+
+-   ![Card](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png)
+
+-   ![Card](../assets/images/card/cards/na_03_o_n/na_03_o_n_5.png)
+
+-   ![Card](../assets/images/card/cards/na_03_o_n/na_03_o_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_03_o_n/na_03_o_n_7.png)
+
+</div>**トコヨ Cards:**
+
+<div class="grid cards" markdown>
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_a1_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_a1_n_4.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_a2_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_3.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_4.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_5.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png)
+
+</div>**テーマ**: **ゾーニングと射程支配**
 **フォーカスペア**: **銃 (ヒミカ)** + **扇 (トコヨ)**
 *   **コンセプト**: 遠距離から一方的に殴る。
 *   **なぜ？**: ヒミカは間合8（スナイパー）から攻撃します。相手が近づこうとする間、ずっと攻撃し続けられます。
@@ -169,18 +347,61 @@
 
 ## ステップ 5: 嵐 (薙銃 - サイネ/ヒミカ)
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/chara/ico-02.png" width="60" alt="サイネ"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/chara/ico-03.png" width="60" alt="ヒミカ"> 
+<div class="grid cards" markdown>
 
-**サイネ Cards:**
+-   ![サイネ](../assets/images/chara/ico-02.png)
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_a1_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_a1_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_a2_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_a2_n_7.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_3.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_4.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_5.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_7.png" width="150" alt="Card"> 
+-   ![ヒミカ](../assets/images/chara/ico-03.png)
 
-**ヒミカ Cards:**
+</div>**サイネ Cards:**
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_03_o_n/na_03_a1_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_03_o_n/na_03_a1_n_5.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_03_o_n/na_03_o_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_03_o_n/na_03_o_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_03_o_n/na_03_o_n_3.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_03_o_n/na_03_o_n_4.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_03_o_n/na_03_o_n_5.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_03_o_n/na_03_o_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_03_o_n/na_03_o_n_7.png" width="150" alt="Card"> 
+<div class="grid cards" markdown>
 
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_a1_n_1.png)
 
-**テーマ**: **アグロ・コンボ (赤と青)**
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_a1_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_a2_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_a2_n_7.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_3.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_4.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_7.png)
+
+</div>**ヒミカ Cards:**
+
+<div class="grid cards" markdown>
+
+-   ![Card](../assets/images/card/cards/na_03_o_n/na_03_a1_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_03_o_n/na_03_a1_n_5.png)
+
+-   ![Card](../assets/images/card/cards/na_03_o_n/na_03_o_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_03_o_n/na_03_o_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png)
+
+-   ![Card](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png)
+
+-   ![Card](../assets/images/card/cards/na_03_o_n/na_03_o_n_5.png)
+
+-   ![Card](../assets/images/card/cards/na_03_o_n/na_03_o_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_03_o_n/na_03_o_n_7.png)
+
+</div>**テーマ**: **アグロ・コンボ (赤と青)**
 **フォーカスペア**: **薙 (サイネ)** + **銃 (ヒミカ)**
 *   **コンセプト**: 多角的な攻撃の嵐。
 *   **なぜ？**: ヒミカが遠距離から弾幕を張り、近づいてきたところをサイネが迎撃します。「二段構え」の攻撃です。
@@ -210,18 +431,63 @@
 
 ## ステップ 6: 衝撃 (刀忍 - ユリナ/オボロ)
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/chara/ico-01.png" width="60" alt="ユリナ"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/chara/ico-05.png" width="60" alt="オボロ"> 
+<div class="grid cards" markdown>
 
-**ユリナ Cards:**
+-   ![ユリナ](../assets/images/chara/ico-01.png)
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_a1_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_a1_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_a2_n_3.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_a2_n_7.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_o_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_o_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_o_n_3.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_o_n_4.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_o_n_5.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_o_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_n/na_01_o_n_7.png" width="150" alt="Card"> 
+-   ![オボロ](../assets/images/chara/ico-05.png)
 
-**オボロ Cards:**
+</div>**ユリナ Cards:**
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_a1_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_a1_n_3.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_a2_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_o_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_o_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_o_n_3.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_o_n_4.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_o_n_5.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_o_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_o_n_7.png" width="150" alt="Card"> 
+<div class="grid cards" markdown>
 
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_a1_n_1.png)
 
-**テーマ**: **セットプレイと処刑**
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_a1_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_a2_n_3.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_a2_n_7.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_3.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_4.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_5.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png)
+
+</div>**オボロ Cards:**
+
+<div class="grid cards" markdown>
+
+-   ![Card](../assets/images/card/cards/na_05_o_n/na_05_a1_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_05_o_n/na_05_a1_n_3.png)
+
+-   ![Card](../assets/images/card/cards/na_05_o_n/na_05_a2_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_3.png)
+
+-   ![Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_4.png)
+
+-   ![Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_5.png)
+
+-   ![Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_7.png)
+
+</div>**テーマ**: **セットプレイと処刑**
 **フォーカスペア**: **刀 (ユリナ)** + **忍 (オボロ)**
 *   **コンセプト**: 設置・誘導・必殺。
 *   **なぜ？**: オボロはカードを伏せて「設置」します。これが後のターンに発動し、ユリナの攻撃と合わさって大ダメージになります。
@@ -251,18 +517,59 @@
 
 ## ステップ 7: 戦略 (忍傘 - オボロ/ユキヒ)
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/chara/ico-05.png" width="60" alt="オボロ"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/chara/ico-06.png" width="60" alt="ユキヒ"> 
+<div class="grid cards" markdown>
 
-**オボロ Cards:**
+-   ![オボロ](../assets/images/chara/ico-05.png)
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_a1_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_a1_n_3.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_a2_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_o_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_o_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_o_n_3.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_o_n_4.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_o_n_5.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_o_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_o_n_7.png" width="150" alt="Card"> 
+-   ![ユキヒ](../assets/images/chara/ico-06.png)
 
-**ユキヒ Cards:**
+</div>**オボロ Cards:**
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_06_o_n/na_06_a1_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_06_o_n/na_06_a1_n_4.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_06_o_n/na_06_o_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_06_o_n/na_06_o_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_06_o_n/na_06_o_n_3.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_06_o_n/na_06_o_n_4.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_06_o_n/na_06_o_n_5.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_06_o_n/na_06_o_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_06_o_n/na_06_o_n_7.png" width="150" alt="Card"> 
+<div class="grid cards" markdown>
 
+-   ![Card](../assets/images/card/cards/na_05_o_n/na_05_a1_n_2.png)
 
-**テーマ**: **柔軟性と適応**
+-   ![Card](../assets/images/card/cards/na_05_o_n/na_05_a1_n_3.png)
+
+-   ![Card](../assets/images/card/cards/na_05_o_n/na_05_a2_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_3.png)
+
+-   ![Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_4.png)
+
+-   ![Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_5.png)
+
+-   ![Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_7.png)
+
+</div>**ユキヒ Cards:**
+
+<div class="grid cards" markdown>
+
+-   ![Card](../assets/images/card/cards/na_06_o_n/na_06_a1_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_06_o_n/na_06_a1_n_4.png)
+
+-   ![Card](../assets/images/card/cards/na_06_o_n/na_06_o_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_06_o_n/na_06_o_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_06_o_n/na_06_o_n_3.png)
+
+-   ![Card](../assets/images/card/cards/na_06_o_n/na_06_o_n_4.png)
+
+-   ![Card](../assets/images/card/cards/na_06_o_n/na_06_o_n_5.png)
+
+-   ![Card](../assets/images/card/cards/na_06_o_n/na_06_o_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_06_o_n/na_06_o_n_7.png)
+
+</div>**テーマ**: **柔軟性と適応**
 **フォーカスペア**: **忍 (オボロ)** + **傘 (ユキヒ)**
 *   **コンセプト**: その場でプランを変える。
 *   **なぜ？**: ユキヒは傘の開閉で、オボロは設置で、あらゆる間合に対応できます。操作は難しいですが、創造的なプレイが可能です。
@@ -292,18 +599,61 @@
 
 ## ステップ 8: 撹乱 (薙書 - サイネ/シンラ)
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/chara/ico-02.png" width="60" alt="サイネ"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/chara/ico-07.png" width="60" alt="シンラ"> 
+<div class="grid cards" markdown>
 
-**サイネ Cards:**
+-   ![サイネ](../assets/images/chara/ico-02.png)
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_a1_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_a1_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_a2_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_a2_n_7.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_3.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_4.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_5.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_7.png" width="150" alt="Card"> 
+-   ![シンラ](../assets/images/chara/ico-07.png)
 
-**シンラ Cards:**
+</div>**サイネ Cards:**
 
-<img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_07_o_n/na_07_a1_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_07_o_n/na_07_a1_n_7.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_07_o_n/na_07_o_n_1.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_07_o_n/na_07_o_n_2.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_07_o_n/na_07_o_n_3.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_07_o_n/na_07_o_n_4.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_07_o_n/na_07_o_n_5.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_07_o_n/na_07_o_n_6.png" width="150" alt="Card"> <img src="https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_07_o_n/na_07_o_n_7.png" width="150" alt="Card"> 
+<div class="grid cards" markdown>
 
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_a1_n_1.png)
 
-**テーマ**: **メタゲーム**
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_a1_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_a2_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_a2_n_7.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_3.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_4.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_7.png)
+
+</div>**シンラ Cards:**
+
+<div class="grid cards" markdown>
+
+-   ![Card](../assets/images/card/cards/na_07_o_n/na_07_a1_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_07_o_n/na_07_a1_n_7.png)
+
+-   ![Card](../assets/images/card/cards/na_07_o_n/na_07_o_n_1.png)
+
+-   ![Card](../assets/images/card/cards/na_07_o_n/na_07_o_n_2.png)
+
+-   ![Card](../assets/images/card/cards/na_07_o_n/na_07_o_n_3.png)
+
+-   ![Card](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)
+
+-   ![Card](../assets/images/card/cards/na_07_o_n/na_07_o_n_5.png)
+
+-   ![Card](../assets/images/card/cards/na_07_o_n/na_07_o_n_6.png)
+
+-   ![Card](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)
+
+</div>**テーマ**: **メタゲーム**
 **フォーカスペア**: **薙 (サイネ)** + **書 (シンラ)**
 *   **コンセプト**: ライフではなく、プレイヤーを攻める。
 *   **なぜ？**: シンラは相手の山札や手札を操作します。相手の手を封じ、サイネで確実に仕留めます。
