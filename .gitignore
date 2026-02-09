@@ -9,4 +9,3 @@ dist/
 *.log
 site/
 .python-version
-*.png
