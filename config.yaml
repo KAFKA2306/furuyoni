@@ -7,6 +7,7 @@ paths:
   output_cards: "docs/megami/cards.md"
 urls:
   base_card_url: "https://main-bakafire.ssl-lolipop.jp/furuyoni/na/"
+  test_server_url: "http://localhost:8080"
 term_mapping:
   "ユリナ": "megami/index.md"
   "サイネ": "megami/index.md"
