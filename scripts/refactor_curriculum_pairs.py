@@ -1,5 +1,4 @@
 import re
-import os
 
 def refactor_markdown(file_path):
     with open(file_path, 'r') as f:

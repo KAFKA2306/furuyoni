@@ -1,5 +1,4 @@
 import os
-import re
 
 def remove_bold_from_files(directory):
     for root, dirs, files in os.walk(directory):

@@ -1,5 +1,13 @@
 import sys
+from pathlib import Path
 from playwright.sync_api import sync_playwright
+
+# Add src to sys.path to allow imports
+SRC_DIR = Path(__file__).resolve().parents[1] / "src"
+if str(SRC_DIR) not in sys.path:
+    sys.path.append(str(SRC_DIR))
+
+from furuyoni.infrastructure.paths import PROJECT_ROOT
 
 def verify_navigation():
     with sync_playwright() as p:
@@ -15,14 +23,13 @@ def verify_navigation():
         
         page.goto("http://localhost:8080")
         
-        # Initial State: Pair Guide should be visible (check class instead of visibility for now)
+        # Initial State: Pair Guide should be visible
         print("Checking initial state classes...")
         pair_view_class = page.locator("#pair-view").get_attribute("class")
         print(f"Initial #pair-view class: {pair_view_class}")
         
         # Click Beginner Story
         print("Clicking 'Beginner Story'...")
-        # Try JS click to bypass potential overlays
         page.evaluate("document.querySelector('button[data-view=\"story\"]').click()")
         
         # Wait for class change
@@ -30,7 +37,7 @@ def verify_navigation():
             page.wait_for_function("document.querySelector('#story-view').classList.contains('hidden') === false", timeout=5000)
         except Exception as e:
             print(f"Timeout waiting for class change: {e}")
-            page.screenshot(path="/home/kafka/furuyoni/debug_timeout.png")
+            page.screenshot(path=str(PROJECT_ROOT / "debug_timeout.png"))
             print("Saved debug_timeout.png")
         
         if not page.is_visible("#story-view"):
@@ -45,14 +52,14 @@ def verify_navigation():
              print("Error: Class toggling failed")
              sys.exit(1)
 
-        page.screenshot(path="/home/kafka/furuyoni/screenshot_story.png")
+        page.screenshot(path=str(PROJECT_ROOT / "screenshot_story.png"))
         print("Story view verified. Screenshot saved.")
 
         # Scroll down to show custom scrollbar
         print("Scrolling down...")
         page.mouse.wheel(0, 500)
-        page.wait_for_timeout(500) # Wait for potential smooth scroll
-        page.screenshot(path="/home/kafka/furuyoni/screenshot_chrome_scroll.png")
+        page.wait_for_timeout(500)
+        page.screenshot(path=str(PROJECT_ROOT / "screenshot_chrome_scroll.png"))
         print("Scrolled view saved to screenshot_chrome_scroll.png")
 
         # Click Pair Guide

@@ -8,7 +8,7 @@
    [https://3422project.hateblo.jp/entry/2025/12/01/000000](https://3422project.hateblo.jp/entry/2025/12/01/000000)
 2. 12/2 「ふるよに ソロプレイ拡張モード『一柱闘戦』 デザイナーズノート」 — E*LNO(えるの)
    [https://e-lno.hatenablog.com/entry/2025/12/02/000013](https://e-lno.hatenablog.com/entry/2025/12/02/000013)
-3. 12/3 「桜と塵の巡る先 〜〖ふるよに：桜花結晶を捉え直す〗」 — tahITEF
+3. 12/3 「桜と塵の巡る先 〜〖ふるよに：[桜花結晶](../mechanics/index.md)を捉え直す〗」 — tahITEF
    [https://thtfuruyoni.hatenadiary.jp/entry/2025/12/03/190000](https://thtfuruyoni.hatenadiary.jp/entry/2025/12/03/190000)
 4. 12/4 「三拾一捨を皆式理解する」 — かよーだ
    [https://note.com/tue110/n/n836e8237c024](https://note.com/tue110/n/n836e8237c024)
@@ -71,13 +71,13 @@
    [https://deruta521.hatenablog.com/entry/2024/12/06/000232](https://deruta521.hatenablog.com/entry/2024/12/06/000232)
 6. 12/6 「そろそろ徒寄花足りない時期じゃない？」 — ヴィミラニエ@ふるよに
    [https://rw49krem2fz4hnp.hatenablog.com/entry/2024/12/06/065736](https://rw49krem2fz4hnp.hatenablog.com/entry/2024/12/06/065736)
-7. 12/7 「土下座ビートダウン社騎（ユキヒA/サリヤ）」 — しいはさん
+7. 12/7 「土下座ビートダウン社騎（[ユキヒ](../megami/index.md)A/[サリヤ](../megami/index.md)）」 — しいはさん
    [https://thallya-enshinoh.hatenablog.jp/entry/2024/12/06/235855](https://thallya-enshinoh.hatenablog.jp/entry/2024/12/06/235855)
 8. 12/8 「『ぎふよに大決戦』レポート其ノ参 — 環境分析」 — ikari
    [https://ikari2642.hatenablog.com/entry/gifuyoni3](https://ikari2642.hatenablog.com/entry/gifuyoni3)
 9. 12/9 「【ふるよに】今期の握りについて」 — いちい すわ
    [https://ichii-suwa.hatenablog.com/entry/2024/12/09/214750](https://ichii-suwa.hatenablog.com/entry/2024/12/09/214750)
-10. 12/10 「【ふるよに:サイネ/ユキヒ(薙傘) 解説】雪降る節季 傘を片手に」 — tahITEF
+10. 12/10 「【ふるよに:[サイネ](../megami/index.md)/[ユキヒ](../megami/index.md)(薙傘) 解説】雪降る節季 傘を片手に」 — tahITEF
     [https://thtfuruyoni.hatenadiary.jp/entry/2024/12/10/032253](https://thtfuruyoni.hatenadiary.jp/entry/2024/12/10/032253)
 11. 12/11 「フルバーストの返しにフルバーストを撃って良いのか？」 — kaseki
     [https://kaseki16.hatenablog.com/entry/2024/12/10/234141](https://kaseki16.hatenablog.com/entry/2024/12/10/234141)
@@ -116,7 +116,7 @@
 
 1. 12/1 「ふるよに Advent Calendar 2023 ハブ」 — 魔法幼女へくとぱちゃん
    [https://3422project.hateblo.jp/entry/2023/12/01/002000](https://3422project.hateblo.jp/entry/2023/12/01/002000)
-2. 12/2 「【ふるよに】ライラの風雷ゲージ管理が楽しくなる！後出し帯電解除講座」 — Zico
+2. 12/2 「【ふるよに】[ライラ](../megami/index.md)の風雷ゲージ管理が楽しくなる！後出し[帯電](../mechanics/index.md)解除講座」 — Zico
    [https://zico-furuyoni.hatenablog.com/entry/2023/12/02/014416](https://zico-furuyoni.hatenablog.com/entry/2023/12/02/014416)
 3. 12/3 「『カードの重さ』でカードを見てみよう！」 — いず
    [https://izu24furuyoni.hatenablog.com/entry/2023/12/03/135956](https://izu24furuyoni.hatenablog.com/entry/2023/12/03/135956)
@@ -128,7 +128,7 @@
    [https://note.com/adminus/n/n800dfa6c7812](https://note.com/adminus/n/n800dfa6c7812)
 7. 12/7 「そうだ 大会、出よう。」 — wii/閑話休題
    [https://wii-kumibito.hatenablog.com/entry/2023/12/07/000057](https://wii-kumibito.hatenablog.com/entry/2023/12/07/000057)
-8. 12/8 「🐍オボロA2から追放されたけど、SSSスキル【🐍虚魚🐍】を使って無双します。」 — ぷれ
+8. 12/8 「🐍[オボロ](../megami/index.md)A2から追放されたけど、SSSスキル【🐍虚魚🐍】を使って無双します。」 — ぷれ
    [https://pure4183.hatenadiary.com/entry/UrouoSaikyo](https://pure4183.hatenadiary.com/entry/UrouoSaikyo)
 9. 12/9 「最新拡張発売記念！　『桜降る世の拡張王』」 — ますたー
    [https://master-horiemon.hatenadiary.jp/entry/2023/12/09/104311](https://master-horiemon.hatenadiary.jp/entry/2023/12/09/104311)
@@ -138,7 +138,7 @@
     [https://ichii-suwa.hatenablog.com/entry/2023/12/11/003820](https://ichii-suwa.hatenablog.com/entry/2023/12/11/003820)
 12. 12/12 「三国杯观赛记！」 — Oribe Tsubasa
     [https://www.bilibili.com/read/cv28534196](https://www.bilibili.com/read/cv28534196)
-13. 12/13 「S8-2の裏斬りの更新と拒絶毒について」 — ミツヤ
+13. 12/13 「S8-2の裏斬りの更新と拒絶[毒](../megami/index.md)について」 — ミツヤ
     [https://note.com/328_c1der/n/na9e7cbd3f8f5](https://note.com/328_c1der/n/na9e7cbd3f8f5)
 14. 12/14 「【ふるよに・ナーフ解除選手権】許されざるは過去の咎」 — tahITEF
     [https://thtfuruyoni.hatenadiary.jp/entry/2023/12/15/002059](https://thtfuruyoni.hatenadiary.jp/entry/2023/12/15/002059)
@@ -162,5 +162,5 @@
     [https://sundaydaily.hatenadiary.com/entry/2023/12/23/222930](https://sundaydaily.hatenadiary.com/entry/2023/12/23/222930)
 24. 12/24 「世界よ、ふるよには美しい　～象徴都々逸を読んでみよう～」 — 夢野なつ
     [https://note.com/sum814814/n/na351c64ee59c](https://note.com/sum814814/n/na351c64ee59c)
-25. 12/25 「【S9】知るべきだけれどもギミックに混乱して聞けなかったシンラに関する全て」 — 魔法幼女へくとぱちゃん
+25. 12/25 「【S9】知るべきだけれどもギミックに混乱して聞けなかった[シンラ](../megami/index.md)に関する全て」 — 魔法幼女へくとぱちゃん
     [https://3422project.hateblo.jp/entry/2023/12/26/044411](https://3422project.hateblo.jp/entry/2023/12/26/044411)

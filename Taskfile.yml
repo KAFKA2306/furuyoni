@@ -2,45 +2,46 @@ version: '3'
 
 tasks:
   default:
-    desc: Run the default task (serve)
     cmds:
-      - task: run
+      - task: serve
 
   init:
-    desc: Initialize project environment
     cmds:
       - git init
       - uv init .
       - uv add --dev ruff
+      - uv add pyyaml pydantic requests
       - git add .
       - git commit -m "init"
 
   fmt:
-    desc: Format code
     cmds:
       - uv run ruff format .
 
   lint:
-    desc: Lint code
     cmds:
       - uv run ruff check . --fix
 
+  scripts:links:
+    cmds:
+      - uv run scripts/add_internal_links.py
+
+  scripts:check:
+    cmds:
+      - uv run scripts/check_links.py
+
+  scripts:cards:
+    cmds:
+      - uv run scripts/convert_cards.py
+
   serve:
-    desc: Serve the application locally (MkDocs)
     cmds:
       - uv run mkdocs serve -a localhost:8080
 
   build:
-    desc: Build the static site
     cmds:
       - uv run mkdocs build
 
-  run:
-    desc: Run the application
-    cmds:
-      - task: serve
-
   deploy:
-    desc: Deploy the site to GitHub Pages
     cmds:
       - uv run mkdocs gh-deploy --force

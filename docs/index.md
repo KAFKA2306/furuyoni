@@ -17,7 +17,7 @@
 
     ---
 
-    基本用語（間合、オーラ、フレアなど）とゲームの流れを解説。
+    基本用語（[間合](mechanics/index.md)、[オーラ](mechanics/index.md)、[フレア](mechanics/index.md)など）とゲームの流れを解説。
 
     [:octicons-arrow-right-24: 続きを見る](mechanics/index.md)
 
