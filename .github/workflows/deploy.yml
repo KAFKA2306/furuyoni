@@ -26,6 +26,9 @@ jobs:
       - name: Install dependencies
         run: uv sync
 
+      - name: Download external assets
+        run: uv run python scripts/download_assets.py
+
       - name: Build site
         run: uv run mkdocs build
 
