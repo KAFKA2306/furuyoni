@@ -1,6 +1,6 @@
 # ふるよに ガイドへようこそ
 
-**桜降る代に決闘を（ふるよに）** のための包括的なガイドです。
+桜降る代に決闘を（ふるよに） のための包括的なガイドです。
 初心者から上級者まで活用できる、ルール、メガミ詳細、戦略情報を集約しています。
 
 <div class="grid cards" markdown>
@@ -63,4 +63,4 @@
 > [!NOTE]
 > 著作者：BakaFire Party (https://main-bakafire.ssl-lolipop.jp/furuyoni/)
 >
-> **Revision 04 (r04)** - 2026-02-08
+> Revision 04 (r04) - 2026-02-08

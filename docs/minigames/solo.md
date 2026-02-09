@@ -7,7 +7,7 @@
 
 以下のブログで過去の問題や考察が公開されています。
 
-- **[ふるよに反省会（旧スカガレ猫まっしぐら）](http://nobafuruyoni.blog.fc2.com/blog-category-15.html)**
+- [ふるよに反省会（旧スカガレ猫まっしぐら）](http://nobafuruyoni.blog.fc2.com/blog-category-15.html)
     - カテゴリ「詰めふるよに」にて、具体的な盤面考察やリーサル手順が紹介されています。
 
 > [!TIP]
