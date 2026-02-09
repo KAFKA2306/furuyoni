@@ -34,16 +34,40 @@ theme:
 nav:
   - ホーム: index.md
   - 概要: overview.md
+  - 世界観: lore/index.md
   - ルール:
     - 基本ルール: mechanics/index.md
     - ゲームの流れ: mechanics/flow.md
+    - よくある質問: mechanics/faq.md
   - メガミ:
     - 一覧: megami/index.md
     - カード: megami/cards.md
+    - ギャラリー: megami/gallery.md
+  - 戦略ガイド:
+    - 中級者向け: strategy/index.md
+    - 環境レポート: strategy/meta.md
+  - 歴史資料:
+    - シーズン1: history/season1.md
+    - シーズン2: history/season2.md
+    - シーズン3: history/season3.md
+    - シーズン4: history/season4.md
+    - シーズン5: history/season5.md
+    - シーズン6: history/season6.md
+    - シーズン7: history/season7.md
+    - シーズン8: history/season8.md
+    - シーズン9: history/season9.md
+    - シーズン10: history/season10.md
   - ペア攻略:
     - ペア一覧: pairs/index.md
   - 初心者向け:
     - 入門カリキュラム: beginner/curriculum.md
+    - 動画リソース: guide/video_resources.md
+  - ミニゲーム:
+    - 詰めふるよに: minigames/solo.md
+  - コミュニティ:
+    - リンク集: community/links.md
+    - ブログ記事: community/blogs.md
+  - 更新履歴: changelog.md
   - 開発資料:
     - 要求仕様: specs/req.md
     - ユーザーストーリー: specs/user_stories.md
@@ -51,8 +75,6 @@ nav:
       - 2026-02-08 移行計画: specs/milestones/2026-02-08.md
       - Phase 6 ロードマップ: specs/milestones/2026-02-15.md
       - 現在の進捗: specs/milestones/current.md
-  - コミュニティ:
-    - ブログ記事: community/blogs.md
 
 plugins:
   - search:

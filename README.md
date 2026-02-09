@@ -4,6 +4,9 @@
 > _A comprehensive guide to Sakura Arms (Furuyoni)_
 
 [![Live Demo](https://img.shields.io/badge/🎴_Live_Demo-kafka2306.github.io/furuyoni-ff69b4?style=for-the-badge)](https://kafka2306.github.io/furuyoni/)
+[![Website](https://img.shields.io/website?up_message=online&up_color=success&down_message=offline&down_color=critical&url=https%3A%2F%2Fkafka2306.github.io%2Ffuruyoni%2F&style=for-the-badge&logo=github)](https://kafka2306.github.io/furuyoni/)
+
+## 🔗 [**サイトにアクセス (Open Website)**](https://kafka2306.github.io/furuyoni/)
 
 ---
 

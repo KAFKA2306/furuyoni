@@ -9,3 +9,5 @@ dist/
 *.log
 site/
 .python-version
+*lock
+archive/
