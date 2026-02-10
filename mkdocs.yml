@@ -7,14 +7,14 @@ theme:
   language: ja
   palette:
     - scheme: slate
-      primary: pink
-      accent: cyan
+      primary: indigo
+      accent: amber
       toggle:
         icon: material/brightness-4
         name: ライトモードに切替
     - scheme: default
-      primary: pink
-      accent: cyan
+      primary: indigo
+      accent: amber
       toggle:
         icon: material/brightness-7
         name: ダークモードに切替
@@ -96,7 +96,6 @@ nav:
 plugins:
   - search:
       lang: ja
-  - glightbox
 
 markdown_extensions:
   - tables
@@ -107,6 +106,15 @@ markdown_extensions:
       alternate_style: true
   - attr_list
   - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.snippets
+  - pymdownx.arithmatex:
+      generic: true
 
 extra_css:
   - assets/custom.css

@@ -1,13 +1,23 @@
 :root {
-    /* Premium HSL Color Palette */
-    --primary-pink: hsl(330, 80%, 65%);
-    --primary-cyan: hsl(190, 80%, 60%);
-    --slate-dark: hsl(220, 20%, 15%);
-    --slate-medium: hsl(220, 15%, 25%);
-    --soft-white: hsl(220, 10%, 95%);
-    --glass-bg: hsla(220, 15%, 20%, 0.7);
-    --glass-border: hsla(220, 10%, 100%, 0.1);
+    /* Lorcana-Inspired Color Palette */
+    --lorcana-amber: #F5B202;
+    --lorcana-amethyst: #81377B;
+    --lorcana-emerald: #2A8934;
+    --lorcana-ruby: #D3082F;
+    --lorcana-sapphire: #0189C4;
+    --lorcana-steel: #9FA8B4;
+    
+    /* Core Branding */
+    --primary-pink: #FF69B4;
+    --primary-cyan: #00A3AF;
+    --lorcana-gold: #D4AF37;
+    --lorcana-navy: #0A0E1A;
+    
+    --glass-bg: rgba(10, 14, 26, 0.85);
+    --glass-border: rgba(212, 175, 55, 0.2);
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700;900&family=Playfair+Display:ital,wght@0,400;0,900;1,400&display=swap');
 
 /* Animations */
 @keyframes fadeInUp {
@@ -51,60 +61,96 @@
 
 /* WOW Landing Elements */
 .premium-hero {
-    padding: 4rem 2rem;
+    padding: 6rem 2rem;
     text-align: center;
-    background: linear-gradient(-45deg, hsl(330, 30%, 20%), hsl(220, 30%, 15%), hsl(190, 30%, 20%));
-    background-size: 400% 400%;
-    animation: gradientMove 15s ease infinite;
-    border-radius: 20px;
-    margin-bottom: 3rem;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-}
-
-.hero-title {
-    font-size: 3.5rem;
-    font-weight: 900;
-    background: linear-gradient(to right, var(--primary-pink), var(--primary-cyan));
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    margin-bottom: 1rem;
-    letter-spacing: -1px;
-}
-
-/* Glassmorphism Cards */
-.premium-card {
-    background: var(--glass-bg);
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
-    border: 1px solid var(--glass-border);
-    border-radius: 16px;
-    padding: 2rem;
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    height: 100%;
+    background: radial-gradient(circle at center, rgba(129, 55, 123, 0.3) 0%, var(--lorcana-navy) 100%);
+    border: 2px solid var(--lorcana-gold);
+    border-radius: 4px; /* Lorcana cards are sharp/premium */
+    margin-bottom: 4rem;
+    box-shadow: 0 0 50px rgba(212, 175, 55, 0.1);
     position: relative;
     overflow: hidden;
 }
 
-.premium-card:hover {
-    transform: translateY(-8px);
-    border-color: var(--primary-pink);
-    box-shadow: 0 12px 24px rgba(255, 105, 180, 0.2);
-}
-
-.premium-card::after {
+.premium-hero::before {
     content: '';
     position: absolute;
-    top: 0;
-    left: -100%;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.1), transparent);
-    transition: 0.5s;
+    top: 0; left: 0; width: 100%; height: 100%;
+    background-image: 
+        radial-gradient(circle at 20% 30%, rgba(1, 137, 196, 0.1) 0%, transparent 50%),
+        radial-gradient(circle at 80% 70%, rgba(211, 8, 47, 0.1) 0%, transparent 50%);
+    pointer-events: none;
 }
 
-.premium-card:hover::after {
-    left: 100%;
+/* Ley Lines Effect */
+.premium-hero::after {
+    content: '';
+    position: absolute;
+    bottom: -50%; left: -50%; width: 200%; height: 200%;
+    background: repeating-linear-gradient(45deg, transparent, transparent 100px, rgba(212, 175, 55, 0.03) 101px, transparent 102px);
+    animation: rotateLeyLines 60s linear infinite;
+    z-index: 0;
+}
+
+@keyframes rotateLeyLines {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+}
+
+.hero-title {
+    font-family: 'Cinzel', serif;
+    font-size: 4.5rem;
+    font-weight: 900;
+    color: var(--lorcana-gold);
+    text-shadow: 0 0 20px rgba(212, 175, 55, 0.5);
+    margin-bottom: 1.5rem;
+    letter-spacing: 4px;
+    z-index: 1;
+    position: relative;
+    text-transform: uppercase;
+}
+
+/* Card-Inspired Layout */
+.premium-card {
+    background: var(--glass-bg);
+    border: 1px solid var(--lorcana-gold);
+    border-radius: 2px;
+    padding: 2.5rem;
+    transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+    border-top: 4px solid var(--lorcana-gold);
+}
+
+.premium-card:hover {
+    transform: scale(1.02) translateY(-10px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6), 0 0 20px rgba(212, 175, 55, 0.3);
+    border-color: var(--lorcana-gold);
+}
+
+.premium-card h3 {
+    font-family: 'Cinzel', serif;
+    color: var(--lorcana-gold) !important;
+    border-bottom: 1px solid rgba(212, 175, 55, 0.3);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.premium-card .md-button {
+    background: transparent !important;
+    border: 1px solid var(--lorcana-gold) !important;
+    color: var(--lorcana-gold) !important;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 700;
+    font-size: 0.8rem;
+    transition: 0.3s;
+}
+
+.premium-card .md-button:hover {
+    background: var(--lorcana-gold) !important;
+    color: var(--lorcana-navy) !important;
 }
 
 /* Grid Layout for Index */

@@ -1,8 +1,8 @@
 <div class="premium-hero" markdown>
 
-# 桜降る代に決闘を ガイド { .hero-title }
+# 桜降る代に決闘を：ミコトの物語 { .hero-title }
 
-至高の戦術、美しき物語。全てのミコトに捧ぐ包括的アーカイブ。
+「あなたはどのメガミと、この代を紡ぎますか？」
 { .accent-text }
 
 </div>
@@ -15,7 +15,7 @@
 
 ふるよにの魅力と、このゲームが描き出す世界を探索しましょう。
 
-[:octicons-arrow-right-24: 続きを見る](overview.md){ .md-button .md-button--primary }
+[:material-arrow-right: 続きを見る](overview.md){ .md-button .md-button--primary }
 
 </div>
 
@@ -25,7 +25,7 @@
 
 間合、オーラ、フレア。決闘の根幹を成すシステムを完全網羅。
 
-[:octicons-arrow-right-24: 詳細を確認](mechanics/index.md){ .md-button .md-button--primary }
+[:material-arrow-right: 詳細を確認](mechanics/index.md){ .md-button .md-button--primary }
 
 </div>
 
@@ -35,7 +35,7 @@
 
 16柱のメガミ、それぞれが紡ぐ物語と権能を今、その手に。
 
-[:octicons-arrow-right-24: メガミを探す](megami/index.md){ .md-button .md-button--primary }
+[:material-arrow-right: メガミを探す](megami/index.md){ .md-button .md-button--primary }
 
 </div>
 
@@ -45,7 +45,7 @@
 
 初めてのミコトでも安心。ステップバイステップで基本をマスター。
 
-[:octicons-arrow-right-24: 修行を始める](beginner/curriculum.md){ .md-button .md-button--primary }
+[:material-arrow-right: 修行を始める](beginner/curriculum.md){ .md-button .md-button--primary }
 
 </div>
 
@@ -55,7 +55,7 @@
 
 究極の組み合わせ。2柱のシナジーを最大限に引き出す戦略。
 
-[:octicons-arrow-right-24: 戦術を磨く](pairs/index.md){ .md-button .md-button--primary }
+[:material-arrow-right: 戦術を磨く](pairs/index.md){ .md-button .md-button--primary }
 
 </div>
 
@@ -65,7 +65,7 @@
 
 知識の共有、最新のレポート。ミコトたちの歩みはこちらから。
 
-[:octicons-arrow-right-24: 波浪を追う](community/blogs.md){ .md-button .md-button--primary }
+[:material-arrow-right: 波浪を追う](community/blogs.md){ .md-button .md-button--primary }
 
 </div>
 
