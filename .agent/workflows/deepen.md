@@ -33,7 +33,7 @@ description: 戦略記述の深化・検証
 6. 必要に応じて外部情報を参照:
    - 公式サイト (`https://main-bakafire.ssl-lolipop.jp/furuyoni/na/`)
    - `docs/community/blogs.md` に記載のブログ記事
-   - `docs/strategy/meta.md` の環境レポート
+   - `docs/strategy/index.md` の環境レポート
 
 7. 改善案を `notify_user` でユーザーに提示する。
 

@@ -10,5 +10,5 @@
 - [ふるよに反省会（旧スカガレ猫まっしぐら）](http://nobafuruyoni.blog.fc2.com/blog-category-15.html)
     - カテゴリ「詰めふるよに」にて、具体的な盤面考察やリーサル手順が紹介されています。
 
-> [!TIP]
-> 自分で問題を作ってみるのも良い練習になります。「相手の[オーラ](../mechanics/index.md)が0、[ライフ](../mechanics/index.md)が4、自分の[フレア](../mechanics/index.md)が5ある時、どうやって勝つ？」といったシチュエーションを想像してみましょう。
+!!! tip
+    自分で問題を作ってみるのも良い練習になります。「相手の[オーラ](../mechanics/index.md)が0、[ライフ](../mechanics/index.md)が4、自分の[フレア](../mechanics/index.md)が5ある時、どうやって勝つ？」といったシチュエーションを想像してみましょう。

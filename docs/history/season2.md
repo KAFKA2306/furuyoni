@@ -23,7 +23,7 @@
 の強さは「設置」による**手札上限の実質的な無視**にありました。
 
 *   **戦術**: 伏せ札を活用することで、毎ターン4〜5枚のカードをプレイしてリソース差を広げることができました。
-    ![設置](../assets/images/card/cards/na_05_o_n/na_05_o_n_4.png) (忍歩: 設置の起点となる移動カード)
+    ![設置](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_o_n_4.png) (忍歩: 設置の起点となる移動カード)
     さらに、再構成ダメージすらも攻撃リソース（設置からの展開）に転換する戦術が確立され、守りを固める相手を火力で圧倒しました。
 
 ### 2. 青みか (薙銃) の完成 (Meijinの視点)
@@ -33,9 +33,9 @@
 の構成は、遠近両用の完成されたデッキでした。
 
 *   **戦術**: ヒミカの遠距離攻撃（
-    ![ラピッドファイア](../assets/images/card/cards/na_03_o_n/na_03_o_n_2.png) **ラピッドファイア**
+    ![ラピッドファイア](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_03_o_n/na_03_o_n_2.png) **ラピッドファイア**
     ）で相手を削りつつ、接近されたらサイネの「薙切り」や対応札で拒否します。
-    ![薙切り](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png)
+    ![薙切り](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_2.png)
 *   **脅威**: 特に「対応不可3/2」を実現するコンボ（[連火](../mechanics/index.md)条件を満たした攻撃など）は、防御側の計算を狂わせる強力なフィニッシャーとして機能しました。
 
 ## 主要な変更点

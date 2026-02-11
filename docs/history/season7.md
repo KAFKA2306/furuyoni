@@ -14,7 +14,7 @@
 - **りげいなーの循環**: 
     ![クルル](../assets/images/chara/ico-10.png) **クルル**
     の「りげいなー」は捨て札からの再利用を可能にし、リソース無限循環に近い動きを実現しました。「機巧」条件を満たすための重要パーツとしても機能しました。
-    ![りげいなー](../assets/images/card/cards/na_10_o_n/na_10_o_n_5.png)
+    ![りげいなー](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_10_o_n/na_10_o_n_5.png)
 
 ### 戦略の核心 (Strategist Analysis)
 

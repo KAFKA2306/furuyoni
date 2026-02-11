@@ -1,3 +1,5 @@
+# ペア攻略一覧
+
 1. 刀薙（[ユリナ](../megami/index.md)／[サイネ](../megami/index.md)）
    中距離（[間合](../mechanics/index.md)3〜5）で「大型[切札](../mechanics/index.md)2枚＋条件達成での火力跳ね上がり」を押し付けて圧殺する、王道の高打点ミッドレンジです。[決死](../mechanics/index.md)や[八相](../mechanics/index.md)の条件が噛むと打点が異常値になり、相手の受けの設計を破壊します。一方で機動力が乏しいので、遠距離レンジロックや超近距離クリンチに寄せられるとプランが崩れやすいです。([Hikari Fryn][2])
 
@@ -478,3 +480,14 @@
 
 
 
+
+## その他の注目シナジー (Brief Mentions)
+
+### 9. 刀騎（[ユリナ](../megami/index.md)／[サリヤ](../megami/index.md)）
+[サリヤ](../megami/index.md)の「[騎動](../mechanics/index.md)」で[間合](../mechanics/index.md)を一気に詰め、[ユリナ](../megami/index.md)の重い一撃を叩き込むアグロ〜ミッドレンジ構成です。機動力と破壊力を兼ね備えています。
+
+### 10. 爪忍（[ライラ](../megami/index.md)／[オボロ](../megami/index.md)）
+[オボロ](../megami/index.md)の手数の多さ（[設置](../mechanics/index.md)攻撃など）で[ライラ](../megami/index.md)の帯電ゲージを高速で溜め、後半に圧倒的な火力で押し切るコンボ色の強いビートダウンです。
+
+### 11. 毒氷（[チカゲ](../megami/index.md)／[コルヌ](../megami/index.md)）
+毒で手札を封じ、[凍結](../mechanics/index.md)で[オーラ](../mechanics/index.md)を封じる「完全ロック」を狙います。ハマれば相手は何もできずに窒息しますが、自身の火力が低めな点が課題です。

@@ -22,8 +22,8 @@
     の「ヴァーミリオンフィールド」と
     ![オボロ](../assets/images/chara/ico-05.png) **オボロ**
     の「忍歩」「誘導」を組み合わせ、ゲームの大半を**間合8-10**で固定します。
-    ![ヴァーミリオンフィールド](../assets/images/card/cards/na_03_o_s/na_03_o_s_4.png)
-    ![忍歩](../assets/images/card/cards/na_05_o_n/na_05_o_n_4.png)
+    ![ヴァーミリオンフィールド](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_03_o_s/na_03_o_s_4.png)
+    ![忍歩](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_o_n_4.png)
 
 *   **影響**: 前進手段（
     ![サイネ](../assets/images/chara/ico-02.png) **サイネ**

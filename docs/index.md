@@ -49,9 +49,9 @@
 
 ### ペア攻略 { .text-center }
 
-<span class="badge-season">Season 9-10</span>
+<span class="badge-season">Season 10</span>
 
-2柱の組み合わせ＝無限の可能性。シナジーを活かした強力なデッキ構築を解説。
+2柱の組み合わせ＝無限の可能性。相性補完と主要な勝ち筋を体系的に解説。
 
 [:material-arrow-right: 戦術を磨く](pairs/index.md){ .md-button .md-button--primary .full-width }
 
@@ -85,7 +85,7 @@
 
 「間合」「オーラ」「フレア」。決闘の基本となるシステムを完全網羅。
 
-[:material-arrow-right: 詳細を確認](mechanics/index.md){ .md-button .md-button--primary .full-width }
+[:material-arrow-right: ルールブック](mechanics/index.md){ .md-button .md-button--primary .full-width }
 
 </div>
 
@@ -95,7 +95,7 @@
 
 === "🔰 初心者・入門"
     *   [**ゼロから始める実践カリキュラム**](beginner/curriculum.md)
-        <br><small>ステップバイステップでルールと定石をマスターする、3万文字超の決定版ガイド。</small>
+        <br><small>ステップバイステップでルールと定石を学ぶ、初心者でも安心の決定版ガイド。</small>
     *   [**基本ルール完全解説**](mechanics/index.md)
         <br><small>「間合」「オーラ」「フレア」… 決闘の基礎を図解付きで分かりやすく。</small>
     *   [**メガミ全16柱紹介**](megami/index.md)

@@ -17,13 +17,13 @@
 
 ### シーズン5.1 (2020/01/06 - 2020/05/03)
 - **変更点**:  カード「流転爪」が禁止指定を受けました。
-    ![流転爪](../assets/images/card/cards/na_12_o_n/na_12_o_n_3.png)
+    ![流転爪](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_12_o_n/na_12_o_n_3.png)
 - **騎嵐 (サリヤ/ライラ) の降臨**: 禁止改定により「忍」が弱体化しましたが、代わって「騎嵐」（
     ![サリヤ](../assets/images/chara/ico-11.png) **サリヤ** / 
     ![ライラ](../assets/images/chara/ico-12.png) **ライラ**
     ）が圧倒的なシェアを獲得し、環境を支配しました。
-    > [!NOTE]
-    > 文献によっては「Ki-Ran」＝「Tokoyo/Laila」と混同されることがありますが、S5最強の一角は間違いなく**Sariya/Laila**です。
+    !!! note
+        文献によっては「Ki-Ran」＝「Tokoyo/Laila」と混同されることがありますが、S5最強の一角は間違いなく**Sariya/Laila**です。
 
 ### シーズン5.2 (2020/05/04 - 2020/09/10)
 - **変更点**: 「ASURA」および「暴風」が禁止カードに指定されました。
@@ -35,7 +35,7 @@
 ![サリヤ](../assets/images/chara/ico-11.png) **サリヤ**
 の「Waving Edge」を始めとする移動攻撃カードが、ライラのゲージ溜めと間合管理（0-2への潜り込み）を完璧にサポートしました。
 
-![Waving Edge](../assets/images/card/cards/na_11_o_n/na_11_o_n_2.png)
+![Waving Edge](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_11_o_n/na_11_o_n_2.png)
 
 初心者が使っても「とりあえずWaving Edgeを撃てば強い」というほどの安定感があり、上級者が使えば手のつけられない機動力を発揮しました。
 

@@ -23,7 +23,7 @@
     (※当時のカード画像は現存しませんが、現在の「天雷召喚陣」に近い運用イメージです)
 
 *   **獣爪 (修正前)**: **間合0-2**で**2/2**という破格のスペック。近距離での殴り合いにおいて、このカードに勝てる通常札はほぼ存在しませんでした。
-    ![獣爪](../assets/images/card/cards/na_12_o_n/na_12_o_n_1.png)
+    ![獣爪](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_12_o_n/na_12_o_n_1.png)
 
 ### 2. 強律ループ (Meijinの視点)
 当時最強と謳われたのは「爪忍 (
