@@ -21,7 +21,7 @@
 
 あなたの[オーラ](../mechanics/index.md)が1以下である間、あなたは「[八相](../mechanics/index.md)」状態になります。
 
-[通常札](../mechanics/index.md)の多くがこの状態での強化を持っており、特に『薙切り』は[オーラ](../mechanics/index.md)が少ない時ほど手が付けられない威力になります。自らの防御を削ぐリスクを負いながら、相手の隙を突くテクニカルな立ち回りが求められます。
+[通常札](../mechanics/index.md)の多くがこの状態での強化を持っており、特に『薙切り』は[オーラ](../mechanics/index.md)が少ない時ほど手が付けられない威力になります。自らの防御を削ぐリスクを負いながら、相手の隙を突くテクニカルな立ち回りが求められます。ただし、八相状態では対応札に必要な[オーラ](../mechanics/index.md)が不足しやすいため、守りが手薄になるリスクも孕んでいます。
 
 ## 通常札の一覧
 
@@ -43,10 +43,28 @@
     石突き: 距離を取りつつ攻撃。
 
 -   [![サイネ Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_6.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_6.png){ .glightbox }
-    無音壁: 攻撃を完全無効化。
+    無音壁: 【対応】ダメージをオーラで受けることで、ライフを守ります。
 
 -   [![サイネ Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_7.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_7.png){ .glightbox }
-    圏域: 戦場の支配権確保。
+    衝音晶: 相手のオーラをフレアへ送る。
+
+</div>
+
+## 切り札の一覧
+
+<div class="grid cards" markdown>
+
+-   [![サイネ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_s/na_02_o_s_1.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_s/na_02_o_s_1.png){ .glightbox }
+    律動弧戟: 舞うように放つ四連撃。
+
+-   [![サイネ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_s/na_02_o_s_2.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_s/na_02_o_s_2.png){ .glightbox }
+    響鳴共振: 奏でる響きが命を削る。
+
+-   [![サイネ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_s/na_02_o_s_3.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_s/na_02_o_s_3.png){ .glightbox }
+    音無砕氷: 攻撃を砕き氷雨と化す。
+
+-   [![サイネ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_s/na_02_o_s_4.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_s/na_02_o_s_4.png){ .glightbox }
+    氷雨細音の果ての果て: 終わりを告げる静寂。
 
 </div>
 
@@ -54,4 +72,12 @@
 
 1. [間合](../mechanics/index.md)4-5の維持: 『八方振り』が届くこの距離が[サイネ](index.md)の聖域です。相手が近づこうとするなら『石突き』や『見切り』で翻弄しましょう。
 2. 対応札を構える: 相手のターンの行動計画を崩すことが重要です。『無音壁』で攻撃をスカらせたり、『氷雨細音の果ての果て』でバーストダメージを狙いましょう。
-3. [八相](../mechanics/index.md)のコントロール: 終盤、あえて[オーラ](../mechanics/index.md)を増やさず「[八相](../mechanics/index.md)」を維持したまま連続攻撃を仕掛けるのが必勝パターンです。
+3. [八相](../mechanics/index.md)のコントロール: 終盤、あえて[オーラ](../オーラ)を増やさず「[八相](../mechanics/index.md)」を維持したまま連続攻撃を仕掛けるのが必勝パターンです。
+
+## おすすめの組み合わせ
+
+### [ユリナ](01_yurina.md)（王道ビートダウン）
+【王道ビートダウン】（刀薙）は、中距離からの制圧を得意とします。広範囲をカバーするサイネの『[八方振り](cards.md#八方振り)』で牽制し、ユリナが最も得意とする[間合](../mechanics/index.md)3-4で決定打を叩き込む連携が強力です。攻守両面で隙がなく、サイネの『[氷雨細音の果ての果て](cards.md#氷雨細音の果ての果て)』によるトドメの性能も非常に高いです。
+
+### [シンラ](07_shinra.md)（判証コントロール）
+【判証コントロール】（薙書）は、論理的に相手を追い詰めます。サイネの『[見切り](cards.md#見切り)』や『[無音壁](cards.md#無音壁)』で相手の攻撃を否定し、シンラの『[引用](cards.md#引用)』で相手のキーカードを奪う搦め手が光ります。付与札を起点に確実な打点を与える『[衝撃音晶](cards.md#衝撃音晶)』がフィニッシュに繋がります。

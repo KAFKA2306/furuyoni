@@ -21,7 +21,7 @@
 
 あなたは相手の手札や山札に「[毒](index.md)袋」からカードを送り込むことができます。
 
-[毒](index.md)には様々な種類があり、手札にあるだけで[再構成](../mechanics/flow.md)ダメージを増やしたり、使用時にデメリットを発生させたりします。相手が[毒](index.md)を「飲む（使用する）」か「捨てる」かの選択をコントロールし、相手の計算を根底から狂わせることが[チカゲ](index.md)の真髄です。
+[毒](index.md)には4つの種類（麻痺、幻覚、疲労、弛緩）があり、手札にあるだけで[再構成](../mechanics/flow.md)ダメージを増やしたり、使用時にデメリットを発生させたりします。相手が[毒](index.md)を「飲む（使用する）」か「捨てる」かの選択をコントロールし、相手の計算を根底から狂わせることが[チカゲ](index.md)の真髄です。
 
 ## 通常札の一覧
 
@@ -37,7 +37,7 @@
     遁術: 逃走と[毒](index.md)散布。
 
 -   [![チカゲ Card](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png){ .glightbox }
-    首切り: [毒](index.md)で弱った獲物を刈る。
+    首切り: 相手が手札に[毒](index.md)を持っている時に威力が爆発。[毒](index.md)で弱った相手を確実に仕留めます。
 
 -   [![チカゲ Card](../assets/images/card/cards/na_09_o_n/na_09_o_n_5.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_5.png){ .glightbox }
     [毒](index.md)霧: 山札全体を汚染。
@@ -50,8 +50,34 @@
 
 </div>
 
+## 切り札の一覧
+
+<div class="grid cards" markdown>
+
+-   [![チカゲ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_09_o_s/na_09_o_s_1.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_09_o_s/na_09_o_s_1.png){ .glightbox }
+    闇昏千影の生きる道: 暗闇に消ゆ忍の標。
+
+-   [![チカゲ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_09_o_s/na_09_o_s_2.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_09_o_s/na_09_o_s_2.png){ .glightbox }
+    残滓の絆毒: 絆すら蝕む残り香。
+
+-   [![チカゲ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_09_o_s/na_09_o_s_3.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_09_o_s/na_09_o_s_3.png){ .glightbox }
+    滅灯の魂毒: 魂すら消し去る猛毒。
+
+-   [![チカゲ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_09_o_s/na_09_o_s_4.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_09_o_s/na_09_o_s_4.png){ .glightbox }
+    叛旗の纏毒: 自分のオーラを[毒](index.md)へと変換し、相手に送り込む攻防一体の切札。
+
+</div>
+
 ## 戦術の核心
 
 1. [毒](index.md)の種類を使い分ける: 相手が[前進](../mechanics/index.md)タイプなら移動を制限する[毒](index.md)を、コンボタイプなら手札を破壊する[毒](index.md)を。相手の戦術に合わせて最適な[毒](index.md)を調合しましょう。
 2. 『首切り』のフィニッシュ: 相手が[毒](index.md)を溜め込み、動きが鈍くなった隙に『首切り』で[ライフ](../mechanics/index.md)を刈り取ります。[毒](index.md)が「効いている」状態を見極める観察眼が重要です。
 3. 『滅灯の魂[毒](index.md)』の恐怖: [切札](../mechanics/index.md)で最凶の[毒](index.md)を送り込めば、相手はもはや対等な勝負を続けることすら難しくなります。[毒](index.md)による勝利は、肉体ではなく精神から訪れます。
+
+## おすすめの組み合わせ
+
+### [オボロ](05_oboro.md)（神速暗殺毒）
+【神速暗殺毒】（忍毒）は、相手の自由を奪い去ることに特化しています。オボロの『[影菱](cards.md#影菱)』とチカゲの『[毒針](cards.md#毒針)』による連続手札破壊は、相手の反撃の芽を完全に摘み取ります。対応不可の状態を作り出し、チカゲの『[首切り](cards.md#首切り)』やオボロの『[設置](cards.md#オボロ-通常札)』攻撃で確実にライフを削ります。
+
+### [ユキヒ](06_yukihi.md)（千紫万紅ビート）
+【千紫万紅ビート】（傘毒）は、毒による妨害と傘による変幻自在な機動力の融合です。チカゲの『[泥濘](cards.md#泥濘)』で相手を足止めし、ユキヒが理想的な間合から『[ゆらりび](cards.md#ゆらりび)』や『[つきさし](cards.md#つきさし)』を叩き込みます。毒によるリソース枯渇が、ユキヒの攻撃を通すための強力な布石となります。

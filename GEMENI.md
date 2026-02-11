@@ -29,6 +29,19 @@
 - **ハードコード禁止**: 設定は `config.yaml` 等に分離せよ。
 - **モックアップ禁止**: 実際のパイプラインの一部として動作するコードを記述せよ。
 
+### コンテンツ監査
+- **furuyoni_reviewer**: 既存のドキュメント（`docs/megami/*.md`等）をレビューする際は、必ず `.agent/skills/furuyoni_reviewer/SKILL.md` に定義された「忖度なし・称賛禁止」のペルソナ（Hajime, Kenshin, Ruri）を適用せよ。
+- **改善提案**: 単なる指摘に留まらず、常に具体的な修正案を提示せよ。
+
+### エージェント運用
+- `/review` (`task agent:review`): 3ペルソナによるコンテンツレビュー → 修正案自動生成
+- `/audit` (`task agent:audit`): 全ドキュメント横断の一貫性監査
+- `/seo` (`task agent:seo`): 構造・SEO・ナビゲーション最適化
+- `/deepen` (`task agent:deepen`): 戦略記述の深化・検証
+- `/maintain` (`task agent:maintain`): メンテナンスタスク一括実行
+- **起動方法**: チャットの `/slash-command` または ターミナルの `task agent:*` のいずれかで起動可能。
+- **自律性**: 各ワークフローは破壊的変更の適用前に必ずユーザー承認を求めよ。
+
 ## ドキュメンテーション
 
 - **言語**: 厳密な日本語を使用せよ。

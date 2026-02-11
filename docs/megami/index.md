@@ -16,7 +16,7 @@
 | 08 | [ハガネ](08_hagane.md)<br><img src="../assets/images/chara/ico-08.png" width="50"> | 槌 | [遠心](../mechanics/index.md) | 一撃必殺の重機動。大移動から繰り出す高火力攻撃で[オーラ](../mechanics/index.md)ごと砕く。 |
 | 09 | [チカゲ](09_chikage.md)<br><img src="../assets/images/chara/ico-09.png" width="50"> | 毒 | 毒 | 持続的なリソース妨害。毒カードで相手の手札や精神を削り取る。 |
 | 10 | [クルル](10_kururu.md)<br><img src="../assets/images/chara/ico-10.png" width="50"> | [機巧](../mechanics/index.md) | [機巧](../mechanics/index.md) | 爆発的なコンボ構築。特殊な発動条件を満たし、即死級の恩恵を得る。 |
-| 11 | [サリヤ](11_sariya.md)<br><img src="../assets/images/chara/ico-11.png" width="50"> | 乗騎 | [騎動](../mechanics/index.md) | 高機動・高出力の代償。燃料([ライフ](../mechanics/index.md)/[フレア](../mechanics/index.md))を消費して加速する。 |
+| 11 | [サリヤ](11_sariya.md)<br><img src="../assets/images/chara/ico-11.png" width="50"> | 乗騎 | [騎動](../mechanics/index.md) | 高機動・高出力の代償。特殊リソース([造花](../mechanics/index.md)結晶)を燃料として消費し加速する。 |
 | 12 | [ライラ](12_laila.md)<br><img src="../assets/images/chara/ico-12.png" width="50"> | 爪 | [帯電](../mechanics/index.md) | 風雷を纏う連撃。カードを使うほどゲージが溜まり、攻撃が激化する。 |
 | 13 | [ウツロ](13_utsuro.md)<br><img src="../assets/images/chara/ico-13.png" width="50"> | 鎌 | [灰塵](../mechanics/index.md) | 死滅から這い出る魔王。[ダスト](../mechanics/index.md)が増える終盤、全能力が覚醒する。 |
 | 14 | [ホノカ](14_honoka.md)<br><img src="../assets/images/chara/ico-14.png" width="50"> | 旗 | [守護](../mechanics/index.md) | 精霊との共鳴・成長。カードを「開花」させ、後半に向けて強化する。 |
@@ -31,18 +31,18 @@
 
 ### 1. 役割分担型（アタッカー ＋ サポーター）
 片方が火力を出し、もう片方が移動や防御を補う、最も安定した構成。
-- ユリナ ＋ サリヤ: サリヤの「[騎動](../mechanics/index.md)」で[間合](../mechanics/index.md)を一気に詰め、ユリナの重い一撃を叩き込む。
-- ヒミカ ＋ トコヨ: ヒミカが遠距離から撃ち、トコヨが近寄られた際の防御を固める。
+- ユリナ ＋ サリヤ（刀騎）: サリヤの「[騎動](../mechanics/index.md)」で[間合](../mechanics/index.md)を一気に詰め、ユリナの重い一撃を叩き込む。
+- ヒミカ ＋ トコヨ（銃扇）: ヒミカが遠距離から撃ち、トコヨが近寄られた際の防御を固める。
 
 ### 2. コンボ重視型（相乗効果）
 特定のメカニズムを共有したり、相互にリソースを供給する構成。
-- ライラ ＋ オボロ: オボロの手数の多さでライラのゲージを高速で溜め、後半に圧倒する。
-- チカゲ ＋ コルヌ: 毒で手札を封じ、[凍結](../mechanics/index.md)で[オーラ](../mechanics/index.md)を封じる「完全ロック」狙い。
+- ライラ ＋ オボロ（爪忍）: オボロの手数の多さでライラのゲージを高速で溜め、後半に圧倒する。
+- チカゲ ＋ コルヌ（毒氷）: 毒で手札を封じ、[凍結](../mechanics/index.md)で[オーラ](../mechanics/index.md)を封じる「完全ロック」狙い。
 
 ### 3. レンジロック型（間合の共有）
 得意な[間合](../mechanics/index.md)が一致しているペア。その[間合](../mechanics/index.md)いを維持し続けることで優位を保つ。
-- サイネ ＋ ヒミカ: [間合](../mechanics/index.md)5周辺での戦いを強要し、中遠距離から一方的に削る。
-- ユキヒ ＋ オボロ: [間合](../mechanics/index.md)2での接近戦に特化し、相手を懐から逃がさない。
+- サイネ ＋ ヒミカ（薙銃）: [間合](../mechanics/index.md)5周辺での戦いを強要し、中遠距離から一方的に削る。
+- ユキヒ ＋ オボロ（傘忍：みかはらり）: [間合](../mechanics/index.md)2での接近戦に特化し、相手を懐から逃がさない。
 
 ---
 

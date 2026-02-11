@@ -21,7 +21,7 @@
 
 あなたがカードを使用するたびに、あなたの風雷ゲージが蓄積されます。
 
-ゲージが一定以上に達すると「風景」や「雷景」といった強力な付与効果が永続的に自分を強化し、すべての攻撃カードが追加のダメージや効果を得るようになります。立ち上がりは慎重に、しかし火が付けば一気に雪崩れ込む勢いが勝利を呼び込みます。
+ゲージが一定以上に達すると（Lv1-Lv3の段階的に発展）、すべての攻撃カードが追加のダメージや効果を得るようになります。立ち上がりは慎重に、しかし火が付けば一気に雪崩れ込む勢いが勝利を呼び込みます。
 
 ## 通常札の一覧
 
@@ -50,8 +50,34 @@
 
 </div>
 
+## 切り札の一覧
+
+<div class="grid cards" markdown>
+
+-   [![ライラ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_12_o_s/na_12_o_s_1.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_12_o_s/na_12_o_s_1.png){ .glightbox }
+    雷螺風神爪: 荒れ狂う風雷の如。
+
+-   [![ライラ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_12_o_s/na_12_o_s_2.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_12_o_s/na_12_o_s_2.png){ .glightbox }
+    天雷召喚陣: 降り注ぐ雷の審判。
+
+-   [![ライラ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_12_o_s/na_12_o_s_3.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_12_o_s/na_12_o_s_3.png){ .glightbox }
+    風魔天狗道: 縦横無尽に駆ける神速。
+
+-   [![ライラ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_12_o_s/na_12_o_s_4.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_12_o_s/na_12_o_s_4.png){ .glightbox }
+    円環旋回旋: 果てなく巡る嵐の輪。使用済みの爪カードを回収し、連撃を途絶えさせません。
+
+</div>
+
 ## 戦術の核心
 
 1. ゲージの最速蓄積: まずは『風雷の知恵』や低コストのカードでゲージを稼ぎましょう。レベルが上がるまでの辛抱が未来の勝利を約束します。
-2. 零距離の恐怖: [ライラ](index.md)の本領は[間合](../mechanics/index.md)0-2の至近距離にあります。『流転爪』などで強引に距離を詰め、相手に息を吐かせぬ連撃を見舞ってください。
+2. 零距離の恐怖: [ライラ](index.md)の本領は[間合](../mechanics/index.md)0-2 storesの至近距離にあります。『流転爪』などで強引に距離を詰め、相手に息を吐かせぬ連撃を見舞ってください。
 3. 『雷螺風神爪』の決定力: ゲージが溜まりきった状態でのこの必殺技は、防ぐ手段がほとんどありません。その瞬間のために、すべてを積み上げていきましょう。
+
+## おすすめの組み合わせ
+
+### [オボロ](05_oboro.md)（連火暴風）
+【連火暴風】（忍爪）は、圧倒的な手数で相手を粉砕するアグレッシブな構成です。オボロの『[設置](cards.md#オボロ-通常札)』を絡めて1ターンのカード使用枚数を増やすことで、ライラの『[風雷撃](cards.md#風雷撃)』のゲージを爆速で蓄積します。対応を困難にするオボロの『[影菱](cards.md#影菱)』が、ライラの決定力を引き上げます。
+
+### [ユリナ](01_yurina.md)（極大旋風アグロ）
+【極大旋風アグロ】（刀爪）は、至近距離での破壊力に特化した速攻ペアです。ライラの『[空駆け](cards.md#空駆け)』で強引に間合を詰め、ユリナの『[斬](cards.md#斬)』や『[一閃](cards.md#一閃)』を叩き込みます。ライラのゲージが溜まる頃には、ユリナの『[決死](../mechanics/index.md)』も重なり、相手は防御不能の波状攻撃にさらされます。

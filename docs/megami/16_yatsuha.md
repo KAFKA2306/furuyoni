@@ -17,6 +17,9 @@
 
 自分を消し、相手を自分の中に写し出すことで勝利を掴む、変幻自在にして悲哀に満ちたメガミです。
 
+> [!CAUTION]
+> ヤツハの攻撃カードの多くは、反動として自分自身の[オーラ](../mechanics/index.md)や[ライフ](../mechanics/index.md)を損傷します。リソース管理を誤ると自滅する危険があるため、注意が必要です。
+
 ## キーワード能力: 鏡映
 
 あなたがカードを使用する際、相手の特定の数値（[オーラ](../mechanics/index.md)、[フレア](../mechanics/index.md)、手札の数など）を自分のものとして参照したり、あるいは相手と同じ能力を獲得したりします。
@@ -46,7 +49,25 @@
     契約: 悪魔との取引。
 
 -   [![ヤツハ Card](../assets/images/card/cards/na_16_o_n/na_16_o_n_7.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_7.png){ .glightbox }
-    寄花: 捨て札を再利用。
+    寄花: 棄札にあるカードを再び利用できるよう整えます。
+
+</div>
+
+## 切り札の一覧
+
+<div class="grid cards" markdown>
+
+-   [![ヤツハ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_16_o_s/na_16_o_s_1.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_16_o_s/na_16_o_s_1.png){ .glightbox }
+    深淵の瞳: 心を覗き込む闇。
+
+-   [![ヤツハ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_16_o_s/na_16_o_s_2.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_16_o_s/na_16_o_s_2.png){ .glightbox }
+    鏡の魔術: 真実を写し出す魔術。
+
+-   [![ヤツハ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_16_o_s/na_16_o_s_3.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_16_o_s/na_16_o_s_3.png){ .glightbox }
+    八葉鏡の彼方へと: 境界を超えたその先へ。「自我」を確立し、全ての基本機能を大幅にパワーアップさせます。
+
+-   [![ヤツハ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_16_o_s/na_16_o_s_4.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_16_o_s/na_16_o_s_4.png){ .glightbox }
+    四葉鏡の足跡を: 記憶を繋ぐ足跡。
 
 </div>
 
@@ -55,3 +76,11 @@
 1. スタンスの模倣: 相手が攻撃型なら攻撃力アップを、防御型なら鉄壁の守りを。相手が最も誇る戦術をそのままカウンターとしてぶつけることが基本です。
 2. 『鏡の悪魔』の心理戦: 常に自分の行動が自分に返ってくるというプレッシャーを相手に与えることで、相手のプレイングミスを誘います。
 3. 境界を越える: [切札](../mechanics/index.md)を用いて相手との境界を曖昧にすれば、勝負の天秤は一気に[ヤツハ](index.md)へと傾きます。鏡の中に閉じ込めるのは、相手か、あるいはあなた自身か。
+
+## おすすめの組み合わせ
+
+### [ユリナ](01_yurina.md)（月影八葉アグロ）
+【月影八葉アグロ】（刀鏡）は、圧倒的な攻撃力を鏡で倍増させる構成です。ユリナの『[決死](../mechanics/index.md)』状態の火力をヤツハが『[星の爪](cards.md#星の爪)』などで写し取り、1ターンに2人分の絶大なダメージを叩き込みます。相手がユリナの火力を警戒すればするほど、ヤツハの攻撃もまた鋭さを増していきます。
+
+### [オボロ](05_oboro.md)（旋風八葉バースト）
+【旋風八葉バースト】（忍鏡）は、奇襲性とバースト性能を兼ね備えています。[オボロ](05_oboro.md)の『[設置](cards.md#オボロ-通常札)』による手数と、ヤツハの『[寄花](cards.md#寄花)』によるカードの再利用が噛み合い、相手の防御が整う前にオーラを剥ぎ取ります。オボロの『[鳶影](cards.md#鳶影)』からヤツハの攻撃を差し込む動きも非常に強力です。

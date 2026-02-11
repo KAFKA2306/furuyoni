@@ -21,7 +21,7 @@
 
 あなたは相手のリソースを「[凍結](../mechanics/index.md)」状態にすることができます。
 
-[凍結](../mechanics/index.md)された[オーラ](../mechanics/index.md)はダメージとして受けられず、[凍結](../mechanics/index.md)された[フレア](../mechanics/index.md)は[切札](../mechanics/index.md)の使用を妨げます。相手が[凍結](../mechanics/index.md)を解除しようと基本動作を行えば、その分攻撃の機会を失うため、実質的な追加ターンを得るのと同等のアドバイスを得られます。
+[凍結](../mechanics/index.md)された[オーラ](../mechanics/index.md)はダメージとして受けられず、[凍結](../mechanics/index.md)された[フレア](../mechanics/index.md)は[切札](../mechanics/index.md)の使用を妨げます。相手が[凍結](../mechanics/index.md)を解除するには「基本動作（纏いや宿し）」を行う必要があります。これにより相手の攻撃機会を奪い、実質的な追加ターンを得られます。
 
 ## 通常札の一覧
 
@@ -43,10 +43,28 @@
     霜の茨: 持続的な[凍結](../mechanics/index.md)。
 
 -   [![コルヌ Card](../assets/images/card/cards/na_15_o_n/na_15_o_n_6.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_6.png){ .glightbox }
-    絶対零度: 完全停止の冷気。
+    絶対零度(通常札): 相手のリソースを凍らせる。
 
 -   [![コルヌ Card](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }
     ポルチャルトー: 氷上を滑走。
+
+</div>
+
+## 切り札の一覧
+
+<div class="grid cards" markdown>
+
+-   [![コルヌ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_s/na_15_o_s_1.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_s/na_15_o_s_1.png){ .glightbox }
+    凍鳴天: 凍てつく空に響く絶叫。
+
+-   [![コルヌ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_s/na_15_o_s_2.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_s/na_15_o_s_2.png){ .glightbox }
+    旋回起: 渦巻く吹雪の始まり。
+
+-   [![コルヌ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_s/na_15_o_s_3.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_s/na_15_o_s_3.png){ .glightbox }
+    絶対零度(切札): [凍結](../mechanics/index.md)されたオーラの移動を禁じる、終焉の氷結。
+
+-   [![コルヌ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_s/na_15_o_s_4.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_s/na_15_o_s_4.png){ .glightbox }
+    コンルルヤンペ: 降り積もる死の氷。[凍結](../mechanics/index.md)数に応じて威力が跳ね上がるフィニッシャー。
 
 </div>
 
@@ -55,3 +73,11 @@
 1. 集中的な[凍結](../mechanics/index.md): あちこち少しずつではなく、特定の箇所（例：[オーラ](../mechanics/index.md)）を集中的に[凍結](../mechanics/index.md)させ、相手がそれを解除できないほどの負荷を与えましょう。
 2. [間合](../mechanics/index.md)のハラスメント: 『ポルチャルトー』などの移動を活用し、相手が[凍結](../mechanics/index.md)を解除したい[間合](../mechanics/index.md)から常にずらし続け、精神的なストレスを与えます。
 3. 『霜降る雪の降る野に』の絶望: [切札](../mechanics/index.md)によって盤面全体を氷に閉ざせば、勝利は単なる時間の問題となります。
+
+## おすすめの組み合わせ
+
+### [サイネ](02_saine.md)（氷雨凍結コントロール）
+【氷雨凍結コントロール】（薙氷）は、相手の攻撃リソースを奪い去ることに特化しています。サイネの『[圏域](cards.md#圏域)』で相手を足止めし、コルヌの『[雪刃](cards.md#雪刃)』や『[かじかみ](cards.md#かじかみ)』でリソースを凍結させます。凍結によって対応が制限された相手に、サイネの『[八方振り](cards.md#八方振り)』を確実に叩き込む連携が強力です。
+
+### [トコヨ](04_tokoyo.md)（境地凍結コントロール）
+【境地凍結コントロール】（扇氷）は、静寂の中で相手を窒息させるコントロールペアです。トコヨの『[雅打ち](cards.md#雅打ち)』で相手の数少ない攻撃を打ち消し、コルヌがその隙に『[霜の茨](cards.md#霜の茨)』などで盤面を凍りつかせます。相手が凍結解除にリソースを割かざるを得ない状況で、トコヨが『[集中力](../mechanics/index.md)』を保ちながら優雅に勝利を引き寄せます。

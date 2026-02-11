@@ -96,6 +96,7 @@ nav:
 plugins:
   - search:
       lang: ja
+  - glightbox
 
 markdown_extensions:
   - tables

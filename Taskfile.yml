@@ -49,3 +49,45 @@ tasks:
   deploy:
     cmds:
       - uv run mkdocs gh-deploy --force
+
+  agent:review:
+    desc: "AI: 3ペルソナによるコンテンツレビュー"
+    cmds:
+      - echo "🔍 Agent /review triggered. Use chat command '/review' or pass file path."
+      - echo "Target:{{.CLI_ARGS | default \"docs/megami/*.md\"}}"
+
+  agent:audit:
+    desc: "AI: 全ドキュメント横断の一貫性監査"
+    cmds:
+      - echo "🔍 Agent /audit triggered."
+      - uv run scripts/maintain.py check-links
+      - uv run scripts/maintain.py add-links
+
+  agent:seo:
+    desc: "AI: 構造・SEO・ナビゲーション最適化"
+    cmds:
+      - echo "🔍 Agent /seo triggered."
+      - find docs/ -name "*.md" -type f | sort
+
+  agent:deepen:
+    desc: "AI: 戦略記述の深化・検証"
+    cmds:
+      - echo "🔍 Agent /deepen triggered. Use chat command '/deepen' or pass megami name."
+      - echo "Target:{{.CLI_ARGS | default \"docs/megami/*.md\"}}"
+
+  agent:maintain:
+    desc: "AI: メンテナンスタスク一括実行"
+    cmds:
+      - uv run scripts/maintain.py check-links
+      - uv run scripts/maintain.py add-links
+      - uv run scripts/maintain.py download-assets
+      - uv run mkdocs build --strict
+
+  agent:all:
+    desc: "AI: 全エージェント一括実行"
+    cmds:
+      - task: agent:maintain
+      - task: agent:audit
+      - task: agent:seo
+      - task: agent:review
+      - task: agent:deepen

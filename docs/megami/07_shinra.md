@@ -19,7 +19,7 @@
 
 ## キーワード能力: 計略
 
-特定のカードを使用した際、指定された条件（例：自分の付与札が場にある、相手の[集中力](../mechanics/index.md)が0である等）を満たしていると、[計略](../mechanics/index.md)が発動し効果が強化されます。
+特定のカードを使用した際、指定された条件（例：自分の付与札が場（戦場）にある、相手の[集中力](../mechanics/index.md)が0である等）を満たしていると、[計略](../mechanics/index.md)が発動し効果が強化されます。
 
 常に相手のリソース状態を監視し、最も効果的なタイミングで「論破」を突きつける知略が求められます。
 
@@ -37,7 +37,7 @@
     詭弁: 強引な論理展開。
 
 -   [![シンラ Card](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ .glightbox }
-    引用: 相手の札を盗用。
+    引用: 相手の手札や伏せ札からカードを選び、自らの札として使用。対戦相手の計算を根底から狂わせます。
 
 -   [![シンラ Card](../assets/images/card/cards/na_07_o_n/na_07_o_n_5.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_5.png){ .glightbox }
     扇動: 思考を乱す妨害。
@@ -50,8 +50,34 @@
 
 </div>
 
+## 切り札の一覧
+
+<div class="grid cards" markdown>
+
+-   [![シンラ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_07_o_s/na_07_o_s_1.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_07_o_s/na_07_o_s_1.png){ .glightbox }
+    完全論破: 論理の壁で一切を阻む。
+
+-   [![シンラ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_07_o_s/na_07_o_s_2.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_07_o_s/na_07_o_s_2.png){ .glightbox }
+    皆式理解: 全てを悟り理を敷く。
+
+-   [![シンラ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_07_o_s/na_07_o_s_3.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_07_o_s/na_07_o_s_3.png){ .glightbox }
+    天地反駁: 理を覆し、オーラダメージとライフダメージのルールを反転させる。一撃で盤面を壊滅させます。
+
+-   [![シンラ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_07_o_s/na_07_o_s_4.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_07_o_s/na_07_o_s_4.png){ .glightbox }
+    森羅万象: 万物を紡ぎ理を統べる。
+
+</div>
+
 ## 戦術の核心
 
-1. 付与札の管理: 『立論』や『壮語』などの付与札を場に残すことで、他のカードの効果を底上げしましょう。付与札が剥がれるタイミングを計算し、[計略](../mechanics/index.md)の連鎖を狙います。
+1. 付与札の管理: 『立論』や『壮語』などの付与札を場に残すことで、他のカードの効果を底上げしましょう。開始フェイズに付与札が剥がれるタイミングを計算し、[計略](../mechanics/index.md)の連鎖を狙います。
 2. 相手のリソース破壊: 『扇動』などで手札を奪い、『引用』で相手の強力な札を自分のものにします。相手がやりたいことを先に潰すのが[シンラ](index.md)の基本です。
 3. 『完全態』を目指す: [切札](../mechanics/index.md)を活用し、誰にも邪魔されない思考空間を盤面に構築できれば勝利は目前です。
+
+## おすすめの組み合わせ
+
+### [サイネ](02_saine.md)（判証コントロール）
+【判証コントロール】（薙書）は、徹底した盤面制御を行います。サイネの『[圏域](cards.md#圏域)』や『[石突き](cards.md#石突き)』で間合を保ち、シンラの『[引用](cards.md#引用)』や『[扇動](cards.md#扇動)』で相手のリソースを枯渇させます。最終的には、サイネの『[八方振り](cards.md#八方振り)』とシンラの『[完全論破](cards.md#完全論破)』を絡めて逃げ場なくライフを削り取ります。
+
+### [トコヨ](04_tokoyo.md)（完全論理制御）
+【完全論理制御】（扇書）は、情報の非対称性を極限まで高めるペアです。トコヨの『[雅打ち](cards.md#雅打ち)』で相手の意図を挫き、シンラの『[完全論破](cards.md#完全論破)』で相手の戦略の根幹を否定します。『[要返し](cards.md#要返し)』でシンラの強力な付与札や『[引用](cards.md#引用)』を使い回す動きが、相手にとって悪夢のような永続的な圧力となります。

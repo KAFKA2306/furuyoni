@@ -11,9 +11,9 @@
 
 ## 本質的な解説
 
-[ユキヒ](index.md)の本質は「スタンスの切り替えによる戦域の完全支配」にあります。
+[ユキヒ](index.md)の本質は「状態（開・閉）の切り替えによる戦域の完全支配」にあります。
 
-彼女は「傘」というデバイスの状態（開・閉）を切り替えることで、得意とする[間合](../mechanics/index.md)やカードの性質を劇的に変化させます。傘を閉じれば「至近距離での暗殺者」、傘を開けば「中距離での舞踏家」となり、相手の苦手な土俵へと強引に引きずり込みます。
+彼女は「傘」というデバイスの状態（開・閉）を切り替える（一部のカード使用や基本動作による）ことで、得意とする[間合](../mechanics/index.md)やカードの性質を劇的に変化させます。傘を閉じれば「至近距離での暗殺者」、傘を開けば「中距離での舞踏家」となり、相手の苦手な土俵へと強引に引きずり込みます。
 
 一つのデッキで二つの顔を持つため、柔軟性が極めて高く、相手の出方に完璧に合わせることができるメガミです。
 
@@ -50,8 +50,34 @@
 
 </div>
 
+## 切り札の一覧
+
+<div class="grid cards" markdown>
+
+-   [![ユキヒ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_06_o_s/na_06_o_s_1.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_06_o_s/na_06_o_s_1.png){ .glightbox }
+    はらりゆき: 舞い散る雪の如き変幻。
+
+-   [![ユキヒ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_06_o_s/na_06_o_s_2.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_06_o_s/na_06_o_s_2.png){ .glightbox }
+    ゆらりび: 揺らめく灯火の如き一撃。
+
+-   [![ユキヒ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_06_o_s/na_06_o_s_3.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_06_o_s/na_06_o_s_3.png){ .glightbox }
+    くるりみ: 翻る傘の如き護り。
+
+-   [![ユキヒ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_06_o_s/na_06_o_s_4.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_06_o_s/na_06_o_s_4.png){ .glightbox }
+    ひらりおり: 降り立つ蝶の如き軽やかさ。
+
+</div>
+
 ## 戦術の核心
 
 1. [間合](../mechanics/index.md)の最適化: 相手の得意[間合](../mechanics/index.md)を避けつつ、自分の傘の状態に合わせた[間合](../mechanics/index.md)を維持しましょう。相手が中距離型なら傘を閉じて懐へ、近距離型なら傘を開いて[間合](../mechanics/index.md)を離します。
-2. 『ゆらりび』の王手: 傘を閉じた状態の『ゆらりび』は全メガミ中屈指の攻撃力を誇ります。これを当てるためにどう潜り込むかが[ユキヒ](index.md)のメインストーリーです。
+2. 『ゆらりび』の王手: 傘を閉じた状態の『ゆらりび』は全メガミ中屈指の威力。これを当てるために『もぐりこみ』や『たぐりよせ』で如何に潜り込むかが[ユキヒ](index.md)のメインストーリーです。
 3. リソースの回転: 傘を回すたびに追加の恩恵が得られる構築にすることで、立ち回りそのものが勝利に直結するようになります。
+
+## おすすめの組み合わせ
+
+### [オボロ](05_oboro.md)（みかはらり）
+【みかはらり】（忍傘）として、リソース管理と奇襲性に優れた強力な組み合わせです。[オボロ](05_oboro.md)の『[壬蔓](cards.md#壬蔓)』は、[ユキヒ](06_yukihi.md)が頻繁に使用する『[はらりゆき](cards.md#はらりゆき)』のコストを安定して供給します。オボロの『[影菱](cards.md#影菱)』で手札を削り、対応を封じた上でユキヒの『[ゆらりび](cards.md#ゆらりび)』を叩き込むコンボは必殺の威力を持ちます。
+
+### [ユリナ](01_yurina.md)（万能ビートダウン）
+【万能ビートダウン】（刀傘）は、あらゆる距離で戦える柔軟性が売りです。ユリナの[得意間合](../mechanics/index.md)3-4をカバーしつつ、ユキヒが傘の開閉によって近距離と中距離をスイッチすることで、相手に安息の地を与えません。『[斬](cards.md#斬)』による着実な削りと、ユキヒの『[しこみばり](cards.md#しこみばり)』による手数の多さが噛み合います。

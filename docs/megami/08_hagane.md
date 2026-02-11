@@ -13,7 +13,7 @@
 
 [ハガネ](index.md)の本質は「移動のエネルギーを破壊力へと転換する物理的突進」にあります。
 
-彼女の放つ一撃は重く、相手の[オーラ](../mechanics/index.md)を文字通り「粉砕」します。しかし、その高火力を引き出すためには、自らが戦場で大きく動き、勢いをつける必要があります。[オーラ](../mechanics/index.md)ごと相手を叩き潰す快感は、他のメガミでは味わえません。
+彼女の放つ一撃は重く、相手の[オーラ](../mechanics/index.md)を文字通りに粉砕（強力なダメージ）します。しかし、その高火力を引き出すためには、自らが戦場で大きく動き、勢いをつける必要があります。
 
 「力こそパワー」を体現した、豪快かつ緻密な[間合](../mechanics/index.md)管理が要求されるメガミです。
 
@@ -21,7 +21,7 @@
 
 このターン、あなたが行った「基本動作やカードの効果による移動」の合計マス数が一定以上（通常は2以上）であれば、あなたは「[遠心](../mechanics/index.md)」条件を満たします。
 
-多くの攻撃カードが「[遠心](../mechanics/index.md)」によってガード不能のダメージや、[ライフ](../mechanics/index.md)への致命的な打点を獲得します。止まらずに動き続け、その[遠心](../mechanics/index.md)力を槌に込めることが[ハガネ](index.md)の戦い方です。
+多くの攻撃カードが「[遠心](../mechanics/index.md)」条件（そのターンに自分が行った基本動作や効果による移動の合計が2マス以上であること）によって、ガード不能のダメージや、[ライフ](../mechanics/index.md)への致命的な打点を獲得します。止まらずに動き続け、その[遠心](../mechanics/index.md)力を槌に込めることが[ハガネ](index.md)の戦い方です。
 
 ## 通常札の一覧
 
@@ -50,8 +50,34 @@
 
 </div>
 
+## 切り札の一覧
+
+<div class="grid cards" markdown>
+
+-   [![ハガネ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_08_o_s/na_08_o_s_1.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_08_o_s/na_08_o_s_1.png){ .glightbox }
+    大嵐: 全てを吹き飛ばす円周の嵐。
+
+-   [![ハガネ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_08_o_s/na_08_o_s_2.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_08_o_s/na_08_o_s_2.png){ .glightbox }
+    大破砕: 鉄をも砕く一撃。
+
+-   [![ハガネ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_08_o_s/na_08_o_s_3.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_08_o_s/na_08_o_s_3.png){ .glightbox }
+    遠雷: 轟く雷の如き衝撃。
+
+-   [![ハガネ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_08_o_s/na_08_o_s_4.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_08_o_s/na_08_o_s_4.png){ .glightbox }
+    大破鐘メガロベル: 世界を震わせる轟音。
+
+</div>
+
 ## 戦術の核心
 
 1. 移動ルートの設計: 『引力場』で引き寄せたり、『円舞錬』で自ら動いたりと、[遠心](../mechanics/index.md)を満たすためのコンボをあらかじめ組んでおきましょう。
 2. [オーラ](../mechanics/index.md)受けを許さない: 『[遠心](../mechanics/index.md)撃』などの超火力は、相手が[オーラ](../mechanics/index.md)で受けようとしても貫通します。相手の[オーラ](../mechanics/index.md)が薄い時を狙えば、一気に勝負を決められます。
-3. 『大嵐』の抑止力: [切札](../mechanics/index.md)『大嵐』を構えることで、相手の機動力を大幅に制限できます。相手を動きにくくさせ、自分だけが一方的に[遠心](../mechanics/index.md)力を溜める理想的な展開を作れます。
+3. 『大嵐』の抑止力: [切札](../mechanics/index.md)『大嵐』を構えることで、相手の機動力を大幅に制限できます。特に『引力場』と合わせることで相手を固定し、一方的に[遠心](../mechanics/index.md)力を溜める理想的な展開（大嵐ロック）を作ることが可能です。
+
+## おすすめの組み合わせ
+
+### [サイネ](02_saine.md)（重装歩兵ビート）
+【重装歩兵ビート】（薙槌）は、中距離からの圧倒的な制圧力を発揮します。サイネの『[八方振り](cards.md#八方振り)』でオーラを手際よく削り、ハガネの『[遠心撃](cards.md#遠心撃)』でライフへ致命傷を与えます。防御面でもサイネの『[無音壁](cards.md#無音壁)』などの対応札がハガネの重量級攻撃を通すための隙をカバーしてくれます。
+
+### [ユリナ](01_yurina.md)（極大破壊制圧）
+【極大破壊制圧】（刀槌）は、一撃の威力を追求した破壊的ペアです。ハガネの『[大地砕き](cards.md#大地砕き)』などで相手の防御をズタズタにし、ユリナの『[決死](../mechanics/index.md)』バフを受けた『[居合](cards.md#居合)』や『[月影落](cards.md#月影落)』を叩き込みます。相手がオーラを溜め直す暇を与えないほどの高火力が魅力です。
