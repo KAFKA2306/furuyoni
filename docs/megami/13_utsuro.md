@@ -28,25 +28,25 @@
 <div class="grid cards" markdown>
 
 -   [![ウツロ Card](../assets/images/card/cards/na_13_o_n/na_13_o_n_1.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_1.png){ .glightbox }
-    黒き波動: 相手のリソースを奪う。
+    黒き波動: [オーラ](../mechanics/index.md)を虚無へ。
 
 -   [![ウツロ Card](../assets/images/card/cards/na_13_o_n/na_13_o_n_2.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_2.png){ .glightbox }
-    円月: 相手のリソースを縮小。
+    円月: リソースを削り取る。
 
 -   [![ウツロ Card](../assets/images/card/cards/na_13_o_n/na_13_o_n_3.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_3.png){ .glightbox }
-    影の翅: 攻撃しつつ移動。
+    影の翅: 闇に紛れて移動。
 
 -   [![ウツロ Card](../assets/images/card/cards/na_13_o_n/na_13_o_n_4.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_4.png){ .glightbox }
-    遺灰呪: 相手の行動を阻害。
+    遺灰呪: 灰で動きを封じる。
 
 -   [![ウツロ Card](../assets/images/card/cards/na_13_o_n/na_13_o_n_5.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_5.png){ .glightbox }
-    虚偽: 距離を支配する。
+    虚偽: [間合](../mechanics/index.md)を歪める。
 
 -   [![ウツロ Card](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png){ .glightbox }
-    重圧: 相手の攻撃を萎縮。
+    重圧: 威圧で攻撃を弱体化。
 
 -   [![ウツロ Card](../assets/images/card/cards/na_13_o_n/na_13_o_n_7.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_7.png){ .glightbox }
-    刈り取り: 弱った相手を仕留める。
+    刈り取り: 死神の鎌。
 
 </div>
 

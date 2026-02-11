@@ -28,25 +28,25 @@
 <div class="grid cards" markdown>
 
 -   [![サリヤ Card](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png){ .glightbox }
-    Burning Steam: 移動しながら攻撃。
+    Burning Steam: 燃料で機動攻撃。
 
 -   [![サリヤ Card](../assets/images/card/cards/na_11_o_n/na_11_o_n_2.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_2.png){ .glightbox }
-    Waving Edge: [宿し](../mechanics/index.md)つつ攻撃。
+    Waving Edge: [宿し](../mechanics/index.md)と攻撃を両立。
 
 -   [![サリヤ Card](../assets/images/card/cards/na_11_o_n/na_11_o_n_3.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_3.png){ .glightbox }
-    Turbo Switch: 回避と移動を両立。
+    Turbo Switch: 高速回避機動。
 
 -   [![サリヤ Card](../assets/images/card/cards/na_11_o_n/na_11_o_n_4.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_4.png){ .glightbox }
-    Form:YAKSHA: 近距離戦を強化。
+    Form:YAKSHA: 接近戦形態。
 
 -   [![サリヤ Card](../assets/images/card/cards/na_11_o_n/na_11_o_n_5.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_5.png){ .glightbox }
-    Form:NAGA: 中距離戦を強化。
+    Form:NAGA: 中距離戦形態。
 
 -   [![サリヤ Card](../assets/images/card/cards/na_11_o_n/na_11_o_n_6.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_6.png){ .glightbox }
-    Form:GARUDA: 遠距離戦を強化。
+    Form:GARUDA: 遠距離戦形態。
 
 -   [![サリヤ Card](../assets/images/card/cards/na_11_o_n/na_11_o_n_7.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_7.png){ .glightbox }
-    Omega-Burst: 防御の大技。
+    Omega-Burst: 究極の防壁。
 
 </div>
 

@@ -28,25 +28,25 @@
 <div class="grid cards" markdown>
 
 -   [![チカゲ Card](../assets/images/card/cards/na_09_o_n/na_09_o_n_1.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_1.png){ .glightbox }
-    飛苦無: [毒](index.md)を送りつける基本攻撃。
+    飛苦無: 攻撃と[毒](index.md)の二段構え。
 
 -   [![チカゲ Card](../assets/images/card/cards/na_09_o_n/na_09_o_n_2.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_2.png){ .glightbox }
-    [毒](index.md)針: 相手の手札を[毒](index.md)で圧迫。
+    [毒](index.md)針: 手札を汚染する針。
 
 -   [![チカゲ Card](../assets/images/card/cards/na_09_o_n/na_09_o_n_3.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_3.png){ .glightbox }
-    遁術: 対応で回避しつつ[毒](index.md)を送る。
+    遁術: 逃走と[毒](index.md)散布。
 
 -   [![チカゲ Card](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png){ .glightbox }
-    首切り: [毒](index.md)状態の相手に高火力。
+    首切り: [毒](index.md)で弱った獲物を刈る。
 
 -   [![チカゲ Card](../assets/images/card/cards/na_09_o_n/na_09_o_n_5.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_5.png){ .glightbox }
-    [毒](index.md)霧: 大量の[毒](index.md)を送りつける。
+    [毒](index.md)霧: 山札全体を汚染。
 
 -   [![チカゲ Card](../assets/images/card/cards/na_09_o_n/na_09_o_n_6.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_6.png){ .glightbox }
-    抜き足: [再構成](../mechanics/flow.md)ダメージを軽減。
+    抜き足: 静かに山札を守る。
 
 -   [![チカゲ Card](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png){ .glightbox }
-    泥濘: 相手の[前進](../mechanics/index.md)を阻害。
+    泥濘: 足場を奪う罠。
 
 </div>
 

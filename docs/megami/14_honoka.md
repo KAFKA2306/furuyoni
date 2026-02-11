@@ -28,25 +28,25 @@
 <div class="grid cards" markdown>
 
 -   [![ホノカ Card](../assets/images/card/cards/na_14_o_n/na_14_o_n_1.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_1.png){ .glightbox }
-    精霊式: 基本の攻撃。
+    精霊式: 精霊の力を借りる。
 
 -   [![ホノカ Card](../assets/images/card/cards/na_14_o_n/na_14_o_n_2.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_2.png){ .glightbox }
-    [守護](../mechanics/index.md)霊式: 守りを固める。
+    [守護](../mechanics/index.md)霊式: 精霊の加護。
 
 -   [![ホノカ Card](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png){ .glightbox }
-    突撃霊式: 攻め込む起点。
+    突撃霊式: 精霊と共に突撃。
 
 -   [![ホノカ Card](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png){ .glightbox }
-    桜花のお守り: 反射で身を守る。
+    桜花のお守り: ダメージを跳ね返す。
 
 -   [![ホノカ Card](../assets/images/card/cards/na_14_o_n/na_14_o_n_5.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_5.png){ .glightbox }
-    桜の翅: 華麗に移動。
+    桜の翅: 花びらと共に舞う。
 
 -   [![ホノカ Card](../assets/images/card/cards/na_14_o_n/na_14_o_n_6.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_6.png){ .glightbox }
-    指揮: 味方を支援。
+    指揮: 精霊を鼓舞。
 
 -   [![ホノカ Card](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
-    追い風: 行動を加速。
+    追い風: 風で行動を後押し。
 
 </div>
 

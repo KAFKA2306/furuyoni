@@ -28,25 +28,25 @@
 <div class="grid cards" markdown>
 
 -   [![ハガネ Card](../assets/images/card/cards/na_08_o_n/na_08_o_n_1.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_1.png){ .glightbox }
-    [遠心](../mechanics/index.md)撃: [遠心](../mechanics/index.md)で高火力を叩き出す。
+    [遠心](../mechanics/index.md)撃: 移動が生む破壊力。
 
 -   [![ハガネ Card](../assets/images/card/cards/na_08_o_n/na_08_o_n_2.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_2.png){ .glightbox }
-    砂風塵: 相手の[間合](../mechanics/index.md)操作を封じる。
+    砂風塵: 移動を妨害する砂嵐。
 
 -   [![ハガネ Card](../assets/images/card/cards/na_08_o_n/na_08_o_n_3.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_3.png){ .glightbox }
-    大地砕き: 破格の攻撃力だが反動あり。
+    大地砕き: 自傷覚悟の全力。
 
 -   [![ハガネ Card](../assets/images/card/cards/na_08_o_n/na_08_o_n_4.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_4.png){ .glightbox }
-    超反発: 対応で相手を突き離す。
+    超反発: 衝撃で吹き飛ばす。
 
 -   [![ハガネ Card](../assets/images/card/cards/na_08_o_n/na_08_o_n_5.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_5.png){ .glightbox }
-    円舞錬: [遠心](../mechanics/index.md)発動の準備。
+    円舞錬: 回転で勢いを蓄積。
 
 -   [![ハガネ Card](../assets/images/card/cards/na_08_o_n/na_08_o_n_6.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_6.png){ .glightbox }
-    鐘鳴らし: 攻撃バフの要。
+    鐘鳴らし: 全攻撃を増幅。
 
 -   [![ハガネ Card](../assets/images/card/cards/na_08_o_n/na_08_o_n_7.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_7.png){ .glightbox }
-    引力場: 相手を強制的に引き寄せる。
+    引力場: 磁力で相手を捕縛。
 
 </div>
 

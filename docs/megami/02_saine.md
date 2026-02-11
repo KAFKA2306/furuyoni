@@ -28,25 +28,25 @@
 <div class="grid cards" markdown>
 
 -   [![サイネ Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png){ .glightbox }
-    八方振り: [間合](../mechanics/index.md)の広さが武器。
+    八方振り: 広範囲をカバーする主軸。
 
 -   [![サイネ Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png){ .glightbox }
-    薙切り: [八相](../mechanics/index.md)で化ける。
+    薙切り: [八相](../mechanics/index.md)時は3/3の暴力。
 
 -   [![サイネ Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_3.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_3.png){ .glightbox }
-    圏域: 相手の攻撃を拒否。
+    圏域: [間合](../mechanics/index.md)外へ追い出す。
 
 -   [![サイネ Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_4.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_4.png){ .glightbox }
-    見切り: 対応の基本。
+    見切り: カウンターの起点。
 
 -   [![サイネ Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png){ .glightbox }
-    石突き: 貴重な[後退](../mechanics/index.md)攻撃。
+    石突き: 距離を取りつつ攻撃。
 
 -   [![サイネ Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_6.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_6.png){ .glightbox }
-    無音壁: 最強クラスの防御。
+    無音壁: 攻撃を完全無効化。
 
 -   [![サイネ Card](../assets/images/card/cards/na_02_o_n/na_02_o_n_7.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_7.png){ .glightbox }
-    圏域: [間合](../mechanics/index.md)操作の要。
+    圏域: 戦場の支配権確保。
 
 </div>
 

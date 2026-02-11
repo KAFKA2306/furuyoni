@@ -28,25 +28,25 @@
 <div class="grid cards" markdown>
 
 -   [![オボロ Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png){ .glightbox }
-    鋼糸: [設置](../mechanics/index.md)で強化される基本攻撃。
+    鋼糸: [設置](../mechanics/index.md)で威力倍増。
 
 -   [![オボロ Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ .glightbox }
-    影菱: 相手の手札を破壊。
+    影菱: 手札破壊の暗器。
 
 -   [![オボロ Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_3.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_3.png){ .glightbox }
-    斬撃乱舞: [設置](../mechanics/index.md)済みなら超火力。
+    斬撃乱舞: [設置](../mechanics/index.md)で4/3の嵐。
 
 -   [![オボロ Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_4.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_4.png){ .glightbox }
-    忍歩: [間合](../mechanics/index.md)2への侵入。
+    忍歩: 音もなく接近。
 
 -   [![オボロ Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_5.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_5.png){ .glightbox }
-    誘導: 相手を動かす対応。
+    誘導: 相手の位置を操作。
 
 -   [![オボロ Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_6.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_6.png){ .glightbox }
-    分身の術: 次の攻撃を2回行う。
+    分身の術: 攻撃を複製する忍術。
 
 -   [![オボロ Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_7.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_7.png){ .glightbox }
-    生体活性: [設置](../mechanics/index.md)カードを再利用。
+    生体活性: 伏せ札を回収。
 
 </div>
 

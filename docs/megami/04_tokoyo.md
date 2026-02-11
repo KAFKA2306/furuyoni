@@ -28,25 +28,25 @@
 <div class="grid cards" markdown>
 
 -   [![トコヨ Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png){ .glightbox }
-    梳流し: [境地](../mechanics/index.md)で[再構成](../mechanics/flow.md)ダメージ。
+    梳流し: [境地](../mechanics/index.md)なら山札破壊。
 
 -   [![トコヨ Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png){ .glightbox }
-    雅打ち: 対応で相手の攻撃を無効化。
+    雅打ち: [境地](../mechanics/index.md)で攻撃を打ち消す。
 
 -   [![トコヨ Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_3.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_3.png){ .glightbox }
-    跳ね兎: 0-1へ潜り込む。
+    跳ね兎: 至近距離への侵入。
 
 -   [![トコヨ Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_4.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_4.png){ .glightbox }
-    詩舞: [間合](../mechanics/index.md)を離す回避手段。
+    詩舞: 優雅に距離を取る。
 
 -   [![トコヨ Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_5.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_5.png){ .glightbox }
-    要返し: 山札回復の重要札。
+    要返し: デッキを再生する要。
 
 -   [![トコヨ Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png){ .glightbox }
-    風舞台: 相手を遠くへ飛ばす。
+    風舞台: 相手を吹き飛ばす。
 
 -   [![トコヨ Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png){ .glightbox }
-    晴舞台: [集中力](../mechanics/index.md)を高める。
+    晴舞台: [境地](../mechanics/index.md)への到達。
 
 </div>
 

@@ -28,25 +28,25 @@
 <div class="grid cards" markdown>
 
 -   [![クルル Card](../assets/images/card/cards/na_10_o_n/na_10_o_n_1.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_1.png){ .glightbox }
-    えれきてる: 科学の力で攻撃。
+    えれきてる: 電撃による攻撃。
 
 -   [![クルル Card](../assets/images/card/cards/na_10_o_n/na_10_o_n_2.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_2.png){ .glightbox }
-    あくせらー: 瞬速で攻撃。
+    あくせらー: 加速装置の一撃。
 
 -   [![クルル Card](../assets/images/card/cards/na_10_o_n/na_10_o_n_3.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_3.png){ .glightbox }
-    くるるーん: 対応攻撃。
+    くるるーん: 回転する対応札。
 
 -   [![クルル Card](../assets/images/card/cards/na_10_o_n/na_10_o_n_4.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_4.png){ .glightbox }
-    とるねーど: 全力攻撃。
+    とるねーど: 竜巻の破壊力。
 
 -   [![クルル Card](../assets/images/card/cards/na_10_o_n/na_10_o_n_5.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_5.png){ .glightbox }
-    りげいなー: リソース回復。
+    りげいなー: [オーラ](../mechanics/index.md)を再生。
 
 -   [![クルル Card](../assets/images/card/cards/na_10_o_n/na_10_o_n_6.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_6.png){ .glightbox }
-    もじゅるー: 機構を強化。
+    もじゅるー: [機巧](../mechanics/index.md)の土台。
 
 -   [![クルル Card](../assets/images/card/cards/na_10_o_n/na_10_o_n_7.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_7.png){ .glightbox }
-    だうじんぐ: 山札操作。
+    だうじんぐ: デッキを探索。
 
 </div>
 

@@ -28,25 +28,25 @@
 <div class="grid cards" markdown>
 
 -   [![シンラ Card](../assets/images/card/cards/na_07_o_n/na_07_o_n_1.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_1.png){ .glightbox }
-    立論: 付与でお手軽攻撃。
+    立論: 付与による持続攻撃。
 
 -   [![シンラ Card](../assets/images/card/cards/na_07_o_n/na_07_o_n_2.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_2.png){ .glightbox }
-    反論: 対応で相手の攻撃を打ち消す。
+    反論: 論理で攻撃を否定。
 
 -   [![シンラ Card](../assets/images/card/cards/na_07_o_n/na_07_o_n_3.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_3.png){ .glightbox }
-    詭弁: 全力で強力な付与攻撃。
+    詭弁: 強引な論理展開。
 
 -   [![シンラ Card](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ .glightbox }
-    引用: 相手の捨て札を利用。
+    引用: 相手の札を盗用。
 
 -   [![シンラ Card](../assets/images/card/cards/na_07_o_n/na_07_o_n_5.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_5.png){ .glightbox }
-    扇動: 相手の手札を削る。
+    扇動: 思考を乱す妨害。
 
 -   [![シンラ Card](../assets/images/card/cards/na_07_o_n/na_07_o_n_6.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_6.png){ .glightbox }
-    壮語: 防御力を高める付与。
+    壮語: 自己強化の宣言。
 
 -   [![シンラ Card](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }
-    論破: ダメージ無効化。
+    論破: 完全なる否定。
 
 </div>
 

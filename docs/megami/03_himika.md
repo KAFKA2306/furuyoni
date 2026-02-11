@@ -28,25 +28,25 @@
 <div class="grid cards" markdown>
 
 -   [![ヒミカ Card](../assets/images/card/cards/na_03_o_n/na_03_o_n_1.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_1.png){ .glightbox }
-    シュート: 遠距離の基本。
+    シュート: 遠[間合](../mechanics/index.md)での牽制。
 
 -   [![ヒミカ Card](../assets/images/card/cards/na_03_o_n/na_03_o_n_2.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_2.png){ .glightbox }
-    ラピッドファイア: [連火](../mechanics/index.md)の起点。
+    ラピッドファイア: コンボの着火剤。
 
 -   [![ヒミカ Card](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png){ .glightbox }
-    マグナムカノン: 高火力3/2。
+    マグナムカノン: [連火](../mechanics/index.md)で貫通力増大。
 
 -   [![ヒミカ Card](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png){ .glightbox }
-    フルバースト: 全力大ダメージ。
+    フルバースト: 一撃必殺の大砲。
 
 -   [![ヒミカ Card](../assets/images/card/cards/na_03_o_n/na_03_o_n_5.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_5.png){ .glightbox }
-    バックステップ: 離脱の切り札。
+    バックステップ: 安全圏への撤退。
 
 -   [![ヒミカ Card](../assets/images/card/cards/na_03_o_n/na_03_o_n_6.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_6.png){ .glightbox }
-    バックドラフト: 火力底上げ。
+    バックドラフト: 全攻撃を強化する炎。
 
 -   [![ヒミカ Card](../assets/images/card/cards/na_03_o_n/na_03_o_n_7.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_7.png){ .glightbox }
-    スモーク: 煙玉で撹乱。
+    スモーク: 視界を奪い逃走。
 
 </div>
 

@@ -28,25 +28,25 @@
 <div class="grid cards" markdown>
 
 -   [![ユキヒ Card](../assets/images/card/cards/na_06_o_n/na_06_o_n_1.png)](../assets/images/card/cards/na_06_o_n/na_06_o_n_1.png){ .glightbox }
-    しこみばり/ふくみばり: 距離に応じた変幻自在の攻撃。
+    しこみばり/ふくみばり: 傘の状態で変化。
 
 -   [![ユキヒ Card](../assets/images/card/cards/na_06_o_n/na_06_o_n_2.png)](../assets/images/card/cards/na_06_o_n/na_06_o_n_2.png){ .glightbox }
-    しこみび/ねこだまし: 攻めと守りを使い分ける。
+    しこみび/ねこだまし: 攻防の二面性。
 
 -   [![ユキヒ Card](../assets/images/card/cards/na_06_o_n/na_06_o_n_3.png)](../assets/images/card/cards/na_06_o_n/na_06_o_n_3.png){ .glightbox }
-    ふりはらい/たぐりよせ: [間合](../mechanics/index.md)を大きく操作。
+    ふりはらい/たぐりよせ: 距離の完全支配。
 
 -   [![ユキヒ Card](../assets/images/card/cards/na_06_o_n/na_06_o_n_4.png)](../assets/images/card/cards/na_06_o_n/na_06_o_n_4.png){ .glightbox }
-    ふりまわし/つきさし: 傘の[開閉](../mechanics/index.md)で性質変化。
+    ふりまわし/つきさし: 形態で効果反転。
 
 -   [![ユキヒ Card](../assets/images/card/cards/na_06_o_n/na_06_o_n_5.png)](../assets/images/card/cards/na_06_o_n/na_06_o_n_5.png){ .glightbox }
-    かさまわし: 傘を[開閉](../mechanics/index.md)する基本動作。
+    かさまわし: スタンス切替の核。
 
 -   [![ユキヒ Card](../assets/images/card/cards/na_06_o_n/na_06_o_n_6.png)](../assets/images/card/cards/na_06_o_n/na_06_o_n_6.png){ .glightbox }
-    ひきあし/もぐりこみ: 状況に応じた移動手段。
+    ひきあし/もぐりこみ: 柔軟な機動力。
 
 -   [![ユキヒ Card](../assets/images/card/cards/na_06_o_n/na_06_o_n_7.png)](../assets/images/card/cards/na_06_o_n/na_06_o_n_7.png){ .glightbox }
-    えんむすび: 傘の状態で効果が変わる補助。
+    えんむすび: 形態依存の補助札。
 
 </div>
 

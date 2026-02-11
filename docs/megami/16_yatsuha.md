@@ -28,25 +28,25 @@
 <div class="grid cards" markdown>
 
 -   [![ヤツハ Card](../assets/images/card/cards/na_16_o_n/na_16_o_n_1.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_1.png){ .glightbox }
-    星の爪: [鏡映](../mechanics/index.md)で強化。
+    星の爪: 相手を映して強化。
 
 -   [![ヤツハ Card](../assets/images/card/cards/na_16_o_n/na_16_o_n_2.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_2.png){ .glightbox }
-    昏い顎: 見えない一撃。
+    昏い顎: 闇からの奇襲。
 
 -   [![ヤツハ Card](../assets/images/card/cards/na_16_o_n/na_16_o_n_3.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_3.png){ .glightbox }
-    鏡の悪魔: 相手を映し返す。
+    鏡の悪魔: 攻撃を反射。
 
 -   [![ヤツハ Card](../assets/images/card/cards/na_16_o_n/na_16_o_n_4.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_4.png){ .glightbox }
-    幻影歩法: 幻惑する移動。
+    幻影歩法: 残像を残す移動。
 
 -   [![ヤツハ Card](../assets/images/card/cards/na_16_o_n/na_16_o_n_5.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_5.png){ .glightbox }
-    意志: 力強い意思表示。
+    意志: 自我を確立。
 
 -   [![ヤツハ Card](../assets/images/card/cards/na_16_o_n/na_16_o_n_6.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_6.png){ .glightbox }
-    契約: 代償と引き換えの力。
+    契約: 悪魔との取引。
 
 -   [![ヤツハ Card](../assets/images/card/cards/na_16_o_n/na_16_o_n_7.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_7.png){ .glightbox }
-    寄花: 捨て札をリソースに。
+    寄花: 捨て札を再利用。
 
 </div>
 

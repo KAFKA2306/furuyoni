@@ -28,25 +28,25 @@
 <div class="grid cards" markdown>
 
 -   [![ユリナ Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png){ .glightbox }
-    斬: [間合](../mechanics/index.md)3-4の基本攻撃。
+    斬: [決死](../mechanics/index.md)で2/2になる主力。
 
 -   [![ユリナ Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png){ .glightbox }
-    一閃: [ライフ](../mechanics/index.md)に通る2/2。
+    一閃: [オーラ](../mechanics/index.md)を無視して致命傷。
 
 -   [![ユリナ Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_3.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_3.png){ .glightbox }
-    柄打ち: [宿し](../mechanics/index.md)つつの攻撃。
+    柄打ち: [宿し](../mechanics/index.md)で次ターンを準備。
 
 -   [![ユリナ Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_4.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_4.png){ .glightbox }
-    居合: 全力だが高火力。
+    居合: [決死](../mechanics/index.md)なら4/2の破壊力。
 
 -   [![ユリナ Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_5.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_5.png){ .glightbox }
-    足捌き: [間合](../mechanics/index.md)調整の要。
+    足捌き: 得意[間合](../mechanics/index.md)への帰還。
 
 -   [![ユリナ Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_6.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_6.png){ .glightbox }
-    気炎万丈: 大技の準備。
+    気炎万丈: [切札](../mechanics/index.md)への布石。
 
 -   [![ユリナ Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png){ .glightbox }
-    圧気: [オーラ](../mechanics/index.md)受けを強要。
+    圧気: [ライフ](../mechanics/index.md)ダメージへの誘導。
 
 </div>
 

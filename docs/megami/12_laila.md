@@ -28,25 +28,25 @@
 <div class="grid cards" markdown>
 
 -   [![ライラ Card](../assets/images/card/cards/na_12_o_n/na_12_o_n_1.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_1.png){ .glightbox }
-    獣爪: 基本の攻撃。
+    獣爪: 野生の爪撃。
 
 -   [![ライラ Card](../assets/images/card/cards/na_12_o_n/na_12_o_n_2.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_2.png){ .glightbox }
-    風雷撃: [帯電](../mechanics/index.md)で強化される。
+    風雷撃: ゲージで威力増大。
 
 -   [![ライラ Card](../assets/images/card/cards/na_12_o_n/na_12_o_n_3.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_3.png){ .glightbox }
-    流転爪: 移動しながら攻撃。
+    流転爪: 流れるような連撃。
 
 -   [![ライラ Card](../assets/images/card/cards/na_12_o_n/na_12_o_n_4.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_4.png){ .glightbox }
-    風走り: 機動力を確保。
+    風走り: 疾風の移動。
 
 -   [![ライラ Card](../assets/images/card/cards/na_12_o_n/na_12_o_n_5.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_5.png){ .glightbox }
-    風雷の知恵: ゲージを貯める。
+    風雷の知恵: [帯電](../mechanics/index.md)を加速。
 
 -   [![ライラ Card](../assets/images/card/cards/na_12_o_n/na_12_o_n_6.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_6.png){ .glightbox }
-    呼び声: [帯電](../mechanics/index.md)を付与。
+    呼び声: 精霊の力を呼ぶ。
 
 -   [![ライラ Card](../assets/images/card/cards/na_12_o_n/na_12_o_n_7.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_7.png){ .glightbox }
-    空駆け: [間合](../mechanics/index.md)無視の奇襲。
+    空駆け: 距離を超越する跳躍。
 
 </div>
 

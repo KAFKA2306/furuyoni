@@ -28,25 +28,25 @@
 <div class="grid cards" markdown>
 
 -   [![コルヌ Card](../assets/images/card/cards/na_15_o_n/na_15_o_n_1.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_1.png){ .glightbox }
-    雪刃: [凍結](../mechanics/index.md)を与える攻撃。
+    雪刃: 氷の刃で[凍結](../mechanics/index.md)。
 
 -   [![コルヌ Card](../assets/images/card/cards/na_15_o_n/na_15_o_n_2.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_2.png){ .glightbox }
-    旋回刃: 位置取りを有利に。
+    旋回刃: 回転しながら切る。
 
 -   [![コルヌ Card](../assets/images/card/cards/na_15_o_n/na_15_o_n_3.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_3.png){ .glightbox }
-    剣の舞: 連続で切り込む。
+    剣の舞: 華麗な連続攻撃。
 
 -   [![コルヌ Card](../assets/images/card/cards/na_15_o_n/na_15_o_n_4.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_4.png){ .glightbox }
-    かじかみ: 相手の動きを鈍らせる。
+    かじかみ: 凍てつく寒さ。
 
 -   [![コルヌ Card](../assets/images/card/cards/na_15_o_n/na_15_o_n_5.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_5.png){ .glightbox }
-    霜の茨: ジワジワと追い詰める。
+    霜の茨: 持続的な[凍結](../mechanics/index.md)。
 
 -   [![コルヌ Card](../assets/images/card/cards/na_15_o_n/na_15_o_n_6.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_6.png){ .glightbox }
-    絶対零度: 強力な[凍結](../mechanics/index.md)能力。
+    絶対零度: 完全停止の冷気。
 
 -   [![コルヌ Card](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }
-    ポルチャルトー: 滑るような移動。
+    ポルチャルトー: 氷上を滑走。
 
 </div>
 
