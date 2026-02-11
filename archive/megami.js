@@ -1,5 +1,4 @@
 import { baseUrl, portraits } from './data.js';
-
 const megamiList = [
     { no: "01", name: "ユリナ", role: "刀", keyword: "決死", feature: "ビートダウン / 高打点", desc: "シンプルかつ強力。間合3-4に潜り込み、重い一撃（月影落）を叩き込む。" },
     { no: "02", name: "サイネ", role: "薙刀", keyword: "八相", feature: "中距離 / カウンター", desc: "間合4-5での安定した攻撃と強力な対応札（氷雨細音の果ての果て）を持つ。" },
@@ -18,7 +17,6 @@ const megamiList = [
     { no: "15", name: "コルヌ", role: "橇", keyword: "凍結", feature: "ロック / 妨害", desc: "相手のリソースを凍結させ、行動不能に追い込む。" },
     { no: "16", name: "ヤツハ", role: "鏡", keyword: "鏡映", feature: "コピー / カウンター", desc: "相手の攻撃をコピーしたり反射したりする。" }
 ];
-
 export function renderMegamiRoster() {
     return `
         <div class="megami-grid">

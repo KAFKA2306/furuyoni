@@ -2,7 +2,6 @@ from pathlib import Path
 import re
 from typing import Dict, List, Optional
 from furuyoni.infrastructure.paths import DOCS_DIR, get_relative_path
-
 TERM_MAPPING: Dict[str, str] = {
     "ユリナ": "megami/index.md",
     "サイネ": "megami/index.md",
@@ -58,24 +57,21 @@ TERM_MAPPING: Dict[str, str] = {
     "凍結": "mechanics/index.md",
     "鏡映": "mechanics/index.md",
 }
-
 class Linker:
     def __init__(self, mapping: Dict[str, str] = TERM_MAPPING) -> None:
         self.mapping: Dict[str, str] = mapping
         self.sorted_terms: List[str] = sorted(mapping.keys(), key=len, reverse=True)
         self.pattern: re.Pattern = self._build_pattern()
-
     def _build_pattern(self) -> re.Pattern:
         p_link: str = r'\[.*?\]\(.*?\)'
         p_image: str = r'!\[.*?\]\(.*?\)'
         p_code_inline: str = r'`[^`\n]+`'
         p_code_block: str = r'```[\s\S]*?```'
         p_html: str = r'<[^>]+>'
-        p_header: str = r'^#{1,6}\s.*$'
+        p_header: str = r'^
         protected_pattern: str = f"({p_code_block}|{p_link}|{p_image}|{p_code_inline}|{p_html}|{p_header})"
         terms_pattern: str = "(" + "|".join(re.escape(t) for t in self.sorted_terms) + ")"
         return re.compile(f"{protected_pattern}|{terms_pattern}", re.MULTILINE)
-
     def process_content(self, content: str, file_path: Path) -> str:
         def replace_func(match: re.Match) -> str:
             g1: Optional[str] = match.group(1)

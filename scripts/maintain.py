@@ -9,20 +9,15 @@ import time
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 from concurrent.futures import ThreadPoolExecutor
-
 PROJECT_ROOT: Path = Path(__file__).resolve().parents[1]
 SRC_DIR: Path = PROJECT_ROOT / "src"
-
 if str(SRC_DIR) not in sys.path:
     sys.path.append(str(SRC_DIR))
-
 from furuyoni.infrastructure.paths import DOCS_DIR, PROJECT_ROOT as DATA_PROJECT_ROOT
 from furuyoni.domain.validator import LinkValidator
-
 def load_config(path: str) -> Dict:
     with open(path, "r", encoding="utf-8") as f:
         return yaml.safe_load(f)
-
 def check_links() -> None:
     validator: LinkValidator = LinkValidator()
     file_map: Dict[str, List[str]] = {}
@@ -44,12 +39,11 @@ def check_links() -> None:
             print(f"File: {f}")
             for l in broken:
                 print(f"  - {l} : {results[l]}")
-
 def add_links(config_path: str) -> None:
     cfg: Dict = load_config(config_path)
     mapping: Dict[str, str] = cfg["term_mapping"]
     terms: List[str] = sorted(mapping.keys(), key=len, reverse=True)
-    p_prot: str = r"(```[\s\S]*?```|\[.*?\]\(.*?\)|!\[.*?\]\(.*?\)|`[^`\n]+`|<[^>]+>|^#{1,6}\s.*$)"
+    p_prot: str = r"(```[\s\S]*?```|\[.*?\]\(.*?\)|!\[.*?\]\(.*?\)|`[^`\n]+`|<[^>]+>|^
     p_terms: str = "(" + "|".join(re.escape(t) for t in terms) + ")"
     pat: re.Pattern = re.compile(f"{p_prot}|{p_terms}", re.MULTILINE)
     for root, _, files in os.walk(DOCS_DIR):
@@ -69,7 +63,6 @@ def add_links(config_path: str) -> None:
                 if new != content:
                     with open(p, "w", encoding="utf-8") as f:
                         f.write(new)
-
 def sync_cards(config_path: str) -> None:
     cfg: Dict = load_config(config_path)
     with open(PROJECT_ROOT / cfg["paths"]["data_js"], "r", encoding="utf-8") as f:
@@ -78,16 +71,15 @@ def sync_cards(config_path: str) -> None:
     e_idx: int = c.find("};", s_idx) + 1
     raw: str = c[s_idx:e_idx].strip().replace("'", '"')
     data: Dict[str, List[str]] = json.loads(re.sub(r",\s*([}\]])", r"\1", raw))
-    out: str = "# メガミカードギャラリー\n\n"
+    out: str = "
     for m, ps in data.items():
-        out += f"## {m}\n\n<div class=\"grid cards\" markdown>\n\n"
+        out += f"
         for p in ps:
             url: str = f"{cfg['urls']['base_card_url']}{p}"
             out += f"-   [:external-link: ![{m}]({url})]({url}){{ .glightbox }}\n\n"
         out += "</div>\n\n"
     with open(PROJECT_ROOT / cfg["paths"]["output_cards"], "w", encoding="utf-8") as f:
         f.write(out)
-
 def download_assets() -> None:
     dest: Path = DOCS_DIR / "assets/images"
     dest.mkdir(parents=True, exist_ok=True)
@@ -111,7 +103,6 @@ def download_assets() -> None:
                 rel: str = os.path.relpath(dest, p.parent)
                 new: str = re.sub(pat, lambda x: f"{rel}/{x.group(1)}", content)
                 with open(p, "w", encoding="utf-8") as f: f.write(new)
-
 def main() -> None:
     parser = argparse.ArgumentParser()
     sub = parser.add_subparsers(dest="cmd")
@@ -124,6 +115,5 @@ def main() -> None:
     elif args.cmd == "add-links": add_links("config.yaml")
     elif args.cmd == "sync-cards": sync_cards("config.yaml")
     elif args.cmd == "download-assets": download_assets()
-
 if __name__ == "__main__":
     main()

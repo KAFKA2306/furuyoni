@@ -144,7 +144,6 @@ export const cards = {
     "images/card/cards/na_16_o_n/na_16_o_n_7.png"
   ]
 };
-
 export const portraits = {
   "ユリナ": "images/chara/ico-01.png",
   "サイネ": "images/chara/ico-02.png",
@@ -163,7 +162,6 @@ export const portraits = {
   "コルヌ": "images/chara/ico-15.png",
   "ヤツハ": "images/chara/ico-16.png"
 };
-
 export const pairs = [
   {
     id: 1,
@@ -246,6 +244,4 @@ export const pairs = [
     cons: "決定打を出すまでが遅く、火力で押し切られる展開を完全に防ぎきるのは困難です。"
   }
 ];
-
-
-export const baseUrl = "https://main-bakafire.ssl-lolipop.jp/furuyoni/na/";
+export const baseUrl = "https:

@@ -2,12 +2,10 @@ import { pairs, cards, portraits, baseUrl } from './data.js';
 import { storySteps } from './story.js';
 import { mechanicsContent } from './mechanics.js';
 import { renderMegamiRoster } from './megami.js';
-
 const grid = document.getElementById('pair-grid');
 const timeline = document.getElementById('story-timeline');
 const modal = document.getElementById('modal');
 const modalContent = document.getElementById('modal-content');
-
 function renderPairs() {
     grid.innerHTML = pairs.map(p => `
         <div class="pair-card" data-id="${p.id}">
@@ -21,7 +19,6 @@ function renderPairs() {
     `).join('');
     grid.querySelectorAll('.pair-card').forEach(c => c.onclick = () => showModal(pairs.find(p => p.id === +c.dataset.id)));
 }
-
 function renderStory() {
     timeline.innerHTML = storySteps.map((s, i) => `
         <div class="story-step">
@@ -40,7 +37,6 @@ function renderStory() {
         showModal(pairs.find(p => p.id === +b.dataset.id));
     });
 }
-
 function showModal(p) {
     modalContent.innerHTML = `
         <div class="detail-container">
@@ -70,28 +66,21 @@ function showModal(p) {
     modal.classList.remove('hidden');
     document.body.style.overflow = 'hidden';
 }
-
 function closeModal() {
     modal.classList.add('hidden');
     document.body.style.overflow = '';
 }
-
 document.querySelectorAll('.nav-btn').forEach(b => b.onclick = () => {
     const view = b.dataset.view;
     document.querySelectorAll('.nav-btn').forEach(n => n.classList.toggle('active', n === b));
     document.querySelectorAll('.view').forEach(v => v.classList.toggle('hidden', v.id !== `${view}-view`));
-
     if (view === 'story') renderStory();
     if (view === 'rules') document.getElementById('rules-view').innerHTML = mechanicsContent;
     if (view === 'megami') document.getElementById('megami-view').innerHTML = renderMegamiRoster();
 });
-
 document.getElementById('close-modal').onclick = closeModal;
 modal.querySelector('.modal-overlay').onclick = closeModal;
-
 renderPairs();
-
-// Sakura Effect
 function createSakura() {
     const petal = document.createElement('div');
     petal.classList.add('petal');
@@ -99,18 +88,13 @@ function createSakura() {
     const left = Math.random() * 100;
     const delay = Math.random() * 20;
     const duration = Math.random() * 10 + 15;
-
     petal.style.width = `${size}px`;
     petal.style.height = `${size}px`;
     petal.style.left = `${left}vw`;
-    petal.style.animationDelay = `-${delay}s`; // Start mid-animation
+    petal.style.animationDelay = `-${delay}s`;
     petal.style.animationDuration = `${duration}s`;
-
-    // Randomly vary opacity/color slightly if desired, but CSS handles base style
     document.body.appendChild(petal);
 }
-
-// Create 50 petals for a dense but subtle effect
 for (let i = 0; i < 50; i++) {
     createSakura();
 }

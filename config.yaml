@@ -1,4 +1,4 @@
-model: "gemini-3.0-flash"
+model: "gemini-2.5-flash"
 paths:
   docs_dir: "docs"
   data_js: "archive/data.js"
