@@ -138,8 +138,7 @@
     [https://yhsxsx3.hatenablog.com/entry/2023/12/08/185620](https://yhsxsx3.hatenablog.com/entry/2023/12/08/185620)
 11. 12/11 「リーサルプランから考えるプレイングについて」 — いちい すわ
     [https://ichii-suwa.hatenablog.com/entry/2023/12/11/003820](https://ichii-suwa.hatenablog.com/entry/2023/12/11/003820)
-12. 12/12 「三国杯观赛记！」 — Oribe Tsubasa
-    [https://www.bilibili.com/read/cv28534196](https://www.bilibili.com/read/cv28534196)
+
 13. 12/13 「S8-2の裏斬りの更新と拒絶[毒](../megami/index.md)について」 — ミツヤ
     [https://note.com/328_c1der/n/na9e7cbd3f8f5](https://note.com/328_c1der/n/na9e7cbd3f8f5)
 14. 12/14 「【ふるよに・ナーフ解除選手権】許されざるは過去の咎」 — tahITEF

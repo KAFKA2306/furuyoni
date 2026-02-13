@@ -18,18 +18,27 @@ theme:
       toggle:
         icon: material/brightness-7
         name: ダークモードに切替
+  icon:
+    repo: fontawesome/brands/github
   features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
     - navigation.sections
     - navigation.expand
     - navigation.top
     - search.highlight
     - content.tabs.link
     - content.code.copy
+    - toc.follow
+
   font:
     text: Noto Sans JP
     code: Roboto Mono
-  icon:
-    repo: fontawesome/brands/github
+
+repo_url: https://github.com/kafka2306/furuyoni
+repo_name: kafka2306/furuyoni
+edit_uri: edit/main/docs/
 
 nav:
   - ホーム: index.md

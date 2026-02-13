@@ -26,6 +26,9 @@ jobs:
       - name: Install dependencies
         run: uv sync
 
+      - name: Check links
+        run: uv run scripts/maintain.py check-links
+
       - name: Build site
         run: uv run mkdocs build
 

@@ -33,17 +33,21 @@ def check_links() -> None:
                     file_map[str(p.relative_to(DATA_PROJECT_ROOT))] = ls
                     links.update(ls)
     results: Dict[str, Tuple[str, str]] = validator.validate_batch(list(links))
+    has_error = False
     for f, ls in file_map.items():
         broken = [l for l in set(ls) if results[l][1] != "OK"]
         if broken:
+            has_error = True
             print(f"File: {f}")
             for l in broken:
                 print(f"  - {l} : {results[l]}")
+    if has_error:
+        sys.exit(1)
 def add_links(config_path: str) -> None:
     cfg: Dict = load_config(config_path)
     mapping: Dict[str, str] = cfg["term_mapping"]
     terms: List[str] = sorted(mapping.keys(), key=len, reverse=True)
-    p_prot: str = r"(```[\s\S]*?```|\[.*?\]\(.*?\)|!\[.*?\]\(.*?\)|`[^`\n]+`|<[^>]+>|^
+    p_prot: str = r"(```[\s\S]*?```|\[.*?\]\(.*?\)|!\[.*?\]\(.*?\)|`[^`\n]+`|<[^>]+>|^)"
     p_terms: str = "(" + "|".join(re.escape(t) for t in terms) + ")"
     pat: re.Pattern = re.compile(f"{p_prot}|{p_terms}", re.MULTILINE)
     for root, _, files in os.walk(DOCS_DIR):
@@ -63,21 +67,60 @@ def add_links(config_path: str) -> None:
                 if new != content:
                     with open(p, "w", encoding="utf-8") as f:
                         f.write(new)
+def build_card_map() -> Dict[str, str]:
+    """Scans megami docs to map image filenames to card names."""
+    card_map = {}
+    # Pattern to match: Image link followed by "CardName:"
+    # We look for the image filename and the text immediately following definition list style or just text
+    # Example:
+    # -   [![...](path/to/file.png)](...)
+    #     CardName: Description
+    pat = re.compile(r"images/card/cards/[^/]+/([^/]+\.png).*?\n\s+([^:<\n]+)[:]", re.MULTILINE)
+    
+    for root, _, files in os.walk(DOCS_DIR / "megami"):
+        for file in files:
+            if file.endswith(".md") and file != "cards.md" and file != "index.md":
+                with open(Path(root) / file, "r", encoding="utf-8") as f:
+                    content = f.read()
+                    # Find all matches
+                    for m in pat.finditer(content):
+                        filename = m.group(1)
+                        card_name = m.group(2).strip()
+                        # Clean up card name (remove MD syntax if any)
+                        card_name = card_name.replace("*", "").replace("`", "")
+                        card_map[filename] = card_name
+    print(f"Mapped {len(card_map)} cards.")
+    return card_map
+
 def sync_cards(config_path: str) -> None:
     cfg: Dict = load_config(config_path)
+    card_map = build_card_map()
+    
     with open(PROJECT_ROOT / cfg["paths"]["data_js"], "r", encoding="utf-8") as f:
         c: str = f.read()
     s_idx: int = c.find("export const cards = {") + len("export const cards = ")
     e_idx: int = c.find("};", s_idx) + 1
     raw: str = c[s_idx:e_idx].strip().replace("'", '"')
     data: Dict[str, List[str]] = json.loads(re.sub(r",\s*([}\]])", r"\1", raw))
-    out: str = "
+    
+    out: str = ""
     for m, ps in data.items():
-        out += f"
+        out += f"### {m}\n\n<div class=\"grid cards\" markdown>\n\n"
         for p in ps:
             url: str = f"{cfg['urls']['base_card_url']}{p}"
-            out += f"-   [:external-link: ![{m}]({url})]({url}){{ .glightbox }}\n\n"
+            filename = p.split("/")[-1]
+            anchor = ""
+            if filename in card_map:
+                anchor = f" id=\"{card_map[filename]}\""
+            
+            # Add span with ID for anchor before the image
+            # We put it inside the list item
+            if anchor:
+                out += f"-   <span{anchor}></span>[:external-link: ![{m}]({url})]({url}){{ .glightbox }}\n\n"
+            else:
+                out += f"-   [:external-link: ![{m}]({url})]({url}){{ .glightbox }}\n\n"
         out += "</div>\n\n"
+    
     with open(PROJECT_ROOT / cfg["paths"]["output_cards"], "w", encoding="utf-8") as f:
         f.write(out)
 def download_assets() -> None:
