@@ -42,7 +42,6 @@ edit_uri: edit/main/docs/
 
 nav:
   - ホーム: index.md
-  - 概要: overview.md
   - 世界観: lore/index.md
   - ルール:
     - 基本ルール: mechanics/index.md

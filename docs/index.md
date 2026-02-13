@@ -14,7 +14,7 @@
 
 <div class="md-grid" markdown>
 
-???+ tip "🔰 初心者ミコトの皆様へ (Hajime's Note)"
+???+ tip "🔰 初心者ミコト(プレイヤー)の皆様へ (Hajime's Note)"
     「カードのテキストが難しくてよく分からない…」「ルールが少し複雑そう…」
     
     安心してください！このガイドは**専門用語を知らなくても楽しめる**ように作られています。まずは難しいことを考えず、気になるメガミ（キャラクター）の絵を眺めるところから始めてみませんか？
@@ -31,7 +31,7 @@
   <img src="assets/images/chara/ico-01.png" alt="Yurina">
 </div>
 
-### メガミ一覧 { .text-center }
+## メガミ一覧 { .text-center }
 
 <span class="badge-new">全16柱</span>
 
@@ -47,7 +47,7 @@
   <img src="assets/images/chara/ico-02.png" alt="Saine">
 </div>
 
-### ペア攻略 { .text-center }
+## ペア攻略 { .text-center }
 
 <span class="badge-season">Season 10</span>
 
@@ -63,7 +63,7 @@
   <img src="assets/images/chara/ico-03.png" alt="Himika">
 </div>
 
-### 最新シーズン情報 { .text-center }
+## 最新シーズン情報 { .text-center }
 
 <span class="badge-new">Season 10</span>
 
@@ -79,7 +79,7 @@
   <img src="assets/images/chara/ico-04.png" alt="Tokoyo">
 </div>
 
-### ルール＆カード { .text-center }
+## ルール＆カード { .text-center }
 
 <span class="badge-season">Basic</span>
 

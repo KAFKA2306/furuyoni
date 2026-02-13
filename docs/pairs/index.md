@@ -489,5 +489,10 @@
 ### 10. 爪忍（[ライラ](../megami/index.md)／[オボロ](../megami/index.md)）
 [オボロ](../megami/index.md)の手数の多さ（[設置](../mechanics/index.md)攻撃など）で[ライラ](../megami/index.md)の帯電ゲージを高速で溜め、後半に圧倒的な火力で押し切るコンボ色の強いビートダウンです。
 
-### 11. 毒氷（[チカゲ](../megami/index.md)／[コルヌ](../megami/index.md)）
+### 11. 毒氷（[チカゲ](../megami/09_chikage.md)／[コルヌ](../megami/15_korunu.md)）
 毒で手札を封じ、[凍結](../mechanics/index.md)で[オーラ](../mechanics/index.md)を封じる「完全ロック」を狙います。ハマれば相手は何もできずに窒息しますが、自身の火力が低めな点が課題です。
+
+### 12. 毒鏡（[チカゲ](../megami/09_chikage.md)／[ヤツハ](../megami/16_yatsuha.md)）
+ヤツハの『[寄花](../megami/cards.md#寄花)』とチカゲの『[毒霧](../megami/cards.md#毒霧)』を組み合わせ、高速で山札を汚染するコントロール型です。
+相手の山札を毒で死滅させ、ヤツハの自傷ダメージを最小限に抑えながら、相手のリソースを根こそぎ奪い取ります。
+([ブログ参照](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/))
