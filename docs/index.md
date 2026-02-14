@@ -4,6 +4,8 @@ hide:
   - toc
 ---
 
+# 桜降る代に決闘を
+
 <div class="hero-section">
     <div class="hero-title">桜降る代に決闘を</div>
     <div class="hero-subtitle">
