@@ -1,4 +1,4 @@
-# [ユリナ](index.md)
+# ユリナ
 
 <div class="megami-hud" style="display: grid; grid-template-columns: 100px 1fr; gap: 20px; background: rgba(0,0,0,0.05); padding: 20px; border-radius: 10px; border-left: 5px solid #d32f2f;">
   <img src="../assets/images/chara/ico-01.png" width="100">
@@ -66,5 +66,5 @@ graph LR
 
 ## アンチメガミ・相性
 - **得意**: 防御が薄い、または低速なメガミ（[サイネ](02_saine.md)などとの中距離戦）。
-- **苦手**: 遠距離を維持し続ける「レンジロック」（[ハツミ](index.md)・[サリヤ](index.md)）。
+- **苦手**: 遠距離を維持し続ける「レンジロック」（[ハツミ](17_hatsumi.md)・サリヤ）。
 - **対策**: 『[![足捌き](../assets/images/card/cards/na_01_o_n/na_01_o_n_5.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_5.png){ .glightbox }』を全力で回し、1回のチャンスで『月影落』を叩き込む「ワンチャンス」戦術へ移行せよ。
