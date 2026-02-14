@@ -48,7 +48,7 @@
 
 [![遠心撃](../assets/images/card/cards/na_08_o_n/na_08_o_n_1.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_1.png){ align=left width=150 }
 
-**役割**: 最大火力 / ロマン砲
+役割: 最大火力 / ロマン砲
 
 *   **通常時**: [3/2]
 *   **[遠心](../mechanics.md#enshin)時**: [5/3]（※版により数値は変動しますが、概ね超強化されます）
@@ -61,7 +61,7 @@
 
 [![砂風塵](../assets/images/card/cards/na_08_o_n/na_08_o_n_2.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_2.png){ align=left width=150 }
 
-**役割**: 牽制 / リソース破壊
+役割: 牽制 / リソース破壊
 
 *   **[遠心](../mechanics.md#enshin)時**: ヒット時、相手は[オーラ](../mechanics.md#aura)を[ダスト](../mechanics.md#dust)へ送る、あるいは手札を捨てるなどの追加効果。
 *   **解説**:
@@ -73,7 +73,7 @@
 
 [![大地砕き](../assets/images/card/cards/na_08_o_n/na_08_o_n_3.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_3.png){ align=left width=150 }
 
-**役割**: フィールド操作 / 資源供給
+役割: フィールド操作 / 資源供給
 
 *   **解説**:
     [ダスト](../mechanics.md#dust)から結晶を自分の[オーラ](../mechanics.md#aura)や[フレア](../mechanics.md#flare)に移動させる、あるいは盤面全体を震わせてリソースを再配置する札。ハガネの燃費の悪さを補う重要なエンジンとなります。
@@ -84,7 +84,7 @@
 
 [![超反発](../assets/images/card/cards/na_08_o_n/na_08_o_n_4.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_4.png){ align=left width=150 }
 
-**役割**: 移動 / 加速装置
+役割: 移動 / 加速装置
 
 *   **解説**:
     **[遠心](../mechanics.md#enshin)成立のためのキーカード。**
@@ -96,7 +96,7 @@
 
 [![円舞錬](../assets/images/card/cards/na_08_o_n/na_08_o_n_5.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_5.png){ align=left width=150 }
 
-**役割**: 持続バフ / 連続攻撃
+役割: 持続バフ / 連続攻撃
 
 *   **解説**:
     展開中の攻撃札にバフを与える付与札。ハガネの連撃をより重くし、相手の[オーラ](../mechanics.md#aura)受けを許さないプレッシャーを与え続けます。
@@ -107,7 +107,7 @@
 
 [![鐘鳴らし](../assets/images/card/cards/na_08_o_n/na_08_o_n_6.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_6.png){ align=left width=150 }
 
-**役割**: 至近距離防御崩し
+役割: 至近距離防御崩し
 
 *   **解説**:
     ハンマーの柄や側面で叩くようなイメージの、近距離攻撃。[遠心](../mechanics.md#enshin)撃が届かない至近距離（[間合](../mechanics.md#range)0-2など）での有効打として、クリンチしてくる相手への回答になります。
@@ -118,7 +118,7 @@
 
 [![引力場](../assets/images/card/cards/na_08_o_n/na_08_o_n_7.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_7.png){ align=left width=150 }
 
-**役割**: 捕獲 / 拘束
+役割: 捕獲 / 拘束
 
 *   **解説**:
     相手を引き寄せる付与札。遠い[間合](../mechanics.md#range)いに逃げようとする相手を強制的にハガネの[間合](../mechanics.md#range)に引き戻し、逃げ場のない処刑場を作り出します。

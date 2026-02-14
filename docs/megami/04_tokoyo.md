@@ -48,7 +48,7 @@
 
 [![梳流し](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png){ align=left width=150 }
 
-**役割**: 削り / 必中攻撃
+役割: 削り / 必中攻撃
 
 *   **適正[間合](../mechanics.md#range)**: 1-10
 *   **ダメージ**: [3/1]
@@ -61,7 +61,7 @@
 
 [![雅打ち](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png){ align=left width=150 }
 
-**役割**: 防御 / 対応の核
+役割: 防御 / 対応の核
 
 *   **適正[間合](../mechanics.md#range)**: 2-4
 *   **通常時**: [2/1]
@@ -75,7 +75,7 @@
 
 [![跳ね兎](../assets/images/card/cards/na_04_o_n/na_04_o_n_3.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_3.png){ align=left width=150 }
 
-**役割**: 移動 / リソース調整
+役割: 移動 / リソース調整
 
 *   **解説**:
     [前進](../mechanics.md#advance)・[後退](../mechanics.md#retreat)を使い分け、理想的な[間合](../mechanics.md#range)2-4を維持するための札。[境地](../mechanics.md#kyochi)状態であればさらに効率が上がります。
@@ -86,7 +86,7 @@
 
 [![詩舞](../assets/images/card/cards/na_04_o_n/na_04_o_n_4.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_4.png){ align=left width=150 }
 
-**役割**: 回復 / [オーラ](../mechanics.md#aura)維持
+役割: 回復 / [オーラ](../mechanics.md#aura)維持
 
 *   **通常時**: [オーラ](../mechanics.md#aura)を1回復（[纏い](../mechanics.md#matoy)）。
 *   **[境地](../mechanics.md#kyochi)時**: [オーラ](../mechanics.md#aura)をさらに回復、あるいは追加効果。
@@ -99,7 +99,7 @@
 
 [![要返し](../assets/images/card/cards/na_04_o_n/na_04_o_n_5.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_5.png){ align=left width=150 }
 
-**役割**: 再利用 / デッキ構築
+役割: 再利用 / デッキ構築
 
 *   **解説**:
     捨て札や伏せ札にある強力なカードを山札の底に戻します。これにより、トコヨは『[![梳流し](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png){ .glightbox }』や『[![雅打ち](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png){ .glightbox }』といったキーカードを他のメガミより頻繁に使用することが可能です。
@@ -111,7 +111,7 @@
 [![風舞台](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png){ align=left width=150 }
 [![晴舞台](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png){ align=right width=150 }
 
-**役割**: [間合](../mechanics.md#range)管理 / エンチャント
+役割: [間合](../mechanics.md#range)管理 / エンチャント
 
 *   **解説**:
     相手を近づけさせない（[![晴舞台](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png){ .glightbox }）、あるいは[間合](../mechanics.md#range)に留まらせる（[![風舞台](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png){ .glightbox }）ための付与札。相手のやりたいプレイングを強制的に否定し、トコヨの土俵で戦わせるためのツールです。

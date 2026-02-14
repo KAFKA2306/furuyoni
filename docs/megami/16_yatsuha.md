@@ -45,7 +45,7 @@
 
 [![星の爪](../assets/images/card/cards/na_16_o_n/na_16_o_n_1.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_1.png){ align=left width=150 }
 
-**役割**: 主力攻撃 / 削り
+役割: 主力攻撃 / 削り
 
 *   **適正[間合](../mechanics.md#range)**: 2-3
 *   **ダメージ**: [3/1]
@@ -58,7 +58,7 @@
 
 [![昏い顎](../assets/images/card/cards/na_16_o_n/na_16_o_n_2.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_2.png){ align=left width=150 }
 
-**役割**: リソース破壊 / 追撃
+役割: リソース破壊 / 追撃
 
 *   **適正[間合](../mechanics.md#range)**: 2-4
 *   **ダメージ**: [2/1]
@@ -71,7 +71,7 @@
 
 [![鏡の悪魔](../assets/images/card/cards/na_16_o_n/na_16_o_n_3.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_3.png){ align=left width=150 }
 
-**役割**: 至近距離爆発 / カウンター
+役割: 至近距離爆発 / カウンター
 
 *   **適正[間合](../mechanics.md#range)**: 1-2
 *   **ダメージ**: [3/2]
@@ -84,7 +84,7 @@
 
 [![幻影歩法](../assets/images/card/cards/na_16_o_n/na_16_o_n_4.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_4.png){ align=left width=150 }
 
-**役割**: 高速移動 / 回避
+役割: 高速移動 / 回避
 
 *   **適正[間合](../mechanics.md#range)**: 2-5
 *   **解説**:
@@ -96,7 +96,7 @@
 
 [![意志](../assets/images/card/cards/na_16_o_n/na_16_o_n_5.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_5.png){ align=left width=150 }
 
-**役割**: 遠距離牽制 / ドロー加速
+役割: 遠距離牽制 / ドロー加速
 
 *   **適正[間合](../mechanics.md#range)**: 2-5
 *   **ダメージ**: [3/1]
@@ -109,7 +109,7 @@
 
 [![契約](../assets/images/card/cards/na_16_o_n/na_16_o_n_6.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_6.png){ align=left width=150 }
 
-**役割**: 資源獲得 / 自己犠牲
+役割: 資源獲得 / 自己犠牲
 
 *   **解説**:
     自分の[ライフ](../mechanics.md#life)を直接削り、その代わりに手札を補充したり[フレア](../mechanics.md#flare)を獲得したりする札。ヤツハの燃費の悪さを「命」で補う、最も危うく、最も強力なエンジンです。
@@ -120,7 +120,7 @@
 
 [![寄花](../assets/images/card/cards/na_16_o_n/na_16_o_n_7.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_7.png){ align=left width=150 }
 
-**役割**: サーチ / 運命操作
+役割: サーチ / 運命操作
 
 *   **解説**:
     山札のトップを引き込み、強力なカードを即座に手札に加えるサーチ札。自傷のスリルをさらに高める、コンボ完成のための最後のピースです。
@@ -177,7 +177,7 @@
 
 *   **基本戦術**:
     1. 『[![契約](../assets/images/card/cards/na_16_o_n/na_16_o_n_6.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_6.png){ .glightbox }』で自分の[ライフ](../mechanics.md#life)を1-2点削り、序盤から3[フレア](../mechanics.md#flare)程度確保。
-    2. 『意思』と『[![鏡の悪魔](../assets/images/card/cards/na_16_o_n/na_16_o_n_3.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_3.png){ .glightbox }』で相手の[オーラ](../mechanics.md#aura)を強引に削る。
+    2. 『意志』と『[![鏡の悪魔](../assets/images/card/cards/na_16_o_n/na_16_o_n_3.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_3.png){ .glightbox }』で相手の[オーラ](../mechanics.md#aura)を強引に削る。
     3. [ライフ](../mechanics.md#life)が2-3になったタイミングで、強化された必殺技を放つ。
 *   **推奨パートナー**: [ライラ](12_laila.md)(爪)、[サリヤ](11_sariya.md)(騎)
 

@@ -263,26 +263,31 @@ def download_assets() -> None:
 
 
 # --- Cards Sync ---
-    return card_map
 
-
-    return card_map
 
 
 def build_card_map(doc_root: Path) -> Dict[str, str]:
     """
     Scans megami docs to map image filenames to card names.
     Strategy:
-    1. Identify valid card names from headers (e.g. '### N1 Slash').
+    1. Identify valid card names from headers (e.g. '### N1 Name').
     2. Map image filenames to these names if the image's Alt Text matches.
     This prevents mapping generic terms like "Role" or "Cost" to card images.
     """
     card_map = {}
     
-    # Pattern for Headers: ### N1 Name or ### S1 Name
+    # Pattern for Headers: ### N1 Name or ### S1 Name or #### N1 (A1) Name
     # We catch the name part.
-    header_pat = re.compile(r"^#{3}\s+[NS]\d+\s+(.+)$", re.MULTILINE)
+    header_pat = re.compile(r"^#{3,4}\s+(?:[NS]10|[NS]\d+|[A-Z]\d+)\s+(?:(?:\(A\d+\)\s+)?)(.+)$", re.MULTILINE)
     
+    # Blacklist of terms that might appear in headers but are NOT card names
+    BLACKLIST = {
+        "役割", "Role", "Range", "工廠", "燃焼", "凍結", "帯電", "機動", 
+        "騎動", "鬱積", "徹底抗戦", "神座渡", "あたらよ", "切札", "通常札",
+        "ライフ", "オーラ", "フレア", "ダスト", "間合", "集中力",
+        "攻撃", "行動", "付与", "対応", "全力", "特殊"
+    }
+
     # Pattern for Images: ![Alt](Filename)
     # We capture Alt and Filename.
     img_pat = re.compile(r"!\[([^\]]*)\]\((?:[^)]*/)?([^/]+\.png)(?:\s.*?)?\)")
@@ -298,44 +303,42 @@ def build_card_map(doc_root: Path) -> Dict[str, str]:
                 valid_names = set()
                 for m in header_pat.finditer(content):
                     raw_name = m.group(1).strip()
-                    # Clean up: remove reading in parens, e.g. "Name (Reading)" -> "Name"
-                    clean = re.split(r"[（(]", raw_name)[0].strip()
                     
-                    # Remove markdown images/links: [![Alt](Url)] -> Alt, [Text](Url) -> Text
-                    # Regex to replace ![Alt](Url) with Alt
-                    clean = re.sub(r"!\[([^\]]*)\]\(.*?\)", r"\1", clean)
-                    # Regex to replace [Text](Url) with Text
-                    clean = re.sub(r"\[([^\]]+)\]\(.*?\)", r"\1", clean)
-                    
-                    clean = clean.strip()
-                    
-                    if clean:
-                        valid_names.add(clean)
+                    # Clean up candidates
+                    candidates = [n.strip() for n in raw_name.split("/")]
+
+                    for candidate in candidates:
+                        # Clean up: remove reading in parens, e.g. "Name (Reading)" -> "Name"
+                        clean = re.split(r"[（(]", candidate)[0].strip()
+                        
+                        # Remove markdown images/links: [![Alt](Url)] -> Alt, [Text](Url) -> Text
+                        clean = re.sub(r"!\[([^\]]*)\]\(.*?\)", r"", clean)
+                        clean = re.sub(r"\[([^\]]+)\]\(.*?\)", r"\1", clean)
+                        clean = re.sub(r"<[^>]+>", "", clean)
+                        clean = re.sub(r"\{:.*?}", "", clean)
+                        
+                        clean = clean.strip()
+                        
+                        if clean and clean not in BLACKLIST and len(clean) > 1:
+                            valid_names.add(clean)
 
                 # 2. Extract images and check against valid names
                 for m in img_pat.finditer(content):
                     alt_text = m.group(1).strip()
                     filename = m.group(2).strip()
 
-                    # Direct match
+                    # Direct match with valid header names for this file
                     if alt_text in valid_names:
                         card_map[filename] = alt_text
                         continue
                     
-                    # Fallback: if alt text is part of a valid name or vice versa?
-                    # Be conservative. If alt text is "Slash", and header is "Slash", good.
-                    # If alt text is "Role", and no header "Role", we skip.
-                    
-                    # Special case: sometimes alt text is full name but header has extra info?
-                    # We already cleaned header.
-                    pass
-
     return card_map
 
 
 def sync_cards(config_path: str) -> None:
     cfg: Dict = load_config(config_path)
     card_map = build_card_map(DOCS_DIR)
+    megami_map = extract_megami_mapping()
 
     with open(PROJECT_ROOT / cfg["paths"]["data_js"], "r", encoding="utf-8") as f:
         c: str = f.read()
@@ -346,7 +349,23 @@ def sync_cards(config_path: str) -> None:
 
     out: str = "# 全カード一覧\n\n"
     for m, ps in data.items():
-        out += f'## {m}\n\n<div class="grid cards" markdown>\n\n'
+        # Resolve English Anchor from Megami Map
+        header_attr = ""
+        if m in megami_map:
+            # megami_map[m] is like "megami/01_yurina.md"
+            # Extract "yurina" from "01_yurina.md"
+            fname = megami_map[m].split("/")[-1]
+            # Pattern: XX_name.md
+            match = re.match(r"\d+_(\w+)\.md", fname)
+            if match:
+                eng_id = match.group(1)
+                header_attr = f" {{: #{eng_id} }}"
+            elif fname == "cards.md":
+                pass # Should not happen for megami key
+            elif fname == "index.md":
+                pass
+
+        out += f'## {m}{header_attr}\n\n<div class="grid cards" markdown>\n\n'
         for p in ps:
             url: str = f"{cfg['urls']['base_card_url']}{p}"
             filename = p.split("/")[-1]

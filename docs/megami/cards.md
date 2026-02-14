@@ -1,6 +1,6 @@
 # 全カード一覧
 
-## [ユリナ](01_yurina.md)
+## ユリナ {: #yurina }
 
 <div class="grid cards" markdown>
 
@@ -20,7 +20,7 @@
 
 </div>
 
-## [サイネ](02_saine.md)
+## サイネ {: #saine }
 
 <div class="grid cards" markdown>
 
@@ -40,7 +40,7 @@
 
 </div>
 
-## [ヒミカ](03_himika.md)
+## ヒミカ {: #himika }
 
 <div class="grid cards" markdown>
 
@@ -60,7 +60,7 @@
 
 </div>
 
-## [トコヨ](04_tokoyo.md)
+## トコヨ {: #tokoyo }
 
 <div class="grid cards" markdown>
 
@@ -80,7 +80,7 @@
 
 </div>
 
-## [オボロ](05_oboro.md)
+## オボロ {: #oboro }
 
 <div class="grid cards" markdown>
 
@@ -100,7 +100,7 @@
 
 </div>
 
-## [ユキヒ](06_yukihi.md)
+## ユキヒ {: #yukihi }
 
 <div class="grid cards" markdown>
 
@@ -120,7 +120,7 @@
 
 </div>
 
-## [シンラ](07_shinra.md)
+## シンラ {: #shinra }
 
 <div class="grid cards" markdown>
 
@@ -140,7 +140,7 @@
 
 </div>
 
-## [ハガネ](08_hagane.md)
+## ハガネ {: #hagane }
 
 <div class="grid cards" markdown>
 
@@ -160,7 +160,7 @@
 
 </div>
 
-## [チカゲ](09_chikage.md)
+## チカゲ {: #chikage }
 
 <div class="grid cards" markdown>
 
@@ -180,7 +180,7 @@
 
 </div>
 
-## [クルル](10_kururu.md)
+## クルル {: #kururu }
 
 <div class="grid cards" markdown>
 
@@ -200,7 +200,7 @@
 
 </div>
 
-## [サリヤ](11_sariya.md)
+## サリヤ {: #sariya }
 
 <div class="grid cards" markdown>
 
@@ -220,7 +220,7 @@
 
 </div>
 
-## [ライラ](12_laila.md)
+## ライラ {: #laila }
 
 <div class="grid cards" markdown>
 
@@ -240,7 +240,7 @@
 
 </div>
 
-## [ウツロ](13_utsuro.md)
+## ウツロ {: #utsuro }
 
 <div class="grid cards" markdown>
 
@@ -252,7 +252,7 @@
 
 -   [:external-link: ![ウツロ](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_13_o_n/na_13_o_n_4.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_13_o_n/na_13_o_n_4.png){ .glightbox }
 
--   <span id="虚偽"></span>[:external-link: ![ウツロ](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_13_o_n/na_13_o_n_5.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_13_o_n/na_13_o_n_5.png){ .glightbox }
+-   [:external-link: ![ウツロ](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_13_o_n/na_13_o_n_5.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_13_o_n/na_13_o_n_5.png){ .glightbox }
 
 -   [:external-link: ![ウツロ](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_13_o_n/na_13_o_n_6.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_13_o_n/na_13_o_n_6.png){ .glightbox }
 
@@ -260,7 +260,7 @@
 
 </div>
 
-## [ホノカ](14_honoka.md)
+## ホノカ {: #honoka }
 
 <div class="grid cards" markdown>
 
@@ -280,27 +280,27 @@
 
 </div>
 
-## [コルヌ](15_korunu.md)
+## コルヌ {: #korunu }
 
 <div class="grid cards" markdown>
 
--   <span id="凍てつく足影"></span>[:external-link: ![コルヌ](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_1.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_1.png){ .glightbox }
+-   [:external-link: ![コルヌ](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_1.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_1.png){ .glightbox }
 
--   <span id="霜降らし"></span>[:external-link: ![コルヌ](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_2.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_2.png){ .glightbox }
+-   [:external-link: ![コルヌ](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_2.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_2.png){ .glightbox }
 
--   <span id="雪渡り"></span>[:external-link: ![コルヌ](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_3.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_3.png){ .glightbox }
+-   [:external-link: ![コルヌ](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_3.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_3.png){ .glightbox }
 
--   <span id="氷の棘"></span>[:external-link: ![コルヌ](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_4.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_4.png){ .glightbox }
+-   [:external-link: ![コルヌ](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_4.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_4.png){ .glightbox }
 
--   <span id="氷柱"></span>[:external-link: ![コルヌ](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_5.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_5.png){ .glightbox }
+-   [:external-link: ![コルヌ](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_5.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_5.png){ .glightbox }
 
 -   [:external-link: ![コルヌ](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_6.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_6.png){ .glightbox }
 
--   <span id="氷の床"></span>[:external-link: ![コルヌ](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_7.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }
+-   [:external-link: ![コルヌ](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_7.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }
 
 </div>
 
-## [ヤツハ](16_yatsuha.md)
+## ヤツハ {: #yatsuha }
 
 <div class="grid cards" markdown>
 

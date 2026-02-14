@@ -51,7 +51,7 @@
 
 [![凍てつく足影](../assets/images/card/cards/na_15_o_n/na_15_o_n_1.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_1.png){ align=left width=150 }
 
-**役割**: 移動妨害 / 基礎汚染
+役割: 移動妨害 / 基礎汚染
 
 *   **解説**:
     [前進](../mechanics.md#advance)しながら相手の[間合](../mechanics.md#range)結晶を凍らせるなど、足元から冷気を浴びせる札。相手は近づくため、あるいは逃げるために余計な労力（[集中力](../mechanics.md#focus)の消費など）を強いられます。
@@ -62,7 +62,7 @@
 
 [![霜降らし](../assets/images/card/cards/na_15_o_n/na_15_o_n_2.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_2.png){ align=left width=150 }
 
-**役割**: 広域[凍結](../mechanics.md#freeze) / 防御崩し
+役割: 広域[凍結](../mechanics.md#freeze) / 防御崩し
 
 *   **解説**:
     相手の[オーラ](../mechanics.md#aura)にある複数の結晶を一気に凍らせる補助札。[オーラ](../mechanics.md#aura)が凍ることで、相手は「[纏い](../mechanics.md#matoy)」による防御回復ができなくなり、コルヌの攻撃が通りやすい土壌が整います。
@@ -73,7 +73,7 @@
 
 [![雪渡り](../assets/images/card/cards/na_15_o_n/na_15_o_n_3.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_3.png){ align=left width=150 }
 
-**役割**: 位置調整 / 冷却
+役割: 位置調整 / 冷却
 
 *   **解説**:
     雪の上を滑るように[間合](../mechanics.md#range)を変える移動札。自分の有利な距離を維持しながら、ついでに相手を凍らせる、コルヌらしい効率的な動きを支えます。
@@ -84,7 +84,7 @@
 
 [![氷の棘](../assets/images/card/cards/na_15_o_n/na_15_o_n_4.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_4.png){ align=left width=150 }
 
-**役割**: 威力増強 / 削り
+役割: 威力増強 / 削り
 
 *   **適正[間合](../mechanics.md#range)**: 2-5
 *   **ダメージ**: [3/1] ([凍結](../mechanics.md#freeze)数によりバフ)
@@ -97,7 +97,7 @@
 
 [![氷柱](../assets/images/card/cards/na_15_o_n/na_15_o_n_5.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_5.png){ align=left width=150 }
 
-**役割**: 常時デバフ / 環境汚染
+役割: 常時デバフ / 環境汚染
 
 *   **解説**:
     展開中、相手が[基本動作](../mechanics.md)を行うたびにペナルティ（さらなる[凍結](../mechanics.md#freeze)やリソース喪失）を課す付与札。相手を「何もしない方がマシ」という思考停止の状態に追い込みます。
@@ -108,7 +108,7 @@
 
 [![斬り払い](../assets/images/card/cards/na_15_o_n/na_15_o_n_6.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_6.png){ align=left width=150 }
 
-**役割**: 至近距離防衛
+役割: 至近距離防衛
 
 *   **解説**:
     鎌による広範囲の薙ぎ払い。[凍結](../mechanics.md#freeze)で動きが鈍った相手を容赦なく叩き伏せ、[間合](../mechanics.md#range)を離すための時間を稼ぎます。
@@ -119,7 +119,7 @@
 
 [![氷の床](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ align=left width=150 }
 
-**役割**: トラップ / 滑走
+役割: トラップ / 滑走
 
 *   **解説**:
     盤面に「[![氷の床](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_7.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }」を[設置](../mechanics.md#setchi)し、足を踏み入れた相手を思わぬ方向へ滑らせます。意図しない[間合](../mechanics.md#range)変化は、コンボメガミにとって最大の脅威です。

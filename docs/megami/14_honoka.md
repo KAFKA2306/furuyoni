@@ -51,7 +51,7 @@
 
 [![精霊式](../assets/images/card/cards/na_14_o_n/na_14_o_n_1.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_1.png){ align=left width=150 }
 
-**役割**: 成長の核 / 主力攻撃
+役割: 成長の核 / 主力攻撃
 
 *   **解説**:
     ホノカの成長の物語の始まり。最初は[2/2]程度の平凡な攻撃ですが、進化を重ねることで[3/2]、さらには[4/3]の必中攻撃（神霊式）へと成長し、相手に逃げ場のない死を突きつけます。
@@ -62,7 +62,7 @@
 
 [![守護霊式](../assets/images/card/cards/na_14_o_n/na_14_o_n_2.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_2.png){ align=left width=150 }
 
-**役割**: 防御 / 鉄壁の守り
+役割: 防御 / 鉄壁の守り
 
 *   **効果**: 対応
 *   **解説**:
@@ -74,7 +74,7 @@
 
 [![突撃霊式](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png){ align=left width=150 }
 
-**役割**: 猛攻 / 加速
+役割: 猛攻 / 加速
 
 *   **効果**: 攻撃 ＋ [前進](../mechanics.md#advance)など
 *   **解説**:
@@ -86,7 +86,7 @@
 
 [![桜花のお守り](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png){ align=left width=150 }
 
-**役割**: [守護](../mechanics.md#guardian) / [ライフ](../mechanics.md#life)保護
+役割: [守護](../mechanics.md#guardian) / [ライフ](../mechanics.md#life)保護
 
 *   **解説**:
     次に受ける[ライフ](../mechanics.md#life)ダメージを軽減、あるいは無効化する付与札。一撃必殺を狙うメガミ（[ユリナ](01_yurina.md)等）にとって最悪のメタカードとなります。
@@ -97,7 +97,7 @@
 
 [![桜の翅](../assets/images/card/cards/na_14_o_n/na_14_o_n_5.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_5.png){ align=left width=150 }
 
-**役割**: 移動 / 優雅な舞い
+役割: 移動 / 優雅な舞い
 
 *   **解説**:
     自分の得意な2-5の[間合](../mechanics.md#range)を維持するための移動札。[基本動作](../mechanics.md)よりも効率よく動けるため、位置取りのストレスを軽減します。
@@ -108,7 +108,7 @@
 
 [![指揮](../assets/images/card/cards/na_14_o_n/na_14_o_n_6.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_6.png){ align=left width=150 }
 
-**役割**: 統率 / 進化加速
+役割: 統率 / 進化加速
 
 *   **解説**:
     自分のカードを強制的に進化させる、あるいは[フレア](../mechanics.md#flare)などの資源に変換する司令塔的札。コンボのスピードを上げるために不可欠です。
@@ -119,7 +119,7 @@
 
 [![追い風](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ align=left width=150 }
 
-**役割**: 加速支援 / フィールド支配
+役割: 加速支援 / フィールド支配
 
 *   **解説**:
     自分、あるいは味方の移動を容易にする環境バフ。[サリヤ](11_sariya.md)や[ハガネ](08_hagane.md)など、移動を戦術とする相方とのシナジーを爆発的に高めます。

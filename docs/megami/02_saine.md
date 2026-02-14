@@ -48,7 +48,7 @@
 
 [![八方振り](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png){ align=left width=150 }
 
-**役割**: 主力攻撃 / 牽制
+役割: 主力攻撃 / 牽制
 
 *   **適正[間合](../mechanics.md#range)**: 2-5
 *   **ダメージ**: [3/1]
@@ -61,7 +61,7 @@
 
 [![薙切り](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png){ align=left width=150 }
 
-**役割**: [ライフ](../mechanics.md#life)破壊 / [八相](../mechanics.md#hasso)の暴力
+役割: [ライフ](../mechanics.md#life)破壊 / [八相](../mechanics.md#hasso)の暴力
 
 *   **通常時**: [2/1]
 *   **[八相](../mechanics.md#hasso)時**: [3/3]
@@ -74,7 +74,7 @@
 
 [![圏域](../assets/images/card/cards/na_02_o_n/na_02_o_n_3.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_3.png){ align=left width=150 }
 
-**役割**: フィールド支配 / 接近拒否
+役割: フィールド支配 / 接近拒否
 
 *   **解説**:
     展開型の付与札。展開中、相手が特定の[間合](../mechanics.md#range)（主に近距離）へ入ろうとすると、その行動を制限したり、強制的に[間合](../mechanics.md#range)を離したりします（※バージョンにより詳細は異なりますが、基本は拒否設定です）。近距離アグロに対する最大のメタカードとなります。
@@ -85,7 +85,7 @@
 
 [![見切り](../assets/images/card/cards/na_02_o_n/na_02_o_n_4.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_4.png){ align=left width=150 }
 
-**役割**: 資源確保 / [集中力](../mechanics.md#focus)調整
+役割: 資源確保 / [集中力](../mechanics.md#focus)調整
 
 *   **解説**:
     自傷や[オーラ](../mechanics.md#aura)管理を助ける一枚。[八相](../mechanics.md#hasso)状態で使用することで、追加ドローや[集中力](../mechanics.md#focus)獲得などの恩恵を得ます。攻撃の合間にリソースを補充し、息切れを防ぐための「潤滑油」として機能します。
@@ -96,7 +96,7 @@
 
 [![石突き](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png){ align=left width=150 }
 
-**役割**: 移動攻撃 / 距離維持
+役割: 移動攻撃 / 距離維持
 
 *   **適正[間合](../mechanics.md#range)**: 3-5
 *   **効果**: [2/1]、攻撃後、[間合](../mechanics.md#range)を1つ離す（[後退](../mechanics.md#retreat)）。
@@ -109,7 +109,7 @@
 
 [![無音壁](../assets/images/card/cards/na_02_o_n/na_02_o_n_6.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_6.png){ align=left width=150 }
 
-**役割**: 防御 / 急所保護
+役割: 防御 / 急所保護
 
 *   **効果**: 対応
 *   **解説**:
@@ -121,7 +121,7 @@
 
 [![衝音晶](../assets/images/card/cards/na_02_o_n/na_02_o_n_7.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_7.png){ align=left width=150 }
 
-**役割**: 防御崩し / リソース変換
+役割: 防御崩し / リソース変換
 
 *   **解説**:
     相手の[オーラ](../mechanics.md#aura)にある結晶を[フレア](../mechanics.md#flare)へ送る等、相手の「守り」を崩しながら、逆に相手に「使わせたくない[切札](../mechanics.md)」を早めさせてしまう（[フレア](../mechanics.md#flare)が増えるため）、あるいは自分のリソースに変換するテクニカルな攻撃です。

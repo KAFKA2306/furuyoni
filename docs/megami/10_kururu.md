@@ -47,7 +47,7 @@
 
 [![えれきてる](../assets/images/card/cards/na_10_o_n/na_10_o_n_1.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_1.png){ align=left width=150 }
 
-**役割**: 主力攻撃 / [機巧](../mechanics.md#mechanism)の核
+役割: 主力攻撃 / [機巧](../mechanics.md#mechanism)の核
 
 *   **適正[間合](../mechanics.md#range)**: 1-10
 *   **解説**:
@@ -59,7 +59,7 @@
 
 [![あくせらー](../assets/images/card/cards/na_10_o_n/na_10_o_n_2.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_2.png){ align=left width=150 }
 
-**役割**: 加速 / ドロー
+役割: 加速 / ドロー
 
 *   **解説**:
     カードを引き、さらに[機巧](../mechanics.md#mechanism)条件に応じて追加の行動を可能にする札。クルルの複雑なコンボを回すための重要なピニオンギア（歯車）です。
@@ -70,7 +70,7 @@
 
 [![くるるーん](../assets/images/card/cards/na_10_o_n/na_10_o_n_3.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_3.png){ align=left width=150 }
 
-**役割**: 再利用 / 回路修復
+役割: 再利用 / 回路修復
 
 *   **解説**:
     使用済みのカードを再起させ、同じターン中に二度、三度と効果を使わせる札。クルルの「1ターンに何十手も動く」理不尽な動きの源泉です。
@@ -81,7 +81,7 @@
 
 [![とるねーど](../assets/images/card/cards/na_10_o_n/na_10_o_n_4.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_4.png){ align=left width=150 }
 
-**役割**: 範囲攻撃 / 盤面攪乱
+役割: 範囲攻撃 / 盤面攪乱
 
 *   **解説**:
     広い[間合](../mechanics.md#range)をカバーする攻撃。複数の[機巧](../mechanics.md#mechanism)を組み合わせることで、相手の[オーラ](../mechanics.md#aura)をボロボロにする連撃へと昇華します。
@@ -92,7 +92,7 @@
 
 [![りげいなー](../assets/images/card/cards/na_10_o_n/na_10_o_n_5.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_5.png){ align=left width=150 }
 
-**役割**: リソース回収 / 安定化
+役割: リソース回収 / 安定化
 
 *   **解説**:
     捨て札から必要なパーツを回収する札。コンボが途切れるのを防ぎ、毎ターン高いバリューのカードを投げ続けることを可能にします。
@@ -103,7 +103,7 @@
 
 [![もじゅるー](../assets/images/card/cards/na_10_o_n/na_10_o_n_6.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_6.png){ align=left width=150 }
 
-**役割**: モジュール強化 / 付与バフ
+役割: モジュール強化 / 付与バフ
 
 *   **解説**:
     展開することで後続の攻撃を強化する付与札。クルルの軽い手数を、決定打へと変えるための増幅器です。
@@ -114,7 +114,7 @@
 
 [![だうじんぐ](../assets/images/card/cards/na_10_o_n/na_10_o_n_7.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_7.png){ align=left width=150 }
 
-**役割**: サーチ / 索敵
+役割: サーチ / 索敵
 
 *   **解説**:
     山札のトップを操作し、必要な[機巧](../mechanics.md#mechanism)パーツを確実に手札に呼び込みます。

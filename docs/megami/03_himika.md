@@ -48,7 +48,7 @@
 
 [![シュート](../assets/images/card/cards/na_03_o_n/na_03_o_n_1.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_1.png){ align=left width=150 }
 
-**役割**: 基本攻撃 / 削り
+役割: 基本攻撃 / 削り
 
 *   **適正[間合](../mechanics.md#range)**: 1-10
 *   **ダメージ**: [2/1]
@@ -61,7 +61,7 @@
 
 [![ラピッドファイア](../assets/images/card/cards/na_03_o_n/na_03_o_n_2.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_2.png){ align=left width=150 }
 
-**役割**: 連続攻撃 / [連火](../mechanics.md#renka)の主役
+役割: 連続攻撃 / [連火](../mechanics.md#renka)の主役
 
 *   **適正[間合](../mechanics.md#range)**: 5-8
 *   **ダメージ**: [2/1]
@@ -75,7 +75,7 @@
 
 [![マグナムカノン](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png){ align=left width=150 }
 
-**役割**: フィニッシャー / 重量弾
+役割: フィニッシャー / 重量弾
 
 *   **適正[間合](../mechanics.md#range)**: 5-8
 *   **ダメージ**: [3/2]
@@ -88,7 +88,7 @@
 
 [![フルバースト](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png){ align=left width=150 }
 
-**役割**: 範囲制圧 / 大火力
+役割: 範囲制圧 / 大火力
 
 *   **適正[間合](../mechanics.md#range)**: 5-10
 *   **ダメージ**: [3/1]
@@ -102,7 +102,7 @@
 
 [![バックステップ](../assets/images/card/cards/na_03_o_n/na_03_o_n_5.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_5.png){ align=left width=150 }
 
-**役割**: 移動 / 手札補充
+役割: 移動 / 手札補充
 
 *   **効果**: [間合](../mechanics.md#range)を1つ離し、カードを1枚引く。
 *   **解説**:
@@ -114,7 +114,7 @@
 
 [![バックドラフト](../assets/images/card/cards/na_03_o_n/na_03_o_n_6.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_6.png){ align=left width=150 }
 
-**役割**: 火力バフ / [連火](../mechanics.md#renka)サポート
+役割: 火力バフ / [連火](../mechanics.md#renka)サポート
 
 *   **解説**:
     次に使用する攻撃カードを[+1/+1]強化します。[決死](../mechanics.md#kesshi)を待たずとも高火力を出せるヒミカにとって、このバフを乗せた『[![マグナムカノン](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png){ .glightbox }』[4/3]や『レッドバレット』は、もはや災害レベルの脅威となります。
@@ -125,7 +125,7 @@
 
 [![スモーク](../assets/images/card/cards/na_03_o_n/na_03_o_n_7.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_7.png){ align=left width=150 }
 
-**役割**: 妨害 / 防御削り
+役割: 妨害 / 防御削り
 
 *   **解説**:
     相手の[オーラ](../mechanics.md#aura)にある結晶を強制的に排除します。納（なふ）の効果により、一時的に相手の防御を無効化し、後続の銃弾を確実に[ライフ](../mechanics.md#life)へ通すための視界不良（[![スモーク](../assets/images/card/cards/na_03_o_n/na_03_o_n_7.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_7.png){ .glightbox }）を作り出します。

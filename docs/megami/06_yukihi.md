@@ -34,11 +34,11 @@
 
 *   **閉 (Closed) - 暗殺者**:
     *   **得意[間合](../mechanics.md#range)**: 0-2
-    *   **役割**: 近距離バースト、潜り込み
+    *   役割: 近距離バースト、潜り込み
     *   **特徴**: 相手の懐に入り込み、『ゆらりび』などの必殺の一撃を狙う攻撃的なスタイル。一時的なリソース（[集中力](../mechanics.md#focus)や手札）を吐き出して大ダメージを狙います。
 *   **開 (Open) - 舞踏家**:
     *   **得意[間合](../mechanics.md#range)**: 4-6
-    *   **役割**: 中距離コントロール、レンジロック
+    *   役割: 中距離コントロール、レンジロック
     *   **特徴**: 相手を寄せ付けず、一方的に攻撃を加える防御的なスタイル。毎ターンの安定した行動と、相手の攻撃リソースを枯らす持久戦を得意とします。
 
 **状態の切り替え**:
@@ -67,7 +67,7 @@
 
 [![しこみばり/ふくみばり](../assets/images/card/cards/na_06_o_n/na_06_o_n_1.png)](../assets/images/card/cards/na_06_o_n/na_06_o_n_1.png){ align=left width=150 }
 
-**役割**: 攻撃 / 反撃
+役割: 攻撃 / 反撃
 
 *   **閉：[![しこみばり](../assets/images/card/cards/na_06_o_n/na_06_o_n_1.png)](../assets/images/card/cards/na_06_o_n/na_06_o_n_1.png){ .glightbox }**
     *   [間合](../mechanics.md#range)2で撃てる3/1攻撃。
@@ -82,7 +82,7 @@
 
 [![しこみび/ねこだまし](../assets/images/card/cards/na_06_o_n/na_06_o_n_2.png)](../assets/images/card/cards/na_06_o_n/na_06_o_n_2.png){ align=left width=150 }
 
-**役割**: バースト / 妨害
+役割: バースト / 妨害
 
 *   **閉：[![しこみび](../assets/images/card/cards/na_06_o_n/na_06_o_n_2.png)](../assets/images/card/cards/na_06_o_n/na_06_o_n_2.png){ .glightbox }**
     *   条件付き[4/3]などの高打点化。
@@ -97,7 +97,7 @@
 
 [![ふりはらい/たぐりよせ](../assets/images/card/cards/na_06_o_n/na_06_o_n_3.png)](../assets/images/card/cards/na_06_o_n/na_06_o_n_3.png){ align=left width=150 }
 
-**役割**: 拒否 / 吸引
+役割: 拒否 / 吸引
 **※最重要カード**
 
 *   **閉：[![たぐりよせ](../assets/images/card/cards/na_06_o_n/na_06_o_n_3.png)](../assets/images/card/cards/na_06_o_n/na_06_o_n_3.png){ .glightbox } (Pull)**
@@ -113,7 +113,7 @@
 
 [![ふりまわし/つきさし](../assets/images/card/cards/na_06_o_n/na_06_o_n_4.png)](../assets/images/card/cards/na_06_o_n/na_06_o_n_4.png){ align=left width=150 }
 
-**役割**: 範囲攻撃 / 一点突破
+役割: 範囲攻撃 / 一点突破
 
 *   **閉：[![つきさし](../assets/images/card/cards/na_06_o_n/na_06_o_n_4.png)](../assets/images/card/cards/na_06_o_n/na_06_o_n_4.png){ .glightbox }**
     *   至近距離での一点突破。相手の「対応」を許しにくい鋭い攻撃です。
@@ -127,7 +127,7 @@
 
 [![かさまわし](../assets/images/card/cards/na_06_o_n/na_06_o_n_5.png)](../assets/images/card/cards/na_06_o_n/na_06_o_n_5.png){ align=left width=150 }
 
-**役割**: スイッチ / 潤滑油
+役割: スイッチ / 潤滑油
 
 *   **効果**: 傘の状態を変更する。
 *   **運用**: ユキヒのエンジンの要。攻撃行動の終わり（閉状態）にこれを使って「開」にしてターンを終了し、相手ターン中の防御力を高める動きが基本かつ強力です。
@@ -139,7 +139,7 @@
 
 [![ひきあし/もぐりこみ](../assets/images/card/cards/na_06_o_n/na_06_o_n_6.png)](../assets/images/card/cards/na_06_o_n/na_06_o_n_6.png){ align=left width=150 }
 
-**役割**: ステップ / ダイブ
+役割: ステップ / ダイブ
 
 *   **閉：[![もぐりこみ](../assets/images/card/cards/na_06_o_n/na_06_o_n_6.png)](../assets/images/card/cards/na_06_o_n/na_06_o_n_6.png){ .glightbox }**
     *   相手の懐へ飛び込む移動技。[オーラ](../mechanics.md#aura)ダメージを軽減しながら[前進](../mechanics.md#advance)できます。
@@ -153,7 +153,7 @@
 
 [![えんむすび](../assets/images/card/cards/na_06_o_n/na_06_o_n_7.png)](../assets/images/card/cards/na_06_o_n/na_06_o_n_7.png){ align=left width=150 }
 
-**役割**: 接続 / 妨害
+役割: 接続 / 妨害
 
 *   **解説**: 特殊なバフ/デバフカード。
     *   相方のメガミとのシナジーを形成するための「接着剤」のようなカード。特定のコンボデッキで真価を発揮する玄人向けの一枚。
@@ -239,7 +239,7 @@ A1は「社交」をテーマにしており、より盤面への干渉力が高
 #### N2 (A1) ちからぞえ / おどしつけ
 [![A1_N2](../assets/images/card/cards/na_06_o_n/na_06_a1_n_2.png)](../assets/images/card/cards/na_06_o_n/na_06_a1_n_2.png){ align=left width=150 }
 
-**役割**: 妨害 / 支援
+役割: 妨害 / 支援
 *   **閉：ちからぞえ**
     *   [間合](../mechanics.md#range)2-7、ダメージ2/1。相手の山札が2枚以上ならダメージの代わりに2枚伏せ札にする。攻撃しながらリソースを削るテクニカルな札です。
 *   **開：おどしつけ**
@@ -250,7 +250,7 @@ A1は「社交」をテーマにしており、より盤面への干渉力が高
 #### N4 (A1) よこいと / たていと
 [![A1_N4](../assets/images/card/cards/na_06_o_n/na_06_a1_n_4.png)](../assets/images/card/cards/na_06_o_n/na_06_a1_n_4.png){ align=left width=150 }
 
-**役割**: 範囲サポート / 移動
+役割: 範囲サポート / 移動
 *   **閉：たていと**
     *   縦の糸（[間合](../mechanics.md#range)）を制御する構築札。
 *   **開：よこいと**

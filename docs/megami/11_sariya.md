@@ -48,7 +48,7 @@
 
 [![Burning Steam](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png){ align=left width=150 }
 
-**役割**: 主力攻撃 / 燃料消費
+役割: 主力攻撃 / 燃料消費
 
 *   **適正[間合](../mechanics.md#range)**: 2-4
 *   **解説**:
@@ -60,7 +60,7 @@
 
 [![Waving Edge](../assets/images/card/cards/na_11_o_n/na_11_o_n_2.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_2.png){ align=left width=150 }
 
-**役割**: 連続攻撃 / 位置調整
+役割: 連続攻撃 / 位置調整
 
 *   **解説**:
     攻撃しながら[間合](../mechanics.md#range)を操作する、サリヤの機動力を象徴する札。これ一発で相手の死角（適正[間合](../mechanics.md#range)外）へ回り込み、一方的な連撃へと繋げます。
@@ -71,7 +71,7 @@
 
 [![Turbo Switch](../assets/images/card/cards/na_11_o_n/na_11_o_n_3.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_3.png){ align=left width=150 }
 
-**役割**: 燃料供給 / ギアチェンジ
+役割: 燃料供給 / ギアチェンジ
 
 *   **解説**:
     リソースを即座に燃料へ変換するための札。コンボを始める前の「アイドリング」として必須の一枚です。
@@ -82,7 +82,7 @@
 
 [![Form](../assets/images/card/cards/na_11_o_n/na_11_o_n_4.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_4.png){ align=left width=150 }
 
-**役割**: 形態変化 / 状況適応
+役割: 形態変化 / 状況適応
 
 *   **解説**:
     サリヤが搭乗する騎兵（ガジェット）の形態を変化させます。攻撃特化、防御特化、移動特化など、戦況に合わせて自分のステータスを書き換えることができます。
@@ -93,7 +93,7 @@
 
 [![Omega-Burst](../assets/images/card/cards/na_11_o_n/na_11_o_n_7.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_7.png){ align=left width=150 }
 
-**役割**: 緊急回避 / 全力防御
+役割: 緊急回避 / 全力防御
 
 *   **解説**:
     全燃料を一度に放出し、相手の攻撃を回避、あるいは盤面をリセットする究極の防御札。命の危機に瀕した時の脱出装置として機能します。

@@ -48,7 +48,7 @@
 
 [![獣爪](../assets/images/card/cards/na_12_o_n/na_12_o_n_1.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_1.png){ align=left width=150 }
 
-**役割**: ゲージ稼ぎ / 基本攻撃
+役割: ゲージ稼ぎ / 基本攻撃
 
 *   **適正[間合](../mechanics.md#range)**: 0-2
 *   **ダメージ**: [3/1]
@@ -61,7 +61,7 @@
 
 [![風雷撃](../assets/images/card/cards/na_12_o_n/na_12_o_n_2.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_2.png){ align=left width=150 }
 
-**役割**: バースト火力 / フィニッシャー
+役割: バースト火力 / フィニッシャー
 
 *   **ダメージ**: [X/Y] (ゲージ量に依存)
 *   **解説**:
@@ -74,7 +74,7 @@
 
 [![流転爪](../assets/images/card/cards/na_12_o_n/na_12_o_n_3.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_3.png){ align=left width=150 }
 
-**役割**: 連続攻撃 / コンボパーツ
+役割: 連続攻撃 / コンボパーツ
 
 *   **解説**:
     条件を満たすことで手札に戻る、あるいは再起する性質を持ち、1ターンに何度も振ることで爆速でゲージを稼ぐための「回転」の要です。
@@ -85,7 +85,7 @@
 
 [![風走り](../assets/images/card/cards/na_12_o_n/na_12_o_n_4.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_4.png){ align=left width=150 }
 
-**役割**: 移動 / 加速
+役割: 移動 / 加速
 
 *   **効果**: [間合](../mechanics.md#range)を近づける、あるいは離す。
 *   **解説**:
@@ -97,7 +97,7 @@
 
 [![風雷の知恵](../assets/images/card/cards/na_12_o_n/na_12_o_n_5.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_5.png){ align=left width=150 }
 
-**役割**: リソース調整 / ゲージブースト
+役割: リソース調整 / ゲージブースト
 
 *   **解説**:
     直接的な攻撃は行わず、精神を研ぎ澄ましてゲージを一気に上昇させたり、手札を整えたりする補助札。勝負のターンに向けた「溜め」のカードです。
@@ -108,7 +108,7 @@
 
 [![呼び声](../assets/images/card/cards/na_12_o_n/na_12_o_n_6.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_6.png){ align=left width=150 }
 
-**役割**: 嵐の召喚 / サーチ
+役割: 嵐の召喚 / サーチ
 
 *   **解説**:
     山札から風雷に関連する強力なカードを呼び込み、コンボを完成させます。
@@ -119,7 +119,7 @@
 
 [![空駆け](../assets/images/card/cards/na_12_o_n/na_12_o_n_7.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_7.png){ align=left width=150 }
 
-**役割**: 回避 / 攪乱
+役割: 回避 / 攪乱
 
 *   **解説**:
     空を飛ぶが如き挙動で相手の攻撃を空振りさせ、同時に風ゲージを稼ぐトリッキーな一枚。

@@ -52,7 +52,7 @@
 
 [![飛苦無](../assets/images/card/cards/na_09_o_n/na_09_o_n_1.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_1.png){ align=left width=150 }
 
-**役割**: 削り / 追撃
+役割: 削り / 追撃
 
 *   **適正[間合](../mechanics.md#range)**: 2-10
 *   **ダメージ**: [2/1]
@@ -65,7 +65,7 @@
 
 [![毒針](../assets/images/card/cards/na_09_o_n/na_09_o_n_2.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_2.png){ align=left width=150 }
 
-**役割**: 汚染の起点 / 嫌がらせ
+役割: 汚染の起点 / 嫌がらせ
 
 *   **適正[間合](../mechanics.md#range)**: 1-3
 *   **ダメージ**: [1/1]
@@ -79,7 +79,7 @@
 
 [![遁術](../assets/images/card/cards/na_09_o_n/na_09_o_n_3.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_3.png){ align=left width=150 }
 
-**役割**: 移動 / 回避
+役割: 移動 / 回避
 
 *   **効果**: 対応、[間合](../mechanics.md#range)を1つ離す（または近づける）。
 *   **解説**:
@@ -91,7 +91,7 @@
 
 [![首切り](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png){ align=left width=150 }
 
-**役割**: 暗殺の一撃 / フィニッシャー
+役割: 暗殺の一撃 / フィニッシャー
 
 *   **適正[間合](../mechanics.md#range)**: 2-4
 *   **ダメージ**: [4/3]
@@ -105,7 +105,7 @@
 
 [![毒霧](../assets/images/card/cards/na_09_o_n/na_09_o_n_5.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_5.png){ align=left width=150 }
 
-**役割**: 広域汚染
+役割: 広域汚染
 
 *   **解説**:
     攻撃せずとも複数の[毒](../mechanics.md#poison)を相手に送り込む行動札。相手が守りを固めていても関係なく内側を汚染し、「何もさせない」状況を強制的に作り出します。
@@ -116,7 +116,7 @@
 
 [![抜き足](../assets/images/card/cards/na_09_o_n/na_09_o_n_6.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_6.png){ align=left width=150 }
 
-**役割**: 極低コスト移動
+役割: 極低コスト移動
 
 *   **解説**:
     [基本動作](../mechanics.md)を消費せずに位置を変えるための潤滑油。チカゲは近接戦を挑む必要があるため、この1歩が非常に重要になります。
@@ -127,7 +127,7 @@
 
 [![泥濘](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png){ align=left width=150 }
 
-**役割**: 環境支配 / 拘束
+役割: 環境支配 / 拘束
 
 *   **解説**:
     「[前進](../mechanics.md#advance)」や「[後退](../mechanics.md#retreat)」のコストを余計に要求する付与札。相手をハエ叩きのように盤面に釘付けにし、[毒](../mechanics.md#poison)でじわじわと苦しめるための舞台を作り上げます。

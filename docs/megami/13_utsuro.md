@@ -47,7 +47,7 @@
 
 [![黒き波動](../assets/images/card/cards/na_13_o_n/na_13_o_n_1.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_1.png){ align=left width=150 }
 
-**役割**: リソース破壊 / ドロー
+役割: リソース破壊 / ドロー
 
 *   **解説**:
     相手の[オーラ](../mechanics.md#aura)を1つ[ダスト](../mechanics.md#dust)へ送る、あるいは畏縮を与える基礎札。これ一枚で相手の防御を崩しながら、自分の手札を整えることができます。
@@ -58,7 +58,7 @@
 
 [![円月](../assets/images/card/cards/na_13_o_n/na_13_o_n_2.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_2.png){ align=left width=150 }
 
-**役割**: 主力攻撃 / 終焉の刃
+役割: 主力攻撃 / 終焉の刃
 
 *   **適正[間合](../mechanics.md#range)**: 2-4
 *   **ダメージ**: [3/2] ([ダスト](../mechanics.md#dust)の数により強化)
@@ -71,7 +71,7 @@
 
 [![影の翅](../assets/images/card/cards/na_13_o_n/na_13_o_n_3.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_3.png){ align=left width=150 }
 
-**役割**: 移動 / リソース変換
+役割: 移動 / リソース変換
 
 *   **解説**:
     自分の[オーラ](../mechanics.md#aura)を[ダスト](../mechanics.md#dust)へ送り、その力で[間合](../mechanics.md#range)を大きく離す（[後退](../mechanics.md#retreat)）札。自分の守りを削ってでも、相手に届かない距離へ逃げるためのトリッキーな移動手段です。
@@ -82,7 +82,7 @@
 
 [![遺灰呪](../assets/images/card/cards/na_13_o_n/na_13_o_n_4.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_4.png){ align=left width=150 }
 
-**役割**: ハンデス / 汚染
+役割: ハンデス / 汚染
 
 *   **解説**:
     相手の手札をランダムに捨てさせる、あるいは[ダスト](../mechanics.md#dust)に変換する嫌烈な妨害札。コンボデッキにとっては死神のような存在です。
@@ -93,7 +93,7 @@
 
 [![虚偽](../assets/images/card/cards/na_13_o_n/na_13_o_n_5.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_5.png){ align=left width=150 }
 
-**役割**: 弱体化 / 環境封印
+役割: 弱体化 / 環境封印
 
 *   **解説**:
     展開中、相手の攻撃ダメージを一律に減少させるなどの強力なデバフ効果を持つ付与札。相手のバースト力を根こそぎ奪います。
@@ -104,7 +104,7 @@
 
 [![重圧](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png){ align=left width=150 }
 
-**役割**: [フレア](../mechanics.md#flare)破壊 / [切札](../mechanics.md)封じ
+役割: [フレア](../mechanics.md#flare)破壊 / [切札](../mechanics.md)封じ
 
 *   **解説**:
     相手の[フレア](../mechanics.md#flare)にある結晶を[ダスト](../mechanics.md#dust)へ送ります。大[切札](../mechanics.md)時代において、これほど相手の意欲を削ぐカードはありません。
@@ -115,7 +115,7 @@
 
 [![刈り取り](../assets/images/card/cards/na_13_o_n/na_13_o_n_7.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_7.png){ align=left width=150 }
 
-**役割**: リソース吸収 / 再生
+役割: リソース吸収 / 再生
 
 *   **解説**:
     相手の[オーラ](../mechanics.md#aura)を奪い、自分の血肉（[ライフ](../mechanics.md#life)や[オーラ](../mechanics.md#aura)）に変える吸血行為。ウツロの粘り強さを支える一枚です。

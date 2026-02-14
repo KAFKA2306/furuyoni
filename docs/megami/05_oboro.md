@@ -48,7 +48,7 @@
 
 [![鋼糸](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png){ align=left width=150 }
 
-**役割**: 主力攻撃 / [設置](../mechanics.md#setchi)コンボ
+役割: 主力攻撃 / [設置](../mechanics.md#setchi)コンボ
 
 *   **適正[間合](../mechanics.md#range)**: 2-4
 *   **解説**:
@@ -60,7 +60,7 @@
 
 [![影菱](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ align=left width=150 }
 
-**役割**: 手札破壊 / 妨害
+役割: 手札破壊 / 妨害
 
 *   **適正[間合](../mechanics.md#range)**: 2-4
 *   **[設置](../mechanics.md#setchi)時効果**: ヒット時、相手は手札を1枚選んで捨てる。
@@ -73,7 +73,7 @@
 
 [![斬撃乱舞](../assets/images/card/cards/na_05_o_n/na_05_o_n_3.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_3.png){ align=left width=150 }
 
-**役割**: バースト火力 / [設置](../mechanics.md#setchi)高打点
+役割: バースト火力 / [設置](../mechanics.md#setchi)高打点
 
 *   **適正[間合](../mechanics.md#range)**: 2-3
 *   **解説**:
@@ -85,7 +85,7 @@
 
 [![忍歩](../assets/images/card/cards/na_05_o_n/na_05_o_n_4.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_4.png){ align=left width=150 }
 
-**役割**: 移動 / 潜入
+役割: 移動 / 潜入
 
 *   **効果**: [間合](../mechanics.md#range)を1つ近づける。[設置](../mechanics.md#setchi)から発動可能。
 *   **解説**:
@@ -97,7 +97,7 @@
 
 [![誘導](../assets/images/card/cards/na_05_o_n/na_05_o_n_5.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_5.png){ align=left width=150 }
 
-**役割**: [オーラ](../mechanics.md#aura)奪取 / 距離制御
+役割: [オーラ](../mechanics.md#aura)奪取 / 距離制御
 
 *   **解説**:
     相手の[オーラ](../mechanics.md#aura)を一つ空にしながら、[間合](../mechanics.md#range)を近づける（あるいは遠ざける）などの操作を行います。防御を剥ぎ取りながら懐に入る、忍らしい嫌らしい移動札です。
@@ -108,7 +108,7 @@
 
 [![分身の術](../assets/images/card/cards/na_05_o_n/na_05_o_n_6.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_6.png){ align=left width=150 }
 
-**役割**: コンボ増幅 / 連続使用
+役割: コンボ増幅 / 連続使用
 
 *   **解説**:
     [設置](../mechanics.md#setchi)されている、あるいは捨て札にあるカードをコピーして使用します。強力な『[![影菱](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ .glightbox }』を2回放ったり、『[![鋼糸](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png){ .glightbox }』を重ねたりすることで、1ターンの火力を限界突破させます。
@@ -119,7 +119,7 @@
 
 [![生体活性](../assets/images/card/cards/na_05_o_n/na_05_o_n_7.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_7.png){ align=left width=150 }
 
-**役割**: リソース補充 / [集中力](../mechanics.md#focus)調整
+役割: リソース補充 / [集中力](../mechanics.md#focus)調整
 
 *   **解説**:
     付与札の寿命を延ばしたり、[集中力](../mechanics.md#focus)を得たりと、コンボを成立させるための「最後の一押し」をサポートする補助札です。
