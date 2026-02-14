@@ -10,7 +10,7 @@ hide:
     <div class="hero-title">桜降る代に決闘を</div>
     <div class="hero-subtitle">
         神語りの地、隆盛する文明と桜の影。<br>
-        2柱のメガミを宿し、眼前の一幕にすべてを賭ける。<br>
+        2柱のメガミを[宿し](mechanics.md#yadoshi)、眼前の一幕にすべてを賭ける。<br>
         これは、あなたとメガミの物語。
     </div>
     
@@ -36,7 +36,7 @@ hide:
             <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm.31-8.86c-1.77-.45-2.34-.94-2.34-1.67 0-.84.79-1.43 2.1-1.43 1.38 0 1.9.66 1.94 1.64h1.71c-.05-1.34-.87-2.57-2.49-2.95V5h-2.16v1.73c-1.75.45-2.56 1.63-2.6 2.87-.04 1.48 1.05 2.51 3.2 3.03 1.57.37 2.15 1.09 2.15 1.78 0 .95-.9 1.59-2.1 1.59-1.75 0-2.34-.91-2.4-2.04H8.45c.09 1.9 1.37 3.02 2.92 3.42V19h2.16v-1.73c1.94-.49 2.8-1.75 2.8-3.01 0-1.89-1.45-2.73-3.86-3.23z"/></svg></span>
             決闘の流れ
         </h3>
-        <p>双掌繚乱。眼前構築から始まる、たった一度の決闘の作法。</p>
+        <p>[双掌繚乱](mechanics.md)。[眼前構築](mechanics.md#construction)から始まる、たった一度の決闘の作法。</p>
     </a>
     
     <a href="beginner/" class="feature-card" style="text-decoration: none; color: inherit;">
@@ -64,7 +64,7 @@ hide:
         <div class="megami-icon-wrapper">
              <img src="assets/images/cards/01-yurina-o-1.png" alt="Yurina">
         </div>
-        <h3>ユリナ</h3>
+        <h3>[ユリナ](megami/01_yurina.md)</h3>
         <p>一閃の破壊力。至近距離での猛攻を得意とし、決闘の基礎を体現する武神。</p>
     </a>
 
@@ -73,8 +73,8 @@ hide:
         <div class="megami-icon-wrapper">
              <img src="assets/images/cards/02-saine-o-1.png" alt="Saine">
         </div>
-        <h3>サイネ</h3>
-        <p>鉄壁の要塞。八相を操り、間合いを見切って相手を翻弄する氷雪の賢者。</p>
+        <h3>[サイネ](megami/02_saine.md)</h3>
+        <p>鉄壁の要塞。[八相](mechanics.md#hasso)を操り、[間合](mechanics.md#range)いを見切って相手を翻弄する氷雪の賢者。</p>
     </a>
 
     <!-- ウツロ -->
@@ -82,8 +82,8 @@ hide:
         <div class="megami-icon-wrapper">
              <img src="assets/images/cards/13-utsuro-o-1.png" alt="Utsuro">
         </div>
-        <h3>ウツロ</h3>
-        <p>虚無の支配者。ダストを操り、相手のリソースを枯渇させる終焉の影。</p>
+        <h3>[ウツロ](megami/13_utsuro.md)</h3>
+        <p>虚無の支配者。[ダスト](mechanics.md#dust)を操り、相手のリソースを枯渇させる終焉の影。</p>
     </a>
 </div>
 

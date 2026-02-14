@@ -3,7 +3,7 @@
 <div class="megami-hud" style="display: grid; grid-template-columns: 100px 1fr; gap: 20px; background: rgba(0,0,0,0.05); padding: 20px; border-radius: 10px; border-left: 5px solid #d32f2f;">
   <img src="../assets/images/chara/ico-01.png" width="100">
   <div class="hud-content">
-    <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">【刀】[ユリナ](01_yurina.md) / Season 10</div>
+    <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">【刀】ユリナ / Season 10</div>
     <div style="display: flex; gap: 15px; font-size: 0.9em;">
       <span>難易度: ★☆☆☆☆</span>
       <span>[間合](../mechanics.md#range): 3-4</span>
@@ -24,20 +24,20 @@ graph LR
 
 > [!CAUTION]
 > **初心者が陥る致命的な罠**
-> - **無計画な[決死](../mechanics.md)**: [ライフ](../mechanics.md#life)3は敵のキルゾーン。対応札（浦波嵐・浮舟宿）が手元にない状態での[決死](../mechanics.md#kesshi)入りは敗北。
-> - **[フレア](../mechanics.md#flare)の浪費**: 『月影落』(7)の圧力を失うことは、[ユリナ](01_yurina.md)の勝率を50%捨てることに等しい。
+> - **無計画な[決死](../mechanics.md#kesshi)**: [ライフ](../mechanics.md#life)3は敵のキルゾーン。対応札（浦波嵐・浮舟宿）が手元にない状態での[決死](../mechanics.md#kesshi)入りは敗北。
+> - **[フレア](../mechanics.md#flare)の浪費**: 『月影落』(7)の圧力を失うことは、ユリナの勝率を50%捨てることに等しい。
 
 ## 戦略的タイムライン
 
 ### Phase 1: 開幕 (Turn 1-2)
-- **目的**: [フレア](../mechanics.md)の種を蒔き、[間合](../mechanics.md)3-4へ潜り込む。
+- **目的**: [フレア](../mechanics.md#flare)の種を蒔き、[間合](../mechanics.md#range)3-4へ潜り込む。
 - **推奨挙動**: 
     - [宿し](../mechanics.md#yadoshi) > [前進](../mechanics.md#advance)
-    - 相手の[2/1]攻撃を[ライフ](../mechanics.md)で受け、[フレア](../mechanics.md)転換。
+    - 相手の[2/1]攻撃を[ライフ](../mechanics.md#life)で受け、[フレア](../mechanics.md#flare)転換。
 
 ### Phase 2: 中盤 (Turn 3-5)
-- **目的**: 相手の[オーラ](../mechanics.md)を『[![斬](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png){ .glightbox }』『[![圧気](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png){ .glightbox }』で剥がし、[ライフ](../mechanics.md)4-5へ追い込む。
-- **決戦準備**: [ライフ](../mechanics.md)4付近で[集中力](../mechanics.md)2を維持し、いつでも[決死](../mechanics.md)からリーサルを狙える構えを取る。
+- **目的**: 相手の[オーラ](../mechanics.md#aura)を『[![斬](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png){ .glightbox }』『[![圧気](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png){ .glightbox }』で剥がし、[ライフ](../mechanics.md#life)4-5へ追い込む。
+- **決戦準備**: [ライフ](../mechanics.md#life)4付近で[集中力](../mechanics.md#focus)2を維持し、いつでも[決死](../mechanics.md#kesshi)からリーサルを狙える構えを取る。
 
 ### Phase 3: 終盤 (リーサル)
 - **目的**: 『月影落』または『天音揺波の底力』による強制決着。
@@ -45,7 +45,7 @@ graph LR
 
 ## [通常札](../mechanics.md)性能マトリクス
 
-| カード名 | 主な[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox } | 通常時 | [決死](../mechanics.md)時 | S10 特記事項 |
+| カード名 | 主な役割 | 通常時 | [決死](../mechanics.md#kesshi)時 | S10 特記事項 |
 | :--- | :--- | :---: | :---: | :--- |
 | **[![斬](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png){ .glightbox }** | 主力削り | 3/1 | 3/2 | 基本性能の高さ。 |
 | **[![一閃](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png){ .glightbox }** | [ライフ](../mechanics.md#life)奪取 | 2/2 | 3/3 | **リーサルパーツ**。 |
@@ -66,5 +66,5 @@ graph LR
 
 ## アンチメガミ・相性
 - **得意**: 防御が薄い、または低速なメガミ（[サイネ](02_saine.md)などとの中距離戦）。
-- **苦手**: 遠距離を維持し続ける「レンジロック」（[ハツミ](17_hatsumi.md)・サリヤ）。
+- **苦手**: 遠距離を維持し続ける「レンジロック」（[ハツミ](17_hatsumi.md)・[サリヤ](11_sariya.md)）。
 - **対策**: 『[![足捌き](../assets/images/card/cards/na_01_o_n/na_01_o_n_5.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_5.png){ .glightbox }』を全力で回し、1回のチャンスで『月影落』を叩き込む「ワンチャンス」戦術へ移行せよ。

@@ -14,7 +14,7 @@
 結晶は人々の生活を支える灯火となり、交易の貨幣となり、そして何より——**メガミたちの権能を現出させる依代**となります。
 
 ### ミコト（命/尊）
-[桜花結晶](mechanics.md)の力をその身に[宿し](mechanics.md)、メガミと心を通わせる能力者。それが決闘者であるあなた、**「ミコト」**です。
+[桜花結晶](mechanics.md)の力をその身に[宿し](mechanics.md#yadoshi)、メガミと心を通わせる能力者。それが決闘者であるあなた、**「ミコト」**です。
 ミコトはメガミと[![契約](assets/images/card/cards/na_16_o_n/na_16_o_n_6.png)](assets/images/card/cards/na_16_o_n/na_16_o_n_6.png){ .glightbox }を結び、その双掌に結晶を握りしめることで、神秘の力（カード）を振るうことができます。
 
 ### [桜花決闘](mechanics.md)（おうかけっとう）
@@ -54,7 +54,7 @@
 ## 物語の要約
 
 > [!INFO]
-> 神を宿し、桜舞う代（よ）を生きる者たちの記録。
+> 神を[宿し](mechanics.md#yadoshi)、桜舞う代（よ）を生きる者たちの記録。
 
 <div class="dashboard-grid">
     <div class="feature-card dashboard-wide">
@@ -77,7 +77,7 @@
         <ul>
             <li><strong>神座桜 (Kamizakura)</strong>: メガミたちが座す原初の大樹。その開花は新たな歴史の始まりを意味し、散り際は時代の移ろいを示唆します。</li>
             <li><strong>祈祷師</strong>: メガミの力を借りるのではなく、神の意志を地上に降ろす特別な存在。アナザー版のメガミたちの中には、この役割を担う者もいます。</li>
-            <li><strong>三座</strong>: 世界を支える三つの主要な神格。[ユリナ](megami/index.md)（刀）、[サイネ](megami/index.md)（薙刀）に続く「第三の座」の正体は、多くの謎に包まれています。</li>
+            <li><strong>三座</strong>: 世界を支える三つの主要な神格。[ユリナ](megami/01_yurina.md)（刀）、[サイネ](megami/02_saine.md)（薙刀）に続く「第三の座」の正体は、多くの謎に包まれています。</li>
         </ul>
     </div>
 </div>
@@ -90,7 +90,7 @@
         <div class="megami-icon-wrapper">
              <img src="assets/images/cards/01-yurina-o-1.png" alt="Yurina">
         </div>
-        <h3 style="justify-content: center;">天音 揺波 (ユリナ)</h3>
+        <h3 style="justify-content: center;">天音 揺波 ([ユリナ](megami/01_yurina.md))</h3>
         <div style="text-align: center; margin-bottom: 0.5rem; color: var(--sakura-pink); font-weight: bold;">武の象徴</div>
         <p>剣の極致を求め、守るべきもののために振るわれる刃。彼女がメガミへと至る道は、多くのミコトたちの希望となりました。</p>
     </a>
@@ -100,7 +100,7 @@
         <div class="megami-icon-wrapper">
              <img src="assets/images/cards/02-saine-o-1.png" alt="Saine">
         </div>
-        <h3 style="justify-content: center;">氷雨 細音 (サイネ)</h3>
+        <h3 style="justify-content: center;">氷雨 細音 ([サイネ](megami/02_saine.md))</h3>
         <div style="text-align: center; margin-bottom: 0.5rem; color: var(--sakura-pink); font-weight: bold;">知・音の象徴</div>
         <p>揺波の剣を支え、時に律するための調べ。彼女の奏でる「氷雨の調べ」は、<a href="mechanics.md#shousou">焦燥</a>に駆られた魂を静め、真実を見通します。</p>
     </a>

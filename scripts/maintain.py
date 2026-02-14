@@ -155,19 +155,25 @@ def add_links(config_path: str) -> None:
                 content = f.read()
 
             def replace_func(match: re.Match) -> str:
-                # Group 1 is skip pattern, Group 3 is term (because skip_pattern has 1 group inside?)
-                # wait, skip_pattern has many groups? No, wrapped in ().
-                # Let's inspect groups carefully.
-                # master_pattern = ( (skip) ) | (term)
-                # match.group(1) = outer skip group
+                # Group 1 is skip pattern
                 if match.group(1):
-                    return match.group(1)
+                    # Check if it's a link we should update [Term](Url)
+                    link_match = re.match(r"^\[([^\]]+)\]\([^\)]+\)$", match.group(1))
+                    if link_match:
+                        term = link_match.group(1)
+                        if term in card_map or term in megami_map or term in static_mapping:
+                            # Fall through to re-generate link
+                            pass
+                        else:
+                            return match.group(1)
+                    else:
+                        return match.group(1)
+                else:
+                    term = match.group(0)
 
-                term = match.group(0)  # Should match the term part if group 1 is None?
-                # Actually, if group 1 is None, then it matched term_regex.
-                # Let's rely on match.group(0) being the whole match.
-                # If match.group(0) matches skip_pattern, return it.
-                if skip_pattern.match(term):
+                if skip_pattern.match(term) and not (match.group(1) and link_match):
+                    # Double check if term matches skip pattern (should have been caught by group 1 check?)
+                    # If we fell through from group 1, we don't want to return here.
                     return term
 
                 # It's a term
@@ -188,18 +194,21 @@ def add_links(config_path: str) -> None:
                     # Construct absolute target path
 
                     # Target might be "megami/index.md" or "mechanics/glossary.md#aura"
-                    target_file = target.split("#")[0]
+                    target_file = target
+                    anchor_part = ""
                     if "#" in target:
-                        target.split("#")[1]
+                        parts = target.rsplit("#", 1)
+                        target_file = parts[0]
+                        anchor_part = "#" + parts[1]
 
                     target_abs = DOCS_DIR / target_file
                     if target_abs.resolve() == p.resolve():
-                        return term  # Don't link to self (unless anchor? debatable)
-                        # For now avoid self-links for simplicity unless anchor is different?
-                        # If same file, relative link is just "#anchor"
+                        if anchor_part:
+                            return f"[{term}]({anchor_part})"
+                        return term  # Don't link to self if no anchor
 
-                    rel_path = os.path.relpath(DOCS_DIR / target, p.parent)
-                    return f"[{term}]({rel_path})"
+                    rel_path = os.path.relpath(DOCS_DIR / target_file, p.parent)
+                    return f"[{term}]({rel_path}{anchor_part})"
 
                 return term
 

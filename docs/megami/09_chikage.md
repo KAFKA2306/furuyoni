@@ -4,36 +4,36 @@
   <img src="../assets/images/chara/ico-09.png" width="100">
   <div class="megami-meta">
     <ul>
-      <li><strong>権能</strong>: [毒](../mechanics.md) (Poison)</li>
+      <li><strong>権能</strong>: [毒](../mechanics.md#poison) (Poison)</li>
       <li><strong>難易度</strong>: ★★★★☆</li>
-      <li><strong>得意[間合](../mechanics.md)</strong>: 1-4</li>
+      <li><strong>得意[間合](../mechanics.md#range)</strong>: 1-4</li>
     </ul>
   </div>
 </div>
 
-!!! info "姿なき凶器、心身を蝕む暗殺の[毒](../mechanics.md)"
+!!! info "姿なき凶器、心身を蝕む暗殺の[毒](../mechanics.md#poison)"
     シーズン10においても、コンボデッキや手札を溜めるデッキに対する強力なアンチ・メタとして、その存在感は際立っています。
 
 ## 物語の起源：チカゲ
 
-> 「[毒](../mechanics.md)は沈黙の中にあり。……あなたが気づいた時には、すべてが終わっているでしょう」
+> 「[毒](../mechanics.md#poison)は沈黙の中にあり。……あなたが気づいた時には、すべてが終わっているでしょう」
 
-チカゲは、影の中に潜み、音もなく対象を汚染する「[毒](../mechanics.md)」のメガミです。
+チカゲは、影の中に潜み、音もなく対象を汚染する「[毒](../mechanics.md#poison)」のメガミです。
 彼女の起源は、戦場を裏から支配しようとする暗殺者の狡猾さと、心身を蝕む「目に見えぬ脅威」としての本質にあります。華やかさとは無縁の冷徹な効率主義者であり、勝利を確実にするためなら手段を選びません。
-物語では、雇われの暗殺者や影の工作員として暗躍し、その卓越した[毒](../mechanics.md)の知識によって強大な敵を内側から崩壊させる恐るべき実力者として描かれます。彼女の振るう刃は肉体を切り裂くだけでなく、魂に消えぬ[毒](../mechanics.md)を刻み込みます。
-「[毒](../mechanics.md)」という力は、彼女が相手の選択肢を奪い、じわじわと生命力を吸い取っていく「緩やかな死」の恐怖を体現しています。
+物語では、雇われの暗殺者や影の工作員として暗躍し、その卓越した[毒](../mechanics.md#poison)の知識によって強大な敵を内側から崩壊させる恐るべき実力者として描かれます。彼女の振るう刃は肉体を切り裂くだけでなく、魂に消えぬ[毒](../mechanics.md#poison)を刻み込みます。
+「[毒](../mechanics.md#poison)」という力は、彼女が相手の選択肢を奪い、じわじわと生命力を吸い取っていく「緩やかな死」の恐怖を体現しています。
 
-## キーワード能力: [毒](../mechanics.md) (Poison)
+## キーワード能力: [毒](../mechanics.md#poison) (Poison)
 
 チカゲの真髄は、相手を内側から崩壊させることにあります。
 
-*   **[毒](../mechanics.md)札の仕組み**: チカゲは5種類の「[毒](../mechanics.md)」カードを持っています。これらを効果によって相手に渡します。
-*   **[毒](../mechanics.md)の効果**: 
-    1. **麻痺[毒](../mechanics.md)**: 手札にあるだけで[基本動作](../mechanics.md)を制限する。
-    2. **衰弱[毒](../mechanics.md)**: 使用時に[オーラ](../mechanics.md)を減らす。
-    3. **幻覚[毒](../mechanics.md)**: [集中力](../mechanics.md)や山札をランダムに削る。
-    4. **弛緩[毒](../mechanics.md)**: [宿し](../mechanics.md)などのプラス動作を封じる。
-*   **戦略的意味**: 相手が[毒](../mechanics.md)を使わずに持っていれば「手札枠を圧迫」し、使えば「自分に不利益な効果」が発生します。相手にとって「どちらを選んでも地獄」という状況を維持するのがチカゲの基本です。
+*   **[毒](../mechanics.md#poison)札の仕組み**: チカゲは5種類の「[毒](../mechanics.md#poison)」カードを持っています。これらを効果によって相手に渡します。
+*   **[毒](../mechanics.md#poison)の効果**: 
+    1. **麻痺[毒](../mechanics.md#poison)**: 手札にあるだけで[基本動作](../mechanics.md)を制限する。
+    2. **衰弱[毒](../mechanics.md#poison)**: 使用時に[オーラ](../mechanics.md#aura)を減らす。
+    3. **幻覚[毒](../mechanics.md#poison)**: [集中力](../mechanics.md#focus)や山札をランダムに削る。
+    4. **弛緩[毒](../mechanics.md#poison)**: [宿し](../mechanics.md#yadoshi)などのプラス動作を封じる。
+*   **戦略的意味**: 相手が[毒](../mechanics.md#poison)を使わずに持っていれば「手札枠を圧迫」し、使えば「自分に不利益な効果」が発生します。相手にとって「どちらを選んでも地獄」という状況を維持するのがチカゲの基本です。
 
 ---
 
@@ -41,8 +41,8 @@
 
 シーズン10（大[切札](../mechanics.md)時代）において、チカゲは「環境のバランサー」としての地位を確立しています。
 
-*   **大[切札](../mechanics.md)への間接メタ**: 超重量級の[切札](../mechanics.md)を準備するために手札を整理したい相手に対し、[毒](../mechanics.md)を送り込むことでその計画を根底から破壊します。
-*   **低速環境での優位性**: 試合が長引くほど、蓄積された[毒](../mechanics.md)の効果が相手の[ライフ](../mechanics.md)をじわじわと削り取ります。判定勝ちを狙う相手の計算を狂わせる能力に長けています。
+*   **大[切札](../mechanics.md)への間接メタ**: 超重量級の[切札](../mechanics.md)を準備するために手札を整理したい相手に対し、[毒](../mechanics.md#poison)を送り込むことでその計画を根底から破壊します。
+*   **低速環境での優位性**: 試合が長引くほど、蓄積された[毒](../mechanics.md#poison)の効果が相手の[ライフ](../mechanics.md#life)をじわじわと削り取ります。判定勝ちを狙う相手の計算を狂わせる能力に長けています。
 
 ---
 
@@ -52,26 +52,26 @@
 
 [![飛苦無](../assets/images/card/cards/na_09_o_n/na_09_o_n_1.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_1.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 削り / 追撃
+**役割**: 削り / 追撃
 
-*   **適正[間合](../mechanics.md)**: 2-10
+*   **適正[間合](../mechanics.md#range)**: 2-10
 *   **ダメージ**: [2/1]
 *   **解説**:
-    広い射程を持つチカゲの基本攻撃。どこにいても[ライフ](../mechanics.md)1点を確実に削りにいける安定感があります。他の攻撃で相手の[オーラ](../mechanics.md)を剥がした後のトドメとして多用されます。
+    広い射程を持つチカゲの基本攻撃。どこにいても[ライフ](../mechanics.md#life)1点を確実に削りにいける安定感があります。他の攻撃で相手の[オーラ](../mechanics.md#aura)を剥がした後のトドメとして多用されます。
 
 <br clear="all">
 
-### N2 [毒](../mechanics.md)針
+### N2 [毒](../mechanics.md#poison)針
 
 [![毒針](../assets/images/card/cards/na_09_o_n/na_09_o_n_2.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_2.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 汚染の起点 / 嫌がらせ
+**役割**: 汚染の起点 / 嫌がらせ
 
-*   **適正[間合](../mechanics.md)**: 1-3
+*   **適正[間合](../mechanics.md#range)**: 1-3
 *   **ダメージ**: [1/1]
-*   **効果**: ヒット時、選んだ「[毒](../mechanics.md)」カード1枚を相手に渡す。
+*   **効果**: ヒット時、選んだ「[毒](../mechanics.md#poison)」カード1枚を相手に渡す。
 *   **解説**:
-    ダメージよりも追加の「[毒](../mechanics.md)」こそが本命。至近距離での殴り合いの中で、[毒](../mechanics.md)を一本差し込むだけで、相手の次ターンの動きを大幅に制限できます。
+    ダメージよりも追加の「[毒](../mechanics.md#poison)」こそが本命。至近距離での殴り合いの中で、[毒](../mechanics.md#poison)を一本差し込むだけで、相手の次ターンの動きを大幅に制限できます。
 
 <br clear="all">
 
@@ -79,11 +79,11 @@
 
 [![遁術](../assets/images/card/cards/na_09_o_n/na_09_o_n_3.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_3.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 移動 / 回避
+**役割**: 移動 / 回避
 
-*   **効果**: 対応、[間合](../mechanics.md)を1つ離す（または近づける）。
+*   **効果**: 対応、[間合](../mechanics.md#range)を1つ離す（または近づける）。
 *   **解説**:
-    忍者らしいトリッキーな移動札。相手の適正[間合](../mechanics.md)から外れるための防御札として、あるいは自分の攻撃を当てるための位置調整として非常に優秀です。
+    忍者らしいトリッキーな移動札。相手の適正[間合](../mechanics.md#range)から外れるための防御札として、あるいは自分の攻撃を当てるための位置調整として非常に優秀です。
 
 <br clear="all">
 
@@ -91,24 +91,24 @@
 
 [![首切り](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 暗殺の一撃 / フィニッシャー
+**役割**: 暗殺の一撃 / フィニッシャー
 
-*   **適正[間合](../mechanics.md)**: 2-4
+*   **適正[間合](../mechanics.md#range)**: 2-4
 *   **ダメージ**: [4/3]
-*   **条件**: 相手に[毒](../mechanics.md)が一定数たまっている、あるいは特定の状況下で発動。
+*   **条件**: 相手に[毒](../mechanics.md#poison)が一定数たまっている、あるいは特定の状況下で発動。
 *   **解説**:
-    チカゲの唯一無二の最大打点。[通常札](../mechanics.md)でありながら[4/3]という破壊力を持ち、[毒](../mechanics.md)によって弱りきった相手の息の根を止めるための一撃です。
+    チカゲの唯一無二の最大打点。[通常札](../mechanics.md)でありながら[4/3]という破壊力を持ち、[毒](../mechanics.md#poison)によって弱りきった相手の息の根を止めるための一撃です。
 
 <br clear="all">
 
-### N5 [毒](../mechanics.md)霧
+### N5 [毒](../mechanics.md#poison)霧
 
 [![毒霧](../assets/images/card/cards/na_09_o_n/na_09_o_n_5.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_5.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 広域汚染
+**役割**: 広域汚染
 
 *   **解説**:
-    攻撃せずとも複数の[毒](../mechanics.md)を相手に送り込む行動札。相手が守りを固めていても関係なく内側を汚染し、「何もさせない」状況を強制的に作り出します。
+    攻撃せずとも複数の[毒](../mechanics.md#poison)を相手に送り込む行動札。相手が守りを固めていても関係なく内側を汚染し、「何もさせない」状況を強制的に作り出します。
 
 <br clear="all">
 
@@ -116,7 +116,7 @@
 
 [![抜き足](../assets/images/card/cards/na_09_o_n/na_09_o_n_6.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_6.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 極低コスト移動
+**役割**: 極低コスト移動
 
 *   **解説**:
     [基本動作](../mechanics.md)を消費せずに位置を変えるための潤滑油。チカゲは近接戦を挑む必要があるため、この1歩が非常に重要になります。
@@ -127,10 +127,10 @@
 
 [![泥濘](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 環境支配 / 拘束
+**役割**: 環境支配 / 拘束
 
 *   **解説**:
-    「[前進](../mechanics.md)」や「[後退](../mechanics.md)」のコストを余計に要求する付与札。相手をハエ叩きのように盤面に釘付けにし、[毒](../mechanics.md)でじわじわと苦しめるための舞台を作り上げます。
+    「[前進](../mechanics.md#advance)」や「[後退](../mechanics.md#retreat)」のコストを余計に要求する付与札。相手をハエ叩きのように盤面に釘付けにし、[毒](../mechanics.md#poison)でじわじわと苦しめるための舞台を作り上げます。
 
 <br clear="all">
 
@@ -138,7 +138,7 @@
 
 ## [切札](../mechanics.md)解説
 
-### S1 滅灯の魂[毒](../mechanics.md)
+### S1 滅灯の魂[毒](../mechanics.md#poison)
 
 [![滅灯の魂毒](../assets/images/card/cards/na_09_o_s/na_09_o_s_1.png)](../assets/images/card/cards/na_09_o_s/na_09_o_s_1.png){ align=left width=150 }
 
@@ -146,7 +146,7 @@
 **種別**: 行動
 
 **解説**:
-相手の[フレア](../mechanics.md)に特別な「[毒](../mechanics.md)」を仕込み、[切札](../mechanics.md)の使用を抑制する、あるいは使用時に甚大な被害を与える札。大[切札](../mechanics.md)時代に対するチカゲの最大の回答です。
+相手の[フレア](../mechanics.md#flare)に特別な「[毒](../mechanics.md#poison)」を仕込み、[切札](../mechanics.md)の使用を抑制する、あるいは使用時に甚大な被害を与える札。大[切札](../mechanics.md)時代に対するチカゲの最大の回答です。
 
 <br clear="all">
 
@@ -158,11 +158,11 @@
 **種別**: 攻撃
 
 **解説**:
-[3/2]程度の安定した打点を持ち、さらに[毒](../mechanics.md)に関連した追撃やバフを発生させます。中盤のダメージレースを優位に進めるために重宝します。
+[3/2]程度の安定した打点を持ち、さらに[毒](../mechanics.md#poison)に関連した追撃やバフを発生させます。中盤のダメージレースを優位に進めるために重宝します。
 
 <br clear="all">
 
-### S3 叛旗の纏[毒](../mechanics.md)
+### S3 叛旗の纏[毒](../mechanics.md#poison)
 
 [![叛旗の纏毒](../assets/images/card/cards/na_09_o_s/na_09_o_s_3.png)](../assets/images/card/cards/na_09_o_s/na_09_o_s_3.png){ align=left width=150 }
 
@@ -170,8 +170,8 @@
 **種別**: 行動
 
 **解説**:
-自分の[オーラ](../mechanics.md)やリソースを[毒](../mechanics.md)に変換し、爆発的な汚染力を得る札。
-短期決戦を狙う際に、相手の手札を一瞬で[毒](../mechanics.md)塗れにするために使用されます。
+自分の[オーラ](../mechanics.md#aura)やリソースを[毒](../mechanics.md#poison)に変換し、爆発的な汚染力を得る札。
+短期決戦を狙う際に、相手の手札を一瞬で[毒](../mechanics.md#poison)塗れにするために使用されます。
 
 <br clear="all">
 
@@ -184,53 +184,53 @@
 
 **解説**:
 幻影の中から放たれる必殺の刃。
-相手の[ライフ](../mechanics.md)が減少しているほど威力を増し、[毒](../mechanics.md)で弱らせた相手への「情け無用の引導」となります。
+相手の[ライフ](../mechanics.md#life)が減少しているほど威力を増し、[毒](../mechanics.md#poison)で弱らせた相手への「情け無用の引導」となります。
 
 ---
 
 ## 主要アーキタイプ
 
 ### 1. 汚染・ハンデス型 (ロックプラン)
-**「[毒](../mechanics.md)を盛り、思考を止める。」**
-相手に[毒](../mechanics.md)カードを送り続けることを最優先し、相手がコンボを組めないようにする。
+**「[毒](../mechanics.md#poison)を盛り、思考を止める。」**
+相手に[毒](../mechanics.md#poison)カードを送り続けることを最優先し、相手がコンボを組めないようにする。
 
 *   **基本戦術**:
-    1. 『[毒](../mechanics.md)針』と『[毒](../mechanics.md)霧』で相手の手札を埋める。
+    1. 『[毒](../mechanics.md#poison)針』と『[毒](../mechanics.md#poison)霧』で相手の手札を埋める。
     2. 『[![泥濘](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png){ .glightbox }』で相手の機動力を封じる。
-    3. [毒](../mechanics.md)によるリソースロスを重ねさせ、最後に『[![首切り](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png){ .glightbox }』で仕留める。
+    3. [毒](../mechanics.md#poison)によるリソースロスを重ねさせ、最後に『[![首切り](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png){ .glightbox }』で仕留める。
 *   **推奨パートナー**: [オボロ](05_oboro.md)(忍)、[シンラ](07_shinra.md)(書)
 
 ### 2. 暗殺アグロ型 (バーストプラン)
 **「隙を見せれば、喉を掻き切る。」**
-最小限の[毒](../mechanics.md)で相手の[オーラ](../mechanics.md)を剥がし、[![首切り](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png){ .glightbox }や高打点[切札](../mechanics.md)で早期決着を狙う。
+最小限の[毒](../mechanics.md#poison)で相手の[オーラ](../mechanics.md#aura)を剥がし、[![首切り](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png){ .glightbox }や高打点[切札](../mechanics.md)で早期決着を狙う。
 
 *   **基本戦術**:
-    1. 序盤から積極的に[間合](../mechanics.md)に入り、『[毒](../mechanics.md)針』で[オーラ](../mechanics.md)削りと[毒](../mechanics.md)の両立。
-    2. 相手が[毒](../mechanics.md)の処理に手回っている隙に大打点を叩き込む。
+    1. 序盤から積極的に[間合](../mechanics.md#range)に入り、『[毒](../mechanics.md#poison)針』で[オーラ](../mechanics.md#aura)削りと[毒](../mechanics.md#poison)の両立。
+    2. 相手が[毒](../mechanics.md#poison)の処理に手回っている隙に大打点を叩き込む。
 *   **推奨パートナー**: [ユリナ](01_yurina.md)(刀)、[ライラ](12_laila.md)(爪)
 
 ---
 
 ## おすすめの組み合わせ (Pairs)
 
-### [オボロ](05_oboro.md) (忍[毒](../mechanics.md))
-**「通称：忍者[毒](../mechanics.md)」**
-[設置](../mechanics.md)『[![影菱](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ .glightbox }』と『[毒](../mechanics.md)針』の二段構えによるハンデス特化。相手は手札を守るか[オーラ](../mechanics.md)を守るかの究極の選択を強いられます。
+### [オボロ](05_oboro.md) (忍[毒](../mechanics.md#poison))
+**「通称：忍者[毒](../mechanics.md#poison)」**
+[設置](../mechanics.md#setchi)『[![影菱](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ .glightbox }』と『[毒](../mechanics.md#poison)針』の二段構えによるハンデス特化。相手は手札を守るか[オーラ](../mechanics.md#aura)を守るかの究極の選択を強いられます。
 
-### [トコヨ](04_tokoyo.md) (扇[毒](../mechanics.md))
+### [トコヨ](04_tokoyo.md) (扇[毒](../mechanics.md#poison))
 **「沈黙の舞奏」**
-トコヨの鉄壁の防御に加え、チカゲの[毒](../mechanics.md)が相手の逆転の芽を摘み取る。最も判定勝ちに近い、盤石の壁。
+[トコヨ](04_tokoyo.md)の鉄壁の防御に加え、チカゲの[毒](../mechanics.md#poison)が相手の逆転の芽を摘み取る。最も判定勝ちに近い、盤石の壁。
 
 ---
 
 ## 戦術の核心
 
-!!! danger "「[毒](../mechanics.md)」は両刃の剣"
-    [毒](../mechanics.md)を渡すことは強力ですが、渡すためにはカードを使用し、隙を晒す必要があります。
-    **[毒](../mechanics.md)を盛りすぎて自分の手数が足りなくなり、相手を削りきれない「決定力不足」に陥ることがよくあります。**
-    [毒](../mechanics.md)はあくまで手段であり、目的（[ライフ](../mechanics.md)10点を削る、あるいは判定で上回る）を忘れないでください。
+!!! danger "「[毒](../mechanics.md#poison)」は両刃の剣"
+    [毒](../mechanics.md#poison)を渡すことは強力ですが、渡すためにはカードを使用し、隙を晒す必要があります。
+    **[毒](../mechanics.md#poison)を盛りすぎて自分の手数が足りなくなり、相手を削りきれない「決定力不足」に陥ることがよくあります。**
+    [毒](../mechanics.md#poison)はあくまで手段であり、目的（[ライフ](../mechanics.md#life)10点を削る、あるいは判定で上回る）を忘れないでください。
 
-!!! tip "「麻痺[毒](../mechanics.md)」の適切な投与"
-    相手が[前進](../mechanics.md)したいデッキなら「麻痺[毒](../mechanics.md)」を。
-    相手がコンボパーツを集めたいなら「幻覚[毒](../mechanics.md)」を。
-    **「今、相手が最も嫌がる[毒](../mechanics.md)はどれか？」**という解を正確に選ぶことが、チカゲ使いの腕の見せ所です。
+!!! tip "「麻痺[毒](../mechanics.md#poison)」の適切な投与"
+    相手が[前進](../mechanics.md#advance)したいデッキなら「麻痺[毒](../mechanics.md#poison)」を。
+    相手がコンボパーツを集めたいなら「幻覚[毒](../mechanics.md#poison)」を。
+    **「今、相手が最も嫌がる[毒](../mechanics.md#poison)はどれか？」**という解を正確に選ぶことが、チカゲ使いの腕の見せ所です。

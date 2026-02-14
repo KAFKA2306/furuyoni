@@ -6,7 +6,7 @@
     <ul>
       <li><strong>権能</strong>: 書 (Book / Logic)</li>
       <li><strong>難易度</strong>: ★★★★★</li>
-      <li><strong>得意[間合](../mechanics.md)</strong>: 4-6</li>
+      <li><strong>得意[間合](../mechanics.md#range)</strong>: 4-6</li>
     </ul>
   </div>
 </div>
@@ -34,7 +34,7 @@
 
 ## シーズン10における立ち位置
 
-シーズン10（大[切札](../mechanics.md)時代）において、シンラは「コンボ殺し」としての[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }を強化されています。
+シーズン10（大[切札](../mechanics.md)時代）において、シンラは「コンボ殺し」としての役割を強化されています。
 
 *   **大型[切札](../mechanics.md)のメタ**: 相手が重量級の[切札](../mechanics.md)を使用しようとしても、シンラの『[![引用](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ .glightbox }』でその発動条件を奪ったり、『[![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }』で準備を台無しにしたりすることができます。
 *   **低速環境の恩恵**: 試合が長引くほど、シンラの「リソースをじわじわ削る」戦術が真価を発揮します。判定勝ちや山札切れを狙うプランが、環境的に通りやすくなっています。
@@ -47,7 +47,7 @@
 
 [![立論](../assets/images/card/cards/na_07_o_n/na_07_o_n_1.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_1.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: ドロー / 資源循環
+**役割**: ドロー / 資源循環
 
 *   **解説**:
     カードを引く、あるいは相手の手札を操作する基礎的な一枚。シンラの「手札が尽きない」安定性を支える屋台骨であり、常にこれを回すことで盤面に必要な「論理」を供給し続けます。
@@ -58,7 +58,7 @@
 
 [![反論](../assets/images/card/cards/na_07_o_n/na_07_o_n_2.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_2.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 妨害 / カウンター
+**役割**: 妨害 / カウンター
 
 *   **解説**:
     相手の行動に対して「No」を突きつける札。相手がリソースを使おうとした瞬間にこれを使用し、計画を破綻させます。
@@ -69,12 +69,12 @@
 
 [![詭弁](../assets/images/card/cards/na_07_o_n/na_07_o_n_3.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_3.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 削り / 精神的[![重圧](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png){ .glightbox }
+**役割**: 削り / 精神的[![重圧](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png){ .glightbox }
 
-*   **適正[間合](../mechanics.md)**: 1-10
+*   **適正[間合](../mechanics.md#range)**: 1-10
 *   **ダメージ**: [2/1]
 *   **解説**:
-    どこからでも飛んでくる小打点。ダメージよりも、この攻撃によって相手の[オーラ](../mechanics.md)や[フレア](../mechanics.md)を少しずつ奪い、相手に「常に削られている」というプレッシャーを与えることが目的です。
+    どこからでも飛んでくる小打点。ダメージよりも、この攻撃によって相手の[オーラ](../mechanics.md#aura)や[フレア](../mechanics.md#flare)を少しずつ奪い、相手に「常に削られている」というプレッシャーを与えることが目的です。
 
 <br clear="all">
 
@@ -82,7 +82,7 @@
 
 [![引用](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: コピー / 資源強奪
+**役割**: コピー / 資源強奪
 
 *   **解説**:
     **シンラの代名詞的な嫌がらせ札。**
@@ -94,10 +94,10 @@
 
 [![扇動](../assets/images/card/cards/na_07_o_n/na_07_o_n_5.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_5.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: リソース操作 / 付与バフ
+**役割**: リソース操作 / 付与バフ
 
 *   **解説**:
-    盤面の結晶（[オーラ](../mechanics.md)や[間合](../mechanics.md)）を強制的に移動させる付与札。相手の[オーラ](../mechanics.md)を剥ぎ取りながら[間合](../mechanics.md)を操作し、シンラの得意な距離を維持するために使われます。
+    盤面の結晶（[オーラ](../mechanics.md#aura)や[間合](../mechanics.md#range)）を強制的に移動させる付与札。相手の[オーラ](../mechanics.md#aura)を剥ぎ取りながら[間合](../mechanics.md#range)を操作し、シンラの得意な距離を維持するために使われます。
 
 <br clear="all">
 
@@ -105,7 +105,7 @@
 
 [![壮語](../assets/images/card/cards/na_07_o_n/na_07_o_n_6.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_6.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 火力増強 / 宣言
+**役割**: 火力増強 / 宣言
 
 *   **解説**:
     次に放つ「[![詭弁](../assets/images/card/cards/na_07_o_n/na_07_o_n_3.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_3.png){ .glightbox }」や他の攻撃を強化する札。シンラは一撃が軽いですが、この「[![壮語](../assets/images/card/cards/na_07_o_n/na_07_o_n_6.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_6.png){ .glightbox }」によって無視できない打点へと昇華させます。
@@ -116,7 +116,7 @@
 
 [![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 打ち消し / 強制終了
+**役割**: 打ち消し / 強制終了
 
 *   **解説**:
     相手の行動を完全に停止させます。相手が「このターンにこれをやって勝つ」という野望を抱いた瞬間にこれを叩き込み、何もさせずにターンを返させる「最上位の否定」です。
@@ -175,7 +175,7 @@
 
 **解説**:
 シンラの知識が暴力へと変わる瞬間。
-判定勝ちを狙う際、あるいは相手の最後の[ライフ](../mechanics.md)を削り取る際の、非常に回避困難な連撃となります。
+判定勝ちを狙う際、あるいは相手の最後の[ライフ](../mechanics.md#life)を削り取る際の、非常に回避困難な連撃となります。
 
 ---
 
@@ -189,16 +189,16 @@
     1. 序盤から『[![引用](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ .glightbox }』を回し、相手のパーツを奪う。
     2. 『[![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }』と『[![反論](../assets/images/card/cards/na_07_o_n/na_07_o_n_2.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_2.png){ .glightbox }』を構え、相手の「まともなターン」を消滅させる。
     3. 付与札を並べ、相手が攻める気を失うまで守りを固める。
-*   **推奨パートナー**: トコヨ(扇)、サイネ(薙)
+*   **推奨パートナー**: [トコヨ](04_tokoyo.md)(扇)、[サイネ](02_saine.md)(薙)
 
 ### 2. 皆塵唯我フィニッシュ (ロマンコンボプラン)
 **「すべては塵に帰る。」**
 圧倒的なリソース供給能力を持つ相方と組み、コスト10の『皆塵唯我』を安定して放つ。
 
 *   **基本戦術**:
-    1. 『壬蔓』(オボロ)等で[フレア](../mechanics.md)を急速充電。
+    1. 『壬蔓』([オボロ](05_oboro.md))等で[フレア](../mechanics.md#flare)を急速充電。
     2. シンラが耐え忍び、コスト10が溜まった瞬間に世界を無に帰す。
-*   **推奨パートナー**: オボロ(忍)、サリヤ(騎)
+*   **推奨パートナー**: [オボロ](05_oboro.md)(忍)、[サリヤ](11_sariya.md)(騎)
 
 ---
 
@@ -210,7 +210,7 @@
 
 ### [サイネ](02_saine.md) (薙書)
 **「判証の盾」**
-サイネのカウンター性能とシンラの妨害が噛み合い、隙のない要塞を築きます。
+[サイネ](02_saine.md)のカウンター性能とシンラの妨害が噛み合い、隙のない要塞を築きます。
 
 ---
 

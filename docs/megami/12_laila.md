@@ -6,7 +6,7 @@
     <ul>
       <li><strong>権能</strong>: 爪 (Claw / Storm)</li>
       <li><strong>難易度</strong>: ★★★☆☆</li>
-      <li><strong>得意[間合](../mechanics.md)</strong>: 0-3</li>
+      <li><strong>得意[間合](../mechanics.md#range)</strong>: 0-3</li>
     </ul>
   </div>
 </div>
@@ -18,14 +18,14 @@
 
 > 「あははっ、もっと速く、もっと強く！ 私が戦場（ここ）で、一番の嵐になってやる！」
 
-ライラは、荒ぶる暴風と轟く雷鳴をその身に[宿し](../mechanics.md)た、天真爛漫な「爪」のメガミです。
+ライラは、荒ぶる暴風と轟く雷鳴をその身に[宿し](../mechanics.md#yadoshi)た、天真爛漫な「爪」のメガミです。
 彼女の起源は、飽くなき闘争本能と、強き者との決闘を純粋に楽しむ無邪気な好奇心にあります。彼女にとって戦いとは、己の魂を震わせ、限界を超えて「頂点」を目指すための最高にエキサイティングな遊びです。
 物語では、自由奔放で誰にでも人懐っこい（しかし一度爪を振るえば手がつけられない）獣姫として描かれます。彼女の振るう爪は、空間を切り裂く暴風を呼び、その一撃は天から降り注ぐ雷光の如き速度で相手の防御を貫きます。
 「風雷」という力は、彼女が自身の行動（攻防）そのものをエネルギーへと昇華させ、対局が終盤に進むほどにその存在が全土を飲み込む巨大な「嵐」へと進化していく様を象徴しています。
 
 ## キーワード能力: 風雷 (Wind / Thunder)
 
-ライラは戦えば戦うほど、その身に嵐を[纏い](../mechanics.md)ます。
+ライラは戦えば戦うほど、その身に嵐を[纏い](../mechanics.md#matoy)ます。
 
 *   **ゲージの蓄積**: 特定のカード（[通常札](../mechanics.md)・[切札](../mechanics.md)）を使用するたびに、「風」ゲージまたは「雷」ゲージが上昇します。
 *   **効果の性質**: ゲージが一定値に達すると、攻撃札のダメージが増加したり、特殊な追加効果（バースト）が発生したりします。
@@ -38,7 +38,7 @@
 シーズン10（大[切札](../mechanics.md)時代）において、ライラは「最高のフィニッシャー」として評価されています。
 
 *   **大[切札](../mechanics.md)とのシナジー**: ライラ自身が「カードを使うこと」自体をメリットとするため、コストの低い[切札](../mechanics.md)を連打する戦術と非常に相性が良いです。
-*   **短期決戦の覇者**: 環境が低速化する中、ライラはあえて超高速でゲージを溜め、相手が準備を終える前に試合を終わらせる「アンチ・スローデッキ」としての[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }を担います。
+*   **短期決戦の覇者**: 環境が低速化する中、ライラはあえて超高速でゲージを溜め、相手が準備を終える前に試合を終わらせる「アンチ・スローデッキ」としての役割を担います。
 
 ---
 
@@ -48,9 +48,9 @@
 
 [![獣爪](../assets/images/card/cards/na_12_o_n/na_12_o_n_1.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_1.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: ゲージ稼ぎ / 基本攻撃
+**役割**: ゲージ稼ぎ / 基本攻撃
 
-*   **適正[間合](../mechanics.md)**: 0-2
+*   **適正[間合](../mechanics.md#range)**: 0-2
 *   **ダメージ**: [3/1]
 *   **解説**:
     ライラの基本。ダメージもさることながら、このカードを振ることでゲージが溜まることこそが最大の目的です。近距離戦の幕開けを告げる鋭い爪痕です。
@@ -61,12 +61,12 @@
 
 [![風雷撃](../assets/images/card/cards/na_12_o_n/na_12_o_n_2.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_2.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: バースト火力 / フィニッシャー
+**役割**: バースト火力 / フィニッシャー
 
 *   **ダメージ**: [X/Y] (ゲージ量に依存)
 *   **解説**:
     **ライラの必殺技。**
-    溜まったゲージをダメージに変換して放つ一撃。ゲージが最大値に近い状態でのこの攻撃は、[通常札](../mechanics.md)でありながら[5/3]クラスの暴虐へと変貌し、[ライフ](../mechanics.md)を直接粉砕します。
+    溜まったゲージをダメージに変換して放つ一撃。ゲージが最大値に近い状態でのこの攻撃は、[通常札](../mechanics.md)でありながら[5/3]クラスの暴虐へと変貌し、[ライフ](../mechanics.md#life)を直接粉砕します。
 
 <br clear="all">
 
@@ -74,7 +74,7 @@
 
 [![流転爪](../assets/images/card/cards/na_12_o_n/na_12_o_n_3.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_3.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 連続攻撃 / コンボパーツ
+**役割**: 連続攻撃 / コンボパーツ
 
 *   **解説**:
     条件を満たすことで手札に戻る、あるいは再起する性質を持ち、1ターンに何度も振ることで爆速でゲージを稼ぐための「回転」の要です。
@@ -85,11 +85,11 @@
 
 [![風走り](../assets/images/card/cards/na_12_o_n/na_12_o_n_4.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_4.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 移動 / 加速
+**役割**: 移動 / 加速
 
-*   **効果**: [間合](../mechanics.md)を近づける、あるいは離す。
+*   **効果**: [間合](../mechanics.md#range)を近づける、あるいは離す。
 *   **解説**:
-    風の如き速度で[間合](../mechanics.md)を調整する移動札。攻撃を当てるための位置取りと、風ゲージの蓄積を同時に行います。
+    風の如き速度で[間合](../mechanics.md#range)を調整する移動札。攻撃を当てるための位置取りと、風ゲージの蓄積を同時に行います。
 
 <br clear="all">
 
@@ -97,7 +97,7 @@
 
 [![風雷の知恵](../assets/images/card/cards/na_12_o_n/na_12_o_n_5.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_5.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: リソース調整 / ゲージブースト
+**役割**: リソース調整 / ゲージブースト
 
 *   **解説**:
     直接的な攻撃は行わず、精神を研ぎ澄ましてゲージを一気に上昇させたり、手札を整えたりする補助札。勝負のターンに向けた「溜め」のカードです。
@@ -108,7 +108,7 @@
 
 [![呼び声](../assets/images/card/cards/na_12_o_n/na_12_o_n_6.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_6.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 嵐の召喚 / サーチ
+**役割**: 嵐の召喚 / サーチ
 
 *   **解説**:
     山札から風雷に関連する強力なカードを呼び込み、コンボを完成させます。
@@ -119,7 +119,7 @@
 
 [![空駆け](../assets/images/card/cards/na_12_o_n/na_12_o_n_7.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_7.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 回避 / 攪乱
+**役割**: 回避 / 攪乱
 
 *   **解説**:
     空を飛ぶが如き挙動で相手の攻撃を空振りさせ、同時に風ゲージを稼ぐトリッキーな一枚。
@@ -139,7 +139,7 @@
 
 **解説**:
 空から無数の雷を降らせる広域制圧攻撃。
-ライラのゲージが溜まっていればいるほどヒット数や威力が増し、相手の[オーラ](../mechanics.md)を一瞬で消滅させます。
+ライラのゲージが溜まっていればいるほどヒット数や威力が増し、相手の[オーラ](../mechanics.md#aura)を一瞬で消滅させます。
 
 <br clear="all">
 
@@ -179,16 +179,16 @@
     1. 序盤から『[![獣爪](../assets/images/card/cards/na_12_o_n/na_12_o_n_1.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_1.png){ .glightbox }』や他メガミの低コスト札を連打。
     2. 『[![風雷の知恵](../assets/images/card/cards/na_12_o_n/na_12_o_n_5.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_5.png){ .glightbox }』等でゲージを調整。
     3. MAX状態で『[![風雷撃](../assets/images/card/cards/na_12_o_n/na_12_o_n_2.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_2.png){ .glightbox }』＋『天雷召喚陣』のオーバーキル・コンボ。
-*   **推奨パートナー**: オボロ(忍)、サリヤ(騎)
+*   **推奨パートナー**: [オボロ](05_oboro.md)(忍)、[サリヤ](11_sariya.md)(騎)
 
 ### 2. 暴風レンジロック (攪乱プラン)
 **「捕まえられない嵐。」**
 『[![風走り](../assets/images/card/cards/na_12_o_n/na_12_o_n_4.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_4.png){ .glightbox }』や『[![空駆け](../assets/images/card/cards/na_12_o_n/na_12_o_n_7.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_7.png){ .glightbox }』を使い回し、相手の攻撃を躱しながら自分だけがゲージを貯める。
 
 *   **基本戦術**:
-    1. 相手の適正[間合](../mechanics.md)の外を維持。
+    1. 相手の適正[間合](../mechanics.md#range)の外を維持。
     2. ゲージが溜まったら一気に踏み込み、爪を振る。
-*   **推奨パートナー**: トコヨ(扇)、ハガネ(槌)
+*   **推奨パートナー**: [トコヨ](04_tokoyo.md)(扇)、[ハガネ](08_hagane.md)(槌)
 
 ---
 
@@ -196,7 +196,7 @@
 
 ### [ハガネ](08_hagane.md) (槌爪)
 **「天変地異の破壊力」**
-移動そのものがメリットになる二人。ハガネの[遠心](../mechanics.md)とライラの風ゲージが同時に溜まり、戦場は更地になります。
+移動そのものがメリットになる二人。[ハガネ](08_hagane.md)の[遠心](../mechanics.md#enshin)とライラの風ゲージが同時に溜まり、戦場は更地になります。
 
 ### [サリヤ](11_sariya.md) (騎爪)
 **「神速のオーバーキル」**
