@@ -1,0 +1,135 @@
+/* Furuyoni Immersive Theme */
+:root {
+  --sakura-pink: #ffb7c5;
+  --sakura-deep: #e91e63;
+  --night-sky: #0f0f1a;
+  --night-sky-light: #1a1a2e;
+  --star-gold: #ffd700;
+  --text-glow: rgba(255, 183, 197, 0.6);
+  --glass-bg: rgba(20, 20, 35, 0.6);
+  --glass-border: rgba(255, 255, 255, 0.08);
+  --glass-blur: 16px;
+  --font-mincho: 'Shippori Mincho', serif;
+}
+
+/* Base Override */
+body {
+  background-color: var(--night-sky);
+  background-image: 
+    radial-gradient(circle at 10% 20%, rgba(233, 30, 99, 0.05) 0%, transparent 40%),
+    radial-gradient(circle at 90% 80%, rgba(29, 29, 58, 0.8) 0%, transparent 60%);
+  color: #e0e0e0;
+}
+
+/* Typography */
+h1, h2, h3 {
+  font-family: var(--font-mincho);
+  letter-spacing: 0.05em;
+}
+
+h1 {
+  text-shadow: 0 0 20px rgba(233, 30, 99, 0.4);
+  background: linear-gradient(to right, #ff9a9e 0%, #fecfef 99%, #fecfef 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Glassmorphism Containers */
+.md-content__inner {
+  background: transparent;
+}
+
+article {
+  background: var(--glass-bg);
+  backdrop-filter: blur(var(--glass-blur));
+  -webkit-backdrop-filter: blur(var(--glass-blur));
+  border: 1px solid var(--glass-border);
+  border-radius: 16px;
+  padding: 2rem !important;
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+}
+
+/* Navbar */
+.md-header {
+  background-color: rgba(15, 15, 26, 0.85) !important;
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--glass-border);
+}
+
+.md-tabs {
+  background-color: transparent !important;
+  border-bottom: 1px solid var(--glass-border);
+}
+
+/* Sidebar */
+.md-sidebar__scrollwrap {
+  background: transparent;
+}
+
+.md-nav__item .md-nav__link--active {
+  color: var(--sakura-pink) !important;
+  font-weight: bold;
+  text-shadow: 0 0 8px var(--sakura-deep);
+}
+
+/* Tables */
+.md-typeset table:not([class]) {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid var(--glass-border);
+}
+
+.md-typeset table:not([class]) th {
+  background: rgba(233, 30, 99, 0.1);
+  color: var(--sakura-pink);
+}
+
+/* Admonitions */
+.md-typeset .admonition, 
+.md-typeset details {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid var(--glass-border);
+  border-radius: 8px;
+}
+
+.md-typeset .admonition.note,
+.md-typeset .admonition.info {
+  border-left-color: var(--sakura-deep);
+}
+
+/* Footer */
+footer {
+  background: transparent !important;
+  border-top: 1px solid var(--glass-border);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--night-sky);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--sakura-deep);
+}
+
+/* Canvas for Sakura */
+#sakura-canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 9999;
+}
