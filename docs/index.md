@@ -37,7 +37,7 @@ hide:
         <p>双掌繚乱。眼前構築から始まる、たった一度の決闘の作法。</p>
     </a>
     
-    <a href="beginner/curriculum/" class="feature-card" style="text-decoration: none; color: inherit;">
+    <a href="beginner/" class="feature-card" style="text-decoration: none; color: inherit;">
         <h3>
             <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3L1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09V17h2V9L12 3zm6.82 6L12 12.72 5.18 9 12 5.28 18.82 9zM17 15.99l-5 2.73-5-2.73v-3.72l5 2.73 5-2.73v3.72z"/></svg></span>
             入門カリキュラム
@@ -45,7 +45,7 @@ hide:
         <p>旅の始まり。基礎から応用まで、ミコトとしての第一歩を。</p>
     </a>
 
-     <a href="strategy/" class="feature-card" style="text-decoration: none; color: inherit;">
+     <a href="strategy.md" class="feature-card" style="text-decoration: none; color: inherit;">
         <h3>
             <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 3H3c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H3V5h18v14zM5 15h14v3H5v-3zm0-8h14v6H5V7z"/></svg></span>
             戦略指南

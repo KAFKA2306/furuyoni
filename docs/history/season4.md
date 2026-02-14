@@ -8,7 +8,7 @@
 
 ## 1. 概説：成長するリソースと戦略の本質的拡張
 
-シーズン4は、本作における「カードの動的な変化」と「プレイヤー間のリソース一致」という、より高度な概念が導入された野心的なシーズンでした。**[ホノカ](../megami/index.md)（旗）**の「開花」によるカードの進化、および**[ヤツハ](../megami/index.md)（鏡）**の「[鏡映](../mechanics/index.md)」による相互状態の参照は、単純なパワーゲームに「タイミング」と「調整」という深いレイヤーを加えました。
+シーズン4は、本作における「カードの動的な変化」と「プレイヤー間のリソース一致」という、より高度な概念が導入された野心的なシーズンでした。**[ホノカ](../megami/index.md)（旗）**の「開花」によるカードの進化、および**[ヤツハ](../megami/index.md)（鏡）**の「[鏡映](../mechanics.md)」による相互状態の参照は、単純なパワーゲームに「タイミング」と「調整」という深いレイヤーを加えました。
 
 また、公式大会において「三拾一捨（Pick 3, Ban 1）」形式が完全に定着し、特定のペアだけでなく「3柱のプールとしての完成度」が問われるようになったのもこの時期の特徴です。
 
@@ -21,8 +21,8 @@
 - **《[![突撃霊式](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png){ .glightbox }》の衝撃**: 序盤の守りから終盤の高打点攻撃へのトランスフォームは、相手に「早く攻め切らなければならない」という焦りを与え、ゲームのテンポを加速させました。
 - **バッファーとしての[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: [ホノカ](../megami/14_honoka.md)は相方のカードを強化する能力に長けており、これまでにないシナジーが次々と発見されました。
 
-### [鏡映](../mechanics/index.md)のジレンマ
-[ヤツハ](../megami/16_yatsuha.md)は「相手と同じ状態（[オーラ](../mechanics/glossary.md)・[ライフ](../mechanics/glossary.md)・[フレア](../mechanics/glossary.md)）を作る」ことで真価を発揮するため、あえて攻撃を控えたり、リソースを調整したりする独自の立ち回りを環境に定着させました。
+### [鏡映](../mechanics.md)のジレンマ
+[ヤツハ](../megami/16_yatsuha.md)は「相手と同じ状態（[オーラ](../glossary.md)・[ライフ](../glossary.md)・[フレア](../glossary.md)）を作る」ことで真価を発揮するため、あえて攻撃を控えたり、リソースを調整したりする独自の立ち回りを環境に定着させました。
 
 [![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
@@ -30,20 +30,20 @@
 
 ### ① 【社旗（当時の呼称）】[ユキヒ](../megami/06_yukihi.md) / [ホノカ](../megami/14_honoka.md)
 **変幻自在のレンジ制御と圧倒的スタッツ**
-- **戦略**: [ユキヒ](../megami/06_yukihi.md)の「[開閉](../mechanics/index.md)」と[ホノカ](../megami/14_honoka.md)のバフを組み合わせた中距離ビートダウン。
+- **戦略**: [ユキヒ](../megami/06_yukihi.md)の「[開閉](../mechanics.md)」と[ホノカ](../megami/14_honoka.md)のバフを組み合わせた中距離ビートダウン。
 - **強み**: 適正距離を維持しつつ、[ホノカ](../megami/14_honoka.md)の切り札でダメージを底上げする。特に《この旗の名の下に》を用いたリーサルラインの引き上げは、当時の多くのデッキにとって脅威でした。
 
 ### ② 【絡旗（当時の呼称）】[クルル](../megami/10_kururu.md) / [ホノカ](../megami/14_honoka.md)
-**[機巧](../mechanics/index.md)と精霊の共鳴**
-- **戦略**: [ホノカ](../megami/14_honoka.md)の優秀な付与札を利用して[クルル](../megami/10_kururu.md)の「[機巧](../mechanics/index.md)」を安定して発動させるコンボデッキ。
+**[機巧](../mechanics.md)と精霊の共鳴**
+- **戦略**: [ホノカ](../megami/14_honoka.md)の優秀な付与札を利用して[クルル](../megami/10_kururu.md)の「[機巧](../mechanics.md)」を安定して発動させるコンボデッキ。
 - **評価**: これまでの[クルル](../megami/10_kururu.md)デッキに欠けていた「序盤から中盤の安定性」を[ホノカ](../megami/14_honoka.md)が補う形となり、コンボの完成度が飛躍的に向上しました。
 
 [![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## 4. 既存メガミの再評価とメタの変遷
 
-- **[コルヌ](../megami/index.md)（橇）**: 「[凍結](../mechanics/index.md)」によって相手の[宿し](../mechanics/index.md)や[前進](../mechanics/index.md)を直接阻害する[コルヌ](../megami/15_korunu.md)は、移動系メガミ（[サリヤ](../megami/11_sariya.md)、[オボロ](../megami/05_oboro.md)）に対する強力なカウンターとして機能しました。
-- **[三拾一捨](../mechanics/glossary.md)の進化**: 相手の強力なコンボをBANし、残された2柱でいかに戦うかという「[眼前構築](../mechanics/glossary.md)の一歩手前」の思考が、トッププレイヤーの間で極めて高度に洗練されました。
+- **[コルヌ](../megami/index.md)（橇）**: 「[凍結](../mechanics.md)」によって相手の[宿し](../mechanics.md)や[前進](../mechanics.md)を直接阻害する[コルヌ](../megami/15_korunu.md)は、移動系メガミ（[サリヤ](../megami/11_sariya.md)、[オボロ](../megami/05_oboro.md)）に対する強力なカウンターとして機能しました。
+- **[三拾一捨](../glossary.md)の進化**: 相手の強力なコンボをBANし、残された2柱でいかに戦うかという「[眼前構築](../glossary.md)の一歩手前」の思考が、トッププレイヤーの間で極めて高度に洗練されました。
 
 [![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 

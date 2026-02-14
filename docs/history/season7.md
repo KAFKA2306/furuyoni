@@ -1,4 +1,4 @@
-# シーズン7 環境回顧録：再構築の波と「[守護](../mechanics/index.md)者」の台頭
+# シーズン7 環境回顧録：再構築の波と「[守護](../mechanics.md)者」の台頭
 
 ## タイムライン
 - **開始**: 2021年〜（第伍、第六拡張の問題解決パッチ導入後）
@@ -25,7 +25,7 @@
 
 [![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
-## 3. Tier 1 アーキタイプ：新世代の[守護](../mechanics/index.md)
+## 3. Tier 1 アーキタイプ：新世代の[守護](../mechanics.md)
 
 ### ① 【兜棹（当時の呼称）】ミズキ / メグミ
 **堅牢なる暴力、要塞の進撃**
@@ -34,7 +34,7 @@
 
 ### ② 【薙銃（当時の呼称）】[サイネ](../megami/02_saine.md) / [ヒミカ](../megami/03_himika.md)
 **最古にして最新のレンジコントロール**
-- **戦略**: [ヒミカ](../megami/03_himika.md)の遠距離攻撃で序盤の[ライフ](../mechanics/glossary.md)を削り、近づかれたら[サイネ](../megami/02_saine.md)の対応札と[八相](../mechanics/index.md)で受け流す。
+- **戦略**: [ヒミカ](../megami/03_himika.md)の遠距離攻撃で序盤の[ライフ](../glossary.md)を削り、近づかれたら[サイネ](../megami/02_saine.md)の対応札と[八相](../mechanics.md)で受け流す。
 - **評価**: 拡張メガミの調整が進む中で、基本メガミ同士の堅実なシナジーが再評価された象徴的な組み合わせです。
 
 [![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
@@ -42,7 +42,7 @@
 ## 4. 救済と深化：日の目を見たメガミたち
 
 - **[ミズキ](../megami/index.md)（兜）**: シーズン7において最も成功した設計とされ、「対応」を主体とした新しいコントロールの形を環境に定着させました。
-- **[ハツミ](../megami/index.md)（櫂）**: 航路によるトリッキーな[間合](../mechanics/glossary.md)操作が再評価され、特定のトップメタに対する「回答」として独自の地位を築きました。
+- **[ハツミ](../megami/index.md)（櫂）**: 航路によるトリッキーな[間合](../glossary.md)操作が再評価され、特定のトップメタに対する「回答」として独自の地位を築きました。
 
 [![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 

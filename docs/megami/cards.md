@@ -100,7 +100,7 @@
 
 </div>
 
-## ユキヒ
+## ユキヒ {: #yukihi }
 
 <div class="grid cards" markdown>
 
@@ -160,7 +160,7 @@
 
 </div>
 
-## チカゲ
+## チカゲ {: #chikage }
 
 <div class="grid cards" markdown>
 
@@ -300,7 +300,7 @@
 
 </div>
 
-## ヤツハ
+## ヤツハ {: #yatsuha }
 
 <div class="grid cards" markdown>
 

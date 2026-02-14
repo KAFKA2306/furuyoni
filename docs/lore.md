@@ -1,0 +1,110 @@
+# 桜降る代の世界（Lore）
+
+> [!NOTE]
+> 「桜降る代」——それは、神と人とが共存し、美しくも残酷な運命を紡ぐ世界。
+
+このゲームの背景にある、桜の花びらが舞い散る幽玄な世界「桜降る代」の物語を紹介します。
+
+[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+
+## 世界背景
+
+### [桜花結晶](glossary.md)（おうかけっしょう）
+この世界で舞い散る桜の花びらは、単なる植物ではありません。それは「[桜花結晶](mechanics.md)」と呼ばれる、万物を構成するエネルギーの結晶体です。
+結晶は人々の生活を支える灯火となり、交易の貨幣となり、そして何より——**メガミたちの権能を現出させる依代**となります。
+
+### ミコト（命/尊）
+[桜花結晶](mechanics.md)の力をその身に[宿し](mechanics.md)、メガミと心を通わせる能力者。それが決闘者であるあなた、**「ミコト」**です。
+ミコトはメガミと[![契約](assets/images/card/cards/na_16_o_n/na_16_o_n_6.png)](assets/images/card/cards/na_16_o_n/na_16_o_n_6.png){ .glightbox }を結び、その双掌に結晶を握りしめることで、神秘の力（カード）を振るうことができます。
+
+### [桜花決闘](glossary.md)（おうかけっとう）
+ミコト同士がメガミの力を借りて行う、神聖かつ苛烈な決闘。
+それは単なる武力の証明ではありません。あるときは伝統的な儀式として、あるときは国を揺るがす政治的解決の手段として、そしてあるときは——避けることのできない宿命の果てに行われます。
+
+[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+
+## 悠久の物語
+
+### 神座桜（かみざくら）の縁起
+世界の理を定める巨大な桜の樹、**「神座桜」**。そこには人智を超えた存在、メガミが宿っています。
+かつて混沌としていた大地は、メガミたちの力によって形作られ、文明が花開きました。しかし、その平和の裏側には、神々さえも抗えない「時の流れ」と「因縁」が渦巻いています。
+
+### 英雄たちの旅路：『桜降る代の神語り』
+この世界の命運は、ある一人の少女の歩みから大きく動き始めました。
+
+- **天音揺波（あまね ゆりな）**: 「武神」の資質を秘めた少女。彼女の剣は、数多の苦難を切り裂き、やがて世界そのものを更新する力へと至ります。
+- **氷雨細音（ひさめ さいね）**: 揺波のライバルであり、魂の友。氷の如き冷徹さと、熱き情熱を内に秘めた彼女の奏でる音色は、物語の節目に常に響き渡ります。
+
+二人の戦いと絆、そして彼女たちがメガミへと至るまでの物語は、公式小説として語り継がれています。
+
+[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+
+## メガミの本質
+
+メガミは、世界の概念そのものが形を成した存在です。
+
+- **オリジン（起源）**: メガミがその権能を最も純粋に振るう「原初の姿」。
+- **アナザー（別姿）**: 物語の分岐や、メガミが持つ異なる側面、あるいは「もしもの可能性」が具現化した姿。
+- **三座（さんざ）**: 世界の均衡を保つために特に重要とされるメガミの座。
+
+[メガミたちの詳細な物語についてはこちらから](megami/index.md)
+
+[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+
+## 物語の要約
+
+> [!INFO]
+> 神を宿し、桜舞う代（よ）を生きる者たちの記録。
+
+<div class="dashboard-grid">
+    <div class="feature-card dashboard-wide">
+        <h3>神語りのあらすじ</h3>
+        <p>遠き神話の時代。世界は混沌の中にありましたが、最初のメガミたちがその権能を振るうことで、理（ことわり）が定まりました。</p>
+        <p>時は流れ、物語の舞台は<strong>「天音揺波」</strong>という一人の少女の視点へと移ります。</p>
+        <p>揺波は、「武神」の力を宿す類稀なる才能を持つ<strong>ミコト</strong>でした。彼女は自身の剣が導くままに各地を旅し、様々なメガミ、そして宿命のライバルである<strong>「氷雨細音」</strong>と出会います。</p>
+    </div>
+</div>
+
+<div class="dashboard-grid">
+    <div class="feature-card">
+        <h3>八葉鏡の儀式</h3>
+        <p>物語のクライマックスでは、世界を維持するための重要な儀式<strong>「八葉鏡（はちようきょう）」</strong>が執り行われます。これにはメガミたちの協力と、それを受け入れるミコトたちの強い意志が必要でした。</p>
+        <p>揺波と細音は、衝突と理解を繰り返し、やがて彼女たち自身が新たなメガミとして「桜降る代」の理を背負う存在へと昇華していきます。</p>
+    </div>
+    
+    <div class="feature-card">
+        <h3>世界観キーワード</h3>
+        <ul>
+            <li><strong>神座桜 (Kamizakura)</strong>: メガミたちが座す原初の大樹。その開花は新たな歴史の始まりを意味し、散り際は時代の移ろいを示唆します。</li>
+            <li><strong>祈祷師</strong>: メガミの力を借りるのではなく、神の意志を地上に降ろす特別な存在。アナザー版のメガミたちの中には、この役割を担う者もいます。</li>
+            <li><strong>三座</strong>: 世界を支える三つの主要な神格。[ユリナ](megami/index.md)（刀）、[サイネ](megami/index.md)（薙刀）に続く「第三の座」の正体は、多くの謎に包まれています。</li>
+        </ul>
+    </div>
+</div>
+
+### 主要登場人物（メガミ・オリジン）
+
+<div class="dashboard-grid">
+    <!-- Yurina -->
+    <a href="megami/01_yurina/" class="feature-card" style="text-decoration: none; color: inherit;">
+        <div class="megami-icon-wrapper">
+             <img src="assets/images/cards/01-yurina-o-1.png" alt="Yurina">
+        </div>
+        <h3 style="justify-content: center;">天音 揺波 (ユリナ)</h3>
+        <div style="text-align: center; margin-bottom: 0.5rem; color: var(--sakura-pink); font-weight: bold;">武の象徴</div>
+        <p>剣の極致を求め、守るべきもののために振るわれる刃。彼女がメガミへと至る道は、多くのミコトたちの希望となりました。</p>
+    </a>
+
+    <!-- Saine -->
+    <a href="megami/02_saine/" class="feature-card" style="text-decoration: none; color: inherit;">
+        <div class="megami-icon-wrapper">
+             <img src="assets/images/cards/02-saine-o-1.png" alt="Saine">
+        </div>
+        <h3 style="justify-content: center;">氷雨 細音 (サイネ)</h3>
+        <div style="text-align: center; margin-bottom: 0.5rem; color: var(--sakura-pink); font-weight: bold;">知・音の象徴</div>
+        <p>揺波の剣を支え、時に律するための調べ。彼女の奏でる「氷雨の調べ」は、<a href="glossary.md#shousou">焦燥</a>に駆られた魂を静め、真実を見通します。</p>
+    </a>
+</div>
+
+! ! ! info "物語をより詳しく知るには"
+    公式小説は単なるゲームの背景設定に留まらず、キャラクターたちの感情や決断が克明に描かれています。各メガミの個別ページにある「オリジン」セクションも併せてご覧ください。

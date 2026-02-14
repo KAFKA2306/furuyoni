@@ -6,7 +6,7 @@
     <ul>
       <li><strong>権能</strong>: 書 (Book / Logic)</li>
       <li><strong>難易度</strong>: ★★★★★</li>
-      <li><strong>得意[間合](../mechanics/glossary.md)</strong>: 4-6</li>
+      <li><strong>得意[間合](../glossary.md)</strong>: 4-6</li>
     </ul>
   </div>
 </div>
@@ -34,14 +34,14 @@
 
 ## シーズン10における立ち位置
 
-シーズン10（大[切札](../mechanics/glossary.md)時代）において、[シンラ](index.md)は「コンボ殺し」としての[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }を強化されています。
+シーズン10（大[切札](../glossary.md)時代）において、[シンラ](index.md)は「コンボ殺し」としての[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }を強化されています。
 
-*   **大型[切札](../mechanics/glossary.md)のメタ**: 相手が重量級の[切札](../mechanics/glossary.md)を使用しようとしても、[シンラ](index.md)の『[![引用](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ .glightbox }』でその発動条件を奪ったり、『[![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }』で準備を台無しにしたりすることができます。
+*   **大型[切札](../glossary.md)のメタ**: 相手が重量級の[切札](../glossary.md)を使用しようとしても、[シンラ](index.md)の『[![引用](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ .glightbox }』でその発動条件を奪ったり、『[![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }』で準備を台無しにしたりすることができます。
 *   **低速環境の恩恵**: 試合が長引くほど、[シンラ](index.md)の「リソースをじわじわ削る」戦術が真価を発揮します。判定勝ちや山札切れを狙うプランが、環境的に通りやすくなっています。
 
 [![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
-## [通常札](../mechanics/glossary.md)解説
+## [通常札](../glossary.md)解説
 
 ### N1 [![立論](../assets/images/card/cards/na_07_o_n/na_07_o_n_1.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_1.png){ .glightbox }
 
@@ -71,10 +71,10 @@
 
 **[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 削り / 精神的[![重圧](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png){ .glightbox }
 
-*   **適正[間合](../mechanics/glossary.md)**: 1-10
+*   **適正[間合](../glossary.md)**: 1-10
 *   **ダメージ**: [2/1]
 *   **解説**:
-    どこからでも飛んでくる小打点。ダメージよりも、この攻撃によって相手の[オーラ](../mechanics/glossary.md)や[フレア](../mechanics/glossary.md)を少しずつ奪い、相手に「常に削られている」というプレッシャーを与えることが目的です。
+    どこからでも飛んでくる小打点。ダメージよりも、この攻撃によって相手の[オーラ](../glossary.md)や[フレア](../glossary.md)を少しずつ奪い、相手に「常に削られている」というプレッシャーを与えることが目的です。
 
 <br clear="all">
 
@@ -97,7 +97,7 @@
 **[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: リソース操作 / 付与バフ
 
 *   **解説**:
-    盤面の結晶（[オーラ](../mechanics/glossary.md)や[間合](../mechanics/glossary.md)）を強制的に移動させる付与札。相手の[オーラ](../mechanics/glossary.md)を剥ぎ取りながら[間合](../mechanics/glossary.md)を操作し、[シンラ](index.md)の得意な距離を維持するために使われます。
+    盤面の結晶（[オーラ](../glossary.md)や[間合](../glossary.md)）を強制的に移動させる付与札。相手の[オーラ](../glossary.md)を剥ぎ取りながら[間合](../glossary.md)を操作し、[シンラ](index.md)の得意な距離を維持するために使われます。
 
 <br clear="all">
 
@@ -125,7 +125,7 @@
 
 [![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
-## [切札](../mechanics/glossary.md)解説
+## [切札](../glossary.md)解説
 
 ### S1 完全[![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }
 
@@ -135,7 +135,7 @@
 **種別**: 行動
 
 **解説**:
-相手の特定のカードをゲームから事実上除外する、あるいは永続的に封印するなどの超強力なメタ[切札](../mechanics/glossary.md)（※版により調整あり）。
+相手の特定のカードをゲームから事実上除外する、あるいは永続的に封印するなどの超強力なメタ[切札](../glossary.md)（※版により調整あり）。
 特定のカードに頼り切ったデッキに対しては、この一枚だけでチェックメイトをかけることができます。
 
 <br clear="all">
@@ -175,7 +175,7 @@
 
 **解説**:
 [シンラ](index.md)の知識が暴力へと変わる瞬間。
-判定勝ちを狙う際、あるいは相手の最後の[ライフ](../mechanics/glossary.md)を削り取る際の、非常に回避困難な連撃となります。
+判定勝ちを狙う際、あるいは相手の最後の[ライフ](../glossary.md)を削り取る際の、非常に回避困難な連撃となります。
 
 [![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
@@ -196,7 +196,7 @@
 圧倒的なリソース供給能力を持つ相方と組み、コスト10の『皆塵唯我』を安定して放つ。
 
 *   **基本戦術**:
-    1. 『壬蔓』([オボロ](index.md))等で[フレア](../mechanics/glossary.md)を急速充電。
+    1. 『壬蔓』([オボロ](index.md))等で[フレア](../glossary.md)を急速充電。
     2. [シンラ](index.md)が耐え忍び、コスト10が溜まった瞬間に世界を無に帰す。
 *   **推奨パートナー**: [オボロ](index.md)(忍)、[サリヤ](index.md)(騎)
 
