@@ -7,7 +7,7 @@
 
 戦略を語る前に、中級者が勘違いしやすい、あるいは曖昧に覚えがちなルールを明確にしておきます。
 
-### [間合](glossary.md) (Ma-ai)
+### [間合](mechanics.md) (Ma-ai)
 - 0〜10の整数値で表されます。基本的には、「[前進](mechanics.md)」で減り、「[後退](mechanics.md)」で増えます（達人の[間合](mechanics.md)い＝2は例外）。
 - 多くの攻撃カードには適正[間合](mechanics.md)があり、その範囲内にいないと使用できません。
 
@@ -16,9 +16,9 @@
 - [オーラ](mechanics.md)受け: [オーラ](mechanics.md)から[ダスト](mechanics.md)へ結晶が移動します。[オーラ](mechanics.md)が足りない場合、選べません（[ライフ](mechanics.md)受けになります）。
 - [ライフ](mechanics.md)受け: [ライフ](mechanics.md)から[フレア](mechanics.md)へ結晶が移動します。これが[切札](mechanics.md)の使用コストになります。
 
-[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
-## 1. [眼前構築](glossary.md)のセオリー
+## 1. [眼前構築](mechanics.md)のセオリー
 
 ふるよにの醍醐味である「[眼前構築](mechanics.md)」。相手の2柱を見てからデッキを組むこのフェーズで、勝負の5割が決まります。
 
@@ -47,9 +47,9 @@
 - マリガン（引き直し）: ゲーム開始時に1度だけ行えます。任意の枚数を山札の底に戻し、同数を引きます。戻したカードは底に行くため、ゲーム序盤には引けません。
 - 山札は7枚: 初手3枚 + (毎ターン2枚 × 2ターン) = 7枚。つまり、3ターン目の開始時には山札が尽きています。
 - [再構成](mechanics.md)のコスト: 山札がない状態でカードを引く（または任意で行う）と[再構成](mechanics.md)が発生します。[ライフ](mechanics.md)に1ダメージを受け、捨て札と伏せ札を合わせて山札を作り直します。
-- 伏せ札の活用: 不要なカードを伏せる（[基本動作](glossary.md)）ことは、「次の[再構成](mechanics.md)を早める」行為でもあります。早くキーカードを引き込みたい時は、積極的に伏せて山札を回しましょう。
+- 伏せ札の活用: 不要なカードを伏せる（[基本動作](mechanics.md)）ことは、「次の[再構成](mechanics.md)を早める」行為でもあります。早くキーカードを引き込みたい時は、積極的に伏せて山札を回しましょう。
 
-### [集中力](glossary.md)と[ライフ](glossary.md)の天秤
+### [集中力](mechanics.md)と[ライフ](mechanics.md)の天秤
 「[纏い](mechanics.md)（[オーラ](mechanics.md)回復）」や「[宿し](mechanics.md)（[フレア](mechanics.md)獲得）」は、基本的には[集中力](mechanics.md)で行うのが効率的です。
 しかし、「[ライフ](mechanics.md)で受けるか、[オーラ](mechanics.md)で受けるか」の判断は常に問われます。
 
@@ -76,71 +76,71 @@
 
 『桜降る代に決闘を』（ふるよに）において、どのように勝ち筋を描き、実行に移すのか。ルールとカード効果に基づいた戦略の核心を解説します。
 
-### 1. 勝利の定義：[ライフ](glossary.md)を0にする
+### 1. 勝利の定義：[ライフ](mechanics.md)を0にする
 
-このゲームの唯一の目標は、相手の**[ライフ](glossary.md)を0**にすることです。
-しかし、漫然と攻撃を振るだけでは勝てません。[ライフ](glossary.md)を減らすには以下の2つのルートを意識する必要があります。
+このゲームの唯一の目標は、相手の**[ライフ](mechanics.md)を0**にすることです。
+しかし、漫然と攻撃を振るだけでは勝てません。[ライフ](mechanics.md)を減らすには以下の2つのルートを意識する必要があります。
 
--   **攻撃による[ライフ](glossary.md)ダメージ**: 攻撃カードの右側の数値（X/**Y**）で[ライフ](glossary.md)を削る。
--   **[再構成](glossary.md)ダメージ**: 相手が山札を引き切り、[再構成](mechanics.md)を行うたびに受ける1ダメージ。
+-   **攻撃による[ライフ](mechanics.md)ダメージ**: 攻撃カードの右側の数値（X/**Y**）で[ライフ](mechanics.md)を削る。
+-   **[再構成](mechanics.md)ダメージ**: 相手が山札を引き切り、[再構成](mechanics.md)を行うたびに受ける1ダメージ。
 
 #### 勘所：リーサル計算
-相手の[ライフ](glossary.md)が残り3〜4点になった瞬間が「勝負所」です。自分の手札、[集中力](glossary.md)、そして[フレア](glossary.md)（[切札](glossary.md)）で、今この瞬間に[ライフ](glossary.md)を削りきれるか（リーサル）を常に計算してください。
+相手の[ライフ](mechanics.md)が残り3〜4点になった瞬間が「勝負所」です。自分の手札、[集中力](mechanics.md)、そして[フレア](mechanics.md)（[切札](mechanics.md)）で、今この瞬間に[ライフ](mechanics.md)を削りきれるか（リーサル）を常に計算してください。
 
-[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
-### 2. 資源の循環：[桜花結晶](glossary.md)の法則
+### 2. 資源の循環：[桜花結晶](mechanics.md)の法則
 
-ふるよにの戦略の根幹は、**「[桜花結晶](glossary.md)がどこからどこへ動くか」**を制御することにあります。
+ふるよにの戦略の根幹は、**「[桜花結晶](mechanics.md)がどこからどこへ動くか」**を制御することにあります。
 
 #### リソース・ループ
-1.  **[オーラ](glossary.md)を削る**: 攻撃を[オーラ](glossary.md)で受けさせ、結晶を[ダスト](glossary.md)へ送る。
-2.  **[ライフ](glossary.md)を削る**: [オーラ](glossary.md)がない、あるいは防ぎきれない攻撃を[ライフ](glossary.md)で受けさせ、結晶を[フレア](glossary.md)へ送る。
-3.  **[フレア](glossary.md)を活用する**: [ライフ](glossary.md)受けで得た[フレア](glossary.md)をコストに、強力な**[切札](glossary.md)**を放つ。
+1.  **[オーラ](mechanics.md)を削る**: 攻撃を[オーラ](mechanics.md)で受けさせ、結晶を[ダスト](mechanics.md)へ送る。
+2.  **[ライフ](mechanics.md)を削る**: [オーラ](mechanics.md)がない、あるいは防ぎきれない攻撃を[ライフ](mechanics.md)で受けさせ、結晶を[フレア](mechanics.md)へ送る。
+3.  **[フレア](mechanics.md)を活用する**: [ライフ](mechanics.md)受けで得た[フレア](mechanics.md)をコストに、強力な**[切札](mechanics.md)**を放つ。
 
 #### 勘所：ダメージ選択のジレンマ
-攻撃を受けた際、「[オーラ](glossary.md)で受けるか[ライフ](glossary.md)で受けるか」の選択が勝敗を分けます。
--   **[オーラ](glossary.md)受け**: 次の攻撃を防ぐ盾を維持するが、[フレア](glossary.md)は増えない。
--   **[ライフ](glossary.md)受け**: [フレア](glossary.md)が増えて[切札](glossary.md)が使えるようになるが、[ライフ](glossary.md)が減り、敗北に近づく。
+攻撃を受けた際、「[オーラ](mechanics.md)で受けるか[ライフ](mechanics.md)で受けるか」の選択が勝敗を分けます。
+-   **[オーラ](mechanics.md)受け**: 次の攻撃を防ぐ盾を維持するが、[フレア](mechanics.md)は増えない。
+-   **[ライフ](mechanics.md)受け**: [フレア](mechanics.md)が増えて[切札](mechanics.md)が使えるようになるが、[ライフ](mechanics.md)が減り、敗北に近づく。
 
 > [!IMPORTANT]
-> **「あえて[ライフ](glossary.md)で受けて、返しのターンに[切札](glossary.md)で仕留める」**という判断が、中級者への第一歩です。
+> **「あえて[ライフ](mechanics.md)で受けて、返しのターンに[切札](mechanics.md)で仕留める」**という判断が、中級者への第一歩です。
 
-[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
-### 3. 距離の支配：[間合](glossary.md)の管理
+### 3. 距離の支配：[間合](mechanics.md)の管理
 
-[間合](glossary.md)は単なる数字ではなく、**そのメガミの「射程圏」**を表します。
+[間合](mechanics.md)は単なる数字ではなく、**そのメガミの「射程圏」**を表します。
 
--   **得意[間合](glossary.md)を維持する**: 自分の強力な攻撃カードが使える距離（例：[ユリナ](megami/index.md)なら3-4、[ヒミカ](megami/index.md)なら5-10）をキープします。
--   **相手の得意[間合](glossary.md)から逃げる**: 相手が攻撃できない距離へ、[基本動作](glossary.md)（[後退](mechanics.md)・[纏い](mechanics.md)・[前進](mechanics.md)）で移動します。
+-   **得意[間合](mechanics.md)を維持する**: 自分の強力な攻撃カードが使える距離（例：[ユリナ](megami/index.md)なら3-4、[ヒミカ](megami/index.md)なら5-10）をキープします。
+-   **相手の得意[間合](mechanics.md)から逃げる**: 相手が攻撃できない距離へ、[基本動作](mechanics.md)（[後退](mechanics.md)・[纏い](mechanics.md)・[前進](mechanics.md)）で移動します。
 
-[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ### 4. ゲームの進行：3つのフェイズ
 
 #### 序盤：準備と牽制（1〜2巡目）
--   **[宿し](mechanics.md)**で[フレア](glossary.md)を最低限確保する。
--   相手の[オーラ](glossary.md)を適度に削り、[ダスト](glossary.md)を作る（自分の**[纏い](mechanics.md)**のため）。
+-   **[宿し](mechanics.md)**で[フレア](mechanics.md)を最低限確保する。
+-   相手の[オーラ](mechanics.md)を適度に削り、[ダスト](mechanics.md)を作る（自分の**[纏い](mechanics.md)**のため）。
 -   手札を整え、強力なコンボが打てる準備をする。
 
-#### 中盤：リソースの削り合い（[ライフ](glossary.md) 7〜4）
--   互いに[ライフ](glossary.md)を削り、[切札](glossary.md)が使用可能になる。
+#### 中盤：リソースの削り合い（[ライフ](mechanics.md) 7〜4）
+-   互いに[ライフ](mechanics.md)を削り、[切札](mechanics.md)が使用可能になる。
 -   [対応](mechanics.md)カードを構え、相手の大技を警戒する。
 
-#### 終盤：リーサルの攻防（[ライフ](glossary.md) 3以下）
--   [オーラ](glossary.md)を5（上限）に保ち、[ライフ](glossary.md)への致命傷を防ぐ。
--   **[再構成](glossary.md)ダメージ**を考慮し、あえて[再構成](glossary.md)せずに戦う判断も必要。
--   リソースを全て使い切り、相手の[ライフ](glossary.md)を0に叩き込む。
+#### 終盤：リーサルの攻防（[ライフ](mechanics.md) 3以下）
+-   [オーラ](mechanics.md)を5（上限）に保ち、[ライフ](mechanics.md)への致命傷を防ぐ。
+-   **[再構成](mechanics.md)ダメージ**を考慮し、あえて[再構成](mechanics.md)せずに戦う判断も必要。
+-   リソースを全て使い切り、相手の[ライフ](mechanics.md)を0に叩き込む。
 
-[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ### 5. 勝利のためのチェックリスト
 
-- [ ] 相手の最大打点（どの[切札](glossary.md)で何点飛んでくるか）を把握しているか？
+- [ ] 相手の最大打点（どの[切札](mechanics.md)で何点飛んでくるか）を把握しているか？
 - [ ] 自分の次のターンのドロー枚数を考慮して手札を調整したか？
 - [ ] 無駄な「[前進](mechanics.md)」で、相手が得意な近距離に飛び込んでいないか？
-- [ ] [フレア](glossary.md)は足りているか？ [宿し](mechanics.md)すぎで[オーラ](glossary.md)がスカスカになっていないか？
+- [ ] [フレア](mechanics.md)は足りているか？ [宿し](mechanics.md)すぎで[オーラ](mechanics.md)がスカスカになっていないか？
 
 このゲームプランを意識することで、あなたの決闘は「運」から「戦略」へと進化します。
 
@@ -178,7 +178,7 @@
 ### メトリクス & 統計 (2026年 Outlook)
 
 | メトリクス項目 | 内容・動向 |
-| :[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox } | :[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox } |
+| :--- | :--- |
 | **規制の影響** | 銃鎌の「レッドバレット」規制は継続中ですが、ヒミカ自体の採用率は依然高水準です。 |
 | **メタの流動** | S10-2への移行に伴い、ハガネ/サリヤ中心の環境から、より多様な「3柱目」の模索が始まっています。 |
 | **イベント指標** | 2026年4月「桜端の大決闘祭」に向け、VRChat環境を含めた研究が加速中。 |
@@ -666,22 +666,77 @@
 
 </div></details>
 
+9. <span id="saine-yukihi"></span>薙傘（[サイネ](megami/02_saine.md)／[ユキヒ](megami/06_yukihi.md)）
+   [ユキヒ](megami/06_yukihi.md)の「閉」攻撃で[サイネ](megami/02_saine.md)の隙を埋めつつ、[間合](mechanics.md)5-7を維持して一方的に殴り続けるミッドレンジ構成。[サイネ](megami/02_saine.md)のリソース不足を[ユキヒ](megami/06_yukihi.md)が補い、[八相](mechanics.md)状態の火力を最大限に活かします。やや決定力に欠けるため、[切札](mechanics.md)の通し場所を見極める必要があります。([THTF's DustBox][10])
 
+<div class="grid cards" markdown>
 
+-   ![サイネ](assets/images/chara/ico-02.png)
+
+-   ![ユキヒ](assets/images/chara/ico-06.png)
+
+</div><details><summary>[サイネ](megami/index.md) Cards</summary>
+<div class="grid cards" markdown>
+
+-   ![Card](assets/images/card/cards/na_02_o_n/na_02_a1_n_1.png)
+
+-   ![Card](assets/images/card/cards/na_02_o_n/na_02_a1_n_6.png)
+
+-   ![Card](assets/images/card/cards/na_02_o_n/na_02_a2_n_2.png)
+
+-   ![Card](assets/images/card/cards/na_02_o_n/na_02_a2_n_7.png)
+
+-   ![Card](assets/images/card/cards/na_02_o_n/na_02_o_n_1.png)
+
+-   ![Card](assets/images/card/cards/na_02_o_n/na_02_o_n_2.png)
+
+-   ![Card](assets/images/card/cards/na_02_o_n/na_02_o_n_3.png)
+
+-   ![Card](assets/images/card/cards/na_02_o_n/na_02_o_n_4.png)
+
+-   ![Card](assets/images/card/cards/na_02_o_n/na_02_o_n_5.png)
+
+-   ![Card](assets/images/card/cards/na_02_o_n/na_02_o_n_6.png)
+
+-   ![Card](assets/images/card/cards/na_02_o_n/na_02_o_n_7.png)
+
+</div></details>
+<details><summary>[ユキヒ](megami/index.md) Cards</summary>
+<div class="grid cards" markdown>
+
+-   ![Card](assets/images/card/cards/na_06_o_n/na_06_a1_n_2.png)
+
+-   ![Card](assets/images/card/cards/na_06_o_n/na_06_a1_n_4.png)
+
+-   ![Card](assets/images/card/cards/na_06_o_n/na_06_o_n_1.png)
+
+-   ![Card](assets/images/card/cards/na_06_o_n/na_06_o_n_2.png)
+
+-   ![Card](assets/images/card/cards/na_06_o_n/na_06_o_n_3.png)
+
+-   ![Card](assets/images/card/cards/na_06_o_n/na_06_o_n_4.png)
+
+-   ![Card](assets/images/card/cards/na_06_o_n/na_06_o_n_5.png)
+
+-   ![Card](assets/images/card/cards/na_06_o_n/na_06_o_n_6.png)
+
+-   ![Card](assets/images/card/cards/na_06_o_n/na_06_o_n_7.png)
+
+</div></details>
 
 
 ### その他の注目シナジー (Brief Mentions)
 
-#### 9. 刀騎（[ユリナ](megami/index.md)／[サリヤ](megami/index.md)）
+#### 10. 刀騎（[ユリナ](megami/index.md)／[サリヤ](megami/index.md)）
 [サリヤ](megami/index.md)の「[騎動](mechanics.md)」で[間合](mechanics.md)を一気に詰め、[ユリナ](megami/index.md)の重い一撃を叩き込むアグロ〜ミッドレンジ構成です。機動力と破壊力を兼ね備えています。
 
 #### 10. 爪忍（[ライラ](megami/index.md)／[オボロ](megami/index.md)）
-[オボロ](megami/index.md)の手数の多さ（[設置](mechanics.md)攻撃など）で[ライラ](megami/index.md)の[帯電](glossary.md)ゲージを高速で溜め、後半に圧倒的な火力で押し切るコンボ色の強いビートダウンです。
+[オボロ](megami/index.md)の手数の多さ（[設置](mechanics.md)攻撃など）で[ライラ](megami/index.md)の[帯電](mechanics.md)ゲージを高速で溜め、後半に圧倒的な火力で押し切るコンボ色の強いビートダウンです。
 
-#### 11. [毒](glossary.md)氷（[チカゲ](megami/09_chikage.md)／[コルヌ](megami/15_korunu.md)）
-[毒](glossary.md)で手札を封じ、[凍結](mechanics.md)で[オーラ](mechanics.md)を封じる「完全ロック」を狙います。ハマれば相手は何もできずに窒息しますが、自身の火力が低めな点が課題です。
+#### 11. [毒](mechanics.md)氷（[チカゲ](megami/09_chikage.md)／[コルヌ](megami/15_korunu.md)）
+[毒](mechanics.md)で手札を封じ、[凍結](mechanics.md)で[オーラ](mechanics.md)を封じる「完全ロック」を狙います。ハマれば相手は何もできずに窒息しますが、自身の火力が低めな点が課題です。
 
 #### 12. [毒](index.md)鏡（[チカゲ](megami/09_chikage.md)／[ヤツハ](megami/16_yatsuha.md)）
 [ヤツハ](megami/index.md)の『[寄花](megami/cards.md#yatsuha)』と[チカゲ](megami/index.md)の『[毒霧](megami/cards.md#chikage)』を組み合わせ、高速で山札を汚染するコントロール型です。
-相手の山札を[毒](glossary.md)で死滅させ、[ヤツハ](megami/index.md)の自傷ダメージを最小限に抑えながら、相手のリソースを根こそぎ奪い取ります。
+相手の山札を[毒](mechanics.md)で死滅させ、[ヤツハ](megami/index.md)の自傷ダメージを最小限に抑えながら、相手のリソースを根こそぎ奪い取ります。
 ([ブログ参照](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/))

@@ -21,7 +21,7 @@
 #### [ikariのふるよにミニシアター](https://www.youtube.com/results?search_query=ikariのふるよにミニシアター)
 ブログ「ikariのふるよに図書館」と連動した解説動画が魅力です。
 - **ふるよにを遊ぶ前講座**: ゲームを始める前に知っておきたい基礎知識や、製品の選び方などが解説されています。
-- **戦術紹介**: 特定の組み合わせ（[三拾一捨](glossary.md)）における考え方など、中級者へのステップアップに役立つ内容が豊富です。
+- **戦術紹介**: 特定の組み合わせ（[三拾一捨](mechanics.md)）における考え方など、中級者へのステップアップに役立つ内容が豊富です。
 
 #### [素の人（しろのーと）](https://www.youtube.com/results?search_query=素の人+ふるよに)
 - **初心者向け解説**: 丁寧な口調で、基本ルールから細かい処理までを解説しています。
@@ -33,7 +33,7 @@
 ### 動画検索ヒント
 
 | 目的 | 推奨検索ワード | 備考 |
-| :[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox } | :[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox } | :[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox } |
+| :--- | :--- | :--- |
 | **最新の対戦を見たい** | `ふるよに S10` (現在のシーズン番号) | シーズンごとのカード修正に注意 |
 | **大会の様子を見たい** | `ふるよに 大会` `ふるよに 決勝` | 公式・公認大会のハイレベルな試合 |
 | **特定のメガミを学ぶ** | `ふるよに ユリナ` `ふるよに サイネ` | メガミ名で検索 |
@@ -71,13 +71,13 @@
 
 有志による「ふるよに Advent Calendar」の記事一覧です。
 
-[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ### 2025 年
 1. 12/1 「ふるよに Advent Calendar 2025 ハブ」 — 魔法幼女へくとぱちゃん [Link](https://3422project.hateblo.jp/entry/2025/12/01/000000)
 2. 12/2 「ふるよに ソロプレイ拡張モード『一柱闘戦』 デザイナーズノート」 — E*LNO(えるの) [Link](https://e-lno.hatenablog.com/entry/2025/12/02/000013)
 3. 12/3 「桜と塵の巡る先 〜〖ふるよに：[桜花結晶](mechanics.md)を捉え直す〗」 — tahITEF [Link](https://thtfuruyoni.hatenadiary.jp/entry/2025/12/03/190000)
-4. 12/4 「[三拾一捨](glossary.md)を皆式理解する」 — かよーだ [Link](https://note.com/tue110/n/n836e8237c024)
+4. 12/4 「[三拾一捨](mechanics.md)を皆式理解する」 — かよーだ [Link](https://note.com/tue110/n/n836e8237c024)
 5. 12/5 「ふるよにメガミ『戦型フレーズ』展覧会」 — ikari [Link](http://ikari2642.hatenablog.com/entry/phrase_exhibition)
 6. 12/6 「天クラの日は続々と」 — ずきずき [Link](https://zkzk3107.hatenablog.com/entry/2025/12/03/125401)
 7. 12/7 「ふるよにイベント運営『裏』マニュアル」 — まぬまぬ [Link](https://note.com/743daibutsu/n/nbb5d2025f78c)

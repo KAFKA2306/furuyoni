@@ -5,11 +5,11 @@
 
 このゲームの背景にある、桜の花びらが舞い散る幽玄な世界「桜降る代」の物語を紹介します。
 
-[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 世界背景
 
-### [桜花結晶](glossary.md)（おうかけっしょう）
+### [桜花結晶](mechanics.md)（おうかけっしょう）
 この世界で舞い散る桜の花びらは、単なる植物ではありません。それは「[桜花結晶](mechanics.md)」と呼ばれる、万物を構成するエネルギーの結晶体です。
 結晶は人々の生活を支える灯火となり、交易の貨幣となり、そして何より——**メガミたちの権能を現出させる依代**となります。
 
@@ -17,11 +17,11 @@
 [桜花結晶](mechanics.md)の力をその身に[宿し](mechanics.md)、メガミと心を通わせる能力者。それが決闘者であるあなた、**「ミコト」**です。
 ミコトはメガミと[![契約](assets/images/card/cards/na_16_o_n/na_16_o_n_6.png)](assets/images/card/cards/na_16_o_n/na_16_o_n_6.png){ .glightbox }を結び、その双掌に結晶を握りしめることで、神秘の力（カード）を振るうことができます。
 
-### [桜花決闘](glossary.md)（おうかけっとう）
+### [桜花決闘](mechanics.md)（おうかけっとう）
 ミコト同士がメガミの力を借りて行う、神聖かつ苛烈な決闘。
 それは単なる武力の証明ではありません。あるときは伝統的な儀式として、あるときは国を揺るがす政治的解決の手段として、そしてあるときは——避けることのできない宿命の果てに行われます。
 
-[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 悠久の物語
 
@@ -37,7 +37,7 @@
 
 二人の戦いと絆、そして彼女たちがメガミへと至るまでの物語は、公式小説として語り継がれています。
 
-[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## メガミの本質
 
@@ -49,7 +49,7 @@
 
 [メガミたちの詳細な物語についてはこちらから](megami/index.md)
 
-[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 物語の要約
 
@@ -102,7 +102,7 @@
         </div>
         <h3 style="justify-content: center;">氷雨 細音 (サイネ)</h3>
         <div style="text-align: center; margin-bottom: 0.5rem; color: var(--sakura-pink); font-weight: bold;">知・音の象徴</div>
-        <p>揺波の剣を支え、時に律するための調べ。彼女の奏でる「氷雨の調べ」は、<a href="glossary.md#shousou">焦燥</a>に駆られた魂を静め、真実を見通します。</p>
+        <p>揺波の剣を支え、時に律するための調べ。彼女の奏でる「氷雨の調べ」は、<a href="mechanics.md#shousou">焦燥</a>に駆られた魂を静め、真実を見通します。</p>
     </a>
 </div>
 

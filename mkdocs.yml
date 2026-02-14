@@ -40,9 +40,7 @@ edit_uri: edit/main/docs/
 nav:
   - ホーム: index.md
   - 世界観: lore.md
-  - ルール:
-    - ルール・流れ: mechanics.md
-    - 用語集: glossary.md
+  - ルール: mechanics.md
   - 初心者ガイド: beginner.md
   - メガミ:
     - 概要: megami/index.md

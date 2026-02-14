@@ -4,53 +4,53 @@
 - **開始**: 2017年〜（第二刷以降、およびメガミ：[オボロ](../megami/05_oboro.md)、[ハガネ](../megami/08_hagane.md)参戦）
 - **終了**: シーズン3移行まで
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 1. 概説：戦略の多様化とシステムの洗練
 
-シーズン2は、新メガミ**[オボロ](../megami/index.md)（忍）**と**[ハガネ](../megami/index.md)（槌）**の参戦により、これまでの「刀・扇・銃」といった基本メガミたちのパワーバランスが大きく揺れ動いた時期です。特に[オボロ](../megami/05_oboro.md)の「[設置](../glossary.md#setchi)」ギミックは、本作に「伏せ札の活用」という新しい時間軸の戦略をもたらしました。
+シーズン2は、新メガミ**[オボロ](../megami/index.md)（忍）**と**[ハガネ](../megami/index.md)（槌）**の参戦により、これまでの「刀・扇・銃」といった基本メガミたちのパワーバランスが大きく揺れ動いた時期です。特に[オボロ](../megami/05_oboro.md)の「[設置](../mechanics.md#setchi)」ギミックは、本作に「伏せ札の活用」という新しい時間軸の戦略をもたらしました。
 
 環境は[ユリナ](../megami/01_yurina.md)の絶対支配から、[オボロ](../megami/05_oboro.md)を中心としたトリッキーな手数攻勢へとシフトし、プレイヤーは「一撃の重さ」と同じくらい「手数の多さ」を警戒する必要に迫られました。
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 2. 環境の特異点：[オボロ](../megami/05_oboro.md)と『壬蔓』問題
 
-### [設置](../glossary.md#setchi)ギミックの衝撃
+### [設置](../mechanics.md#setchi)ギミックの衝撃
 [オボロ](../megami/05_oboro.md)の登場は、相手に「どのカードが伏せられているか」を常に推測させる心理戦を強制しました。
-- **対応不可の恐怖**: [設置](../glossary.md#setchi)から発動する攻撃や移動は、当時の対応札では防ぎきれないことが多く、特に《壬蔓》はその利便性から全幅の信頼を置かれていました。
+- **対応不可の恐怖**: [設置](../mechanics.md#setchi)から発動する攻撃や移動は、当時の対応札では防ぎきれないことが多く、特に《壬蔓》はその利便性から全幅の信頼を置かれていました。
 
 ### 壬蔓（みつる）の支配
 当時の《壬蔓》は、現在よりもはるかに容易な条件で、かつ強力な効果を発揮していました。
-- **影響**: このカード一枚が、[間合](../glossary.md#range)制御の主導権を完全に[オボロ](../megami/05_oboro.md)側に与えてしまい、近接アグロ、遠距離ロックの両方において[オボロ](../megami/05_oboro.md)が必須級のメガミとなる事態を招きました。
+- **影響**: このカード一枚が、[間合](../mechanics.md#range)制御の主導権を完全に[オボロ](../megami/05_oboro.md)側に与えてしまい、近接アグロ、遠距離ロックの両方において[オボロ](../megami/05_oboro.md)が必須級のメガミとなる事態を招きました。
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 3. Tier 1 アーキタイプ：新世代のスタンダード
 
 ### ① 【忍傘（当時の呼称）】[オボロ](../megami/05_oboro.md) / [ユキヒ](../megami/06_yukihi.md)
-**[設置](../glossary.md#setchi)と[開閉](../glossary.md#kaihei)のシナジー**
-- **戦略**: [オボロ](../megami/05_oboro.md)の[設置](../glossary.md#setchi)による手数と、[ユキヒ](../megami/06_yukihi.md)の柔軟な[間合](../glossary.md#range)操作を合体。
-- **強み**: 相手が近づけば傘を閉じて殴り、離れれば[設置](../glossary.md#setchi)カードで嫌がらせをする。あらゆる距離で戦える万能性が高く評価されました。
+**[設置](../mechanics.md#setchi)と[開閉](../mechanics.md#kaihei)のシナジー**
+- **戦略**: [オボロ](../megami/05_oboro.md)の[設置](../mechanics.md#setchi)による手数と、[ユキヒ](../megami/06_yukihi.md)の柔軟な[間合](../mechanics.md#range)操作を合体。
+- **強み**: 相手が近づけば傘を閉じて殴り、離れれば[設置](../mechanics.md#setchi)カードで嫌がらせをする。あらゆる距離で戦える万能性が高く評価されました。
 
 ### ② 【槌扇（当時の呼称）】[ハガネ](../megami/08_hagane.md) / [トコヨ](../megami/04_tokoyo.md)
-**[遠心](../glossary.md#enshin)力と[境地](../glossary.md#kyochi)の防壁**
-- **戦略**: [ハガネ](../megami/08_hagane.md)の「[遠心](../glossary.md#enshin)」攻撃を[トコヨ](../megami/04_tokoyo.md)の防御札で守りながら通す。
+**[遠心](../mechanics.md#enshin)力と[境地](../mechanics.md#kyochi)の防壁**
+- **戦略**: [ハガネ](../megami/08_hagane.md)の「[遠心](../mechanics.md#enshin)」攻撃を[トコヨ](../megami/04_tokoyo.md)の防御札で守りながら通す。
 - **評価**: [ユリナ](../megami/01_yurina.md)に代わる「重い一撃」の担い手として[ハガネ](../megami/08_hagane.md)が台頭し、それを[トコヨ](../megami/04_tokoyo.md)が支える形が普及しました。
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 4. 歴史的視点：バランス調整への布石
 
 シーズン2の終わり際、特定のカード（特に《壬蔓》）への依存度が高すぎることが問題視され始めました。これが、次シーズン以降に続く「大規模パッチ」という、本作独自のバランス調整文化を形作る直接的な要因となりました。
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 5. 総評：転換点としてのシーズン2
 
 シーズン2は、単なる「追加キャラの登場」以上の意味を持っていました。それは『ふるよに』が「シンプルな殴り合い」から「複層的なリソースと時間の管理」へと進化するための、産みの苦しみと興奮に満ちた時代だったのです。
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 出典・参考資料
 - 桜降る代に決闘を 第二刷 修正内容抜粋

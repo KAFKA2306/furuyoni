@@ -254,11 +254,14 @@ def download_assets() -> None:
 
 
 # --- Cards Sync ---
+    return card_map
+
+
 def build_card_map(doc_root: Path) -> Dict[str, str]:
     """Scans megami docs to map image filenames to card names."""
     card_map = {}
     pat = re.compile(
-        r"images/card/cards/[^/]+/([^/]+\.png).*?\n\s*(?:#+\s*|(?:\*\*|))([^*:\n#]+)(?:\*\*|)[:\n]",
+        r"images/card/cards/[^/]+/([^/]+\.png).*?\n\s*(?:#+\s*|(?:\*\*|))([^\s*:\n#][^*:\n#]{0,30})(?:\*\*|)[:\n]",
         re.MULTILINE,
     )
     for root, _, files in os.walk(doc_root / "megami"):
@@ -268,8 +271,27 @@ def build_card_map(doc_root: Path) -> Dict[str, str]:
                     content = f.read()
                     for m in pat.finditer(content):
                         filename = m.group(1)
+                        # Clean up card name
                         card_name = m.group(2).strip()
                         card_name = card_name.replace("*", "").replace("`", "")
+                        
+                        # Filter out invalid names (markdown structure or HTML)
+                        if (
+                            not card_name
+                            or card_name.startswith("-") 
+                            or card_name.startswith("<")
+                            or "clear=" in card_name
+                            or "![" in card_name
+                            or "](" in card_name
+                            or "。" in card_name
+                            or "、" in card_name
+                            or card_name.startswith("「")
+                            or card_name.startswith("※")
+                            or re.match(r"^\d+\.", card_name)
+                            or len(card_name) > 20  # Card names shouldn't be long sentences
+                        ):
+                            continue
+                            
                         card_map[filename] = card_name
     return card_map
 

@@ -4,8 +4,8 @@
 
 ## 基礎知識：結晶とカード
 
-### 1. [桜花結晶](glossary.md)の循環
-このゲームの最大の特徴は、ボード上のあらゆるところにあるピンク色の石**「[桜花結晶](glossary.md)」**です。
+### 1. [桜花結晶](mechanics.md)の循環
+このゲームの最大の特徴は、ボード上のあらゆるところにあるピンク色の石**「[桜花結晶](mechanics.md)」**です。
 体力も、防御も、エネルギーも、距離も、すべてはこの結晶の数で表されます。
 
 結晶は「消える」ことはほとんどなく、プレイヤーの行動によって板の上を**ぐるぐると循環**します。
@@ -13,69 +13,69 @@
 #### 5つのエリア（領域）
 結晶が置かれている場所によって、その意味が変わります。
 
-1.  **[間合](glossary.md)（距離）**: 二人の間の距離。ここにある結晶を自分の手元に引き寄せると「距離が縮まる（[前進](glossary.md#advance)）」ことになります。基本の開始距離は10です。
-2.  **[オーラ](glossary.md)（盾）**: あなたを守るバリア。最大5つまで。ダメージを受ける際、[ライフ](glossary.md)の代わりに[オーラ](glossary.md)で受けることができます。
-3.  **[ライフ](glossary.md)（体力）**: これが0になると敗北します。通常は10です。
-4.  **[フレア](glossary.md)（エネルギー）**: 強力な「[切札](glossary.md)」を使うためのゲージ。ダメージを受けたり、自分の意思で「[宿し](glossary.md#yadoshi)」たりして溜めます。
-5.  **[ダスト](glossary.md)（空き地）**: 誰のものでもない結晶。コストとして支払われた結晶はここに行きます。
+1.  **[間合](mechanics.md)（距離）**: 二人の間の距離。ここにある結晶を自分の手元に引き寄せると「距離が縮まる（[前進](mechanics.md#advance)）」ことになります。基本の開始距離は10です。
+2.  **[オーラ](mechanics.md)（盾）**: あなたを守るバリア。最大5つまで。ダメージを受ける際、[ライフ](mechanics.md)の代わりに[オーラ](mechanics.md)で受けることができます。
+3.  **[ライフ](mechanics.md)（体力）**: これが0になると敗北します。通常は10です。
+4.  **[フレア](mechanics.md)（エネルギー）**: 強力な「[切札](mechanics.md)」を使うためのゲージ。ダメージを受けたり、自分の意思で「[宿し](mechanics.md#yadoshi)」たりして溜めます。
+5.  **[ダスト](mechanics.md)（空き地）**: 誰のものでもない結晶。コストとして支払われた結晶はここに行きます。
 
 ### 2. カードの種類
 主に以下の種類のカードがあります。
 
-*   **[通常札](glossary.md)**: 緑色の枠。デッキに7枚入れます。山札から引いて手札として使用します。
-*   **[切札](glossary.md)**: 赤色の枠。デッキに3枚入れます。裏向きで「[切札](glossary.md)置き場」に置かれ、[フレア](glossary.md)を支払うことでいつでも（条件を満たせば）使用できます。
+*   **[通常札](mechanics.md)**: 緑色の枠。デッキに7枚入れます。山札から引いて手札として使用します。
+*   **[切札](mechanics.md)**: 赤色の枠。デッキに3枚入れます。裏向きで「[切札](mechanics.md)置き場」に置かれ、[フレア](mechanics.md)を支払うことでいつでも（条件を満たせば）使用できます。
 
 ### 3. カードの見方とダメージ
 カードには数字やアイコンが並んでいますが、覚えるべきは3つだけです。
 
-*   **攻撃範囲（[間合](glossary.md)）**: カード左上の数字（例：`3-4`）。「相手との距離が3か4の時だけ使える」という意味です。
-*   **ダメージ（[オーラ](glossary.md)/[ライフ](glossary.md)）**: `2/1` のように表記されます。
-    *   左側：[オーラ](glossary.md)へのダメージ。
-    *   右側：[ライフ](glossary.md)へのダメージ。
-    *   **重要**: 攻撃を受けた側は、[オーラ](glossary.md)で受けるか[ライフ](glossary.md)で受けるかを選択できます（[オーラ](glossary.md)が足りている場合）。
+*   **攻撃範囲（[間合](mechanics.md)）**: カード左上の数字（例：`3-4`）。「相手との距離が3か4の時だけ使える」という意味です。
+*   **ダメージ（[オーラ](mechanics.md)/[ライフ](mechanics.md)）**: `2/1` のように表記されます。
+    *   左側：[オーラ](mechanics.md)へのダメージ。
+    *   右側：[ライフ](mechanics.md)へのダメージ。
+    *   **重要**: 攻撃を受けた側は、[オーラ](mechanics.md)で受けるか[ライフ](mechanics.md)で受けるかを選択できます（[オーラ](mechanics.md)が足りている場合）。
 
-### 4. [基本動作](glossary.md#basic-actions)
-自分のターン中、1「[集中力](glossary.md)」を使うか、手札1枚を「伏せ札（捨て札）」にすることで、以下の動作を行えます。
+### 4. [基本動作](mechanics.md#basic-actions)
+自分のターン中、1「[集中力](mechanics.md)」を使うか、手札1枚を「伏せ札（捨て札）」にすることで、以下の動作を行えます。
 
-1.  **[前進](glossary.md#advance)**: [間合](glossary.md)⇒[オーラ](glossary.md)（距離を詰める。達人の間合では不可）
-2.  **[後退](glossary.md#retreat)**: [オーラ](glossary.md)⇒[間合](glossary.md)（距離を取る）
-3.  **[纏い](glossary.md#matoy)**: [ダスト](glossary.md)⇒[オーラ](glossary.md)（盾を回復）
-4.  **[宿し](glossary.md#yadoshi)**: [オーラ](glossary.md)⇒[フレア](glossary.md)（[切札](glossary.md)ゲージ溜め）
+1.  **[前進](mechanics.md#advance)**: [間合](mechanics.md)⇒[オーラ](mechanics.md)（距離を詰める。達人の間合では不可）
+2.  **[後退](mechanics.md#retreat)**: [オーラ](mechanics.md)⇒[間合](mechanics.md)（距離を取る）
+3.  **[纏い](mechanics.md#matoy)**: [ダスト](mechanics.md)⇒[オーラ](mechanics.md)（盾を回復）
+4.  **[宿し](mechanics.md#yadoshi)**: [オーラ](mechanics.md)⇒[フレア](mechanics.md)（[切札](mechanics.md)ゲージ溜め）
 
 ---
 
 ## ゲームの流れ
 
-ふるよにの1試合は、**「準備（[三拾一捨](glossary.md))」「[眼前構築](glossary.md)」「決闘」**の3ステップで進行します。
+ふるよにの1試合は、**「準備（[三拾一捨](mechanics.md))」「[眼前構築](mechanics.md)」「決闘」**の3ステップで進行します。
 
-### フェイズ0: 準備（[三拾一捨](glossary.md)）
+### フェイズ0: 準備（[三拾一捨](mechanics.md)）
 3柱のメガミを選び、相手に1柱を禁止（BAN）される形式です。残った2柱を使用します。
 
-### フェイズ1: [眼前構築](glossary.md)
+### フェイズ1: [眼前構築](mechanics.md)
 相手のペアを見てから、それに勝てるデッキを組みます（制限時間3〜5分）。
-*   全カード（[通常札](glossary.md)14枚、[切札](glossary.md)8枚）から、[通常札](glossary.md)7枚・[切札](glossary.md)3枚を選びます。
+*   全カード（[通常札](mechanics.md)14枚、[切札](mechanics.md)8枚）から、[通常札](mechanics.md)7枚・[切札](mechanics.md)3枚を選びます。
 
 ### フェイズ2: 決闘開始
 
 #### 初期配置
-*   [ライフ](glossary.md)10、[オーラ](glossary.md)3、[間合](glossary.md)10、[フレア](glossary.md)0。
+*   [ライフ](mechanics.md)10、[オーラ](mechanics.md)3、[間合](mechanics.md)10、[フレア](mechanics.md)0。
 *   手札3枚（マリガン1回可）。
 
 #### ターンの進行
 1.  **開始フェイズ**:
-    *   [集中力](glossary.md)+1。
-    *   [再構成](glossary.md#reconstruction)（任意/強制）。デッキ再構築＆[ライフ](glossary.md)1ダメージ。
+    *   [集中力](mechanics.md)+1。
+    *   [再構成](mechanics.md#reconstruction)（任意/強制）。デッキ再構築＆[ライフ](mechanics.md)1ダメージ。
     *   カードを2枚引く。
 2.  **メインフェイズ**:
-    *   [基本動作](glossary.md#basic-actions)。
+    *   [基本動作](mechanics.md#basic-actions)。
     *   カード使用。
-    *   [切札](glossary.md)使用。
+    *   [切札](mechanics.md)使用。
 3.  **終了フェイズ**:
     *   手札上限調整（2枚）。
 
 #### 勝利条件
-*   相手の[ライフ](glossary.md)を0にする。
-*   相手が[再構成](glossary.md)できずにダメージで0になる。
+*   相手の[ライフ](mechanics.md)を0にする。
+*   相手が[再構成](mechanics.md)できずにダメージで0になる。
 
 ---
 
@@ -84,14 +84,14 @@
 ### Q. 「攻撃」と「対応」の処理順番は？
 A. 1. 攻撃使用 → 2. 対応使用（任意） → 3. 対応解決 → 4. 攻撃解決（ダメージなど） の順です。
 
-### Q. [オーラ](glossary.md)が0の時に「[オーラ](glossary.md)へ1ダメージ」を受けたら？
-A. 何も起きません。[ライフ](glossary.md)には転嫁されません。
+### Q. [オーラ](mechanics.md)が0の時に「[オーラ](mechanics.md)へ1ダメージ」を受けたら？
+A. 何も起きません。[ライフ](mechanics.md)には転嫁されません。
 
-### Q. 「[フレア](glossary.md)」はいつ支払う？
+### Q. 「[フレア](mechanics.md)」はいつ支払う？
 A. カード使用宣言時、解決の直前です。対応で無効化されてもコストは戻りません。
 
 ### Q. 山札0枚で「引く」と？
-A. [再構成](glossary.md#reconstruction)（[ライフ](glossary.md)1ダメージ）を行ってから引きます。
+A. [再構成](mechanics.md#reconstruction)（[ライフ](mechanics.md)1ダメージ）を行ってから引きます。
 
 ### Q. [攻撃済] とは？
 A. そのターン中に攻撃処理が完了した状態。対応で無効化されても「振った」事実があれば[攻撃済]です。
@@ -106,4 +106,75 @@ A. そのターン中に攻撃処理が完了した状態。対応で無効化�
 - [ふるよに反省会](http://nobafuruyoni.blog.fc2.com/blog-category-15.html)
 
 !!! tip
-    自分で問題を作ってみるのも良い練習になります。「相手の[オーラ](glossary.md)が0、[ライフ](glossary.md)が4、自分の[フレア](glossary.md)が5ある時、どうやって勝つ？」といったシチュエーションを想像してみましょう。
+    自分で問題を作ってみるのも良い練習になります。「相手の[オーラ](mechanics.md)が0、[ライフ](mechanics.md)が4、自分の[フレア](mechanics.md)が5ある時、どうやって勝つ？」といったシチュエーションを想像してみましょう。
+
+
+### ふるよに用語集
+
+『桜降る代に決闘を（ふるよに）』で使用される用語を、公式の定義に基づき厳密に解説します。
+
+### 1. 基本コンセプト
+
+| 用語 | 厳密な定義・解説 |
+| :--- | :--- |
+| **双掌繚乱** (そうしょうりょうらん) | 決闘で使用するメガミを2柱選択すること。この際、メガミの「アナザー版」を含め、同名のメガミを重複して選択することはできない。 |
+| **<span id="construction">眼前構築</span>** (がんぜんこうちく) | 相手のメガミが公開された後、自身のメガミ2柱のカードプールから通常札7枚、切札3枚を選択し、デッキを確定させるプロセス。制限時間は通常5分。 |
+| **<span id="duel">桜花決闘</span>** (おうかけっとう) | [眼前構築](mechanics.md#construction)終了後、実際に桜花結晶（リソース）を移動させて勝敗を競うゲーム本編。 |
+| **<span id="3-choose-1">三拾一捨</span>** (さんじゅういっしゃ) | 大会等の標準ルール。3柱のメガミを提示し、互いに相手の1柱を禁止（BAN）した後、残った2柱で決闘を行う。 |
+
+### 2. ボードとリソース（領域）
+
+| 用語 | 厳密な定義・解説 |
+| :--- | :--- |
+| **桜花結晶** (おうかけっしょう) | ゲーム中でリソースの移動を可視化するためのマーカー。特定の「領域」から別の「領域」へ物理的に移動することでゲーム状態が変化する。 |
+| **<span id="range">間合</span>** (まあい) | ボード中央の領域。ここにある結晶の数が、プレイヤー間の「距離」として定義される。 |
+| **<span id="aura">オーラ</span>** | メガミのボード（プレイヤー手前）にある領域。最大5個まで置くことができる。 |
+| **<span id="life">ライフ</span>** | プレイヤーの体力を表す領域。通常10個から開始し、0個になったプレイヤーが即座に敗北する。 |
+| **<span id="flare">フレア</span>** | 切札のコストとして使用する領域。[ライフ](mechanics.md#life)ダメージを受けた際や「[宿し](mechanics.md)」によって結晶を移動する。 |
+| **<span id="dust">ダスト</span>** | どのプレイヤーにも属さない共有領域。コストの支払いや、[オーラ](mechanics.md#aura)・[ライフ](mechanics.md#life)が減った際の結晶の移動先となる。 |
+| **<span id="focus">集中力</span>** (しゅうちゅうりょく) | プレイヤーが持つリソース。最大2。[開始フェイズ](mechanics.md)に1増加し、[基本動作](mechanics.md#basic-actions)のコストとして消費される。 |
+| **<span id="fake-crystal">造花結晶</span>** (ぞうかけっしょう) | 特定のメガミ（[サリヤ](megami/index.md)等）が使用する特殊なマーカー。燃焼（消費）されると[ダスト](mechanics.md#dust)ではなく特定のゲーム外領域へ戻る場合がある。 |
+
+### 3. カードの種類と属性
+
+| 用語 | 厳密な定義・解説 |
+| :--- | :--- |
+| **通常札** | [眼前構築](mechanics.md#construction)で選択した7枚。ゲーム開始時にシャッフルされ山札となる。 |
+| **切札** | [眼前構築](mechanics.md#construction)で選択した3枚。ゲーム中、[フレア](mechanics.md#flare)を支払うことで「使用済み」状態にする（表向きにする）ことで効果を発動する。 |
+| **攻撃** (タイプ) | 適正距離内に相手がいる場合に使用可能。解決時、ダメージ（[オーラ](mechanics.md#aura)/[ライフ](mechanics.md#life)）を発生させる。 |
+| **行動** (タイプ) | 使用によりカードに記述されたテキスト効果を解決する。 |
+| **付与** (タイプ) | 解決後、カードを「付与札領域」に置き、指定された数の結晶（納）を[ダスト](mechanics.md#dust)からカード上に置く。[開始フェイズ](mechanics.md)ごとに結晶が1つ[ダスト](mechanics.md#dust)へ移動し、0になった時に「破棄」される。 |
+| **対応** (属性) | 相手の攻撃の解決中に割り込んで使用可能。攻撃のダメージを軽減、回避、または効果を無効化する。 |
+| **全力** (属性) | [集中力](mechanics.md#focus)または手札を消費して行う「[基本動作](mechanics.md#basic-actions)」や他のカード使用をそのターン行っていない場合のみ使用可能。解決後、そのターンの[メインフェイズ](mechanics.md)は強制的に終了する。 |
+| **適正距離** | 攻撃カードが機能する[間合](mechanics.md#range)の範囲。現在の[間合](mechanics.md#range)が射程に含まれない場合、攻撃をプレイすること自体ができない（対応によって外れた場合は「適正距離外」となる）。 |
+
+### 4. アクションと処理
+
+| 用語 | 厳密な定義・解説 |
+| :--- | :--- |
+| **<span id="basic-actions">基本動作</span>** | [集中力](mechanics.md#focus)を1消費、または手札を1枚伏せ札にすることで行える4つの標準アクション（[前進](mechanics.md)・[後退](mechanics.md)・[纏い](mechanics.md)・[宿し](mechanics.md)）。 |
+| **<span id="advance">前進</span>** | [間合](mechanics.md#range)から自身の[オーラ](mechanics.md#aura)へ結晶を1つ移動させる。[間合](mechanics.md#range)が2（達人の[間合](mechanics.md#range)）以下の時は実行できない。 |
+| **<span id="retreat">後退</span>** | 自身の[オーラ](mechanics.md#aura)から[間合](mechanics.md#range)へ結晶を1つ移動させる。自身の[オーラ](mechanics.md#aura)が0の場合は実行できない。 |
+| **<span id="matoy">纏い</span>** | [ダスト](mechanics.md#dust)から自身の[オーラ](mechanics.md#aura)へ結晶を1つ移動させる。[オーラ](mechanics.md#aura)が5（最大値）の場合は実行できない。 |
+| **<span id="yadoshi">宿し</span>** | 自身の[オーラ](mechanics.md#aura)から自身の[フレア](mechanics.md#flare)へ結晶を1つ移動させる。 |
+| **<span id="reconstruction">再構成</span>** | 捨て札と伏せ札を合わせてシャッフルし、新たな山札とする。処理として[ライフ](mechanics.md#life)から[ダスト](mechanics.md#dust)へ結晶を1つ移動させる（[ライフ](mechanics.md#life)ダメージ1）。 |
+| **<span id="shousou">焦燥</span>** (しょうそう) | ドローが必要な時に山札が空で、かつ[再構成](mechanics.md#reconstruction)を行わない（またはできない）場合に発生するペナルティ。[オーラ](mechanics.md#aura)または[ライフ](mechanics.md#life)から結晶を1つ選んで[ダスト](mechanics.md#dust)へ移動させる。 |
+| **<span id="ishuku">萎縮</span>** (いしゅく) | [集中力](mechanics.md#focus)の増加を妨害するマイナス状態。[開始フェイズ](mechanics.md)の「[集中力](mechanics.md#focus)+1」が「[萎縮](mechanics.md#ishuku)の解除」に置き換わる。 |
+| **<span id="haki">破棄</span>** (はき) | 付与札の上にある結晶が全てなくなり、カードが捨て札（切札なら使用済み）に移動すること。破棄時に発動する効果も存在する。 |
+
+### 5. メガミ固有キーワード（厳密版）
+
+| キーワード | 解説 |
+| :--- | :--- |
+| **<span id="kesshi">決死</span>** | 自身の[ライフ](mechanics.md#life)が3以下の状態で有効。カードの数値が上昇したり、追加効果が付与される。 |
+| **<span id="hasso">八相</span>** | 自身の[オーラ](mechanics.md#aura)が1以下の状態で有効。カードの効果が変化・強化される。 |
+| **<span id="renka">連火</span>** | そのターンに自身が使用したカード（このカード自体も含む）が3枚目以降である場合に発動する。 |
+| **<span id="kyochi">境地</span>** | 自身の[集中力](mechanics.md#focus)が2である場合に有効。[トコヨ](megami/index.md)のカードに多く見られる。 |
+| **<span id="setchi">設置</span>** | カードを伏せ札にする際、特定の領域（[設置](mechanics.md)）に置く。その後、相手の攻撃への対応や自身の[再構成](mechanics.md#reconstruction)時などの特定タイミングで、伏せ札から即座に使用できる。 |
+| **<span id="kaihei">開閉</span>** | [ユキヒ](megami/index.md)専用。傘が「開いている」か「閉じている」かの状態を指す。特定のカード使用や効果によりこの状態は反転し、カードの適正距離や威力が変化する。 |
+| **<span id="keiryaku">計略</span>** | [シンラ](megami/index.md)専用。指定された盤面の条件（例：付与札がある、相手より[集中力](mechanics.md#focus)が高い等）を満たしている場合に発動する。 |
+| **<span id="enshin">遠心</span>** | そのターン中に、カードの効果や[基本動作](mechanics.md#basic-actions)によって[間合](mechanics.md#range)が合計2以上変動している場合に有効。 |
+| **<span id="ride">造花</span>結晶** | [サリヤ](megami/index.md)専用リソース。[基本動作](mechanics.md#basic-actions)の代わりにこれを用いた「[騎動](mechanics.md)」が可能。 |
+| **<span id="haijin">灰塵</span>** | [ダスト](mechanics.md#dust)にある桜花結晶が12個以上の状態で有効。[ウツロ](megami/index.md)のカードを強化する。 |
+| **<span id="freeze">凍結</span>** | 相手の領域（[オーラ](mechanics.md#aura)、[フレア](mechanics.md#flare)、またはメガミの上）に「[凍結](mechanics.md)トークン」を置く。その領域から結晶を移動させる際、代わりに[凍結](mechanics.md)トークンを1つ取り除く必要があるため、実質的にリソース移動を封じる。 |
+| **<span id="mirror">鏡映</span>** | 自身の特定の数値（[オーラ](mechanics.md#aura)数、手札数等）が、相手の対応する数値と一致している場合に発動する。 |

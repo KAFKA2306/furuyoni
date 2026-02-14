@@ -6,13 +6,13 @@
     <ul>
       <li><strong>権能</strong>: 鎌 (Scythe / Hollow)</li>
       <li><strong>難易度</strong>: ★★★☆☆</li>
-      <li><strong>得意[間合](../glossary.md)</strong>: 2-4</li>
+      <li><strong>得意[間合](../mechanics.md)</strong>: 2-4</li>
     </ul>
   </div>
 </div>
 
 !!! info "すべてを無に帰す、終焉の鎌"
-    シーズン10においても、そのリソース破壊性能は唯一無二であり、特定のメガミ（重い[切札](../glossary.md)を持つメガミ）にとって最大の天敵となります。
+    シーズン10においても、そのリソース破壊性能は唯一無二であり、特定のメガミ（重い[切札](../mechanics.md)を持つメガミ）にとって最大の天敵となります。
 
 ## 物語の起源：[ウツロ](index.md)
 
@@ -27,21 +27,21 @@
 
 [ウツロ](index.md)を相手にする者は、その威圧感に精神を削られます。
 
-*   **畏縮の効果**: 相手は次の[開始フェイズ](../mechanics.md)に、[集中力](../glossary.md)を増加させることができません。
-*   **戦略的意味**: ふるよににおいて「[開始フェイズ](../mechanics.md)の[集中力](../glossary.md)+1」は生命線です。これを奪い続けることで、相手に手札を伏せざるを得ない状況（[基本動作](../glossary.md)を強要）を強いつづけ、実質的な手数を奪い取ります。
+*   **畏縮の効果**: 相手は次の[開始フェイズ](../mechanics.md)に、[集中力](../mechanics.md)を増加させることができません。
+*   **戦略的意味**: ふるよににおいて「[開始フェイズ](../mechanics.md)の[集中力](../mechanics.md)+1」は生命線です。これを奪い続けることで、相手に手札を伏せざるを得ない状況（[基本動作](../mechanics.md)を強要）を強いつづけ、実質的な手数を奪い取ります。
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## シーズン10における立ち位置
 
-シーズン10（大[切札](../glossary.md)時代）において、[ウツロ](index.md)は「最強のアンチ・[切札](../glossary.md)」として君臨しています。
+シーズン10（大[切札](../mechanics.md)時代）において、[ウツロ](index.md)は「最強のアンチ・[切札](../mechanics.md)」として君臨しています。
 
-*   **[フレア](../glossary.md)破壊の重要性**: 強力な[切札](../glossary.md)が増えた環境において、相手の[フレア](../glossary.md)を奪う『[![重圧](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png){ .glightbox }』や『魔食』の価値は劇的に上昇しています。
-*   **[ダスト](../glossary.md)活用**: 盤面の結晶を[ダスト](../glossary.md)に送る性質上、[ダスト](../glossary.md)の数を参照する[ライラ](index.md)や[ハガネ](index.md)といったメガミとの相性も良く、コンボの起点としても優秀です。
+*   **[フレア](../mechanics.md)破壊の重要性**: 強力な[切札](../mechanics.md)が増えた環境において、相手の[フレア](../mechanics.md)を奪う『[![重圧](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png){ .glightbox }』や『魔食』の価値は劇的に上昇しています。
+*   **[ダスト](../mechanics.md)活用**: 盤面の結晶を[ダスト](../mechanics.md)に送る性質上、[ダスト](../mechanics.md)の数を参照する[ライラ](index.md)や[ハガネ](index.md)といったメガミとの相性も良く、コンボの起点としても優秀です。
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
-## [通常札](../glossary.md)解説
+## [通常札](../mechanics.md)解説
 
 ### N1 [![黒き波動](../assets/images/card/cards/na_13_o_n/na_13_o_n_1.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_1.png){ .glightbox }
 
@@ -50,7 +50,7 @@
 **[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: リソース破壊 / ドロー
 
 *   **解説**:
-    相手の[オーラ](../glossary.md)を1つ[ダスト](../glossary.md)へ送る、あるいは畏縮を与える基礎札。これ一枚で相手の防御を崩しながら、自分の手札を整えることができます。
+    相手の[オーラ](../mechanics.md)を1つ[ダスト](../mechanics.md)へ送る、あるいは畏縮を与える基礎札。これ一枚で相手の防御を崩しながら、自分の手札を整えることができます。
 
 <br clear="all">
 
@@ -60,10 +60,10 @@
 
 **[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 主力攻撃 / 終焉の刃
 
-*   **適正[間合](../glossary.md)**: 2-4
-*   **ダメージ**: [3/2] ([ダスト](../glossary.md)の数により強化)
+*   **適正[間合](../mechanics.md)**: 2-4
+*   **ダメージ**: [3/2] ([ダスト](../mechanics.md)の数により強化)
 *   **解説**:
-    [ウツロ](index.md)のメイン火力。[ダスト](../glossary.md)が一定数（通常8〜10以上）溜まった状態で放たれるこの一撃は、[ライフ](../glossary.md)2を確実に削る回避困難な[![重圧](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png){ .glightbox }となります。
+    [ウツロ](index.md)のメイン火力。[ダスト](../mechanics.md)が一定数（通常8〜10以上）溜まった状態で放たれるこの一撃は、[ライフ](../mechanics.md)2を確実に削る回避困難な[![重圧](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png){ .glightbox }となります。
 
 <br clear="all">
 
@@ -74,7 +74,7 @@
 **[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 移動 / リソース変換
 
 *   **解説**:
-    自分の[オーラ](../glossary.md)を[ダスト](../glossary.md)へ送り、その力で[間合](../glossary.md)を大きく離す（[後退](../mechanics.md)）札。自分の守りを削ってでも、相手に届かない距離へ逃げるためのトリッキーな移動手段です。
+    自分の[オーラ](../mechanics.md)を[ダスト](../mechanics.md)へ送り、その力で[間合](../mechanics.md)を大きく離す（[後退](../mechanics.md)）札。自分の守りを削ってでも、相手に届かない距離へ逃げるためのトリッキーな移動手段です。
 
 <br clear="all">
 
@@ -85,7 +85,7 @@
 **[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: ハンデス / 汚染
 
 *   **解説**:
-    相手の手札をランダムに捨てさせる、あるいは[ダスト](../glossary.md)に変換する嫌烈な妨害札。コンボデッキにとっては死神のような存在です。
+    相手の手札をランダムに捨てさせる、あるいは[ダスト](../mechanics.md)に変換する嫌烈な妨害札。コンボデッキにとっては死神のような存在です。
 
 <br clear="all">
 
@@ -104,10 +104,10 @@
 
 [![重圧](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png){ align=left width=150 }
 
-**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: [フレア](../glossary.md)破壊 / [切札](../glossary.md)封じ
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: [フレア](../mechanics.md)破壊 / [切札](../mechanics.md)封じ
 
 *   **解説**:
-    相手の[フレア](../glossary.md)にある結晶を[ダスト](../glossary.md)へ送ります。大[切札](../glossary.md)時代において、これほど相手の意欲を削ぐカードはありません。
+    相手の[フレア](../mechanics.md)にある結晶を[ダスト](../mechanics.md)へ送ります。大[切札](../mechanics.md)時代において、これほど相手の意欲を削ぐカードはありません。
 
 <br clear="all">
 
@@ -118,13 +118,13 @@
 **[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: リソース吸収 / 再生
 
 *   **解説**:
-    相手の[オーラ](../glossary.md)を奪い、自分の血肉（[ライフ](../glossary.md)や[オーラ](../glossary.md)）に変える吸血行為。[ウツロ](index.md)の粘り強さを支える一枚です。
+    相手の[オーラ](../mechanics.md)を奪い、自分の血肉（[ライフ](../mechanics.md)や[オーラ](../mechanics.md)）に変える吸血行為。[ウツロ](index.md)の粘り強さを支える一枚です。
 
 <br clear="all">
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
-## [切札](../glossary.md)解説
+## [切札](../mechanics.md)解説
 
 ### S1 灰滅 (かいめつ)
 
@@ -134,8 +134,8 @@
 **種別**: 攻撃 (大規模)
 
 **解説**:
-**すべてを[ダスト](../glossary.md)に変える。**
-相手の[オーラ](../glossary.md)が一定数以上（通常8〜10以上）ある時に放つことで、相手の[オーラ](../glossary.md)をすべて吹き飛ばし、[ライフ](../glossary.md)にも甚大な被害を与える「最大級の処刑技」です。
+**すべてを[ダスト](../mechanics.md)に変える。**
+相手の[オーラ](../mechanics.md)が一定数以上（通常8〜10以上）ある時に放つことで、相手の[オーラ](../mechanics.md)をすべて吹き飛ばし、[ライフ](../mechanics.md)にも甚大な被害を与える「最大級の処刑技」です。
 
 <br clear="all">
 
@@ -163,50 +163,50 @@
 世界が闇に包まれる瞬間の一撃。
 相手にリソースがあるほど威力を増し、希望を絶望に変えるためのフィニッシャーとなります。
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 主要アーキタイプ
 
-### 1. リソース破壊コントロール ([ダスト](../glossary.md)・プラン)
+### 1. リソース破壊コントロール ([ダスト](../mechanics.md)・プラン)
 **「奪い、枯らし、塵にする。」**
 畏縮とリソース抜きを徹底し、相手が何もできない盤面を作り出す。
 
 *   **基本戦術**:
-    1. 『[![黒き波動](../assets/images/card/cards/na_13_o_n/na_13_o_n_1.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_1.png){ .glightbox }』と『[![重圧](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png){ .glightbox }』で[オーラ](../glossary.md)と[フレア](../glossary.md)を徹底的に削る。
+    1. 『[![黒き波動](../assets/images/card/cards/na_13_o_n/na_13_o_n_1.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_1.png){ .glightbox }』と『[![重圧](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png){ .glightbox }』で[オーラ](../mechanics.md)と[フレア](../mechanics.md)を徹底的に削る。
     [![2. 『魔食』を展開し、毎ターンの自動削りを発生させる。](../assets/images/card/cards/na_13_o_n/na_13_o_n_1.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_1.png){ .glightbox }
-    3. [ダスト](../glossary.md)が溜まったタイミングで『[![円月](../assets/images/card/cards/na_13_o_n/na_13_o_n_2.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_2.png){ .glightbox }』や『灰滅』で仕留める。
-*   **推奨パートナー**: [シンラ](index.md)(書)、[チカゲ](index.md)([毒](../glossary.md))
+    3. [ダスト](../mechanics.md)が溜まったタイミングで『[![円月](../assets/images/card/cards/na_13_o_n/na_13_o_n_2.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_2.png){ .glightbox }』や『灰滅』で仕留める。
+*   **推奨パートナー**: [シンラ](index.md)(書)、[チカゲ](index.md)([毒](../mechanics.md))
 
 ### 2. 広域制圧ビートダウン
 **「圧倒的なリソース差でねじ伏せる。」**
-[ウツロ](index.md)の[オーラ](../glossary.md)奪取能力を使い、常に自分だけが潤沢な[オーラ](../glossary.md)を持った状態で殴り勝つ。
+[ウツロ](index.md)の[オーラ](../mechanics.md)奪取能力を使い、常に自分だけが潤沢な[オーラ](../mechanics.md)を持った状態で殴り勝つ。
 
 *   **基本戦術**:
-    1. 『[![刈り取り](../assets/images/card/cards/na_13_o_n/na_13_o_n_7.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_7.png){ .glightbox }』などで常に[オーラ](../glossary.md)を最大値付近に保つ。
-    2. 相手が[オーラ](../glossary.md)を宿す隙を与えず、連続攻撃で[ライフ](../glossary.md)を狙う。
+    1. 『[![刈り取り](../assets/images/card/cards/na_13_o_n/na_13_o_n_7.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_7.png){ .glightbox }』などで常に[オーラ](../mechanics.md)を最大値付近に保つ。
+    2. 相手が[オーラ](../mechanics.md)を宿す隙を与えず、連続攻撃で[ライフ](../mechanics.md)を狙う。
 *   **推奨パートナー**: [ヒミカ](index.md)(銃)、[ライラ](index.md)(爪)
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## おすすめの組み合わせ (Pairs)
 
 ### [ヒミカ](03_himika.md) (銃鎌)
 **「通称：銃鎌バースト」**
-[ヒミカ](index.md)の遠距離攻撃で[オーラ](../glossary.md)を吐かせ、空いたところに[ウツロ](index.md)の重い攻撃を叩き込む。S10においても屈指の殺傷能力を誇るペア。
+[ヒミカ](index.md)の遠距離攻撃で[オーラ](../mechanics.md)を吐かせ、空いたところに[ウツロ](index.md)の重い攻撃を叩き込む。S10においても屈指の殺傷能力を誇るペア。
 
 ### [シンラ](07_shinra.md) (書鎌)
 **「論理的崩壊」**
-[シンラ](index.md)の[![引用](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ .glightbox }と[ウツロ](index.md)の畏縮が重なり、相手は手札も[集中力](../glossary.md)も[フレア](../glossary.md)もすべて奪われる絶望的な対局。
+[シンラ](index.md)の[![引用](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ .glightbox }と[ウツロ](index.md)の畏縮が重なり、相手は手札も[集中力](../mechanics.md)も[フレア](../mechanics.md)もすべて奪われる絶望的な対局。
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 戦術の核心
 
-!!! danger "「[ダスト](../glossary.md)」の不足にご用心"
-    [ウツロ](index.md)の強力な攻撃は、盤面に十分な「[ダスト](../glossary.md)」があることを条件とします。
+!!! danger "「[ダスト](../mechanics.md)」の不足にご用心"
+    [ウツロ](index.md)の強力な攻撃は、盤面に十分な「[ダスト](../mechanics.md)」があることを条件とします。
     序盤、誰もダメージを受けていないクリーンな状態では、[ウツロ](index.md)は本領を発揮できません。
-    **あえて自分の[オーラ](../glossary.md)を移動札で[ダスト](../glossary.md)に送るなど、意図的に「死の庭（[ダスト](../glossary.md)領域）」を耕す準備が必要です。**
+    **あえて自分の[オーラ](../mechanics.md)を移動札で[ダスト](../mechanics.md)に送るなど、意図的に「死の庭（[ダスト](../mechanics.md)領域）」を耕す準備が必要です。**
 
 !!! tip "「畏縮」は連打してこそ意味がある"
     1ターンの畏縮はただの嫌がらせですが、3ターン連続の畏縮は相手の戦術を根本から破壊します。
-    「[開始フェイズ](../mechanics.md)に[集中力](../glossary.md)が増えない」＝「[前進](../mechanics.md)や[宿し](../mechanics.md)のために手札を伏せなければならない」という方程式を相手に押し付け続け、実質的な手札差で勝利を掴みましょう。
+    「[開始フェイズ](../mechanics.md)に[集中力](../mechanics.md)が増えない」＝「[前進](../mechanics.md)や[宿し](../mechanics.md)のために手札を伏せなければならない」という方程式を相手に押し付け続け、実質的な手札差で勝利を掴みましょう。

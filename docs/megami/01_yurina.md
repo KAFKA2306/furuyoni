@@ -6,7 +6,7 @@
     <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">【刀】[ユリナ](01_yurina.md) / Season 10</div>
     <div style="display: flex; gap: 15px; font-size: 0.9em;">
       <span>難易度: ★☆☆☆☆</span>
-      <span>[間合](../glossary.md#range): 3-4</span>
+      <span>[間合](../mechanics.md#range): 3-4</span>
       <span>タイプ: ビートダウン</span>
       <span style="color: #d32f2f; font-weight: bold;">S10 Meta: Tier 1 (Center)</span>
     </div>
@@ -24,45 +24,45 @@ graph LR
 
 > [!CAUTION]
 > **初心者が陥る致命的な罠**
-> - **無計画な[決死](../glossary.md)**: [ライフ](../glossary.md#life)3は敵のキルゾーン。対応札（浦波嵐・浮舟宿）が手元にない状態での[決死](../glossary.md#kesshi)入りは敗北。
-> - **[フレア](../glossary.md#flare)の浪費**: 『月影落』(7)の圧力を失うことは、[ユリナ](01_yurina.md)の勝率を50%捨てることに等しい。
+> - **無計画な[決死](../mechanics.md)**: [ライフ](../mechanics.md#life)3は敵のキルゾーン。対応札（浦波嵐・浮舟宿）が手元にない状態での[決死](../mechanics.md#kesshi)入りは敗北。
+> - **[フレア](../mechanics.md#flare)の浪費**: 『月影落』(7)の圧力を失うことは、[ユリナ](01_yurina.md)の勝率を50%捨てることに等しい。
 
 ## 戦略的タイムライン
 
 ### Phase 1: 開幕 (Turn 1-2)
-- **目的**: [フレア](../glossary.md)の種を蒔き、[間合](../glossary.md)3-4へ潜り込む。
+- **目的**: [フレア](../mechanics.md)の種を蒔き、[間合](../mechanics.md)3-4へ潜り込む。
 - **推奨挙動**: 
-    - [宿し](../glossary.md#yadoshi) > [前進](../glossary.md#advance)
-    - 相手の[2/1]攻撃を[ライフ](../glossary.md)で受け、[フレア](../glossary.md)転換。
+    - [宿し](../mechanics.md#yadoshi) > [前進](../mechanics.md#advance)
+    - 相手の[2/1]攻撃を[ライフ](../mechanics.md)で受け、[フレア](../mechanics.md)転換。
 
 ### Phase 2: 中盤 (Turn 3-5)
-- **目的**: 相手の[オーラ](../glossary.md)を『[![斬](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png){ .glightbox }』『[![圧気](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png){ .glightbox }』で剥がし、[ライフ](../glossary.md)4-5へ追い込む。
-- **決戦準備**: [ライフ](../glossary.md)4付近で[集中力](../glossary.md)2を維持し、いつでも[決死](../glossary.md)からリーサルを狙える構えを取る。
+- **目的**: 相手の[オーラ](../mechanics.md)を『[![斬](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png){ .glightbox }』『[![圧気](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png){ .glightbox }』で剥がし、[ライフ](../mechanics.md)4-5へ追い込む。
+- **決戦準備**: [ライフ](../mechanics.md)4付近で[集中力](../mechanics.md)2を維持し、いつでも[決死](../mechanics.md)からリーサルを狙える構えを取る。
 
 ### Phase 3: 終盤 (リーサル)
 - **目的**: 『月影落』または『天音揺波の底力』による強制決着。
-- **コンボ**: `足捌き(3→2) > 居合[決死] (4/3) > 月影落 (8/4)` - 合計[ライフ](../glossary.md#life)貫通力絶大。
+- **コンボ**: `足捌き(3→2) > 居合[決死] (4/3) > 月影落 (8/4)` - 合計[ライフ](../mechanics.md#life)貫通力絶大。
 
-## [通常札](../glossary.md)性能マトリクス
+## [通常札](../mechanics.md)性能マトリクス
 
-| カード名 | 主な[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox } | 通常時 | [決死](../glossary.md)時 | S10 特記事項 |
-| :[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox } | :[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox } | :[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }: | :[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }: | :[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox } |
+| カード名 | 主な[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox } | 通常時 | [決死](../mechanics.md)時 | S10 特記事項 |
+| :--- | :--- | :---: | :---: | :--- |
 | **[![斬](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png){ .glightbox }** | 主力削り | 3/1 | 3/2 | 基本性能の高さ。 |
-| **[![一閃](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png){ .glightbox }** | [ライフ](../glossary.md#life)奪取 | 2/2 | 3/3 | **リーサルパーツ**。 |
+| **[![一閃](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png){ .glightbox }** | [ライフ](../mechanics.md#life)奪取 | 2/2 | 3/3 | **リーサルパーツ**。 |
 | **[![柄打ち](../assets/images/card/cards/na_01_o_n/na_01_o_n_3.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_3.png){ .glightbox }** | 妨害/加速 | 1/1 | 1/1 | **S10: ヒット時集中+1** |
 | **[![居合](../assets/images/card/cards/na_01_o_n/na_01_o_n_4.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_4.png){ .glightbox }** | 防御粉砕 | 3/2 | 4/3 | [![足捌き](../assets/images/card/cards/na_01_o_n/na_01_o_n_5.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_5.png){ .glightbox }とのコンボ推奨。 |
 | **[![足捌き](../assets/images/card/cards/na_01_o_n/na_01_o_n_5.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_5.png){ .glightbox }** | 位置調整 | 移動 | 移動 | **3→2の潜り込み**に必須。 |
 | **[![気炎万丈](../assets/images/card/cards/na_01_o_n/na_01_o_n_6.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_6.png){ .glightbox }**| 火力バフ | 強化 | 強化 | 月影落の対応不可領域を拡大。 |
-| **[![圧気](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png){ .glightbox }** | リソース破壊 | 納 | 納 | 相手の[オーラ](../glossary.md#aura)管理を瓦解させる。 |
+| **[![圧気](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png){ .glightbox }** | リソース破壊 | 納 | 納 | 相手の[オーラ](../mechanics.md#aura)管理を瓦解させる。 |
 
-## [切札](../glossary.md)：必殺の定義
+## [切札](../mechanics.md)：必殺の定義
 
 | 名称 | コスト | 種別 | 解説 |
-| :[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox } | :[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }: | :[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox } | :[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox } |
-| **月影落** | 7 | 攻撃 | **フィニッシャー**。対応の有無、[ライフ](../glossary.md#life)/[オーラ](../glossary.md#aura)の択を強要する。 |
-| **浦波嵐** | 3 | 対応 | **生命線**。[決死](../glossary.md#kesshi)状態を安全に通過するためのクッション。 |
-| **浮舟宿** | 2 | 行動 | **リソース補給**。[ダスト](../glossary.md#dust)から[オーラ](../glossary.md#aura)を増強し、判定勝ちへの導線。 |
-| **底力** | 5 | 攻撃 | **逆転札**。最大[5/5]以上の[ライフ](../glossary.md#life)ダメージを吐き出す。 |
+| :--- | :---: | :--- | :--- |
+| **月影落** | 7 | 攻撃 | **フィニッシャー**。対応の有無、[ライフ](../mechanics.md#life)/[オーラ](../mechanics.md#aura)の択を強要する。 |
+| **浦波嵐** | 3 | 対応 | **生命線**。[決死](../mechanics.md#kesshi)状態を安全に通過するためのクッション。 |
+| **浮舟宿** | 2 | 行動 | **リソース補給**。[ダスト](../mechanics.md#dust)から[オーラ](../mechanics.md#aura)を増強し、判定勝ちへの導線。 |
+| **底力** | 5 | 攻撃 | **逆転札**。最大[5/5]以上の[ライフ](../mechanics.md#life)ダメージを吐き出す。 |
 
 ## アンチメガミ・相性
 - **得意**: 防御が薄い、または低速なメガミ（[サイネ](02_saine.md)などとの中距離戦）。

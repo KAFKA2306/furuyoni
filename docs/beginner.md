@@ -89,7 +89,7 @@
 2.  中盤: [間合](mechanics.md)3-4に入り、`斬`や`一閃`で[ライフ](mechanics.md)を削ります。相手の攻撃には`見切り`や`浦波嵐`で対応し、ダメージを最小限に抑えます。
 3.  終盤: 相手の[ライフ](mechanics.md)が残り少なくなったら、[フレア](mechanics.md)（気）を消費して`月影落`を叩き込みましょう。[ユリナ](megami/index.md)の[ライフ](mechanics.md)が3以下（[決死](mechanics.md)）になると攻撃が強化されるので、ピンチはチャンスです。
 
-[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## ステップ 2: 平衡 (刀扇 - [ユリナ](megami/index.md)/[トコヨ](megami/index.md))
 
@@ -175,7 +175,7 @@
 2.  カウンター: 自分から攻めるだけでなく、相手が攻撃してきたところに`雅打ち`を合わせる「待ち」の戦術を練習します。
 3.  鉄壁: 危ない時は`久遠ノ花`で確実にターンを生き延び、返しに`月影落`や`一閃`で反撃して勝利を掴みます。
 
-[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## ステップ 3: 制御 (薙扇 - [サイネ](megami/index.md)/[トコヨ](megami/index.md))
 
@@ -261,7 +261,7 @@
 2.  リソース差: `梳流し`でコツコツ攻撃しつつ、相手の大技は`久遠ノ花`や`雅打ち`で完封します。焦って攻める必要はありません。
 3.  [八相](mechanics.md)の爆発: 相手が攻め疲れてこちらの[オーラ](mechanics.md)が減った時（[八相](mechanics.md)状態）、`八方振り`などの強化されたカードで一気に逆転します。
 
-[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## ステップ 4: 距離 (銃扇 - [ヒミカ](megami/index.md)/[トコヨ](megami/index.md))
 
@@ -343,7 +343,7 @@
 2.  徹底的な拒絶: 相手が[前進](mechanics.md)してきたら、`バックステップ`、`詩舞`、`風舞台`を駆使して、強引に元の遠距離（[間合](mechanics.md)7-9）へ戻します。
 3.  近中距離のカバー: もし近づかれても、[トコヨ](megami/index.md)の要素（`雅打ち`など）や`クリムゾンゼロ`で迎撃できるのがこのペアの強みです。
 
-[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## ステップ 5: 嵐 (薙銃 - [サイネ](megami/index.md)/[ヒミカ](megami/index.md))
 
@@ -427,7 +427,7 @@
 2.  バーストターン: 準備ができたら`スカーレットイマジン`発動。大量の手札から`バックドラフト`→`ラピッドファイア`→`薙斬り`など、[ヒミカ](megami/index.md)と[サイネ](megami/index.md)の攻撃を連続で叩き込みます。
 3.  レンジスイッチ: 遠距離から始めて、カードの効果で自然と距離が縮まり、最後は[サイネ](megami/index.md)の`薙斬り`の[間合](mechanics.md)でフィニッシュする流れるような連携を目指します。
 
-[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## ステップ 6: 衝撃 (刀忍 - [ユリナ](megami/index.md)/[オボロ](megami/index.md))
 
@@ -513,7 +513,7 @@
 2.  [![誘導](assets/images/card/cards/na_05_o_n/na_05_o_n_5.png)](assets/images/card/cards/na_05_o_n/na_05_o_n_5.png){ .glightbox }と月影: `誘導`を[設置](mechanics.md)しておけば、相手の[オーラ](mechanics.md)を強制的に剥がせます。[オーラ](mechanics.md)が薄くなった相手に、本命の`月影落`や`一閃`をクリーンヒットさせましょう。
 3.  必殺コンボ: 攻撃が重なると、相手は対応しきれません。[設置](mechanics.md)攻撃が発動するターンに合わせて、手札からの攻撃も重ねる「ビッグターン」を作りましょう。
 
-[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## ステップ 7: 戦略 (忍傘 - [オボロ](megami/index.md)/[ユキヒ](megami/index.md))
 
@@ -595,7 +595,7 @@
 2.  クロックパーミッション: `壬蔓`を使って`はらりゆき`を何度も再利用する戦術が強力です。中距離を維持し、毎ターンのように攻撃を飛ばします。
 3.  変幻自在: 相手が近づいてきたら「閉じた傘」で近距離戦、離れたら「開いた傘」で中距離戦と、相手の苦手な土俵で戦い続けましょう。
 
-[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## ステップ 8: 撹乱 (薙書 - [サイネ](megami/index.md)/[シンラ](megami/index.md))
 
@@ -679,6 +679,6 @@
 2.  森羅判証: [切札](mechanics.md)`森羅判証`を展開すると、盤面に「付与札」があるだけでダメージが発生するようになります。[サイネ](megami/index.md)の`衝音晶`などの「付与」要素のある攻撃が、凶悪な確定ダメージソースに変わります。
 3.  詰み: 相手は攻撃しても無効化され、守ろうとしても固定ダメージで削られるという「詰み」の状況を作り出しましょう。
 
-[![---](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 次のステップへ:
 これらすべてのペアを試した時、あなたはもう初心者ではありません。自分だけのオリジナルのペアを見つけ、[眼前構築](mechanics.md)（相手を見てからデッキを組む）の深淵へと足を踏み入れましょう。

@@ -4,26 +4,26 @@
 - **開始**: 2016年〜（『桜降る代に決闘を』第一刷発売）
 - **終了**: 第一回大規模カード更新（シーズン2移行）まで
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 1. 概説：黎明期の均衡と「刀」の絶対基準
 
-シーズン1は、本作の基本骨格である「[間合](../glossary.md#range)」「[オーラ](../glossary.md#aura)」「[ライフ](../glossary.md#life)」「[フレア](../glossary.md#flare)」という4つのリソース管理が最もシンプル、かつ最も暴力的に機能した時代でした。メガミの総数が少なく、各メガミの[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }が明確であったため、メタゲームは非常に純粋な「読み合い」と「スタッツの暴力」によって形成されていました。
+シーズン1は、本作の基本骨格である「[間合](../mechanics.md#range)」「[オーラ](../mechanics.md#aura)」「[ライフ](../mechanics.md#life)」「[フレア](../mechanics.md#flare)」という4つのリソース管理が最もシンプル、かつ最も暴力的に機能した時代でした。メガミの総数が少なく、各メガミの[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }が明確であったため、メタゲームは非常に純粋な「読み合い」と「スタッツの暴力」によって形成されていました。
 
 この時代を象徴するのは、間違いなく**[ユリナ](../megami/index.md)**です。彼女のカードパワーは当時の基準において突出しており、環境は「[ユリナ](../megami/01_yurina.md)を使わずにいかに[ユリナ](../megami/01_yurina.md)を倒すか」という、ある種の宗教的な探求の場でもありました。
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 2. 環境の覇者：[ユリナ](../megami/01_yurina.md)と「圧倒的ゴリラ環境」
 
 ### 「[ユリナ](../megami/01_yurina.md)基準」の成立
 シーズン1における[ユリナ](../megami/01_yurina.md)は、すべての性能が「標準」でありながら、その数値（スタッツ）が他のメガミを圧倒していました。
-- **《[![斬](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png){ .glightbox }》と《[![一閃](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png){ .glightbox }》**: [間合](../glossary.md#range)3-4において、これほど安定して[オーラ](../glossary.md#aura)を削り、[ライフ](../glossary.md#life)に圧力をかける攻撃札は他に存在しませんでした。
-- **《月影落》の恐怖**: [フレア](../glossary.md#flare)さえ溜まれば飛んでくる4/4攻撃。当時の対応札のプールでは、これを完全に無力化する手段は限られており、「[オーラ](../glossary.md#aura)を5個維持するか、死ぬか」という二択を常に相手に強要しました。
+- **《[![斬](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png){ .glightbox }》と《[![一閃](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png){ .glightbox }》**: [間合](../mechanics.md#range)3-4において、これほど安定して[オーラ](../mechanics.md#aura)を削り、[ライフ](../mechanics.md#life)に圧力をかける攻撃札は他に存在しませんでした。
+- **《月影落》の恐怖**: [フレア](../mechanics.md#flare)さえ溜まれば飛んでくる4/4攻撃。当時の対応札のプールでは、これを完全に無力化する手段は限られており、「[オーラ](../mechanics.md#aura)を5個維持するか、死ぬか」という二択を常に相手に強要しました。
 
 競技層からは敬愛と畏怖を込めて「ゴリラ」と称され、大会での[ユリナ](../megami/01_yurina.md)使用率は極めて高く、彼女こそが環境の「壁」として機能していました。
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 3. Tier 1 アーキタイプ：二強の支配
 
@@ -36,25 +36,25 @@
 
 ### ② 【銃忍】[ヒミカ](../megami/03_himika.md) / [オボロ](../megami/05_oboro.md)
 **アウトレンジ・レンジロックの極致**
-- **戦略**: [ヒミカ](../megami/03_himika.md)の遠距離攻撃と、[オボロ](../megami/05_oboro.md)の《壬蔓（みつる）》および《ヴァーミリオンフィールド》を用いた「絶対に[間合](../glossary.md#range)を近づけさせない」レンジロック戦術。
+- **戦略**: [ヒミカ](../megami/03_himika.md)の遠距離攻撃と、[オボロ](../megami/05_oboro.md)の《壬蔓（みつる）》および《ヴァーミリオンフィールド》を用いた「絶対に[間合](../mechanics.md#range)を近づけさせない」レンジロック戦術。
 - **衝撃**: 当時のプレイヤーの多くは、この「近づけないまま焼かれる」という理不尽への対策を持っていませんでした。対応不可の《壬蔓》による移動とクロック刻みは、後のシーズンで修正されるまでの間、環境を象徴する「恐怖」の代名詞となりました。
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 4. 他のメガミたちの立ち位置
 
-- **[サイネ](../megami/index.md)**: テキストこそ強力であったものの、[間合](../glossary.md#range)制御の難易度が高く、[ユリナ](../megami/01_yurina.md)の暴力的な[前進](../glossary.md#advance)に対して「[八相](../glossary.md#hasso)」を維持しながら戦うには、極めて高い職人芸が要求されました。
+- **[サイネ](../megami/index.md)**: テキストこそ強力であったものの、[間合](../mechanics.md#range)制御の難易度が高く、[ユリナ](../megami/01_yurina.md)の暴力的な[前進](../mechanics.md#advance)に対して「[八相](../mechanics.md#hasso)」を維持しながら戦うには、極めて高い職人芸が要求されました。
 - **[トコヨ](../megami/index.md)**: 単体での決定力には欠けるものの、あらゆるメガミの相方として「防御の盾」となる名脇役でした。
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 5. 総評：なぜシーズン1は愛されるのか
 
 シーズン1の環境は、決してバランスが完璧だったわけではありません。しかし、カード1枚ずつの重みが現在よりも大きく、リソース1つのミスが即死に直結する緊張感は、後のシーズンにはない「原初の面白さ」を体現していました。
 
-この過酷な「ゴリラ環境」を生き抜いた知見こそが、その後の「[眼前構築](../glossary.md#construction)」の深みを形作る土台となったのです。
+この過酷な「ゴリラ環境」を生き抜いた知見こそが、その後の「[眼前構築](../mechanics.md#construction)」の深みを形作る土台となったのです。
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 出典・参考資料
 - 『桜降る代に決闘を』第一刷・第二刷 改訂履歴

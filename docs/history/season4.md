@@ -4,7 +4,7 @@
 - **開始**: 2019年〜（新メガミ：[ホノカ](../megami/14_honoka.md)、[コルヌ](../megami/15_korunu.md)、[ヤツハ](../megami/16_yatsuha.md)参戦）
 - **終了**: シーズン5移行まで
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 1. 概説：成長するリソースと戦略の本質的拡張
 
@@ -12,7 +12,7 @@
 
 また、公式大会において「三拾一捨（Pick 3, Ban 1）」形式が完全に定着し、特定のペアだけでなく「3柱のプールとしての完成度」が問われるようになったのもこの時期の特徴です。
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 2. 環境の新風：トリッキーな実力者たち
 
@@ -22,9 +22,9 @@
 - **バッファーとしての[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: [ホノカ](../megami/14_honoka.md)は相方のカードを強化する能力に長けており、これまでにないシナジーが次々と発見されました。
 
 ### [鏡映](../mechanics.md)のジレンマ
-[ヤツハ](../megami/16_yatsuha.md)は「相手と同じ状態（[オーラ](../glossary.md)・[ライフ](../glossary.md)・[フレア](../glossary.md)）を作る」ことで真価を発揮するため、あえて攻撃を控えたり、リソースを調整したりする独自の立ち回りを環境に定着させました。
+[ヤツハ](../megami/16_yatsuha.md)は「相手と同じ状態（[オーラ](../mechanics.md)・[ライフ](../mechanics.md)・[フレア](../mechanics.md)）を作る」ことで真価を発揮するため、あえて攻撃を控えたり、リソースを調整したりする独自の立ち回りを環境に定着させました。
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 3. Tier 1 アーキタイプ：新時代のスタンダード
 
@@ -38,20 +38,20 @@
 - **戦略**: [ホノカ](../megami/14_honoka.md)の優秀な付与札を利用して[クルル](../megami/10_kururu.md)の「[機巧](../mechanics.md)」を安定して発動させるコンボデッキ。
 - **評価**: これまでの[クルル](../megami/10_kururu.md)デッキに欠けていた「序盤から中盤の安定性」を[ホノカ](../megami/14_honoka.md)が補う形となり、コンボの完成度が飛躍的に向上しました。
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 4. 既存メガミの再評価とメタの変遷
 
 - **[コルヌ](../megami/index.md)（橇）**: 「[凍結](../mechanics.md)」によって相手の[宿し](../mechanics.md)や[前進](../mechanics.md)を直接阻害する[コルヌ](../megami/15_korunu.md)は、移動系メガミ（[サリヤ](../megami/11_sariya.md)、[オボロ](../megami/05_oboro.md)）に対する強力なカウンターとして機能しました。
-- **[三拾一捨](../glossary.md)の進化**: 相手の強力なコンボをBANし、残された2柱でいかに戦うかという「[眼前構築](../glossary.md)の一歩手前」の思考が、トッププレイヤーの間で極めて高度に洗練されました。
+- **[三拾一捨](../mechanics.md)の進化**: 相手の強力なコンボをBANし、残された2柱でいかに戦うかという「[眼前構築](../mechanics.md)の一歩手前」の思考が、トッププレイヤーの間で極めて高度に洗練されました。
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 5. 総評：シーズン4がもたらした「深まり」
 
 シーズン4は、個別のメガミの強さ以上に、「組み合わせ」と「ゲームの推移（経過）」を管理する面白さが強調された時代でした。カードが変わる、状態を揃える、といった動的な要素は、現在まで続く『ふるよに』の「奥深さ」を象徴する重要なパーツとなったのです。
 
-[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+---
 
 ## 出典・参考資料
 - シーズン4 大規模調整報告書
