@@ -1,74 +1,98 @@
+<div align="center">
+
 # 🌸 Furuyoni Guide
+### 桜降る代に決闘を — 究極の攻略データベース
 
-> **桜降る代に決闘を** 包括的ガイド  
-> _A comprehensive guide to Sakura Arms (Furuyoni)_
+*"花弁が舞い散るその時、決闘の幕が上がる..."*
 
-[![Live Demo](https://img.shields.io/badge/🎴_Live_Demo-kafka2306.github.io/furuyoni-ff69b4?style=for-the-badge)](https://kafka2306.github.io/furuyoni/)
-[![Website](https://img.shields.io/website?up_message=online&up_color=success&down_message=offline&down_color=critical&url=https%3A%2F%2Fkafka2306.github.io%2Ffuruyoni%2F&style=for-the-badge&logo=github)](https://kafka2306.github.io/furuyoni/)
+[![Live Demo](https://img.shields.io/badge/🎴_Enter_The_Stage-kafka2306.github.io/furuyoni-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://kafka2306.github.io/furuyoni/)
+[![Status](https://img.shields.io/website?up_message=online&up_color=success&down_message=offline&down_color=critical&url=https%3A%2F%2Fkafka2306.github.io%2Ffuruyoni%2F&style=for-the-badge&logo=google-chrome&logoColor=white)](https://kafka2306.github.io/furuyoni/)
+[![License](https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge)](LICENSE)
 
-## 🔗 [**サイトにアクセス (Open Website)**](https://kafka2306.github.io/furuyoni/)
+[**Explore Docs**](https://kafka2306.github.io/furuyoni/) · [**Report Bug**](https://github.com/kafka2306/furuyoni/issues) · [**Request Feature**](https://github.com/kafka2306/furuyoni/issues)
 
----
-
-## ✨ Overview
-
-**Furuyoni Guide** は、対戦型カードゲーム「桜降る代に決闘を」の攻略情報を集約したドキュメントサイトです。MkDocsを使用し、初心者から上級者まで活用できるコンテンツを高速かつ美しく提供します。
+</div>
 
 ---
 
-## 📖 Features
+## 📖 About The Project
 
-- **メガミ一覧**: 全16柱の能力、戦術、カードギャラリー
-- **基本ルール**: 初心者向けの用語解説とゲームの流れ
-- **ペア攻略**: 厳選された2柱の組み合わせ解説
-- **全文検索**: 日本語対応の強力な検索機能
-- **レスポンシブ**: モバイル・PC両対応のモダンなUI
+**Furuyoni Guide** は、対戦型カードゲーム「桜降る代に決闘を」の世界を深く探求するための、美しく高速なナレッジベースです。
 
----
+初心者から競技プレイヤーまで、すべてのミコト（プレイヤー）が最強を目指すための情報を、MkDocsとMaterial Designの力でエレガントに提供します。
 
-## 🚀 Development
+<details>
+<summary>✨ Why use this guide?</summary>
 
-このプロジェクトは MkDocs と Material テーマを使用して構築されています。
+- 公式ルールブックよりも噛み砕いた解説
+- 実践的なコンボや立ち回りの紹介
+- モバイルでもPCでも快適な閲覧体験
+- 強力な全文検索機能
 
-### ローカル環境での起動
+</details>
+
+## 🧩 Key Features
+
+| Feature | Description |
+| :--- | :--- |
+| 🌸 **Megami Database** | 全18柱以上のメガミの能力、戦術、カード詳細を網羅。 |
+| ⚔️ **Strategy & Meta** | シーズンごとのメタゲーム分析、ティアリスト、構築論。 |
+| 📜 **Lore & History** | 桜降る代の歴史、神話、そしてキャラクターの物語。 |
+| ⚡ **Lightning Fast** | 静的サイトジェネレーターによる爆速の読み込みと検索。 |
+| 📱 **Responsive Design** | どんなデバイスでも美しく表示されるモダンUI。 |
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+- **Python 3.1x**
+- **uv** (Recommended package manager)
+- **go-task** (Task runner)
+
+### Installation
 
 ```bash
-# uv を使用して依存関係のインストールとサーバー起動
+# Clone the repository
+git clone https://github.com/kafka2306/furuyoni.git
+
+# Install dependencies and start dev server
 task serve
 ```
 
-ブラウザで `http://localhost:8080` を開きます。
+ブラウザで `http://localhost:8080` を開けば、そこに桜降る代が広がっています。
 
-### ビルド
+## 🛠️ Tech Stack
 
-```bash
-task build
-```
-
-出力先は `site/` ディレクトリです。
-
----
+- [**MkDocs**](https://www.mkdocs.org/) - Documentation
+- [**Material for MkDocs**](https://squidfunk.github.io/mkdocs-material/) - Theme
+- [**Python**](https://www.python.org/) - Scripting
+- [**GitHub Pages**](https://pages.github.com/) - Hosting
 
 ## 📂 Project Structure
 
-```
+```bash
 furuyoni/
-├── docs/                # Markdownソースファイル
-├── mkdocs.yml           # MkDocs設定
-├── Taskfile.yml         # 開発タスク定義
-├── pyproject.toml       # Python依存関係
-└── archive/             # 旧HTMLアプリのソース（参照用）
+├── 📂 docs/                # Knowledge Base Source
+│   ├── 📂 megami/          # Megami Data
+│   ├── 📂 strategy/        # Strategy Guides
+│   └── 📂 history/         # Season Logs
+├── ⚙️ mkdocs.yml           # Configuration
+├── 📝 Taskfile.yml         # Automation Tasks
+└── 📦 pyproject.toml       # Dependencies
 ```
 
----
+## 🤝 Acknowledgments & Copyright
 
-## 🤝 Acknowledgments
+本サイトは非公式のファンメイドガイドです。
 
-- **BakaFire Party** - 桜降る代に決闘を 公式 (https://main-bakafire.ssl-lolipop.jp/furuyoni/)
-- カード画像およびメガミ画像の著作権は BakaFire Party に帰属します。
+- **BakaFire Party** - [桜降る代に決闘を 公式サイト](https://main-bakafire.ssl-lolipop.jp/furuyoni/)
+- カード画像、キャラクター画像、および世界観設定の著作権は **BakaFire Party** に帰属します。
+- "Sakura Arms" is a property of **BakaFire Party**.
 
 ---
 
 <div align="center">
-Made with 🌸 by [kafka2306](https://github.com/kafka2306)
+
+**Made with ❤️ and 🌸 by [kafka2306](https://github.com/kafka2306)**
+
 </div>

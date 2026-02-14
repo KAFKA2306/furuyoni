@@ -1,88 +1,191 @@
-# サリヤ
+# [サリヤ](index.md)
 
 <div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="../assets/images/chara/ico-11.png" width="100">
   <div class="megami-meta">
-    - 権能: 乗騎
-    - 難易度: ★★★☆☆
-    - 得意[間合](../mechanics/index.md): [形態による]
+    <ul>
+      <li><strong>権能</strong>: 騎 (Cavalry / Steam)</li>
+      <li><strong>難易度</strong>: ★★★★☆</li>
+      <li><strong>得意[間合](../mechanics/glossary.md)</strong>: 2-4</li>
+    </ul>
   </div>
 </div>
 
-## 本質的な解説
+!!! info "蒸気の咆哮、全戦域を蹂躙する鋼の駿馬"
+    シーズン10においても、その圧倒的な機動力による「[間合](../mechanics/glossary.md)破壊」性能は随一であり、対戦相手に常に緊張感を与え続けます。
 
-[サリヤ](index.md)の本質は「リソースを燃料として消費し、物理法則を超える機動力と出力を得る加速戦術」にあります。
+## 物語の起源：[サリヤ](index.md)
 
-彼女は「[造花](../mechanics/index.md)結晶」という特殊なリソースを燃料として使い、通常のメガミでは不可能なほどの長距離移動や、連続した攻撃アクションを行います。形態（Form）を次々と切り替え、相手の最も弱い[間合](../mechanics/index.md)へと瞬時に潜り込み、致命的な一撃を与えた後、再び安全圏へと離脱します。
+> 「加速しろ、私の心臓！ 蒸気の咆哮が、運命の先を切り拓く！」
 
-燃料が切れるまでの有限の時間の中で、最高速度の勝負を仕掛けるメガミです。
+[サリヤ](index.md)は、蒸気の力と強靭な[![意志](../assets/images/card/cards/na_16_o_n/na_16_o_n_5.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_5.png){ .glightbox }で戦場を蹂躙する「騎兵」のメガミです。
+彼女の起源は、限界を突破しようとする人類の挑戦心と、鋼の駿馬とともに「どこまでも遠くへ」駆け抜けようとする自由への渇望にあります。彼女にとって、速度こそが力であり、加速に身を委ねる瞬間こそが真の悦びです。
+物語では、実直で正義感が強く、かつ新しいものを愛する開拓者のような精神を持って描かれます。彼女が跨る「ガジェット」は、メガミの力を物理的な運動エネルギーへと昇華させ、あらゆる障害を力強く跳ね飛ばします。
+「燃料」という力は、彼女が自らの情熱（リソース）を燃焼させて爆発的な推進力を生み出し、相手の予測する限界速度（[間合](../mechanics/glossary.md)）を遥かに超越していく「進歩」の力を象徴しています。
 
-## キーワード能力: 騎動
+## キーワード能力: 燃料 (Fuel)
 
-あなたが特定のカードを使用した際、あなたの[造花](../mechanics/index.md)結晶を消費することで「[騎動](../mechanics/index.md)」が発生し、追加の移動や効果を得ることができます。
+[サリヤ](index.md)の心臓は、蒸気機関です。
 
-また、[サリヤ](index.md)は3つの形態（Form）を持っており、状況に応じて切り替えます。
-- **YAKSHA**: 近距離戦形態（間合0-2）
-- **NAGA**: 中距離戦形態（間合2-5）
-- **GARUDA**: 遠距離戦形態（間合4-8）
+*   **燃料の仕組み**: 自分の[オーラ](../mechanics/glossary.md)や[フレア](../mechanics/glossary.md)にある結晶を「燃料タンク」に移動させることで蓄積します。
+*   **燃焼の効果**: カード使用時に燃料を消費することで、攻撃力の増加、移動距離の延長、特殊効果の付与などが行われます。
+*   **戦略的意味**: 燃料は強力ですが、使いすぎると[オーラ](../mechanics/glossary.md)（防御力）や[フレア](../mechanics/glossary.md)（[切札](../mechanics/glossary.md)リソース）が枯渇します。「いつ燃料を貯め、いつ一気に燃やすか」という極めてシビアなリソース管理が、[サリヤ](index.md)使いの醍醐味です。
 
-燃料を燃やし尽くす「Burn」の覚悟を持って、戦場を縦横無尽に駆け巡りましょう。使用した[造花](../mechanics/index.md)結晶はゲーム中戻らないため、使い所が重要です。
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
-## 通常札の一覧
+## シーズン10における立ち位置
 
-<div class="grid cards" markdown>
+シーズン10（大[切札](../mechanics/glossary.md)時代）において、[サリヤ](index.md)は「速度の支配者」としての地位を確立しています。
 
--   [![サリヤ Card](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png){ .glightbox }
-    Burning Steam: 燃料で機動攻撃。
+*   **大[切札](../mechanics/glossary.md)の安定運用**: [サリヤ](index.md)自身が高い機動力を持つため、相方の重量級[切札](../mechanics/glossary.md)を当てるための「お膳立て（[間合](../mechanics/glossary.md)操作）」を一人で完遂できます。
+*   **環境への対応**: 遠距離メガミによるレンジロックに対しても、燃料を燃やした超高速[前進](../mechanics/index.md)によって無理やり懐に潜り込み、粉砕することができます。
 
--   [![サリヤ Card](../assets/images/card/cards/na_11_o_n/na_11_o_n_2.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_2.png){ .glightbox }
-    Waving Edge: [宿し](../mechanics/index.md)と攻撃を両立。
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
--   [![サリヤ Card](../assets/images/card/cards/na_11_o_n/na_11_o_n_3.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_3.png){ .glightbox }
-    Turbo Switch: 高速回避機動。
+## [通常札](../mechanics/glossary.md)解説
 
--   [![サリヤ Card](../assets/images/card/cards/na_11_o_n/na_11_o_n_4.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_4.png){ .glightbox }
-    Form:YAKSHA: 接近戦形態。
+### N1 [![Burning Steam](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png){ .glightbox }
 
--   [![サリヤ Card](../assets/images/card/cards/na_11_o_n/na_11_o_n_5.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_5.png){ .glightbox }
-    Form:NAGA: 中距離戦形態。
+[![Burning Steam](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png){ align=left width=150 }
 
--   [![サリヤ Card](../assets/images/card/cards/na_11_o_n/na_11_o_n_6.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_6.png){ .glightbox }
-    Form:GARUDA: 遠距離戦形態。
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 主力攻撃 / 燃料消費
 
--   [![サリヤ Card](../assets/images/card/cards/na_11_o_n/na_11_o_n_7.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_7.png){ .glightbox }
-    Omega-Burst: 究極の防壁。
+*   **適正[間合](../mechanics/glossary.md)**: 2-4
+*   **解説**:
+    [サリヤ](index.md)の基幹攻撃。燃料を消費することで、1ターンに何度も振れる、あるいはダメージが増強されるといった爆発力を持ちます。蒸気の熱で相手の[オーラ](../mechanics/glossary.md)を溶かし、[ライフ](../mechanics/glossary.md)への道をこじ開けます。
 
-</div>
+<br clear="all">
 
-## 切り札の一覧
+### N2 [![Waving Edge](../assets/images/card/cards/na_11_o_n/na_11_o_n_2.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_2.png){ .glightbox }
 
-<div class="grid cards" markdown>
+[![Waving Edge](../assets/images/card/cards/na_11_o_n/na_11_o_n_2.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_2.png){ align=left width=150 }
 
--   [![サリヤ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_11_o_s/na_11_o_s_1.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_11_o_s/na_11_o_s_1.png){ .glightbox }
-    Alpha-Helix: 螺旋を描く超高速突進。
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 連続攻撃 / 位置調整
 
--   [![サリヤ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_11_o_s/na_11_o_s_2.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_11_o_s/na_11_o_s_2.png){ .glightbox }
-    Beta-Edge: 虚空を裂く双絶の刃。
+*   **解説**:
+    攻撃しながら[間合](../mechanics/glossary.md)を操作する、[サリヤ](index.md)の機動力を象徴する札。これ一発で相手の死角（適正[間合](../mechanics/glossary.md)外）へ回り込み、一方的な連撃へと繋げます。
 
--   [![サリヤ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_11_o_s/na_11_o_s_3.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_11_o_s/na_11_o_s_3.png){ .glightbox }
-    Gamma-Ray: 全てを貫く静寂の光。
+<br clear="all">
 
--   [![サリヤ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_11_o_s/na_11_o_s_4.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_11_o_s/na_11_o_s_4.png){ .glightbox }
-    Julia's BlackBox: 可能性を解き放つ暗箱。サリヤを究極形態へと変貌させる、勝利の決め手。
+### N3 [![Turbo Switch](../assets/images/card/cards/na_11_o_n/na_11_o_n_3.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_3.png){ .glightbox }
 
-</div>
+[![Turbo Switch](../assets/images/card/cards/na_11_o_n/na_11_o_n_3.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_3.png){ align=left width=150 }
+
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 燃料供給 / ギアチェンジ
+
+*   **解説**:
+    リソースを即座に燃料へ変換するための札。コンボを始める前の「アイドリング」として必須の一枚です。
+
+<br clear="all">
+
+### N4 Steer / N5 Shield / N6 Roar (Transform)
+
+[![Form](../assets/images/card/cards/na_11_o_n/na_11_o_n_4.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_4.png){ align=left width=150 }
+
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 形態変化 / 状況適応
+
+*   **解説**:
+    [サリヤ](index.md)が搭乗する騎兵（ガジェット）の形態を変化させます。攻撃特化、防御特化、移動特化など、戦況に合わせて自分のステータスを書き換えることができます。
+
+<br clear="all">
+
+### N7 [![Omega-Burst](../assets/images/card/cards/na_11_o_n/na_11_o_n_7.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_7.png){ .glightbox }
+
+[![Omega-Burst](../assets/images/card/cards/na_11_o_n/na_11_o_n_7.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_7.png){ align=left width=150 }
+
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 緊急回避 / 全力防御
+
+*   **解説**:
+    全燃料を一度に放出し、相手の攻撃を回避、あるいは盤面をリセットする究極の防御札。命の危機に瀕した時の脱出装置として機能します。
+
+<br clear="all">
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+
+## [切札](../mechanics/glossary.md)解説
+
+### S1 Alpha-Edge
+
+[![Alpha-Edge](../assets/images/card/cards/na_11_o_s/na_11_o_s_1.png)](../assets/images/card/cards/na_11_o_s/na_11_o_s_1.png){ align=left width=150 }
+
+**コスト**: 3
+**種別**: 攻撃
+
+**解説**:
+低コストで高効率なダメージを叩き出す、[サリヤ](index.md)のスタンダードな[切札](../mechanics/glossary.md)。
+燃料と合わせることで、想定外のタイミングでのリーサル（勝利確定）を作り出します。
+
+<br clear="all">
+
+### S2 Beta-Turbine
+
+[![Beta-Turbine](../assets/images/card/cards/na_11_o_s/na_11_o_s_2.png)](../assets/images/card/cards/na_11_o_s/na_11_o_s_2.png){ align=left width=150 }
+
+**コスト**: 2
+**種別**: 行動
+
+**解説**:
+コンボの回転を極限まで早めるためのタービン。
+燃料の再利用や[集中力](../mechanics/glossary.md)の獲得など、1ターンの行動数を劇的に増やします。
+
+<br clear="all">
+
+### S3 Gamma-Ray
+
+[![Gamma-Ray](../assets/images/card/cards/na_11_o_s/na_11_o_s_3.png)](../assets/images/card/cards/na_11_o_s/na_11_o_s_3.png){ align=left width=150 }
+
+**コスト**: 5
+**種別**: 攻撃 (大規模)
+
+**解説**:
+**[サリヤ](index.md)の最終兵器。**
+出力MAXの蒸気で放たれる閃光。ガード不能に近いダメージを[ライフ](../mechanics/glossary.md)に突き通し、どんなに防御を固めた相手も一瞬で蒸発させます。
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+
+## 主要アーキタイプ
+
+### 1. 超高速バーストアグロ (Steam Burst)
+**「見えた時には、もう死んでいる。」**
+燃料によって常勝の1ターンを作り出し、一気に[間合](../mechanics/glossary.md)を詰めて相手を沈める。
+
+*   **基本戦術**:
+    1. 序盤に『[![Turbo Switch](../assets/images/card/cards/na_11_o_n/na_11_o_n_3.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_3.png){ .glightbox }』で燃料を満タンにする。
+    2. 燃料を全消費して『[![Burning Steam](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png){ .glightbox }』を連打。
+    3. 移動効果を駆使して相手の対応札をスカす。
+*   **推奨パートナー**: [ライラ](index.md)(爪)、[ユリナ](index.md)(刀)
+
+### 2. 万能騎兵コントロール (Flexible Cavalry)
+**「変幻自在の盤面支配。」**
+形態変化（Transform）を駆使し、相手が得意とする[間合](../mechanics/glossary.md)や戦法を封じ込めるスタイル。
+
+*   **基本戦術**:
+    1. 相手に合わせて形態を選択。
+    2. サイヤの機動力で常に相手の「弱点[間合](../mechanics/glossary.md)」に張り付く。
+*   **推奨パートナー**: [トコヨ](index.md)(扇)、[サイネ](index.md)(薙)
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+
+## おすすめの組み合わせ (Pairs)
+
+### [ハガネ](08_hagane.md) (槌騎)
+**「鋼鉄の進撃」**
+[サリヤ](index.md)の移動が[ハガネ](index.md)の「[遠心](../mechanics/glossary.md)」条件を無償で達成させる、最高最悪の移動コンボ。全メガミの中でもトップクラスの平均移動距離を誇ります。
+
+### [ライラ](12_laila.md) (騎爪)
+**「神速の双璧」**
+互いの移動能力が相乗効果を生み、[ライラ](index.md)のゲージが爆速で溜まり、[サリヤ](index.md)の燃料が火を吹く。1ターンで10点削ることを日常とする超攻撃型ペア。
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## 戦術の核心
 
-1. 燃料のマネジメント: [造花](../mechanics/index.md)結晶は一度使うとすぐには戻りません。一撃で相手を仕留める「キルターン」を決めてから、燃料を一気に投入しましょう。
-2. Formの柔軟性: 相手が近づきたいならGARUDAで引き撃ちし、逃げたいならYAKSHAで追い回す。[サリヤ](index.md)にとって、戦場のすべての場所は自分のコントロール下にあります。
-3. 『Alpha-Edge』の追撃: [切札](../mechanics/index.md)を絡めた連続攻撃は、相手の[オーラ](../mechanics/index.md)をあっという間に空にします。最高速の状態での[サリヤ](index.md)を止められる者は誰もいません。
+!!! danger "燃料切れ＝ただの少女"
+    燃料がない[サリヤ](index.md)は、火力の低いメガミに成り下がります。
+    **「次のターンのために燃料を残すか、今使い切って勝負を決めるか」**の判断ミスは命取りです。
+    特に[オーラ](../mechanics/glossary.md)から燃料を作ると防御がガラ空きになるため、カウンターには細心の注意を払ってください。
 
-## おすすめの組み合わせ
-
-### [ユリナ](01_yurina.md)（一閃突撃バースト）
-【一閃突撃バースト】（刀騎）は、最高火力の刀と最高速度の乗騎が組み合わさった速攻構成です。サリヤの『[Burning Steam](cards.md#Burning-Steam)』で一気に間合を詰め、ユリナの『[一閃](cards.md#一閃)』や『[月影落](cards.md#月影落)』を叩き込みます。相手がリソースを整える前にゲームを終わらせる爆発力が魅力です。
-
-### [サイネ](02_saine.md)（圏域突撃制圧）
-【圏域突撃制圧】（薙騎）は、戦場のどこにいても相手を捕まえることができる制圧構成です。サイネの『[圏域](cards.md#圏域)』で相手を特定の間合に縛り、サリヤが『[Waving Edge](cards.md#Waving-Edge)』などでその隙を突いて攻撃を畳み掛けます。攻守ともに隙がなく、非常に安定した立ち回りが可能です。
+!!! tip "「[間合](../mechanics/glossary.md)の暴力」を楽しめ"
+    [サリヤ](index.md)にとって、[間合](../mechanics/glossary.md)1から10までの移動は造作もありません。
+    相手が「この距離なら安全だ」と[宿し](../mechanics/index.md)を行った隙に、燃料1つで5マス[前進](../mechanics/index.md)して『[![Burning Steam](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png){ .glightbox }』を叩き込む。
+    **相手の想定する「ふるよにの常識（移動コスト）」を破壊することこそが、[サリヤ](index.md)の真の力です。**

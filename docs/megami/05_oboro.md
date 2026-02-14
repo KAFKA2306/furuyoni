@@ -1,102 +1,232 @@
-# オボロ
+# [オボロ](index.md)
 
 <div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="../assets/images/chara/ico-05.png" width="100">
   <div class="megami-meta">
-    - 権能: 忍
-    - 難易度: ★★★★☆
-    - 得意[間合](../mechanics/index.md): 2-3
+    <ul>
+      <li><strong>権能</strong>: 忍 (Shinobi)</li>
+      <li><strong>難易度</strong>: ★★★★☆</li>
+      <li><strong>得意[間合](../mechanics/glossary.md)</strong>: 2-3</li>
+    </ul>
   </div>
 </div>
 
+!!! info "影より出でて、盤面を攪乱する暗殺の職人"
+    シーズン10においても、[ユキヒ](index.md)や[ユリナ](index.md)との相性は抜群で、バーストダメージの代名詞として恐れられ続けています。
+
+## 物語の起源：[オボロ](index.md)
+
+> 「姿なき影が、死角を貫く。……それが、忍の世界の理だ」
+
+[オボロ](index.md)は、影から世界を観測し、必要とあらば音もなく刃を振るう「忍」のメガミです。
+彼女の起源は、己を律し続けるストイックな探求心と、目に見えぬ「繋がり」を操る技巧にあります。彼女はメガミでありながらも、人々の営みを冷徹かつ情熱的に観察する生物学者のような一面も持ち合わせています。
+物語では、騒がしいメガミたちの間で苦労を背負い込みながらも、徹底した実利主義と深い洞察で事態を収束させる影の立役者となります。
+彼女の「[設置](../mechanics/index.md)」は、事前に仕掛けられた微細な金属糸や緻密な[計略](../mechanics/index.md)が、時を経て必殺の罠へと変貌する「忍」の卓越した戦闘スタイルを体現しています。
+
+## キーワード能力: [設置](../mechanics/glossary.md) (Setchi)
+
+[オボロ](index.md)の攻撃は、常に「影」の中から放たれます。
+
+*   **[設置](../mechanics/glossary.md)の仕組み**: [通常札](../mechanics/glossary.md)を使用する代わりに、手札から「伏せ札」として置きます。
+*   **発動タイミング**: **[再構成](../mechanics/glossary.md)時**（山札のリシャッフル時）や、**【対応】**によって自分のターン以外で発動することが可能です。
+*   **戦略的意味**: [設置](../mechanics/glossary.md)されたカードは、その瞬間にコストを支払う必要がなく、後のターンで「手札消費なしでカードをプレイできる」という強力なテンポ・アドバンテージを生みます。
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+
 ## 本質的な解説
 
-[オボロ](index.md)の本質は「伏せ札という未来のリソースを現在に引き込む[設置](../mechanics/index.md)戦術」にあります。
+シーズン10（大[切札](../mechanics/glossary.md)時代）において、[オボロ](index.md)は「コンボの接着剤」としての価値を再認識されています。
 
-多くのメガミにとって伏せ札は「[再構成](../mechanics/flow.md)を待つだけの死に札」ですが、[オボロ](index.md)にとっては「いつでも発動可能な仕込み」となります。彼女は基本動作（纏い、前進など）のコストとしてカードを「伏せる」ことや、カード自体の効果で「伏せ札」に送ることを「**[設置](../mechanics/index.md)**」と呼びます。
+*   **[フレア](../mechanics/glossary.md)供給の要**: [切札](../mechanics/glossary.md)『壬蔓（みかづら）』による[フレア](../mechanics/glossary.md)サポート能力は、重量級の[切札](../mechanics/glossary.md)が多い現代のメタゲームにおいて、相方の火力を底上げするために欠かせない要素となっています。
+*   **手札破壊の脅威**: [設置](../mechanics/glossary.md)『[![影菱](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ .glightbox }』によるハンデス（手札破壊）は、複雑なコンボを狙う相手の計算を狂わせ、大[切札](../mechanics/glossary.md)時代における強力なメタ戦術として機能します。
 
-これにより、相手のターン中や自分の攻撃の合間など、通常ではあり得ないタイミングで効果を発生させ、手数で相手を圧倒します。
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
+## [通常札](../mechanics/glossary.md)の一覧
 
-相手の予測を上回る連続攻撃と、テクニカルなリソース管理が彼女の真骨頂です。
+### N1 [![鋼糸](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png){ .glightbox }
 
-## キーワード能力: 設置
+[![鋼糸](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png){ align=left width=150 }
 
-あなたが手札からカードを使用する際、あらかじめ伏せておいた特定のカードが（[設置](../mechanics/index.md)）されていれば、それを追加コストなしで同時に発動させることができます。
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 主力攻撃 / [設置](../mechanics/glossary.md)コンボ
 
-!!! important "発動のルール"
-    *   **タイミング**: 「手札からカードを使用した直後」に発動します。
-    *   **条件**: 発動したいカードが、その時点で既に「伏せ札」にある必要があります。
-    *   **連鎖**: 1枚の使用で、複数の設置カードを同時に発動させることも可能です。
+*   **適正[間合](../mechanics/glossary.md)**: 2-4
+*   **解説**:
+    [オボロ](index.md)の基本攻撃。[設置](../mechanics/glossary.md)から発動させることで、自分のターン開始時に手札消費なしで[3/1]攻撃を放ちます。これにより、本来1ターンに振れる攻撃の限界を超えた弾数を叩き込むことができます。
 
-これにより、1ターンに使えるカードの実質的な枚数が大幅に増え、爆発的なバーストダメージを生み出します。どの札を今使い、どの札を未来のために伏せるか、常に一手先、二手先を読み続ける必要があります。
+<br clear="all">
 
+### N2 [![影菱](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ .glightbox }
 
-## 通常札の一覧
+[![影菱](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ align=left width=150 }
 
-<div class="grid cards" markdown>
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 手札破壊 / 妨害
 
--   [![オボロ Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png){ .glightbox }
-    鋼糸: [設置](../mechanics/index.md)で2/2から3/2に強化。攻撃の起点となります。
+*   **適正[間合](../mechanics/glossary.md)**: 2-4
+*   **[設置](../mechanics/glossary.md)時効果**: ヒット時、相手は手札を1枚選んで捨てる。
+*   **解説**:
+    [オボロ](index.md)を象徴する嫌烈な一枚。[設置](../mechanics/glossary.md)から発動し、相手のターン開始時に手札を奪うことで、相手が用意していたコンボや防御プランを台無しにします。
 
--   [![オボロ Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ .glightbox }
-    影菱: 手札破壊の暗器。
+<br clear="all">
 
--   [![オボロ Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_3.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_3.png){ .glightbox }
-    斬撃乱舞: [設置](../mechanics/index.md)で4/3の嵐。
+### N3 [![斬撃乱舞](../assets/images/card/cards/na_05_o_n/na_05_o_n_3.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_3.png){ .glightbox }
 
--   [![オボロ Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_4.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_4.png){ .glightbox }
-    忍歩: 音もなく接近。
+[![斬撃乱舞](../assets/images/card/cards/na_05_o_n/na_05_o_n_3.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_3.png){ align=left width=150 }
 
--   [![オボロ Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_5.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_5.png){ .glightbox }
-    誘導: 相手の位置を操作。
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: バースト火力 / [設置](../mechanics/glossary.md)高打点
 
--   [![オボロ Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_6.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_6.png){ .glightbox }
-    分身の術: 攻撃を複製する忍術。
+*   **適正[間合](../mechanics/glossary.md)**: 2-3
+*   **解説**:
+    [間合](../mechanics/glossary.md)は2-3と狭いですが、[3/2]という高い打点を持ちます。[設置](../mechanics/glossary.md)からこれを発動させ、手札からの攻撃と合わせることで、1ターンに5〜6点の[ライフ](../mechanics/glossary.md)ダメージを狙うバースト・ルートの核となります。
 
--   [![オボロ Card](../assets/images/card/cards/na_05_o_n/na_05_o_n_7.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_7.png){ .glightbox }
-    生体活性: 伏せ札を自由に手札へ回収。リソースの再利用を可能にします。
+<br clear="all">
 
-</div>
+### N4 [![忍歩](../assets/images/card/cards/na_05_o_n/na_05_o_n_4.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_4.png){ .glightbox }
+
+[![忍歩](../assets/images/card/cards/na_05_o_n/na_05_o_n_4.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_4.png){ align=left width=150 }
+
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 移動 / 潜入
+
+*   **効果**: [間合](../mechanics/glossary.md)を1つ近づける。[設置](../mechanics/glossary.md)から発動可能。
+*   **解説**:
+    [再構成](../mechanics/glossary.md)時に自動的に一歩踏み込むことで、手札からの攻撃が届く理想的な位置取りを無償で確保します。
+
+<br clear="all">
+
+### N5 [![誘導](../assets/images/card/cards/na_05_o_n/na_05_o_n_5.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_5.png){ .glightbox }
+
+[![誘導](../assets/images/card/cards/na_05_o_n/na_05_o_n_5.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_5.png){ align=left width=150 }
+
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: [オーラ](../mechanics/glossary.md)奪取 / 距離制御
+
+*   **解説**:
+    相手の[オーラ](../mechanics/glossary.md)を一つ空にしながら、[間合](../mechanics/glossary.md)を近づける（あるいは遠ざける）などの操作を行います。防御を剥ぎ取りながら懐に入る、忍らしい嫌らしい移動札です。
+
+<br clear="all">
+
+### N6 [![分身の術](../assets/images/card/cards/na_05_o_n/na_05_o_n_6.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_6.png){ .glightbox }
+
+[![分身の術](../assets/images/card/cards/na_05_o_n/na_05_o_n_6.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_6.png){ align=left width=150 }
+
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: コンボ増幅 / 連続使用
+
+*   **解説**:
+    [設置](../mechanics/glossary.md)されている、あるいは捨て札にあるカードをコピーして使用します。強力な『[![影菱](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ .glightbox }』を2回放ったり、『[![鋼糸](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png){ .glightbox }』を重ねたりすることで、1ターンの火力を限界突破させます。
+
+<br clear="all">
+
+### N7 [![生体活性](../assets/images/card/cards/na_05_o_n/na_05_o_n_7.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_7.png){ .glightbox }
+
+[![生体活性](../assets/images/card/cards/na_05_o_n/na_05_o_n_7.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_7.png){ align=left width=150 }
+
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: リソース補充 / [集中力](../mechanics/glossary.md)調整
+
+*   **解説**:
+    付与札の寿命を延ばしたり、[集中力](../mechanics/glossary.md)を得たりと、コンボを成立させるための「最後の一押し」をサポートする補助札です。
+
+<br clear="all">
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## 切り札の一覧
 
-<div class="grid cards" markdown>
+### S1 壬蔓 (みかづら)
 
--   [![オボロ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_s/na_05_o_s_1.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_s/na_05_o_s_1.png){ .glightbox }
-    壬蔓: 絶え間なく溢れる殺意。高いフレア供給能力を持ち、他の切札のエンジンとなります。
+[![壬蔓](../assets/images/card/cards/na_05_o_s/na_05_o_s_1.png)](../assets/images/card/cards/na_05_o_s/na_05_o_s_1.png){ align=left width=150 }
 
--   [![オボロ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_s/na_05_o_s_2.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_s/na_05_o_s_2.png){ .glightbox }
-    鳶影: 影より出でる不意の刃。「捨札」にある通常札（行動または付与）を、切札として即時発動させます。相手の攻撃への「対応」として使うことで、本来自分のターン以外では使えないカードを割り込ませる、オボロ防御の生命線です。
+**コスト**: 2
+**種別**: 行動
 
--   [![オボロ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_s/na_05_o_s_3.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_s/na_05_o_s_3.png){ .glightbox }
-    熊介: 牙を剥く鋼の獣。
+**解説**:
+**[オボロ](index.md)の心臓。**
+消費した[フレア](../mechanics/glossary.md)を一定条件下で回収する、あるいは再利用するなどの効果により、相方の重い[切札](../mechanics/glossary.md)の使用を大幅にサポートします。このカードがあるだけで、本来撃てるはずのない回数の[切札](../mechanics/glossary.md)を乱舞させることが可能になります。
 
--   [![オボロ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_s/na_05_o_s_4.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_s/na_05_o_s_4.png){ .glightbox }
-    虚魚: 無に帰す泡沫の如く。
+<br clear="all">
 
-</div>
+### S2 鳶影 (とびかげ)
+
+[![鳶影](../assets/images/card/cards/na_05_o_s/na_05_o_s_2.png)](../assets/images/card/cards/na_05_o_s/na_05_o_s_2.png){ align=left width=150 }
+
+**コスト**: 2
+**種別**: 行動 / 対応
+
+**解説**:
+**「相手のターン中に手札を使う」という禁忌を可能にする札。**
+相手が攻撃してきた瞬間に[設置](../mechanics/glossary.md)された（あるいは手札の）[通常札](../mechanics/glossary.md)を発動させます。相手の攻撃に『[![影菱](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ .glightbox }』でカウンターして手札を破壊したり、『[![鋼糸](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png){ .glightbox }』で返り討ちにしたりと、対応の王道を行く一枚です。
+
+<br clear="all">
+
+### S3 虚魚 (うろくず)
+
+[![虚魚](../assets/images/card/cards/na_05_o_s/na_05_o_s_3.png)](../assets/images/card/cards/na_05_o_s/na_05_o_s_3.png){ align=left width=150 }
+
+**コスト**: 3
+**種別**: 行動
+
+**解説**:
+[設置](../mechanics/glossary.md)のバリューを高め、[オボロ](index.md)のコンボをより確実なものにするための補助[切札](../mechanics/glossary.md)。
+
+<br clear="all">
+
+### S4 熊介 (くますけ)
+
+[![熊介](../assets/images/card/cards/na_05_o_s/na_05_o_s_4.png)](../assets/images/card/cards/na_05_o_s/na_05_o_s_4.png){ align=left width=150 }
+
+**コスト**: 5
+**種別**: 攻撃 (究極奥義)
+
+**解説**:
+[設置](../mechanics/glossary.md)の枚数に応じて威力が跳ね上がる、[オボロ](index.md)の最終兵器。
+盤面が整った終盤、影から現れるこの一撃は、どんなに強固な[オーラ](../mechanics/glossary.md)も貫き、相手を文字通り粉砕します。
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## 戦術の核心
 
-1. 伏せ札の質: 無闇に伏せるのではなく、『鋼糸』や『影菱』など、[設置](../mechanics/index.md)効果が強力なカードを意図的に伏せ札に送り込みましょう。
-2. ステップ対応への対策: 相手が移動対応を持っている場合、[設置](../mechanics/index.md)攻撃を先に振ることで対応を強要し、本命の攻撃を通すといった揺さぶりが有効です。
-3. 『熊介』のプレッシャー: [切札](../mechanics/index.md)『十爪：熊介』は[設置](../mechanics/index.md)の数だけ威力が上がります。終盤に向けた「仕込み」を相手に見せつけることで、相手の動きを鈍らせることができます。
+### 主要アーキタイプ
+
+### 1. [設置](../mechanics/glossary.md)バーストコンボ
+**「溜めて、解き放つ。」**
+2〜3ターンかけてカードを[設置](../mechanics/glossary.md)し、一斉に発動させて一撃でゲームを終わらせるスタイル。
+
+*   **基本戦術**:
+    1. 『[![鋼糸](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png){ .glightbox }』『[![斬撃乱舞](../assets/images/card/cards/na_05_o_n/na_05_o_n_3.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_3.png){ .glightbox }』を丁寧に[設置](../mechanics/glossary.md)に回す。
+    2. [再構成](../mechanics/glossary.md)の直前のターンにさらに攻撃札を溜める。
+    3. [再構成](../mechanics/glossary.md)と手札の同時発動により、1ターンに4〜5枚の攻撃を叩き込む。
+*   **推奨パートナー**: [ユキヒ](index.md)(傘)、[ユリナ](index.md)(刀)
+
+### 2. 妨害・ハンデス忍
+**「奪い、狂わせる。」**
+[設置](../mechanics/glossary.md)『[![影菱](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ .glightbox }』を『[![分身の術](../assets/images/card/cards/na_05_o_n/na_05_o_n_6.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_6.png){ .glightbox }』や『鳶影』で繰り返し発動させ、相手にまともなプレイングを許さないコントロールスタイル。
+
+*   **基本戦術**:
+    1. 相手のターンの要所で『[![影菱](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ .glightbox }』を発動させる。
+    2. 相手の手札を破壊し続け、テンポを奪う。
+*   **推奨パートナー**: [トコヨ](index.md)(扇)、[サイネ](index.md)(薙)
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## おすすめの組み合わせ
 
-### [ユキヒ](06_yukihi.md)（月影旋風）
-【月影旋風】（忍傘）は、リソースの回転と奇襲性を極めた構成です。[オボロ](05_oboro.md)の『[壬蔓](cards.md#壬蔓)』でフレアを供給し、ユキヒが『[はらりゆき](cards.md#はらりゆき)』を再起させて連続攻撃を行う「みかはらりクロック」が主力となります。『[鳶影](cards.md#鳶影)』からユキヒの移動札を使い、間合を自在に操る立ち回りが強力です。
+### [ユキヒ](06_yukihi.md) (忍傘)
+**「通称：みかはらり」**
+[設置](../mechanics/glossary.md)と[開閉](../mechanics/glossary.md)のシナジー。[設置](../mechanics/glossary.md)札で相手の[オーラ](../mechanics/glossary.md)を剥がし、無防備なところに[ユキヒ](index.md)の『ゆらりび』を叩き込む黄金コンボ。
+→ [詳細な攻略（忍傘）](../pairs/index.md#oboro-yukihi)
 
-### [ユリナ](01_yurina.md)（旋風バースト）
-【旋風バースト】（刀忍）は、予測不能なタイミングで放たれる高火力が武器です。[オボロ](05_oboro.md)の『[鳶影](cards.md#鳶影)』を介して、ユリナの『[斬](cards.md#斬)』や『[一閃](cards.md#一閃)』を相手のターンの隙間に叩き込みます。『[鋼糸](cards.md#鋼糸)』などの[設置](../mechanics/index.md)攻撃と合わせることで、相手のオーラを瞬時に剥ぎ取ることが可能です。
+### [ユリナ](01_yurina.md) (刀忍)
+**「旋風バースト」**
+[ユリナ](index.md)の高打点攻撃と、[オボロ](index.md)の[設置](../mechanics/glossary.md)連撃を組み合わせたゴリ押し構成。1ターンで10点近いダメージを出すことも夢ではありません。
+→ [詳細な攻略（刀忍）](../pairs/index.md#yurina-oboro)
 
-!!! warning "間合のミスマッチ"
-    『鳶影』でユリナの攻撃札を使用する場合、その時点での間合がユリナの適正距離（通常3-4）を満たしている必要があります。相手の接近・離脱に合わせた「鳶影一閃」などは強力ですが、間合がずれると不発になるため注意が必要です。
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
+## 戦術の核心
 
-### [ライラ](12_laila.md)（連火暴風）
-【連火暴風】（忍爪）は、手数による圧倒的なバースト性能を誇ります。『[設置](cards.md#オボロ-通常札)』を駆使して1ターンのカード使用枚数を稼ぐことで、ライラの『[風雷撃](cards.md#風雷撃)』のゲージを高速で蓄積します。オボロの『[影菱](cards.md#影菱)』で対応札を枯らし、確実にライラの高火力攻撃を通す動きが勝利を決定づけます。
+!!! caution "[設置](../mechanics/glossary.md)の「読み合い」"
+    [設置](../mechanics/glossary.md)されたカードは相手にも「何かが伏せられている」ことがバレています。
+    熟練の相手は、[再構成](../mechanics/glossary.md)のタイミング（[設置](../mechanics/glossary.md)発動の瞬間）に合わせて防御[切札](../mechanics/glossary.md)を構えてきます。
+    **あえて攻撃札ではなく「移動」や「強化」を[設置](../mechanics/glossary.md)しておく、あるいは[再構成](../mechanics/glossary.md)を遅らせるなど、発動タイミングを意図的にズラす柔軟な思考が必要です。**
 
-### [チカゲ](09_chikage.md)（神速暗殺毒）
-【神速暗殺毒】（忍毒）は、相手の自由を奪い去ることに特化しています。オボロの『[影菱](cards.md#影菱)』とチカゲの『[毒針](cards.md#毒針)』による連続手札破壊は、相手の反撃の芽を完全に摘み取ります。対応不可の状態を作り出し、チカゲの『[首切り](cards.md#首切り)』やオボロの『[設置](cards.md#オボロ-通常札)』攻撃で確実にライフを削ります。
+!!! tip "「壬蔓」こそが[オボロ](index.md)の真の力"
+    派手な[設置](../mechanics/glossary.md)攻撃に目が行きがちですが、[オボロ](index.md)の本当の強さは『壬蔓』によるリソース支援にあります。
+    相方の[切札](../mechanics/glossary.md)を1試合に2回、3回と撃たせることで、[オボロ](index.md)単体では出せない火力を間接的に生み出すのが、賢い忍の戦い方です。

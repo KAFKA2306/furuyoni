@@ -1,86 +1,70 @@
-# ユリナ
+# [ユリナ](index.md)
 
-<div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+<div class="megami-hud" style="display: grid; grid-template-columns: 100px 1fr; gap: 20px; background: rgba(0,0,0,0.05); padding: 20px; border-radius: 10px; border-left: 5px solid #d32f2f;">
   <img src="../assets/images/chara/ico-01.png" width="100">
-  <div class="megami-meta">
-    - 権能: 刀
-    - 難易度: ★☆☆☆☆
-    - 得意[間合](../mechanics/index.md): 3-4
+  <div class="hud-content">
+    <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">【刀】[ユリナ](01_yurina.md) / Season 10</div>
+    <div style="display: flex; gap: 15px; font-size: 0.9em;">
+      <span>難易度: ★☆☆☆☆</span>
+      <span>[間合](../mechanics/glossary.md#range): 3-4</span>
+      <span>タイプ: ビートダウン</span>
+      <span style="color: #d32f2f; font-weight: bold;">S10 Meta: Tier 1 (Center)</span>
+    </div>
   </div>
 </div>
 
-## 本質的な解説
+## S10 環境分析
+```mermaid
+graph LR
+    A[アキナ弱体化] --> B(リソース確保の容易化)
+    C[大型切札復権] --> D(月影落の圧倒的リーサル)
+    B --> E[ユリナの安定性向上]
+    D --> E
+```
 
-[ユリナ](index.md)の本質は「[ライフ](../mechanics/index.md)をリソースとして攻撃力に変換する」ことにあります。
+> [!CAUTION]
+> **初心者が陥る致命的な罠**
+> - **無計画な[決死](../mechanics/glossary.md)**: [ライフ](../mechanics/glossary.md#life)3は敵のキルゾーン。対応札（浦波嵐・浮舟宿）が手元にない状態での[決死](../mechanics/glossary.md#resolute)入りは敗北。
+> - **[フレア](../mechanics/glossary.md#flare)の浪費**: 『月影落』(7)の圧力を失うことは、[ユリナ](01_yurina.md)の勝率を50%捨てることに等しい。
 
-彼女の真価は、自身の[ライフ](../mechanics/index.md)が3以下になった時に発動する「[決死](../mechanics/index.md)」状態に集約されます。[決死](../mechanics/index.md)状態では、[通常札](../mechanics/index.md)・[切札](../mechanics/index.md)ともに劇的に強化され、相手の[オーラ](../mechanics/index.md)ダメージを強化して防御を崩したり、[ライフ](../mechanics/index.md)に致命傷を与えたりすることが可能になります。
+## 戦略的タイムライン
 
-初心者のうちは、単に[間合](../mechanics/index.md)3-4で攻撃を振るだけでも強力ですが、上級者になるほど「どのタイミングでわざと[ライフ](../mechanics/index.md)で受けて[決死](../mechanics/index.md)（ライフ3以下）に入るか」という駆け引きが重要になります。
+### Phase 1: 開幕 (Turn 1-2)
+- **目的**: [フレア](../mechanics/glossary.md)の種を蒔き、[間合](../mechanics/glossary.md)3-4へ潜り込む。
+- **推奨挙動**: 
+    - [宿し](../mechanics/glossary.md#yadoshi) > [前進](../mechanics/glossary.md#advance)
+    - 相手の[2/1]攻撃を[ライフ](../mechanics/glossary.md)で受け、[フレア](../mechanics/glossary.md)転換。
 
-## キーワード能力: 決死
+### Phase 2: 中盤 (Turn 3-5)
+- **目的**: 相手の[オーラ](../mechanics/glossary.md)を『[![斬](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png){ .glightbox }』『[![圧気](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png){ .glightbox }』で剥がし、[ライフ](../mechanics/glossary.md)4-5へ追い込む。
+- **決戦準備**: [ライフ](../mechanics/glossary.md)4付近で[集中力](../mechanics/glossary.md)2を維持し、いつでも[決死](../mechanics/glossary.md)からリーサルを狙える構えを取る。
 
-あなたの[ライフ](../mechanics/index.md)が3以下である間、あなたは「[決死](../mechanics/index.md)」状態になります。
+### Phase 3: 終盤 (リーサル)
+- **目的**: 『月影落』または『天音揺波の底力』による強制決着。
+- **コンボ**: `足捌き(3→2) > 居合[決死] (4/3) > 月影落 (8/4)` - 合計[ライフ](../mechanics/glossary.md#life)貫通力絶大。
 
-多くの攻撃カードが「[決死](../mechanics/index.md)：+1/+1」や追加効果を得るため、終盤の爆発力は全メガミ中トップクラスです。相手からすれば「不用意に[ライフ](../mechanics/index.md)を削ると、次のターンに即死圏内に入る」というプレッシャーを常に与え続けることができます。
+## [通常札](../mechanics/glossary.md)性能マトリクス
 
-## 通常札の一覧
+| カード名 | 主な[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox } | 通常時 | [決死](../mechanics/glossary.md)時 | S10 特記事項 |
+| :[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox } | :[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox } | :[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }: | :[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }: | :[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox } |
+| **[![斬](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png){ .glightbox }** | 主力削り | 3/1 | 3/2 | 基本性能の高さ。 |
+| **[![一閃](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png){ .glightbox }** | [ライフ](../mechanics/glossary.md#life)奪取 | 2/2 | 3/3 | **リーサルパーツ**。 |
+| **[![柄打ち](../assets/images/card/cards/na_01_o_n/na_01_o_n_3.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_3.png){ .glightbox }** | 妨害/加速 | 1/1 | 1/1 | **S10: ヒット時集中+1** |
+| **[![居合](../assets/images/card/cards/na_01_o_n/na_01_o_n_4.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_4.png){ .glightbox }** | 防御粉砕 | 3/2 | 4/3 | [![足捌き](../assets/images/card/cards/na_01_o_n/na_01_o_n_5.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_5.png){ .glightbox }とのコンボ推奨。 |
+| **[![足捌き](../assets/images/card/cards/na_01_o_n/na_01_o_n_5.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_5.png){ .glightbox }** | 位置調整 | 移動 | 移動 | **3→2の潜り込み**に必須。 |
+| **[![気炎万丈](../assets/images/card/cards/na_01_o_n/na_01_o_n_6.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_6.png){ .glightbox }**| 火力バフ | 強化 | 強化 | 月影落の対応不可領域を拡大。 |
+| **[![圧気](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png){ .glightbox }** | リソース破壊 | 納 | 納 | 相手の[オーラ](../mechanics/glossary.md#aura)管理を瓦解させる。 |
 
-<div class="grid cards" markdown>
+## [切札](../mechanics/glossary.md)：必殺の定義
 
--   [![ユリナ Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png){ .glightbox }
-    斬: [決死](../mechanics/index.md)で2/2になる主力。
+| 名称 | コスト | 種別 | 解説 |
+| :[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox } | :[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }: | :[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox } | :[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox } |
+| **月影落** | 7 | 攻撃 | **フィニッシャー**。対応の有無、[ライフ](../mechanics/glossary.md#life)/[オーラ](../mechanics/glossary.md#aura)の択を強要する。 |
+| **浦波嵐** | 3 | 対応 | **生命線**。[決死](../mechanics/glossary.md#resolute)状態を安全に通過するためのクッション。 |
+| **浮舟宿** | 2 | 行動 | **リソース補給**。[ダスト](../mechanics/glossary.md#dust)から[オーラ](../mechanics/glossary.md#aura)を増強し、判定勝ちへの導線。 |
+| **底力** | 5 | 攻撃 | **逆転札**。最大[5/5]以上の[ライフ](../mechanics/glossary.md#life)ダメージを吐き出す。 |
 
--   [![ユリナ Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png){ .glightbox }
-    一閃: [オーラ](../mechanics/index.md)を無視して致命傷。
-
--   [![ユリナ Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_3.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_3.png){ .glightbox }
-    柄打ち: [宿し](../mechanics/index.md)で次ターンを準備。
-
--   [![ユリナ Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_4.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_4.png){ .glightbox }
-    居合: [決死](../mechanics/index.md)なら4/2の破壊力。
-
--   [![ユリナ Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_5.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_5.png){ .glightbox }
-    足捌き: 得意[間合](../mechanics/index.md)への帰還。
-
--   [![ユリナ Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_6.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_6.png){ .glightbox }
-    気炎万丈: [切札](../mechanics/index.md)への布石。
-
--   [![ユリナ Card](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_7.png){ .glightbox }
-    圧気: [ライフ](../mechanics/index.md)ダメージへの誘導。
-
-</div>
-
-## 切り札の一覧
-
-<div class="grid cards" markdown>
-
--   [![ユリナ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_s/na_01_o_s_1.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_s/na_01_o_s_1.png){ .glightbox }
-    月影落: 全メガミ最強のフィニッシャー。威力は絶大ですが、消費フレア(7)が重いため管理が重要です。
-
--   [![ユリナ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_s/na_01_o_s_2.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_s/na_01_o_s_2.png){ .glightbox }
-    浦波嵐: 攻防一体の衝撃波。
-
--   [![ユリナ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_s/na_01_o_s_3.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_s/na_01_o_s_3.png){ .glightbox }
-    浮舟宿: 移動と纏いの万能札。
-
--   [![ユリナ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_s/na_01_o_s_4.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_01_o_s/na_01_o_s_4.png){ .glightbox }
-    天音揺波の底力: ライフ差で威力が増す、逆転の超攻撃。
-
-</div>
-
-## 戦術の核心
-
-1. 基本は[前進](../mechanics/index.md): [間合](../mechanics/index.md)3-4が主戦場です。[宿し](../mechanics/index.md)と[前進](../mechanics/index.md)を繰り返し、相手に背中を見せないようにしましょう。
-2. [オーラ](../mechanics/index.md)を枯らす: 『斬』や『柄打ち』で相手の[オーラ](../mechanics/index.md)を常に2以下に保つように動くと、『一閃』などの[ライフ](../mechanics/index.md)攻撃が通りやすくなります。
-3. [決死](../mechanics/index.md)の見極め: [ライフ](../mechanics/index.md)4で耐えるか、あえて[ライフ](../mechanics/index.md)3になって『[決死](../mechanics/index.md)』のバフを受けるかの判断が勝敗を分けます。[切札](../mechanics/index.md)『月影落』を構えているなら、積極的に[決死](../mechanics/index.md)を狙いましょう。
-
-## おすすめの組み合わせ
-
-### [サイネ](02_saine.md)（王道ビートダウン）
-【王道ビートダウン】（刀薙）として、全メガミ中屈指の安定感を誇ります。ユリナの近距離火力とサイネの中距離火力が補完し合い、逃げ場のない波状攻撃を仕掛けます。最大打点を誇る『[月影落](cards.md#月影落)』を確実に通すために、サイネの『[八方振り](cards.md#八方振り)』や『[律動弧戟](cards.md#律動弧戟)』でオーラを削り取る動きが基本戦術となります。
-
-### [オボロ](05_oboro.md)（旋風バースト）
-【旋風バースト】（刀忍）は、近距離での爆発力が魅力です。伏せ札からカードを発動させる[オボロ](05_oboro.md)の『[設置](cards.md#オボロ-通常札)』を絡めることで、ユリナの『[斬](cards.md#斬)』や『[一閃](cards.md#一閃)』と合わせて1ターンに爆発的なダメージを叩き込みます。『[鳶影](cards.md#鳶影)』を使用して相手のターンにユリナの攻撃札を叩き込む奇襲も極めて強力です。
-
-### [トコヨ](04_tokoyo.md)（守護刀）
-【守護刀】（刀扇）は、攻防のバランスに優れたペアです。相手の攻撃を打ち消す『[雅打ち](cards.md#雅打ち)』で守りつつ、ユリナが[決死](../mechanics/index.md)に入るまで安全に時間を稼ぎます。要となるのは『[要返し](cards.md#要返し)』による強力な攻撃札の再利用と、隙を見て叩き込まれる『[月影落](cards.md#月影落)』による一撃必殺です。
+## アンチメガミ・相性
+- **得意**: 防御が薄い、または低速なメガミ（[サイネ](02_saine.md)などとの中距離戦）。
+- **苦手**: 遠距離を維持し続ける「レンジロック」（[ハツミ](index.md)・[サリヤ](index.md)）。
+- **対策**: 『[![足捌き](../assets/images/card/cards/na_01_o_n/na_01_o_n_5.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_5.png){ .glightbox }』を全力で回し、1回のチャンスで『月影落』を叩き込む「ワンチャンス」戦術へ移行せよ。

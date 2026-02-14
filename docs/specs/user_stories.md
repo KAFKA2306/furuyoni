@@ -17,7 +17,7 @@
     *   Maintains the application.
     *   Wants the code to be clean, modular, and easy to update as new seasons/expansions are released.
 
----
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## Epics & Stories
 

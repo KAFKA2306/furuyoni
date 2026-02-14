@@ -7,17 +7,12 @@ theme:
   language: ja
   palette:
     - scheme: slate
-      primary: indigo
-      accent: amber
+      primary: black
+      accent: pink
       toggle:
-        icon: material/brightness-4
-        name: ライトモードに切替
-    - scheme: default
-      primary: indigo
-      accent: amber
-      toggle:
-        icon: material/brightness-7
-        name: ダークモードに切替
+        icon: material/weather-night
+        name: 闇夜に還る
+
   icon:
     repo: fontawesome/brands/github
   features:
@@ -35,6 +30,8 @@ theme:
   font:
     text: Noto Sans JP
     code: Roboto Mono
+    headings: Shippori Mincho
+
 
 repo_url: https://github.com/kafka2306/furuyoni
 repo_name: kafka2306/furuyoni
@@ -42,11 +39,18 @@ edit_uri: edit/main/docs/
 
 nav:
   - ホーム: index.md
-  - 世界観: lore/index.md
+  - 世界観:
+      - 概要: lore/index.md
+      - 物語の要約: lore/story_summary.md
   - ルール:
     - 基本ルール: mechanics/index.md
+    - 基礎知識: mechanics/foundations.md
     - ゲームの流れ: mechanics/flow.md
     - よくある質問: mechanics/faq.md
+    - 用語集: mechanics/glossary.md
+  - 初心者向け:
+    - 入門カリキュラム: beginner/curriculum.md
+    - 動画リソース: guide/video_resources.md
   - メガミ:
     - 概要: megami/index.md
     - 個別詳細:
@@ -67,8 +71,12 @@ nav:
       - コルヌ: megami/15_korunu.md
       - ヤツハ: megami/16_yatsuha.md
     - カード: megami/cards.md
+  - ペア攻略:
+    - ペア一覧: pairs/index.md
   - 戦略ガイド:
-    - 中級者向け: strategy/index.md
+    - 概要: strategy/index.md
+    - ゲームプラン: strategy/game_plan.md
+    - メタゲーム分析: strategy/meta.md
 
   - 歴史資料:
     - シーズン1: history/season1.md
@@ -81,11 +89,6 @@ nav:
     - シーズン8: history/season8.md
     - シーズン9: history/season9.md
     - シーズン10: history/season10.md
-  - ペア攻略:
-    - ペア一覧: pairs/index.md
-  - 初心者向け:
-    - 入門カリキュラム: beginner/curriculum.md
-    - 動画リソース: guide/video_resources.md
   - ミニゲーム:
     - 詰めふるよに: minigames/solo.md
   - コミュニティ:
@@ -125,8 +128,14 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 
+extra_javascript:
+  - assets/immersive.js
+
 extra_css:
   - assets/custom.css
+
+  - assets/furuyoni_style.css
+
 
 extra:
   social:

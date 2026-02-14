@@ -15,7 +15,7 @@
 ### [ikariのふるよにミニシアター](https://www.youtube.com/results?search_query=ikariのふるよにミニシアター)
 ブログ「ikariのふるよに図書館」と連動した解説動画が魅力です。
 - **ふるよにを遊ぶ前講座**: ゲームを始める前に知っておきたい基礎知識や、製品の選び方などが解説されています。
-- **戦術紹介**: 特定の組み合わせ（三拾一捨）における考え方など、中級者へのステップアップに役立つ内容が豊富です。
+- **戦術紹介**: 特定の組み合わせ（[三拾一捨](../mechanics/glossary.md)）における考え方など、中級者へのステップアップに役立つ内容が豊富です。
 
 ### [素の人（しろのーと）](https://www.youtube.com/results?search_query=素の人+ふるよに)
 - **初心者向け解説**: 丁寧な口調で、基本ルールから細かい処理までを解説しています。
@@ -31,7 +31,7 @@
 YouTubeで動画を探す際は、以下のキーワードを組み合わせると目的の動画が見つかりやすいです。
 
 | 目的 | 推奨検索ワード | 備考 |
-| :--- | :--- | :--- |
+| :[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox } | :[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox } | :[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox } |
 | **最新の対戦を見たい** | `ふるよに S10` (現在のシーズン番号) | シーズンごとのカード修正に注意 |
 | **大会の様子を見たい** | `ふるよに 大会` `ふるよに 決勝` | 公式・公認大会のハイレベルな試合 |
 | **特定のメガミを学ぶ** | `ふるよに ユリナ` `ふるよに サイネ` | メガミ名で検索 |

@@ -3,7 +3,7 @@
 > 日付: 2026-02-08  
 > 目的: 現行HTMLアプリからMkDocsベースの静的ドキュメントサイトへ移行
 
----
+[![---](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## 背景と理由
 
@@ -20,13 +20,13 @@
 - 目次・ナビ自動生成 - 手動管理不要
 - GitHub Pages対応 - 現行と同じホスティング
 
----
+[![---](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## 移行対象ファイル
 
 ### 既存コンテンツ（そのまま移行）
 | ファイル | 移行先 | 内容 |
-|:---|:---|:---|
+|:[![---](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }|:[![---](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }|:[![---](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }|
 | `docs/info/00_overview.md` | `docs/overview.md` | ゲーム概要 |
 | `docs/info/01_mechanics.md` | `docs/mechanics.md` | ルール・メカニクス |
 | `docs/info/02_megami_roster.md` | `docs/megami/index.md` | メガミ一覧 |
@@ -37,7 +37,7 @@
 
 ### HTMLから変換が必要
 | ファイル | 対応 |
-|:---|:---|
+|:[![---](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }|:[![---](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }|
 | `docs/info/cards.html` | → Markdown化（画像ギャラリー形式） |
 | `docs/info/chara.html` | → Markdown化（テーブル形式） |
 
@@ -46,7 +46,7 @@
 - `main.js`, `story.js`, `megami.js`, `mechanics.js` - MkDocsで不要
 - `style.css` - Material テーマで代替
 
----
+[![---](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## 新しいディレクトリ構造
 
@@ -75,7 +75,7 @@ furuyoni/
 └── site/                      # ビルド出力（GitHub Pagesへデプロイ）
 ```
 
----
+[![---](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## MkDocs設定 (`mkdocs.yml`)
 
@@ -147,7 +147,7 @@ extra:
       link: https://github.com/kafka/furuyoni
 ```
 
----
+[![---](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## 実装ステップ
 
@@ -176,7 +176,7 @@ extra:
 - [x] README更新
 - [x] `.gitignore` に `site/` 追加
 
----
+[![---](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## 旧資産の保存
 
@@ -185,7 +185,7 @@ extra:
 - `story.js` → `archive/story.js`
 - `style.css` → `archive/style.css`
 
----
+[![---](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## 検証項目
 
@@ -195,17 +195,17 @@ extra:
 - [x] モバイル表示が崩れない
 - [x] GitHub Pages でデプロイ後アクセス可能
 
----
+[![---](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## リスクと対策
 
 | リスク | 対策 |
-|:---|:---|
+|:[![---](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }|:[![---](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }|
 | 画像URLが壊れる | 移行前に全画像URLを検証 |
 | 検索が日本語非対応 | `lunr[ja]` プラグイン追加 |
 | カスタムデザイン喪失 | Material テーマ + `extra.css` で補完 |
 
----
+[![---](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## 完了条件
 

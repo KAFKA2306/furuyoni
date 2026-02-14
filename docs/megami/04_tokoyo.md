@@ -1,81 +1,229 @@
-# トコヨ
+# [トコヨ](index.md)
 
 <div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="../assets/images/chara/ico-04.png" width="100">
   <div class="megami-meta">
-    - 権能: 扇
-    - 難易度: ★★★☆☆
-    - 得意[間合](../mechanics/index.md): 2-4
+    <ul>
+      <li><strong>権能</strong>: 扇 (Fan)</li>
+      <li><strong>難易度</strong>: ★★★☆☆</li>
+      <li><strong>得意[間合](../mechanics/glossary.md)</strong>: 2-4</li>
+    </ul>
   </div>
 </div>
 
+!!! info "優雅に舞い、静寂で圧する扇の舞奏"
+    シーズン10の低速化した環境において、彼女の「判定勝ち」をも視野に入れた防御性能は、多くのプレイヤーに絶望を与えています。
+
+## 物語の起源：[トコヨ](index.md)
+
+> 「悠久の時は、舞の中に。静寂こそが、最も美しき音色なのです」
+
+[トコヨ](index.md)は、永遠と優雅さを司る「扇」のメガミです。
+彼女の起源は、古の時代から受け継がれてきた「舞」と、万物の理を静かに見守る超越者の視点にあります。彼女にとって決闘とは暴力の応酬ではなく、洗練された芸術の表現に他なりません。
+物語では、常に冷静沈着、かつ慈愛に満ちた（時に食えない）助言者として描かれます。彼女が振るう扇は、荒ぶる運命を優しくいなし、永劫の静寂へと誘います。
+「[境地](../mechanics/index.md)」という力は、彼女が舞を通じて世界の調和と一体化し、あらゆる災厄（攻撃）を無へと帰す究極の精神性を象徴しています。
+
+## キーワード能力: [境地](../mechanics/glossary.md) (Kyochi)
+
+[トコヨ](index.md)の強さは、その精神の集中具合に比例します。
+
+*   **[境地](../mechanics/glossary.md)の条件**: 自分の[集中力](../mechanics/glossary.md)が**2**の時に発動します。
+*   **効果の性質**: [通常札](../mechanics/glossary.md)の多くに「打ち消し」「リソース回復」「追加ドロー」などの強力なバフが付与されます。
+*   **戦略的意味**: 常に[集中力](../mechanics/glossary.md)2を維持し続ける「[境地](../mechanics/glossary.md)維持」が[トコヨ](index.md)の基本姿勢です。[基本動作](../mechanics/glossary.md)を最小限に抑え、カード効果や[集中力](../mechanics/glossary.md)で盤面を操作することで、常に最強の状態をキープします。
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+
 ## 本質的な解説
 
-[トコヨ](index.md)の本質は「リソースの静止による完全な対話拒否」にあります。
+シーズン10（大[切札](../mechanics/glossary.md)時代）において、[トコヨ](index.md)は「最強の盾」として再定義されています。
 
-彼女は自分から激しい攻撃を仕掛けるタイプではありません。むしろ、「[集中力](../mechanics/index.md)」というリソースを常に最大に保つことで、相手のあらゆる攻撃を無効化、あるいは最小限に抑え込み、相手が疲弊したところを美雅に仕留めるスタイルを得意とします。
+*   **大[切札](../mechanics/glossary.md)への回答**: [ユリナ](index.md)の『月影落』などの大型[切札](../mechanics/glossary.md)に対し、[トコヨ](index.md)の『久遠ノ花』や強化された『[![雅打ち](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png){ .glightbox }』は、数少ない確実な対抗手段となります。
+*   **時間切れと判定勝ち**: 環境が低速化したことで、[ライフ](../mechanics/glossary.md)を10点削り切るのではなく、リソース差をつけて有利な状況で試合終了（時間切れ）を迎える、テクニカルな勝利プランが有効になっています。
 
-相手の山札を枯らし、[再構成](../mechanics/flow.md)ダメージだけで勝つことも珍しくない、究極のコントロールメガミです。
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
-## キーワード能力: 境地
+## [通常札](../mechanics/glossary.md)の一覧
 
-多くの対応札が「[集中力](../mechanics/index.md)が最大の2である状態（[境地](../mechanics/index.md)）」で真価を発揮し、『雅打ち』による攻撃の打ち消しや、『梳流し』による回避困難なダメージを突きつけます。相手にターンを渡す際に「[集中力](../mechanics/index.md)は2であるか？」を常に自問自答する必要があります。
+### N1 [![梳流し](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png){ .glightbox }
 
-## 通常札の一覧
+[![梳流し](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png){ align=left width=150 }
 
-<div class="grid cards" markdown>
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 削り / 必中攻撃
 
--   [![トコヨ Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png){ .glightbox }
-    梳流し: [境地](../mechanics/index.md)なら相手の山札を棄札に送る。これにより再構成を早め、間接的にライフを削ります。
+*   **適正[間合](../mechanics/glossary.md)**: 1-10
+*   **ダメージ**: [3/1]
+*   **解説**:
+    [間合](../mechanics/glossary.md)を選ばず放てる[トコヨ](index.md)の基幹攻撃。[オーラ](../mechanics/glossary.md)ダメージが3と高いため、相手は[オーラ](../mechanics/glossary.md)で受けるのを嫌がります。対応カードで防がれにくい性質を持つ場合が多く、確実に[ライフ](../mechanics/glossary.md)1点を刻むために重宝します。
 
--   [![トコヨ Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png){ .glightbox }
-    雅打ち: [境地](../mechanics/index.md)で攻撃を打ち消す。
+<br clear="all">
 
--   [![トコヨ Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_3.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_3.png){ .glightbox }
-    跳ね兎: 至近距離への侵入。
+### N2 [![雅打ち](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png){ .glightbox }
 
--   [![トコヨ Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_4.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_4.png){ .glightbox }
-    詩舞: 優雅に距離を取る。
+[![雅打ち](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png){ align=left width=150 }
 
--   [![トコヨ Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_5.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_5.png){ .glightbox }
-    要返し: 棄札のカードを山札の底に戻す、デッキ再生産の要。
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 防御 / 対応の核
 
--   [![トコヨ Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png){ .glightbox }
-    風舞台: 相手を吹き飛ばす。
+*   **適正[間合](../mechanics/glossary.md)**: 2-4
+*   **通常時**: [2/1]
+*   **[境地](../mechanics/glossary.md)時**: 【対応】相手の攻撃を回避、または無効化。
+*   **解説**:
+    [境地](../mechanics/glossary.md)状態で真価を発揮する、[トコヨ](index.md)最強の[通常札](../mechanics/glossary.md)。相手の強力な[通常札](../mechanics/glossary.md)攻撃をこの一枚で「なかったこと」にできます。これを構えているだけで、相手は安易なメイン火力を振ることができなくなります。
 
--   [![トコヨ Card](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png){ .glightbox }
-    晴舞台: [境地](../mechanics/index.md)への到達。
+<br clear="all">
 
-</div>
+### N3 [![跳ね兎](../assets/images/card/cards/na_04_o_n/na_04_o_n_3.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_3.png){ .glightbox }
+
+[![跳ね兎](../assets/images/card/cards/na_04_o_n/na_04_o_n_3.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_3.png){ align=left width=150 }
+
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 移動 / リソース調整
+
+*   **解説**:
+    [前進](../mechanics/index.md)・[後退](../mechanics/index.md)を使い分け、理想的な[間合](../mechanics/glossary.md)2-4を維持するための札。[境地](../mechanics/glossary.md)状態であればさらに効率が上がります。
+
+<br clear="all">
+
+### N4 [![詩舞](../assets/images/card/cards/na_04_o_n/na_04_o_n_4.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_4.png){ .glightbox }
+
+[![詩舞](../assets/images/card/cards/na_04_o_n/na_04_o_n_4.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_4.png){ align=left width=150 }
+
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 回復 / [オーラ](../mechanics/glossary.md)維持
+
+*   **通常時**: [オーラ](../mechanics/glossary.md)を1回復（[纏い](../mechanics/index.md)）。
+*   **[境地](../mechanics/glossary.md)時**: [オーラ](../mechanics/glossary.md)をさらに回復、あるいは追加効果。
+*   **解説**:
+    ダメージレースで優位に立つための回復札。「削っても削っても[オーラ](../mechanics/glossary.md)が減らない」[トコヨ](index.md)の絶望感の源泉です。
+
+<br clear="all">
+
+### N5 [![要返し](../assets/images/card/cards/na_04_o_n/na_04_o_n_5.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_5.png){ .glightbox }
+
+[![要返し](../assets/images/card/cards/na_04_o_n/na_04_o_n_5.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_5.png){ align=left width=150 }
+
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 再利用 / デッキ構築
+
+*   **解説**:
+    捨て札や伏せ札にある強力なカードを山札の底に戻します。これにより、[トコヨ](index.md)は『[![梳流し](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png){ .glightbox }』や『[![雅打ち](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png){ .glightbox }』といったキーカードを他のメガミより頻繁に使用することが可能です。
+
+<br clear="all">
+
+### N6 [![風舞台](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png){ .glightbox } / N7 [![晴舞台](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png){ .glightbox }
+
+[![風舞台](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png){ align=left width=150 }
+[![晴舞台](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png){ align=right width=150 }
+
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: [間合](../mechanics/glossary.md)管理 / エンチャント
+
+*   **解説**:
+    相手を近づけさせない（[![晴舞台](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png){ .glightbox }）、あるいは[間合](../mechanics/glossary.md)に留まらせる（[![風舞台](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png){ .glightbox }）ための付与札。相手のやりたいプレイングを強制的に否定し、[トコヨ](index.md)の土俵で戦わせるためのツールです。
+
+<br clear="all">
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## 切り札の一覧
 
-<div class="grid cards" markdown>
+### S1 久遠ノ花
 
--   [![トコヨ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_s/na_04_o_s_1.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_s/na_04_o_s_1.png){ .glightbox }
-    久遠ノ花: 2/2以下の攻撃を無効化する、歴史に刻まれる絶対防御。
+[![久遠ノ花](../assets/images/card/cards/na_04_o_s/na_04_o_s_1.png)](../assets/images/card/cards/na_04_o_s/na_04_o_s_1.png){ align=left width=150 }
 
--   [![トコヨ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_s/na_04_o_s_2.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_s/na_04_o_s_2.png){ .glightbox }
-    千歳ノ鳥: 悠久を越えて巡る調べ。
+**コスト**: 5
+**種別**: 攻撃 / 対応
 
--   [![トコヨ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_s/na_04_o_s_3.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_s/na_04_o_s_3.png){ .glightbox }
-    無窮ノ風: 永劫に吹き荒れる扇風。
+**解説**:
+**『ふるよに』最強の防御[切札](../mechanics/glossary.md)。**
+[2/1]の攻撃として機能しながら、相手の攻撃を無効化し、さらに自分の[ライフ](../mechanics/glossary.md)を回復する（あるいは相手の[ライフ](../mechanics/glossary.md)を削る）など、一瞬で3〜4点の[ライフ](../mechanics/glossary.md)アドバンテージをひっくり返します。このカードの存在自体が「[ユリナ](index.md)の月影落に対する解答」であり、[トコヨ](index.md)を相手にする際は常にこの花の[開花](../mechanics/glossary.md)を警戒しなければなりません。
 
--   [![トコヨ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_s/na_04_o_s_4.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_04_o_s/na_04_o_s_4.png){ .glightbox }
-    常世ノ月: 静寂に満ちる夜の理。
+<br clear="all">
 
-</div>
+### S2 千歳ノ鳥
+
+[![千歳ノ鳥](../assets/images/card/cards/na_04_o_s/na_04_o_s_2.png)](../assets/images/card/cards/na_04_o_s/na_04_o_s_2.png){ align=left width=150 }
+
+**コスト**: 2
+**種別**: 行動
+
+**解説**:
+低コストで山札を操作し、必要なカードを引き込むための札。
+安定性を重視する[トコヨ](index.md)にとって、事故を防ぐための重要な保険となります。
+
+<br clear="all">
+
+### S3 無窮ノ風
+
+[![無窮ノ風](../assets/images/card/cards/na_04_o_s/na_04_o_s_3.png)](../assets/images/card/cards/na_04_o_s/na_04_o_s_3.png){ align=left width=150 }
+
+**コスト**: 3
+**種別**: 行動
+
+**解説**:
+相手の手札をランダムに捨てさせる、凶悪なハンデス（手札破壊）札。
+コンボデッキを完封するための鍵であり、相手が「次のターンに仕掛けよう」と溜め込んだパーツをゴミ箱へ送り込みます。
+
+<br clear="all">
+
+### S4 常世ノ月
+
+[![常世ノ月](../assets/images/card/cards/na_04_o_s/na_04_o_s_4.png)](../assets/images/card/cards/na_04_o_s/na_04_o_s_4.png){ align=left width=150 }
+
+**コスト**: 4
+**種別**: 攻撃 (終焉)
+
+**解説**:
+静かに、しかし確実に勝利を決定づける[トコヨ](index.md)の最後の一撃。
+判定勝ちを狙う際の「[ライフ](../mechanics/glossary.md)差」を決定づけるための非常に高い確実性を持ちます。
+
+<br clear="all">
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## 戦術の核心
 
-1. [集中力](../mechanics/index.md)2の維持: 基本的に自分のターンでは「[集中力](../mechanics/index.md)を使わず」に終えるのが[トコヨ](index.md)の基本姿勢です。『晴舞台』などを活用し、常に満タンで待ち構えましょう。
-2. [間合](../mechanics/index.md)2以下への潜入: 相手が攻撃しにくい至近距離まで『跳ね兎』で潜り込み、相手のプランを瓦解させます。
-3. 焦らさず削る: 『梳流し』の追撃ダメージは、相手の山札が少ないほど致命的になります。[再構成](../mechanics/flow.md)を強制させることで、[ライフ](../mechanics/index.md)を間接的に削り取りましょう。
+### 主要アーキタイプ
+
+### 1. 鉄壁判定勝ち (コントロールプラン)
+**「踊り、耐え、勝つ。」**
+[ライフ](../mechanics/glossary.md)を削り切ることを目的とせず、相手の攻撃をすべて無効化し、リソース差で判定勝ちを狙う。
+
+*   **基本戦術**:
+    1. 常に「[境地](../mechanics/glossary.md)（[集中力](../mechanics/glossary.md)2）」を維持。
+    2. 『[![雅打ち](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png){ .glightbox }』『[![詩舞](../assets/images/card/cards/na_04_o_n/na_04_o_n_4.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_4.png){ .glightbox }』『久遠ノ花』を構え、相手の本命をすべてスカす。
+    [![3. 『無窮ノ風』で相手のコンボを未然に防ぐ。](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png){ .glightbox }
+    4. タイムアップ時に[ライフ](../mechanics/glossary.md)差1点でも勝っていればOK。
+*   **推奨パートナー**: [サイネ](index.md)(薙)、[シンラ](index.md)(書)
+
+### 2. 扇傘レンジロック (完封プラン)
+**「指一本、触れさせない。」**
+[ユキヒ](index.md)の開状態と[トコヨ](index.md)の移動・拒否札を組み合わせ、相手を得意[間合](../mechanics/glossary.md)の外に固定し続ける。
+
+*   **基本戦術**:
+    1. 『[![晴舞台](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png){ .glightbox }』や『ふりはらい』で距離4-6を死守。
+    2. 中距離から一方的に『[![梳流し](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png){ .glightbox }』を投げる。
+*   **推奨パートナー**: [ユキヒ](index.md)(傘)、[ヒミカ](index.md)(銃)
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## おすすめの組み合わせ
 
-### [ヒミカ](03_himika.md)（神速レンジロック）
-【神速レンジロック】（銃扇）は、相手の攻撃可能距離に一瞬たりとも留まらない戦術です。トコヨの『[梳流し](cards.md#梳流し)』で相手の山札を削りつつ、近づこうとする相手を『[雅打ち](cards.md#雅打ち)』で追い返します。ライフを攻めるヒミカの打点と、リソースを削るトコヨの制御力が完璧なシナジーを生みます。
+### [ユキヒ](06_yukihi.md) (扇傘)
+**「最強のコントロール」**
+防御の[トコヨ](index.md)と、距離管理の[ユキヒ](index.md)。相手を盤面から完全に疎外することができる、熟練者好みのペア。
+→ [詳細な攻略（忍傘）](../pairs/index.md#oboro-yukihi) (※忍傘に並ぶコントロールの代表)
 
-### [ユリナ](01_yurina.md)（境地抜刀コントロール）
-【境地抜刀コントロール】（刀扇）は、全ペアの中でも屈指の防御力を誇るカウンター構成です。『[雅打ち](cards.md#雅打ち)』による打ち消しで時間を稼ぎ、ユリナが[決死](../mechanics/index.md)状態に入った瞬間に『[月影落](cards.md#月影落)』で勝負を決めます。『[晴舞台](cards.md#晴舞台)』で集中力を確保し、常に有利なスタンスで戦うことが重要です。
+### [サイネ](02_saine.md) (薙扇)
+**「拒絶の壁」**
+『音無砕氷』と『久遠ノ花』という、ゲーム内不屈の二大防御[切札](../mechanics/glossary.md)を同時採用。突破できるメガミはほぼ存在しません。
+→ [詳細な攻略（薙扇）](../pairs/index.md#saine-tokoyo)
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+
+## 戦術の核心
+
+!!! danger "「[境地](../mechanics/glossary.md)」の呪縛"
+    [トコヨ](index.md)は[集中力](../mechanics/glossary.md)2で最強になりますが、それは「[基本動作](../mechanics/glossary.md)（[纏い](../mechanics/index.md)・[前進](../mechanics/index.md)等）に[集中力](../mechanics/glossary.md)を使えない」という制約でもあります。
+    手札1枚を伏せて[基本動作](../mechanics/glossary.md)を行うか、[境地](../mechanics/glossary.md)を崩してでも[集中力](../mechanics/glossary.md)を使うか……。
+    **「今、[境地](../mechanics/glossary.md)を捨てる価値があるか？」**という問いに常に正解を出し続ける必要があります。
+
+!!! tip "「判定勝ち」を恥じるな"
+    [トコヨ](index.md)は華々しいバーストダメージで勝つメガミではありません。
+    相手の焦り、リソースの枯渇、そして「もうダメージが通らない」という諦念を積み重ねて勝つのが[トコヨ](index.md)道です。
+    デッキ構築の段階から、判定勝ちを見据えた「重い」構成を恐れずに選択してください。

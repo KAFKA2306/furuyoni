@@ -1,51 +1,58 @@
-# シーズン2
+# シーズン2 環境回顧録：忍の跳梁と「みつる」の衝撃
 
-## 期間
-シーズン1終了後 ～ (S2以前と呼ばれる初期環境)
+## タイムライン
+- **開始**: 2017年〜（第二刷以降、およびメガミ：[オボロ](../megami/05_oboro.md)、[ハガネ](../megami/08_hagane.md)参戦）
+- **終了**: シーズン3移行まで
 
-## 概要
-シーズン1での反省を活かし、大規模なバランス調整が行われた後の環境です。特に
-![オボロ](../assets/images/chara/ico-05.png) **オボロ**
-などの強力すぎた要素への介入が行われましたが、依然として特定の組み合わせが環境を支配していました。
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
-## 環境の特徴
-- **オボロの支配**: シーズン1から調整を受けたものの、オボロは依然として環境の中心的メガミであり続けました。「[設置](../mechanics/index.md)」攻撃や[再構成](../mechanics/flow.md)を利用した戦術が強力でした。
-- **強力な組み合わせ**: 「アヘヤク」や「0222」といった当時の俗称で呼ばれる特定のペアが猛威を振るいました（現在は正確な詳細不明のため、これらの用語は使用を控えますが、文脈的には強力なコンボデッキを指していたと思われます）。
-- **対応不可攻撃**: 青みか（ミカ）の対応不可3/2攻撃など、対処が難しい攻撃手段が環境を定義していました。
-- **[ダスト](../mechanics/index.md)枯らし**: [ダスト](../mechanics/index.md)を枯渇させる戦術が有効で、大型切り札を主軸とするメガミ（例：
-    ![ハガネ](../assets/images/chara/ico-08.png) **ハガネ**
-    ）は苦戦を強いられました。
+## 1. 概説：戦略の多様化とシステムの洗練
 
-## 戦略の核心 (Strategist Analysis)
+シーズン2は、新メガミ**[オボロ](../megami/index.md)（忍）**と**[ハガネ](../megami/index.md)（槌）**の参戦により、これまでの「刀・扇・銃」といった基本メガミたちのパワーバランスが大きく揺れ動いた時期です。特に[オボロ](../megami/05_oboro.md)の「[設置](../mechanics/glossary.md#setchi)」ギミックは、本作に「伏せ札の活用」という新しい時間軸の戦略をもたらしました。
 
-### 1. オボロの設置ビート (Senseiの視点)
-![オボロ](../assets/images/chara/ico-05.png) **オボロ**
-の強さは「設置」による**手札上限の実質的な無視**にありました。
+環境は[ユリナ](../megami/01_yurina.md)の絶対支配から、[オボロ](../megami/05_oboro.md)を中心としたトリッキーな手数攻勢へとシフトし、プレイヤーは「一撃の重さ」と同じくらい「手数の多さ」を警戒する必要に迫られました。
 
-*   **戦術**: 伏せ札を活用することで、毎ターン4〜5枚のカードをプレイしてリソース差を広げることができました。
-    ![設置](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_05_o_n/na_05_o_n_4.png) (忍歩: 設置の起点となる移動カード)
-    さらに、再構成ダメージすらも攻撃リソース（設置からの展開）に転換する戦術が確立され、守りを固める相手を火力で圧倒しました。
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
-### 2. 青みか (薙銃) の完成 (Meijinの視点)
-「青みか (Ao-Mika)」と呼ばれた
-![サイネ](../assets/images/chara/ico-02.png) **サイネ** / 
-![ヒミカ](../assets/images/chara/ico-03.png) **ヒミカ**
-の構成は、遠近両用の完成されたデッキでした。
+## 2. 環境の特異点：[オボロ](../megami/05_oboro.md)と『壬蔓』問題
 
-*   **戦術**: ヒミカの遠距離攻撃（
-    ![ラピッドファイア](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_03_o_n/na_03_o_n_2.png) **ラピッドファイア**
-    ）で相手を削りつつ、接近されたらサイネの「薙切り」や対応札で拒否します。
-    ![薙切り](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_02_o_n/na_02_o_n_2.png)
-*   **脅威**: 特に「対応不可3/2」を実現するコンボ（[連火](../mechanics/index.md)条件を満たした攻撃など）は、防御側の計算を狂わせる強力なフィニッシャーとして機能しました。
+### [設置](../mechanics/glossary.md#setchi)ギミックの衝撃
+[オボロ](../megami/05_oboro.md)の登場は、相手に「どのカードが伏せられているか」を常に推測させる心理戦を強制しました。
+- **対応不可の恐怖**: [設置](../mechanics/glossary.md#setchi)から発動する攻撃や移動は、当時の対応札では防ぎきれないことが多く、特に《壬蔓》はその利便性から全幅の信頼を置かれていました。
 
-## 主要な変更点
-- **ユリナの調整**: 「居合」が適正距離2でも使用可能になった一方で攻撃力が低下するペナルティが追加され、「足捌き」の利便性が向上しました。
-    ![ユリナ](../assets/images/chara/ico-01.png)
-- **ライラの調整**: 「風走り」との差別化やバランス取りが行われました。
-    ![ライラ](../assets/images/chara/ico-12.png)
+### 壬蔓（みつる）の支配
+当時の《壬蔓》は、現在よりもはるかに容易な条件で、かつ強力な効果を発揮していました。
+- **影響**: このカード一枚が、[間合](../mechanics/glossary.md#range)制御の主導権を完全に[オボロ](../megami/05_oboro.md)側に与えてしまい、近接アグロ、遠距離ロックの両方において[オボロ](../megami/05_oboro.md)が必須級のメガミとなる事態を招きました。
 
-## 歴史的背景
-シーズン2は、初期の荒削りな部分が徐々に洗練されていく過程にありました。運営による積極的なバランス調整の姿勢が示され、プレイヤーも環境の変化に対応しながら新たな戦術を開拓していきました。
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
-## 出典・参考リンク
-- [公式サイト](https://main-bakafire.ssl-lolipop.jp/furuyoni/) (※過去の更新情報はアーカイブを参照)
+## 3. Tier 1 アーキタイプ：新世代のスタンダード
+
+### ① 【忍傘（当時の呼称）】[オボロ](../megami/05_oboro.md) / [ユキヒ](../megami/06_yukihi.md)
+**[設置](../mechanics/glossary.md#setchi)と[開閉](../mechanics/glossary.md#kaihei)のシナジー**
+- **戦略**: [オボロ](../megami/05_oboro.md)の[設置](../mechanics/glossary.md#setchi)による手数と、[ユキヒ](../megami/06_yukihi.md)の柔軟な[間合](../mechanics/glossary.md#range)操作を合体。
+- **強み**: 相手が近づけば傘を閉じて殴り、離れれば[設置](../mechanics/glossary.md#setchi)カードで嫌がらせをする。あらゆる距離で戦える万能性が高く評価されました。
+
+### ② 【槌扇（当時の呼称）】[ハガネ](../megami/08_hagane.md) / [トコヨ](../megami/04_tokoyo.md)
+**[遠心](../mechanics/glossary.md#enshin)力と[境地](../mechanics/glossary.md#kyochi)の防壁**
+- **戦略**: [ハガネ](../megami/08_hagane.md)の「[遠心](../mechanics/glossary.md#enshin)」攻撃を[トコヨ](../megami/04_tokoyo.md)の防御札で守りながら通す。
+- **評価**: [ユリナ](../megami/01_yurina.md)に代わる「重い一撃」の担い手として[ハガネ](../megami/08_hagane.md)が台頭し、それを[トコヨ](../megami/04_tokoyo.md)が支える形が普及しました。
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+
+## 4. 歴史的視点：バランス調整への布石
+
+シーズン2の終わり際、特定のカード（特に《壬蔓》）への依存度が高すぎることが問題視され始めました。これが、次シーズン以降に続く「大規模パッチ」という、本作独自のバランス調整文化を形作る直接的な要因となりました。
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+
+## 5. 総評：転換点としてのシーズン2
+
+シーズン2は、単なる「追加キャラの登場」以上の意味を持っていました。それは『ふるよに』が「シンプルな殴り合い」から「複層的なリソースと時間の管理」へと進化するための、産みの苦しみと興奮に満ちた時代だったのです。
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+
+## 出典・参考資料
+- 桜降る代に決闘を 第二刷 修正内容抜粋
+- 第一回全国大会「天音杯」記録
+- 2017年中盤の競技メタ分析記事

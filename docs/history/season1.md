@@ -1,46 +1,62 @@
-# シーズン1
+# シーズン1 環境回顧録：原初の力と「ゴリラ」の時代
 
-## 期間
-2018年8月頃 (第壱拡張『神語起譚』発売) ～
+## タイムライン
+- **開始**: 2016年〜（『桜降る代に決闘を』第一刷発売）
+- **終了**: 第一回大規模カード更新（シーズン2移行）まで
 
-## 概要
-シーズン1は、第壱拡張『神語起譚』の発売時期前後から始まった初期の環境です。ゲームシステムが基礎から構築され、プレイヤーたちが手探りで最強の組み合わせを模索していた時期です。
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
-## 環境の特徴
-- **ビートダウンの優位性**: 攻撃的なカードが強く、ダメージレースが先行する展開が多く見られました。
-- **コンボデッキの脅威**: 特定のカード組み合わせによる即死級コンボや強力なシナジーが存在し、対策が定まっていない段階では猛威を振るいました。
-- **調整不足**: 初期段階であったため、一部のメガミやカードパワーにばらつきがあり、後のシーズンで修正されることになる強力な要素が放置されていました。
+## 1. 概説：黎明期の均衡と「刀」の絶対基準
 
-## 戦略の核心 (Strategist Analysis)
+シーズン1は、本作の基本骨格である「[間合](../mechanics/glossary.md#range)」「[オーラ](../mechanics/glossary.md#aura)」「[ライフ](../mechanics/glossary.md#life)」「[フレア](../mechanics/glossary.md#flare)」という4つのリソース管理が最もシンプル、かつ最も暴力的に機能した時代でした。メガミの総数が少なく、各メガミの[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }が明確であったため、メタゲームは非常に純粋な「読み合い」と「スタッツの暴力」によって形成されていました。
 
-### 1. ライラ・ショック (Senseiの視点)
-「なぜ新メガミの
-![ライラ](../assets/images/chara/ico-12.png) **ライラ**
-があれほど圧倒的だったのか？」
-その答えは**リソース不要の超火力**にあります。
+この時代を象徴するのは、間違いなく**[ユリナ](../megami/index.md)**です。彼女のカードパワーは当時の基準において突出しており、環境は「[ユリナ](../megami/01_yurina.md)を使わずにいかに[ユリナ](../megami/01_yurina.md)を倒すか」という、ある種の宗教的な探求の場でもありました。
 
-*   **風魔招来孔 (修正前)**: 当時はなんと**消費フレア0**でした。相方のカードを使うだけで勝手にゲージが溜まり、追加コストなしで強力な攻撃が飛んでくる理不尽な性能でした。
-    (※当時のカード画像は現存しませんが、現在の「天雷召喚陣」に近い運用イメージです)
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
-*   **獣爪 (修正前)**: **間合0-2**で**2/2**という破格のスペック。近距離での殴り合いにおいて、このカードに勝てる通常札はほぼ存在しませんでした。
-    ![獣爪](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_12_o_n/na_12_o_n_1.png)
+## 2. 環境の覇者：[ユリナ](../megami/01_yurina.md)と「圧倒的ゴリラ環境」
 
-### 2. 強律ループ (Meijinの視点)
-当時最強と謳われたのは「爪忍 (
-![ライラ](../assets/images/chara/ico-12.png) **ライラ** / 
-![オボロ](../assets/images/chara/ico-05.png) **オボロ**
-)」や「爪薙 (
-![ライラ](../assets/images/chara/ico-12.png) **ライラ** / 
-![サイネ](../assets/images/chara/ico-02.png) **サイネ**
-)」でした。
+### 「[ユリナ](../megami/01_yurina.md)基準」の成立
+シーズン1における[ユリナ](../megami/01_yurina.md)は、すべての性能が「標準」でありながら、その数値（スタッツ）が他のメガミを圧倒していました。
+- **《[![斬](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png){ .glightbox }》と《[![一閃](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png){ .glightbox }》**: [間合](../mechanics/glossary.md#range)3-4において、これほど安定して[オーラ](../mechanics/glossary.md#aura)を削り、[ライフ](../mechanics/glossary.md#life)に圧力をかける攻撃札は他に存在しませんでした。
+- **《月影落》の恐怖**: [フレア](../mechanics/glossary.md#flare)さえ溜まれば飛んでくる4/4攻撃。当時の対応札のプールでは、これを完全に無力化する手段は限られており、「[オーラ](../mechanics/glossary.md#aura)を5個維持するか、死ぬか」という二択を常に相手に強要しました。
 
-*   **メカニクス**: 「強律」などで手札を回しながら、0フレアの「風魔招来孔」で毎ターン3/2相当の火力を叩きつける動きが成立しました。
-*   **メタゲーム**: これに対抗するには、さらに速いアグロ（
-    ![ヒミカ](../assets/images/chara/ico-03.png) **ヒミカ**
-    等）で殺し切るか、特殊なロックを掛けるしかありませんでしたが、当時のカードプールでは対抗手段が限られていました。
+競技層からは敬愛と畏怖を込めて「ゴリラ」と称され、大会での[ユリナ](../megami/01_yurina.md)使用率は極めて高く、彼女こそが環境の「壁」として機能していました。
 
-## 歴史的背景
-『桜降る代に決闘を』の新幕シリーズとしてのスタートダッシュを切ったシーズンであり、プレイヤー人口の増加と共に競技シーンの基盤が作られました。多くのプレイヤーにとって、「ふるよに」の奥深さと激しさを知る最初のシーズンとなりました。
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
-## 出典・参考リンク
-- [公式サイト](https://main-bakafire.ssl-lolipop.jp/furuyoni/) (※過去の更新情報はアーカイブを参照)
+## 3. Tier 1 アーキタイプ：二強の支配
+
+シーズン1において「回答」として成立していたのは、主に以下の2つの組み合わせでした。
+
+### ① 【刀扇】[ユリナ](../megami/01_yurina.md) / [トコヨ](../megami/04_tokoyo.md)
+**王道の攻防、不動の頂点**
+- **戦略**: [ユリナ](../megami/01_yurina.md)の圧倒的な火力に加え、[トコヨ](../megami/04_tokoyo.md)の「安定した対応力」を掛け合わせた構成。
+- **強み**: 《[![雅打ち](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png){ .glightbox }》や《久遠ノ花》によって相手の切り札（特にミラーマッチでの月影落）をいなしつつ、自分は確実に[![斬](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png){ .glightbox }り捨てる。ふるよにの「基本」が完成されており、プレイング次第で全対面に五分以上を主張できるTier 0に近い存在でした。
+
+### ② 【銃忍】[ヒミカ](../megami/03_himika.md) / [オボロ](../megami/05_oboro.md)
+**アウトレンジ・レンジロックの極致**
+- **戦略**: [ヒミカ](../megami/03_himika.md)の遠距離攻撃と、[オボロ](../megami/05_oboro.md)の《壬蔓（みつる）》および《ヴァーミリオンフィールド》を用いた「絶対に[間合](../mechanics/glossary.md#range)を近づけさせない」レンジロック戦術。
+- **衝撃**: 当時のプレイヤーの多くは、この「近づけないまま焼かれる」という理不尽への対策を持っていませんでした。対応不可の《壬蔓》による移動とクロック刻みは、後のシーズンで修正されるまでの間、環境を象徴する「恐怖」の代名詞となりました。
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+
+## 4. 他のメガミたちの立ち位置
+
+- **[サイネ](../megami/index.md)**: テキストこそ強力であったものの、[間合](../mechanics/glossary.md#range)制御の難易度が高く、[ユリナ](../megami/01_yurina.md)の暴力的な[前進](../mechanics/glossary.md#advance)に対して「[八相](../mechanics/glossary.md#hasso)」を維持しながら戦うには、極めて高い職人芸が要求されました。
+- **[トコヨ](../megami/index.md)**: 単体での決定力には欠けるものの、あらゆるメガミの相方として「防御の盾」となる名脇役でした。
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+
+## 5. 総評：なぜシーズン1は愛されるのか
+
+シーズン1の環境は、決してバランスが完璧だったわけではありません。しかし、カード1枚ずつの重みが現在よりも大きく、リソース1つのミスが即死に直結する緊張感は、後のシーズンにはない「原初の面白さ」を体現していました。
+
+この過酷な「ゴリラ環境」を生き抜いた知見こそが、その後の「[眼前構築](../mechanics/glossary.md#construction)」の深みを形作る土台となったのです。
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+
+## 出典・参考資料
+- 『桜降る代に決闘を』第一刷・第二刷 改訂履歴
+- 初期公式サイト アーカイブ
+- 2017年以前の地方大会・公式大会優勝レポート

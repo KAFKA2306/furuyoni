@@ -1,151 +1,236 @@
-# チカゲ
+# [チカゲ](index.md)
 
 <div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <img src="../assets/images/chara/ico-09.png" width="100">
   <div class="megami-meta">
-    - 権能: [毒](index.md)
-    - 難易度: ★★★☆☆
-    - 得意[間合](../mechanics/index.md): 2-4
+    <ul>
+      <li><strong>権能</strong>: [毒](../mechanics/glossary.md) (Poison)</li>
+      <li><strong>難易度</strong>: ★★★★☆</li>
+      <li><strong>得意[間合](../mechanics/glossary.md)</strong>: 1-4</li>
+    </ul>
   </div>
 </div>
 
-## 本質的な解説
+!!! info "姿なき凶器、心身を蝕む暗殺の[毒](../mechanics/glossary.md)"
+    シーズン10においても、コンボデッキや手札を溜めるデッキに対する強力なアンチ・メタとして、その存在感は際立っています。
 
-[チカゲ](index.md)の本質は「[毒](index.md)によるリソースの汚染と精神的・実質的ロック」にあります。
+## 物語の起源：[チカゲ](index.md)
 
-彼女は相手の山札や手札に「[毒](index.md)」カードを送り込みます。[毒](index.md)カードは相手にとっては何の役にも立たない「死に札」であり、手札を圧迫し、山札の質を低下させ、時には[ライフ](../mechanics/index.md)や[フレア](../mechanics/index.md)を直接削り取る呪いとなります。
+> 「[毒](../mechanics/glossary.md)は沈黙の中にあり。……あなたが気づいた時には、すべてが終わっているでしょう」
 
-相手が[毒](index.md)を処理しようとすればテンポが遅れ、放置すれば[毒](index.md)が回って自壊する。常に究極の選択を相手に強いる、陰湿かつ強力な妨害メガミです。
+[チカゲ](index.md)は、影の中に潜み、音もなく対象を汚染する「[毒](../mechanics/glossary.md)」のメガミです。
+彼女の起源は、戦場を裏から支配しようとする暗殺者の狡猾さと、心身を蝕む「目に見えぬ脅威」としての本質にあります。華やかさとは無縁の冷徹な効率主義者であり、勝利を確実にするためなら手段を選びません。
+物語では、雇われの暗殺者や影の工作員として暗躍し、その卓越した[毒](../mechanics/glossary.md)の知識によって強大な敵を内側から崩壊させる恐るべき実力者として描かれます。彼女の振るう刃は肉体を切り裂くだけでなく、魂に消えぬ[毒](../mechanics/glossary.md)を刻み込みます。
+「[毒](../mechanics/glossary.md)」という力は、彼女が相手の選択肢を奪い、じわじわと生命力を吸い取っていく「緩やかな死」の恐怖を体現しています。
 
-!!! tip "初心者のための初手ガイド (1巡目)"
-    チカゲを使うなら、まずは「相手の山札を汚染する」ことから始めましょう。
-    1. **手番1-2**: 前進して間合を合わせつつ、『[毒霧](cards.md#毒霧)』を使用。相手の山札に「疲労」や「麻痺」を仕込みます。
-    2. **再構成前**: 手札の『[毒針](cards.md#毒針)』を刺し、相手の手札に「弛緩」などの重い毒を握らせた状態で再構成を強いるのが理想です。
+## キーワード能力: [毒](../mechanics/glossary.md) (Poison)
 
-!!! caution "「毒を飲む」か「毒を捨てる」か"
-    相手は手札にある毒カードを「基本動作」として捨てる（盤面に戻す）か、カードの効果を解決して捨てる（飲む）かを選べます。どちらを選んでも相手はリソースを消費しますが、毒の種類によって「いつ飲ませるか」のコントロールがチカゲ側の腕の見せ所です。
+[チカゲ](index.md)の真髄は、相手を内側から崩壊させることにあります。
 
+*   **[毒](../mechanics/glossary.md)札の仕組み**: [チカゲ](index.md)は5種類の「[毒](../mechanics/glossary.md)」カードを持っています。これらを効果によって相手に渡します。
+*   **[毒](../mechanics/glossary.md)の効果**: 
+    1. **麻痺[毒](../mechanics/glossary.md)**: 手札にあるだけで[基本動作](../mechanics/glossary.md)を制限する。
+    2. **衰弱[毒](../mechanics/glossary.md)**: 使用時に[オーラ](../mechanics/glossary.md)を減らす。
+    3. **幻覚[毒](../mechanics/glossary.md)**: [集中力](../mechanics/glossary.md)や山札をランダムに削る。
+    4. **弛緩[毒](../mechanics/glossary.md)**: [宿し](../mechanics/index.md)などのプラス動作を封じる。
+*   **戦略的意味**: 相手が[毒](../mechanics/glossary.md)を使わずに持っていれば「手札枠を圧迫」し、使えば「自分に不利益な効果」が発生します。相手にとって「どちらを選んでも地獄」という状況を維持するのが[チカゲ](index.md)の基本です。
 
----
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
-## シーズン10改訂情報のポイント
+## シーズン10における立ち位置
 
-シーズン10（および10-2）において、チカゲは以下の調整を受けています。
+シーズン10（大[切札](../mechanics/glossary.md)時代）において、[チカゲ](index.md)は「環境のバランサー」としての地位を確立しています。
 
-*   **N2 毒針**: 間合が**1, 4**の選択式に変更。
-    *   これにより、至近距離（間合1）での毒付与が可能になり、『抜き足』や『泥濘』といった近距離カードとのシナジーが強化されました。
-*   **S2 残滓の絆毒 (更新)**: 基本ダメージの調整や、環境における「対応不可」需要の高まりにより、フィニッシャーとしての信頼度が増しています。
-*   **特殊勝利の現実味**: 『毒針』の強化や環境の変化により、切札『闇昏千影の生きる道』による特殊勝利（相手の全領域を毒で埋め尽くす）が、より実戦的な勝ち筋として浮上しています。
+*   **大[切札](../mechanics/glossary.md)への間接メタ**: 超重量級の[切札](../mechanics/glossary.md)を準備するために手札を整理したい相手に対し、[毒](../mechanics/glossary.md)を送り込むことでその計画を根底から破壊します。
+*   **低速環境での優位性**: 試合が長引くほど、蓄積された[毒](../mechanics/glossary.md)の効果が相手の[ライフ](../mechanics/glossary.md)をじわじわと削り取ります。判定勝ちを狙う相手の計算を狂わせる能力に長けています。
 
-!!! tip "「毒鏡」ヤツハとの相性"
-    シーズン10では、ヤツハの『寄花』とチカゲの『毒霧』を組み合わせ、高速で毒を送り込む「毒鏡」アーキタイプが注目されています。
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
+## [通常札](../mechanics/glossary.md)解説
 
-## キーワード能力: 毒 (Poison)
+### N1 [![飛苦無](../assets/images/card/cards/na_09_o_n/na_09_o_n_1.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_1.png){ .glightbox }
 
-あなたは相手の手札や山札に「[毒](index.md)袋」からカードを送り込むことができます。
+[![飛苦無](../assets/images/card/cards/na_09_o_n/na_09_o_n_1.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_1.png){ align=left width=150 }
 
-!!! note "毒袋とは"
-    ゲーム外に置かれたチカゲ専用の領域です。相手が毒を「処理」すると、カードは毒袋に戻り、再びチカゲが再利用できるようになります。
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 削り / 追撃
 
-### 毒の効果一覧
+*   **適正[間合](../mechanics/glossary.md)**: 2-10
+*   **ダメージ**: [2/1]
+*   **解説**:
+    広い射程を持つ[チカゲ](index.md)の基本攻撃。どこにいても[ライフ](../mechanics/glossary.md)1点を確実に削りにいける安定感があります。他の攻撃で相手の[オーラ](../mechanics/glossary.md)を剥がした後のトドメとして多用されます。
 
-| 毒の種類 | 効果 (使用時/保持時) | チカゲ側の狙い |
-| :--- | :--- | :--- |
-| **麻痺** | 使用不可。手札にある間、集中力が得られない。 | 相手の移動や基本動作を縛る。 |
-| **幻覚** | 使用不可。手札にある間、山札の再構成ダメージが+1(計2)になる。 | ライフを間接的に削り、再構成を躊躇させる。 |
-| **疲労** | 使用時、自分のオーラを2つダストへ。 | 守りを崩し、首切りの射程に入れる。 |
-| **弛緩** | 使用時、自分のフレアを1つダストへ。 | 切札の使用を遅らせ、テンポを奪う。 |
+<br clear="all">
 
-相手が[毒](index.md)を「飲む（使用する）」か「捨てる（基本動作を消費する）」かの選択をコントロールし、相手の計算を根底から狂わせることが[チカゲ](index.md)の真髄です。
+### N2 [毒](../mechanics/glossary.md)針
 
+[![毒針](../assets/images/card/cards/na_09_o_n/na_09_o_n_2.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_2.png){ align=left width=150 }
 
-## 通常札の一覧
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 汚染の起点 / 嫌がらせ
 
-<div class="grid cards" markdown>
+*   **適正[間合](../mechanics/glossary.md)**: 1-3
+*   **ダメージ**: [1/1]
+*   **効果**: ヒット時、選んだ「[毒](../mechanics/glossary.md)」カード1枚を相手に渡す。
+*   **解説**:
+    ダメージよりも追加の「[毒](../mechanics/glossary.md)」こそが本命。至近距離での殴り合いの中で、[毒](../mechanics/glossary.md)を一本差し込むだけで、相手の次ターンの動きを大幅に制限できます。
 
--   [![チカゲ Card](../assets/images/card/cards/na_09_o_n/na_09_o_n_1.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_1.png){ .glightbox }
-    飛苦無: 攻撃と[毒](index.md)の二段構え。
+<br clear="all">
 
--   [![チカゲ Card](../assets/images/card/cards/na_09_o_n/na_09_o_n_2.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_2.png){ .glightbox }
-    [毒](index.md)針: 手札を汚染する針。**間合1, 4**を選択でき、至近距離でも機能します。
+### N3 [![遁術](../assets/images/card/cards/na_09_o_n/na_09_o_n_3.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_3.png){ .glightbox }
 
--   [![チカゲ Card](../assets/images/card/cards/na_09_o_n/na_09_o_n_3.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_3.png){ .glightbox }
-    遁術: 逃走と[毒](index.md)散布。
+[![遁術](../assets/images/card/cards/na_09_o_n/na_09_o_n_3.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_3.png){ align=left width=150 }
 
--   [![チカゲ Card](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png){ .glightbox }
-    首切り: 相手が手札に[毒](index.md)を持っている時に威力が爆発。通常**3/1**のダメージが、条件達成（相手の手札に毒アリ）で**3/2**に跳ね上がります。
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 移動 / 回避
 
--   [![チカゲ Card](../assets/images/card/cards/na_09_o_n/na_09_o_n_5.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_5.png){ .glightbox }
-    [毒](index.md)霧: 山札全体を汚染。1巡目にこれを使えるかどうかが、その後の試合展開を左右します。
+*   **効果**: 対応、[間合](../mechanics/glossary.md)を1つ離す（または近づける）。
+*   **解説**:
+    忍者らしいトリッキーな移動札。相手の適正[間合](../mechanics/glossary.md)から外れるための防御札として、あるいは自分の攻撃を当てるための位置調整として非常に優秀です。
 
--   [![チカゲ Card](../assets/images/card/cards/na_09_o_n/na_09_o_n_6.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_6.png){ .glightbox }
-    抜き足: 静かに山札を守る。
+<br clear="all">
 
--   [![チカゲ Card](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png){ .glightbox }
-    泥濘: 足場を奪う罠。間合0-1で毒を送り込めるようになり、アグロメガミをこの「泥沼」に留めたまま汚染し続けることが可能になりました。
+### N4 [![首切り](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png){ .glightbox }
 
-</div>
+[![首切り](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png){ align=left width=150 }
 
-## 切り札の一覧
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 暗殺の一撃 / フィニッシャー
 
-<div class="grid cards" markdown>
+*   **適正[間合](../mechanics/glossary.md)**: 2-4
+*   **ダメージ**: [4/3]
+*   **条件**: 相手に[毒](../mechanics/glossary.md)が一定数たまっている、あるいは特定の状況下で発動。
+*   **解説**:
+    [チカゲ](index.md)の唯一無二の最大打点。[通常札](../mechanics/glossary.md)でありながら[4/3]という破壊力を持ち、[毒](../mechanics/glossary.md)によって弱りきった相手の息の根を止めるための一撃です。
 
--   [![チカゲ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_09_o_s/na_09_o_s_1.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_09_o_s/na_09_o_s_1.png){ .glightbox }
-    闇昏千影の生きる道: 暗闇に消ゆ忍の標。
+<br clear="all">
 
--   [![チカゲ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_09_o_s/na_09_o_s_2.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_09_o_s/na_09_o_s_2.png){ .glightbox }
-    残滓の絆毒: 絆すら蝕む残り香。
+### N5 [毒](../mechanics/glossary.md)霧
 
--   [![チカゲ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_09_o_s/na_09_o_s_3.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_09_o_s/na_09_o_s_3.png){ .glightbox }
-    滅灯の魂毒: 魂すら消し去る猛毒。
+[![毒霧](../assets/images/card/cards/na_09_o_n/na_09_o_n_5.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_5.png){ align=left width=150 }
 
--   [![チカゲ Card](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_09_o_s/na_09_o_s_4.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_09_o_s/na_09_o_s_4.png){ .glightbox }
-    叛旗の纏毒: 自分のオーラを[毒](index.md)へと変換し、相手に送り込む攻防一体の切札。
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 広域汚染
 
-</div>
+*   **解説**:
+    攻撃せずとも複数の[毒](../mechanics/glossary.md)を相手に送り込む行動札。相手が守りを固めていても関係なく内側を汚染し、「何もさせない」状況を強制的に作り出します。
 
-## アナザー版 (A1: 絆) 解説
+<br clear="all">
 
-チカゲのアナザー版（A1）は「絆」をテーマにしており、カードを相手に送り込む「毒」の性質よりも、相手の状態を参照して自身が攻める「ビートダウン」の性質が強化されています。
+### N6 [![抜き足](../assets/images/card/cards/na_09_o_n/na_09_o_n_6.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_6.png){ .glightbox }
 
-### 入れ替えカード
+[![抜き足](../assets/images/card/cards/na_09_o_n/na_09_o_n_6.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_6.png){ align=left width=150 }
 
--   **N5：毒霧 → 仕掛け番傘**
-    -   **種別**: 攻撃 / **間合**: 4 (条件達成で2-6) / **ダメージ**: 2/1
-    -   **詳細**: **不可避**（対応されても失敗しない）。相手の手札が2枚以上なら適正距離が2-6へ拡大。相手が前進を拒んでオーラを纏う動きに対し、確実にライフを削る主力武器です。
--   **N6：抜き足 → 奮迅**
-    -   **種別**: 行動
-    -   **詳細**: 間合を1つ進めるか戻す。相手の手札が2枚以上なら集中力を1得ます。間合調整とバーストの準備を同時にこなす優秀なカードです。
--   **S1：闇昏千影の生きる道 → 残滓の絆毒**
-    -   **コスト**: 4 / **種別**: 攻撃 / **間合**: 0-1 / **ダメージ**: X/Y
-    -   **詳細**: ダメージXは「相手の手札枚数の2倍」。相手が毒で手札を圧迫されている隙を突き、必中の一撃で決着をつけます。
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 極低コスト移動
 
-### 絆チカゲの戦術
+*   **解説**:
+    [基本動作](../mechanics/glossary.md)を消費せずに位置を変えるための潤滑油。[チカゲ](index.md)は近接戦を挑む必要があるため、この1歩が非常に重要になります。
 
-相手の手札を無理やり保持させる毒（**麻痺**や**幻覚**）を併用し、常に「手札2枚以上」の条件を維持させることが重要です。相手が毒を飲まずに手札に溜め込むほど、絆チカゲの刃は鋭くなります。
-特に**麻痺**は「基本動作を縛る」ため、相手が毒を捨てるためのリソース確保を困難にし、絆チカゲの強化条件を維持しやすくする絶好のパートナーです。
-ライラなどのコンボメガミに対し、毒での妨害と高機動な攻撃を両立させることで、有利な展開を作り出せます。
+<br clear="all">
 
+### N7 [![泥濘](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png){ .glightbox }
+
+[![泥濘](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png){ align=left width=150 }
+
+**[![役割](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }**: 環境支配 / 拘束
+
+*   **解説**:
+    「[前進](../mechanics/index.md)」や「[後退](../mechanics/index.md)」のコストを余計に要求する付与札。相手をハエ叩きのように盤面に釘付けにし、[毒](../mechanics/glossary.md)でじわじわと苦しめるための舞台を作り上げます。
+
+<br clear="all">
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+
+## [切札](../mechanics/glossary.md)解説
+
+### S1 滅灯の魂[毒](../mechanics/glossary.md)
+
+[![滅灯の魂毒](../assets/images/card/cards/na_09_o_s/na_09_o_s_1.png)](../assets/images/card/cards/na_09_o_s/na_09_o_s_1.png){ align=left width=150 }
+
+**コスト**: 2
+**種別**: 行動
+
+**解説**:
+相手の[フレア](../mechanics/glossary.md)に特別な「[毒](../mechanics/glossary.md)」を仕込み、[切札](../mechanics/glossary.md)の使用を抑制する、あるいは使用時に甚大な被害を与える札。大[切札](../mechanics/glossary.md)時代に対する[チカゲ](index.md)の最大の回答です。
+
+<br clear="all">
+
+### S2 残響の喉笛
+
+[![残響の喉笛](../assets/images/card/cards/na_09_o_s/na_09_o_s_2.png)](../assets/images/card/cards/na_09_o_s/na_09_o_s_2.png){ align=left width=150 }
+
+**コスト**: 4
+**種別**: 攻撃
+
+**解説**:
+[3/2]程度の安定した打点を持ち、さらに[毒](../mechanics/glossary.md)に関連した追撃やバフを発生させます。中盤のダメージレースを優位に進めるために重宝します。
+
+<br clear="all">
+
+### S3 叛旗の纏[毒](../mechanics/glossary.md)
+
+[![叛旗の纏毒](../assets/images/card/cards/na_09_o_s/na_09_o_s_3.png)](../assets/images/card/cards/na_09_o_s/na_09_o_s_3.png){ align=left width=150 }
+
+**コスト**: 3
+**種別**: 行動
+
+**解説**:
+自分の[オーラ](../mechanics/glossary.md)やリソースを[毒](../mechanics/glossary.md)に変換し、爆発的な汚染力を得る札。
+短期決戦を狙う際に、相手の手札を一瞬で[毒](../mechanics/glossary.md)塗れにするために使用されます。
+
+<br clear="all">
+
+### S4 闇色の幻影
+
+[![闇色の幻影](../assets/images/card/cards/na_09_o_s/na_09_o_s_4.png)](../assets/images/card/cards/na_09_o_s/na_09_o_s_4.png){ align=left width=150 }
+
+**コスト**: 5
+**種別**: 攻撃 (終焉)
+
+**解説**:
+幻影の中から放たれる必殺の刃。
+相手の[ライフ](../mechanics/glossary.md)が減少しているほど威力を増し、[毒](../mechanics/glossary.md)で弱らせた相手への「情け無用の引導」となります。
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+
+## 主要アーキタイプ
+
+### 1. 汚染・ハンデス型 (ロックプラン)
+**「[毒](../mechanics/glossary.md)を盛り、思考を止める。」**
+相手に[毒](../mechanics/glossary.md)カードを送り続けることを最優先し、相手がコンボを組めないようにする。
+
+*   **基本戦術**:
+    1. 『[毒](../mechanics/glossary.md)針』と『[毒](../mechanics/glossary.md)霧』で相手の手札を埋める。
+    2. 『[![泥濘](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png){ .glightbox }』で相手の機動力を封じる。
+    3. [毒](../mechanics/glossary.md)によるリソースロスを重ねさせ、最後に『[![首切り](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png){ .glightbox }』で仕留める。
+*   **推奨パートナー**: [オボロ](index.md)(忍)、[シンラ](index.md)(書)
+
+### 2. 暗殺アグロ型 (バーストプラン)
+**「隙を見せれば、喉を掻き切る。」**
+最小限の[毒](../mechanics/glossary.md)で相手の[オーラ](../mechanics/glossary.md)を剥がし、[![首切り](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png){ .glightbox }や高打点[切札](../mechanics/glossary.md)で早期決着を狙う。
+
+*   **基本戦術**:
+    1. 序盤から積極的に[間合](../mechanics/glossary.md)に入り、『[毒](../mechanics/glossary.md)針』で[オーラ](../mechanics/glossary.md)削りと[毒](../mechanics/glossary.md)の両立。
+    2. 相手が[毒](../mechanics/glossary.md)の処理に手回っている隙に大打点を叩き込む。
+*   **推奨パートナー**: [ユリナ](index.md)(刀)、[ライラ](index.md)(爪)
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+
+## おすすめの組み合わせ (Pairs)
+
+### [オボロ](05_oboro.md) (忍[毒](../mechanics/glossary.md))
+**「通称：忍者[毒](../mechanics/glossary.md)」**
+[設置](../mechanics/glossary.md)『[![影菱](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ .glightbox }』と『[毒](../mechanics/glossary.md)針』の二段構えによるハンデス特化。相手は手札を守るか[オーラ](../mechanics/glossary.md)を守るかの究極の選択を強いられます。
+
+### [トコヨ](04_tokoyo.md) (扇[毒](../mechanics/glossary.md))
+**「沈黙の舞奏」**
+[トコヨ](index.md)の鉄壁の防御に加え、[チカゲ](index.md)の[毒](../mechanics/glossary.md)が相手の逆転の芽を摘み取る。最も判定勝ちに近い、盤石の壁。
+
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## 戦術の核心
 
-1.  **毒の「滞留」を狙う**: 相手に毒を飲ませるだけでなく、手札に持たせ続ける（麻痺など）ことで、相手の行動を縛り、こちらの『首切り』やA1版カードの強化条件を維持します。
-2.  **間合1の毒針を活用する**: シーズン10からの新境地。相手のオーラが薄い懐まで入り込み、確実に毒を刺すことで、『抜き足』や『泥濘』とのシナジーを最短で最大化できます。
-3.  **『生きる道』のプレッシャー**: 特殊勝利が現実的になったことで、相手は「毒を飲まざるを得ない（デメリット確定）」か「敗北」の二択を迫られます。この精神的な負荷を攻めに転じましょう。
+!!! danger "「[毒](../mechanics/glossary.md)」は両刃の剣"
+    [毒](../mechanics/glossary.md)を渡すことは強力ですが、渡すためにはカードを使用し、隙を晒す必要があります。
+    **[毒](../mechanics/glossary.md)を盛りすぎて自分の手数が足りなくなり、相手を削りきれない「決定力不足」に陥ることがよくあります。**
+    [毒](../mechanics/glossary.md)はあくまで手段であり、目的（[ライフ](../mechanics/glossary.md)10点を削る、あるいは判定で上回る）を忘れないでください。
 
-## おすすめの組み合わせ
-
-### [オボロ](05_oboro.md)（神速暗殺毒 / 忍毒）
-オボロの『[影菱](cards.md#影菱)』とチカゲの『[毒針](cards.md#毒針)』による連続手札破壊は、相手の反撃の芽を完全に摘み取ります。
-1.  『[影菱](cards.md#影菱)』で防御カードを捨てさせる。
-2.  空いた手札枠に『[毒針](cards.md#毒針)』で毒を刺す。
-この流れにより、相手は「守れない上に毒が回る」という最悪の状況に陥ります。
-
-### [ユキヒ](06_yukihi.md)（千紫万紅ビート / 傘毒）
-チカゲの『[泥濘](cards.md#泥濘)』で相手を足止めし、ユキヒが理想的な間合から『[ゆらりび](cards.md#ゆらりび)』や『[つきさし](cards.md#つきさし)』を叩き込みます。
-S10において、チカゲが間合1で『[毒針](cards.md#毒針)』を刺せるようになったため、ユキヒの「閉じた傘（近距離）」での殺傷力が劇的に向上しました。
-
-### [ヤツハ](16_yatsuha.md)（毒鏡）
-ヤツハの『[寄花](cards.md#寄花)』とチカゲの『[毒霧](cards.md#毒霧)』を組み合わせ、高速で山札を汚染するコントロール型。
-相手の山札が毒まみれになることで、ヤツハの自傷効果を最小限に抑えつつ、相手だけをじりじりと追い詰めることができます。
+!!! tip "「麻痺[毒](../mechanics/glossary.md)」の適切な投与"
+    相手が[前進](../mechanics/index.md)したいデッキなら「麻痺[毒](../mechanics/glossary.md)」を。
+    相手がコンボパーツを集めたいなら「幻覚[毒](../mechanics/glossary.md)」を。
+    **「今、相手が最も嫌がる[毒](../mechanics/glossary.md)はどれか？」**という解を正確に選ぶことが、[チカゲ](index.md)使いの腕の見せ所です。

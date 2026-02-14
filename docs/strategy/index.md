@@ -7,7 +7,7 @@
 
 戦略を語る前に、中級者が勘違いしやすい、あるいは曖昧に覚えがちなルールを明確にしておきます。
 
-### 間合 (Ma-ai)
+### [間合](../mechanics/glossary.md) (Ma-ai)
 - 0〜10の整数値で表されます。基本的には、「[前進](../mechanics/index.md)」で減り、「[後退](../mechanics/index.md)」で増えます（達人の[間合](../mechanics/index.md)い＝2は例外）。
 - 多くの攻撃カードには適正[間合](../mechanics/index.md)があり、その範囲内にいないと使用できません。
 
@@ -16,16 +16,16 @@
 - [オーラ](../mechanics/index.md)受け: [オーラ](../mechanics/index.md)から[ダスト](../mechanics/index.md)へ結晶が移動します。[オーラ](../mechanics/index.md)が足りない場合、選べません（[ライフ](../mechanics/index.md)受けになります）。
 - [ライフ](../mechanics/index.md)受け: [ライフ](../mechanics/index.md)から[フレア](../mechanics/index.md)へ結晶が移動します。これが[切札](../mechanics/index.md)の使用コストになります。
 
----
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
-## 1. 眼前構築のセオリー
+## 1. [眼前構築](../mechanics/glossary.md)のセオリー
 
 ふるよにの醍醐味である「[眼前構築](../mechanics/flow.md)」。相手の2柱を見てからデッキを組むこのフェーズで、勝負の5割が決まります。
 
 ### 相手の「最大値」を見積もる
 デッキは「[通常札](../mechanics/index.md)7枚、[切札](../mechanics/index.md)3枚」で構築されます。このルールの中で、相手ができる「一番強い動き（ブン回り）」を想像しましょう。
 
-- 相手のリーサルラインは？: [ユリナ](../megami/index.md)なら「月影落」で6点前後、[ヒミカ](../megami/index.md)なら「フルバースト」で5〜8点。自分がどのくらい[ライフ](../mechanics/index.md)を減らされたら危険域なのかを把握します。
+- 相手のリーサルラインは？: [ユリナ](../megami/index.md)なら「月影落」で6点前後、[ヒミカ](../megami/index.md)なら「[![フルバースト](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png){ .glightbox }」で5〜8点。自分がどのくらい[ライフ](../mechanics/index.md)を減らされたら危険域なのかを把握します。
 - 相手の防御性能は？: [トコヨ](../megami/index.md)の「久遠ノ花」があるなら、大技は通らない前提で「細かい攻撃を重ねる」構成にする必要があります。
 
 ### 自分の「勝ち筋」を決める
@@ -47,9 +47,9 @@
 - マリガン（引き直し）: ゲーム開始時に1度だけ行えます。任意の枚数を山札の底に戻し、同数を引きます。戻したカードは底に行くため、ゲーム序盤には引けません。
 - 山札は7枚: 初手3枚 + (毎ターン2枚 × 2ターン) = 7枚。つまり、3ターン目の開始時には山札が尽きています。
 - [再構成](../mechanics/flow.md)のコスト: 山札がない状態でカードを引く（または任意で行う）と[再構成](../mechanics/flow.md)が発生します。[ライフ](../mechanics/index.md)に1ダメージを受け、捨て札と伏せ札を合わせて山札を作り直します。
-- 伏せ札の活用: 不要なカードを伏せる（基本動作）ことは、「次の[再構成](../mechanics/flow.md)を早める」行為でもあります。早くキーカードを引き込みたい時は、積極的に伏せて山札を回しましょう。
+- 伏せ札の活用: 不要なカードを伏せる（[基本動作](../mechanics/glossary.md)）ことは、「次の[再構成](../mechanics/flow.md)を早める」行為でもあります。早くキーカードを引き込みたい時は、積極的に伏せて山札を回しましょう。
 
-### 集中力とライフの天秤
+### [集中力](../mechanics/glossary.md)と[ライフ](../mechanics/glossary.md)の天秤
 「[纏い](../mechanics/index.md)（[オーラ](../mechanics/index.md)回復）」や「[宿し](../mechanics/index.md)（[フレア](../mechanics/index.md)獲得）」は、基本的には[集中力](../mechanics/index.md)で行うのが効率的です。
 しかし、「[ライフ](../mechanics/index.md)で受けるか、[オーラ](../mechanics/index.md)で受けるか」の判断は常に問われます。
 

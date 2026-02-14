@@ -2,7 +2,7 @@
 
 以下は ふるよに Advent Calendar に参加した記事の一覧です。Adventar の公式カレンダーを元に、2023年から2025年までの全記事をまとめています。
 
----
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## 2025 年（ふるよに Advent Calendar 2025）
 
@@ -12,7 +12,7 @@
    [https://e-lno.hatenablog.com/entry/2025/12/02/000013](https://e-lno.hatenablog.com/entry/2025/12/02/000013)
 3. 12/3 「桜と塵の巡る先 〜〖ふるよに：[桜花結晶](../mechanics/index.md)を捉え直す〗」 — tahITEF
    [https://thtfuruyoni.hatenadiary.jp/entry/2025/12/03/190000](https://thtfuruyoni.hatenadiary.jp/entry/2025/12/03/190000)
-4. 12/4 「三拾一捨を皆式理解する」 — かよーだ
+4. 12/4 「[三拾一捨](../mechanics/glossary.md)を皆式理解する」 — かよーだ
    [https://note.com/tue110/n/n836e8237c024](https://note.com/tue110/n/n836e8237c024)
 5. 12/5 「ふるよにメガミ『戦型フレーズ』展覧会」 — ikari
    [http://ikari2642.hatenablog.com/entry/phrase_exhibition](http://ikari2642.hatenablog.com/entry/phrase_exhibition)
@@ -57,7 +57,7 @@
 25. 12/25 「ミラーマッチ座談会」 — 魔法幼女へくとぱちゃん
     [https://3422project.hateblo.jp/entry/2025/12/27/180000](https://3422project.hateblo.jp/entry/2025/12/27/180000)
 
----
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## 2024 年（ふるよに Advent Calendar 2024）
 
@@ -71,7 +71,7 @@
    [https://izu24furuyoni.hatenablog.com/entry/2024/12/04/210005](https://izu24furuyoni.hatenablog.com/entry/2024/12/04/210005)
 5. 12/5 「兜カード概説」 — でるた
    [https://deruta521.hatenablog.com/entry/2024/12/06/000232](https://deruta521.hatenablog.com/entry/2024/12/06/000232)
-6. 12/6 「そろそろ徒寄花足りない時期じゃない？」 — ヴィミラニエ@ふるよに
+6. 12/6 「そろそろ徒[![寄花](../assets/images/card/cards/na_16_o_n/na_16_o_n_7.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_7.png){ .glightbox }足りない時期じゃない？」 — ヴィミラニエ@ふるよに
    [https://rw49krem2fz4hnp.hatenablog.com/entry/2024/12/06/065736](https://rw49krem2fz4hnp.hatenablog.com/entry/2024/12/06/065736)
 7. 12/7 「土下座ビートダウン社騎（[ユキヒ](../megami/index.md)A/[サリヤ](../megami/index.md)）」 — しいはさん
    [https://thallya-enshinoh.hatenablog.jp/entry/2024/12/06/235855](https://thallya-enshinoh.hatenablog.jp/entry/2024/12/06/235855)
@@ -81,7 +81,7 @@
    [https://ichii-suwa.hatenablog.com/entry/2024/12/09/214750](https://ichii-suwa.hatenablog.com/entry/2024/12/09/214750)
 10. 12/10 「【ふるよに:[サイネ](../megami/index.md)/[ユキヒ](../megami/index.md)(薙傘) 解説】雪降る節季 傘を片手に」 — tahITEF
     [https://thtfuruyoni.hatenadiary.jp/entry/2024/12/10/032253](https://thtfuruyoni.hatenadiary.jp/entry/2024/12/10/032253)
-11. 12/11 「フルバーストの返しにフルバーストを撃って良いのか？」 — kaseki
+11. 12/11 「[![フルバースト](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png){ .glightbox }の返しに[![フルバースト](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png){ .glightbox }を撃って良いのか？」 — kaseki
     [https://kaseki16.hatenablog.com/entry/2024/12/10/234141](https://kaseki16.hatenablog.com/entry/2024/12/10/234141)
 12. 12/12 「キミはAlpha-Edgeを知っているか？」 — タラレバ
     [https://note.com/trrb0808/n/nab8df8c953ed](https://note.com/trrb0808/n/nab8df8c953ed)
@@ -112,7 +112,7 @@
 25. 12/25 「ちょっとこっちは本読んでるんで邪魔しないでもらっていいですか？」 — 魔法幼女へくとぱちゃん
     [https://3422project.hateblo.jp/entry/2024/12/25/233512](https://3422project.hateblo.jp/entry/2024/12/25/233512)
 
----
+[![---](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
 
 ## 2023 年（ふるよに Advent Calendar 2023）
 
@@ -139,7 +139,7 @@
 11. 12/11 「リーサルプランから考えるプレイングについて」 — いちい すわ
     [https://ichii-suwa.hatenablog.com/entry/2023/12/11/003820](https://ichii-suwa.hatenablog.com/entry/2023/12/11/003820)
 
-13. 12/13 「S8-2の裏斬りの更新と拒絶[毒](../megami/index.md)について」 — ミツヤ
+13. 12/13 「S8-2の裏[![斬](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png){ .glightbox }りの更新と拒絶[毒](../megami/index.md)について」 — ミツヤ
     [https://note.com/328_c1der/n/na9e7cbd3f8f5](https://note.com/328_c1der/n/na9e7cbd3f8f5)
 14. 12/14 「【ふるよに・ナーフ解除選手権】許されざるは過去の咎」 — tahITEF
     [https://thtfuruyoni.hatenadiary.jp/entry/2023/12/15/002059](https://thtfuruyoni.hatenadiary.jp/entry/2023/12/15/002059)
@@ -155,7 +155,7 @@
     [https://hidluck.hatenablog.jp/entry/2023/12/19/004448](https://hidluck.hatenablog.jp/entry/2023/12/19/004448)
 20. 12/20 「ボードゲーム合宿を開こう」 — ローヴェレ
     [https://rovere.hatenablog.com/entry/2024/12/08/233928](https://rovere.hatenablog.com/entry/2024/12/08/233928)
-21. 12/21 「しくじり先生～俺みたいなプレミをするな！」 — のば@頭くるるーん勢
+21. 12/21 「しくじり先生～俺みたいなプレミをするな！」 — のば@頭[![くるるーん](../assets/images/card/cards/na_10_o_n/na_10_o_n_3.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_3.png){ .glightbox }勢
     [http://nobafuruyoni.blog.fc2.com/blog-entry-27.html](http://nobafuruyoni.blog.fc2.com/blog-entry-27.html)
 22. 12/22 「ライバルミコトに差をつけろ！　新劇拡張「神座桜縁起：後篇」を簡単解説」 — ねをんでした
     [https://note.com/fair_hebe229/n/nabfc5ca83e87](https://note.com/fair_hebe229/n/nabfc5ca83e87)
