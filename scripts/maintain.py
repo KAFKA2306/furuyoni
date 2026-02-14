@@ -257,42 +257,70 @@ def download_assets() -> None:
     return card_map
 
 
+    return card_map
+
+
 def build_card_map(doc_root: Path) -> Dict[str, str]:
-    """Scans megami docs to map image filenames to card names."""
+    """
+    Scans megami docs to map image filenames to card names.
+    Strategy:
+    1. Identify valid card names from headers (e.g. '### N1 Slash').
+    2. Map image filenames to these names if the image's Alt Text matches.
+    This prevents mapping generic terms like "Role" or "Cost" to card images.
+    """
     card_map = {}
-    pat = re.compile(
-        r"images/card/cards/[^/]+/([^/]+\.png).*?\n\s*(?:#+\s*|(?:\*\*|))([^\s*:\n#][^*:\n#]{0,30})(?:\*\*|)[:\n]",
-        re.MULTILINE,
-    )
+    
+    # Pattern for Headers: ### N1 Name or ### S1 Name
+    # We catch the name part.
+    header_pat = re.compile(r"^#{3}\s+[NS]\d+\s+(.+)$", re.MULTILINE)
+    
+    # Pattern for Images: ![Alt](Filename)
+    # We capture Alt and Filename.
+    img_pat = re.compile(r"!\[([^\]]*)\]\((?:[^)]*/)?([^/]+\.png)(?:\s.*?)?\)")
+
     for root, _, files in os.walk(doc_root / "megami"):
         for file in files:
             if file.endswith(".md") and file != "cards.md" and file != "index.md":
-                with open(Path(root) / file, "r", encoding="utf-8") as f:
+                p = Path(root) / file
+                with open(p, "r", encoding="utf-8") as f:
                     content = f.read()
-                    for m in pat.finditer(content):
-                        filename = m.group(1)
-                        # Clean up card name
-                        card_name = m.group(2).strip()
-                        card_name = card_name.replace("*", "").replace("`", "")
-                        
-                        # Filter out invalid names (markdown structure or HTML)
-                        if (
-                            not card_name
-                            or card_name.startswith("-") 
-                            or card_name.startswith("<")
-                            or "clear=" in card_name
-                            or "![" in card_name
-                            or "](" in card_name
-                            or "。" in card_name
-                            or "、" in card_name
-                            or card_name.startswith("「")
-                            or card_name.startswith("※")
-                            or re.match(r"^\d+\.", card_name)
-                            or len(card_name) > 20  # Card names shouldn't be long sentences
-                        ):
-                            continue
-                            
-                        card_map[filename] = card_name
+
+                # 1. Extract valid names from headers
+                valid_names = set()
+                for m in header_pat.finditer(content):
+                    raw_name = m.group(1).strip()
+                    # Clean up: remove reading in parens, e.g. "Name (Reading)" -> "Name"
+                    clean = re.split(r"[（(]", raw_name)[0].strip()
+                    
+                    # Remove markdown images/links: [![Alt](Url)] -> Alt, [Text](Url) -> Text
+                    # Regex to replace ![Alt](Url) with Alt
+                    clean = re.sub(r"!\[([^\]]*)\]\(.*?\)", r"\1", clean)
+                    # Regex to replace [Text](Url) with Text
+                    clean = re.sub(r"\[([^\]]+)\]\(.*?\)", r"\1", clean)
+                    
+                    clean = clean.strip()
+                    
+                    if clean:
+                        valid_names.add(clean)
+
+                # 2. Extract images and check against valid names
+                for m in img_pat.finditer(content):
+                    alt_text = m.group(1).strip()
+                    filename = m.group(2).strip()
+
+                    # Direct match
+                    if alt_text in valid_names:
+                        card_map[filename] = alt_text
+                        continue
+                    
+                    # Fallback: if alt text is part of a valid name or vice versa?
+                    # Be conservative. If alt text is "Slash", and header is "Slash", good.
+                    # If alt text is "Role", and no header "Role", we skip.
+                    
+                    # Special case: sometimes alt text is full name but header has extra info?
+                    # We already cleaned header.
+                    pass
+
     return card_map
 
 
