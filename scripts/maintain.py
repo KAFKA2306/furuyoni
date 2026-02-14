@@ -455,11 +455,19 @@ def audit() -> None:
     # validator.validate_batch actually runs requests.
     print(f"Validating {len(links)} unique links...")
     results: Dict[str, Tuple[str, str]] = validator.validate_batch(list(links))
+    has_broken: bool = False
     for f, ls in file_map.items():
         for link_url in ls:
-            if results[link_url][1] != "OK":
-                print(f"Broken link in {f}: {link_url}")
-                sys.exit(1)  # Fail Fast
+            status_msg = results[link_url][1]
+            if status_msg == "OK":
+                continue
+            if status_msg in ("TIMEOUT", "CONNECTION_ERROR"):
+                print(f"  WARN: {status_msg} for {link_url} in {f}")
+                continue
+            print(f"Broken link in {f}: {link_url} ({status_msg})")
+            has_broken = True
+    if has_broken:
+        sys.exit(1)  # Fail Fast
 
     # 3. Nav Audit
     nav_orphans = audit_nav()

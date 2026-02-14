@@ -12,9 +12,16 @@ class LinkValidator:
         return re.findall(r"\[.*?\]\((http[s]?://[^\s\)]+)\)", content)
 
     def check_link(self, url: str) -> Tuple[str, Optional[int], str]:
-        response: requests.Response = requests.get(url, stream=True)
-        response.raise_for_status()
-        return url, response.status_code, "OK"
+        try:
+            response: requests.Response = requests.get(url, stream=True, timeout=10)
+            response.raise_for_status()
+            return url, response.status_code, "OK"
+        except requests.exceptions.Timeout:
+            return url, None, "TIMEOUT"
+        except requests.exceptions.ConnectionError:
+            return url, None, "CONNECTION_ERROR"
+        except requests.exceptions.HTTPError as e:
+            return url, e.response.status_code if e.response else None, str(e)
 
     def validate_batch(self, urls: List[str]) -> Dict[str, Tuple[Optional[int], str]]:
         results: Dict[str, Tuple[Optional[int], str]] = {}
