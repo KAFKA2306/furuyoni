@@ -1,23 +1,28 @@
 ---
-description: 構造・内容・戦略の包括的リファイン（監査・レビュー・深化の統合）
+description: 構造・内容・戦略・整合性の包括的・破壊的リファイン
 ---
 
-# /refine — 包括的リファイン
+# /refine — 包括的マスターワークフロー
 
-`furuyoni_master` の全ペルソナ（7種）をフル活用し、構造・内容・戦略の全てを一挙に最適化する。
+`furuyoni_master` スキルの全ペルソナ（Inspector, Navigator, Hajime, Kenshin, Ruri, Sensei, Meijin）を統合し、ドキュメントの品質と整合性を極限まで高める。
 
 ## 手順
 
-1. `.agent/skills/furuyoni_master/SKILL.md` を読み込む。
+1. **多角的監査 (Multi-Pass Audit)**
+    - `.agent/skills/furuyoni_master/SKILL.md` を読み込み、全7ペルソナを適用して対象ファイルを批評する。
+    - 指摘事項を統合し、具体的かつ最小限の修正案（diff形式）を生成する。
 
-2. 以下の3段階で全自動リファインを実施：
-    - **構造監査 (Inspector/Navigator)**: セクション順序、リンク整合性、ナビゲーションの検証。
-    - **内容レビュー (Hajime/Kenshin/Ruri)**: 読みやすさ、戦略的妥当性、ルール正確性の検証。
-    - **戦略深化 (Sensei/Meijin)**: 実用的な具体性と Season 10 メタへの適合を強化。
+2. **自動メンテナンス (Auto-Fix)**
+    // turbo
+    - `npx ts-node src/main.ts fix` を実行し、リンク切れ修正、カード名同期、アセット更新、アンカー付与を一括適用する。
 
-3. 全指摘を統合し、優先度順に並べた包括的な diffパッチを生成する。
+3. **構造整合性検証 (Structural Audit)**
+    // turbo
+    - `npx ts-node src/main.ts audit` を実行し、ヘッダー構造、ナビゲーション、リンクの最終検証を行う。
 
-// turbo
-4. `notify_user` で提案を提示し、承認後に修正を一括適用する。
+4. **ビルド検証 (Build Verification)**
+    // turbo
+    - `uv run mkdocs build --strict` でサイト全体のビルドが正常であることを確認する。
 
-5. `uv run mkdocs build --strict` で最終的な整合性を検証する。
+5. **適用と報告**
+    - 全修正内容を `notify_user` で提示し、承認後に確定させる。

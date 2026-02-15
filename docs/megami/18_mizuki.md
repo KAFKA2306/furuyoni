@@ -1,4 +1,49 @@
-# ミズキ（兜）
+# ミズキ
+
+<div class="megami-hud" style="display: grid; grid-template-columns: 100px 1fr; gap: 20px; background: rgba(0,0,0,0.05); padding: 20px; border-radius: 10px; border-left: 5px solid #1a237e;">
+  <img src="../assets/images/chara/ico-18.png" width="100">
+  <div class="hud-content">
+    <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">【兜】ミズキ / Season 10</div>
+    <div style="display: flex; gap: 15px; font-size: 0.9em;">
+      <span>難易度: ★★☆☆☆</span>
+      <span>[間合](../mechanics.md#range): 0-5</span>
+      <span>タイプ: 要塞・防衛</span>
+      <span style="color: #d32f2f; font-weight: bold;">S10 Meta: Tier 1 (Defender)</span>
+    </div>
+  </div>
+</div>
+
+## S10 環境分析
+```mermaid
+graph LR
+    A[盾兵・槍兵による防衛] --> B(相手の連撃完全停止)
+    C[猛将化によるカウンター] --> D(防衛からのリーサル)
+    B --> E[ミズキは長期戦の主導権を握る]
+    D --> E
+```
+
+> [!IMPORTANT]
+> **S10 変更点**
+> - 『気炎万丈』の効果範囲が全攻撃に拡大。ライフダメージバフが以前の強力な仕様に回帰。
+
+## 戦略的タイムライン
+
+### Phase 1: 序盤
+- **目的**: 『陣頭』を使用し、兵士を配置。
+
+### Phase 2: 中盤
+- **目的**: 盾兵でダメージを最小化し、[フレア](../mechanics.md#flare)を貯める。
+
+### Phase 3: 終盤
+- **目的**: 三重膝丸櫓などの強力な一撃。
+
+## [通常札](../mechanics.md)
+
+| カード名 | 主な役割 | 特徴 |
+| :--- | :--- | :--- |
+| **陣頭** | 展開 | 兵士配置の起点。 |
+| **三重膝丸櫓** | 火力 | 条件達成で3/1攻撃。 |
+| **防壁** | 防御 | 盾兵によるダメージ軽減。 |
 
 ## 概要
 
