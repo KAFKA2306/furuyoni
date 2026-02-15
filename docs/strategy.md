@@ -190,7 +190,7 @@
 ## ペア攻略一覧
 
 1. <span id="yurina-saine"></span>刀薙（[ユリナ](megami/01_yurina.md)／[サイネ](megami/02_saine.md)）
-   中距離（[間合](mechanics.md#range)3〜5）で「大型[切札](mechanics.md)2枚＋条件達成での火力跳ね上がり」を押し付けて圧殺する、王道の高打点ミッドレンジです。[決死](mechanics.md#kesshi)や[八相](mechanics.md#hasso)の条件が噛むと打点が異常値になり、相手の受けの設計を破壊します。一方で機動力が乏しいので、遠距離レンジロックや超近距離クリンチに寄せられるとプランが崩れやすいです。([Hikari Fryn][2])
+   中距離（[間合](mechanics.md#range)3〜5）で「大型[切札](mechanics.md)2枚＋条件達成での火力跳ね上がり」を押し付けて圧殺する、王道の高打点ミッドレンジです。[決死](mechanics.md#kesshi)や[八相](mechanics.md#hasso)の条件が噛むと打点が異常値になり、相手の受けの設計を破壊します。一方で機動力が乏しいので、遠距離レンジロックや超近距離クリンチに寄せられるとプランが崩れやすいです。
 
 
 <div class="grid cards" markdown>
@@ -253,7 +253,7 @@
 </div></details>
 
 2. <span id="yurina-tokoyo"></span>刀扇（[ユリナ](megami/01_yurina.md)／[トコヨ](megami/04_tokoyo.md)）
-   [ユリナ](megami/01_yurina.md)の素直な殴り合い性能に、[トコヨ](megami/04_tokoyo.md)の「対応（カウンター）や安定性」を足して、攻防バランスを“丸く強く”した型です。相手に合わせて構築を調整しやすく、初心者でも上級者でも握り続けられる基礎体力があります。「困ったら刀扇」になりやすい代表格です。([ふるよにしたいヤシロの書][3])
+   [ユリナ](megami/01_yurina.md)の素直な殴り合い性能に、[トコヨ](megami/04_tokoyo.md)の「対応（カウンター）や安定性」を足して、攻防バランスを“丸く強く”した型です。相手に合わせて構築を調整しやすく、初心者でも上級者でも握り続けられる基礎体力があります。「困ったら刀扇」になりやすい代表格です。
 
 
 <div class="grid cards" markdown>
@@ -314,7 +314,7 @@
 </div></details>
 
 3. <span id="saine-tokoyo"></span>薙扇（[サイネ](megami/02_saine.md)／[トコヨ](megami/04_tokoyo.md)）
-   防御手段が非常に厚く、条件（[八相](mechanics.md#hasso)・[境地](mechanics.md#kyochi)）を満たすと攻防が高水準にまとまり、対応札の多さで相手にケアを強制する“万能コントロール寄り”です。回れば多くの相手に互角以上を取りやすい反面、条件管理の精度が要求され、プレイが雑だとただ遅いデッキになりがちです。([Hikari Fryn][4])
+   防御手段が非常に厚く、条件（[八相](mechanics.md#hasso)・[境地](mechanics.md#kyochi)）を満たすと攻防が高水準にまとまり、対応札の多さで相手にケアを強制する“万能コントロール寄り”です。回れば多くの相手に互角以上を取りやすい反面、条件管理の精度が要求され、プレイが雑だとただ遅いデッキになりがちです。
 
 
 <div class="grid cards" markdown>
@@ -375,7 +375,7 @@
 </div></details>
 
 4. <span id="himika-tokoyo"></span>銃扇（[ヒミカ](megami/03_himika.md)／[トコヨ](megami/04_tokoyo.md)）
-   序盤の[連火](mechanics.md#renka)を絡めた攻め（[ヒミカ](megami/03_himika.md)）と、近中距離のコントロールや遠距離の[切札](mechanics.md)圧（[トコヨ](megami/04_tokoyo.md)）を両立し、「近くも遠くもやれる」せいで相手の対策方針を迷わせる型です。強い出し方は“どちらかに寄せて尖らせる”ことで、バランス取り過ぎると決め手が薄くなります。([Hikari Fryn][5])
+   序盤の[連火](mechanics.md#renka)を絡めた攻め（[ヒミカ](megami/03_himika.md)）と、近中距離のコントロールや遠距離の[切札](mechanics.md)圧（[トコヨ](megami/04_tokoyo.md)）を両立し、「近くも遠くもやれる」せいで相手の対策方針を迷わせる型です。強い出し方は“どちらかに寄せて尖らせる”ことで、バランス取り過ぎると決め手が薄くなります。
 
 
 <div class="grid cards" markdown>
@@ -432,7 +432,7 @@
 </div></details>
 
 5. <span id="saine-himika"></span>薙銃（[サイネ](megami/02_saine.md)／[ヒミカ](megami/03_himika.md)）
-   「遠距離レンジロック」「[後退](mechanics.md#retreat)しながらの攻撃」「[連火](mechanics.md#renka)の打点ブースト」などで、1巡目と中盤以降に“まとまった攻撃の波”を2回作って勝つプランが代表的です。相手は距離と受けの両方にケアが必要で、ミスると一気に[ライフ](mechanics.md#life)が溶けます。([Hikari Fryn][6])
+   「遠距離レンジロック」「[後退](mechanics.md#retreat)しながらの攻撃」「[連火](mechanics.md#renka)の打点ブースト」などで、1巡目と中盤以降に“まとまった攻撃の波”を2回作って勝つプランが代表的です。相手は距離と受けの両方にケアが必要で、ミスると一気に[ライフ](mechanics.md#life)が溶けます。
 
 
 <div class="grid cards" markdown>
@@ -491,7 +491,7 @@
 </div></details>
 
 6. <span id="yurina-oboro"></span>刀忍（[ユリナ](megami/01_yurina.md)／[オボロ](megami/05_oboro.md)）
-   近距離（特に[間合](mechanics.md#range)2付近）でのビートダウンが極めて強く、[オボロ](megami/05_oboro.md)の[設置](mechanics.md#setchi)で利得を稼ぎつつ、[ユリナ](megami/01_yurina.md)の[切札](mechanics.md)で決め切る“シンプルでパワフル”な型です。弱点は極端で、遠距離レンジロックやクリンチ（[間合](mechanics.md#range)0に押し込む）に寄せられると攻撃が振れなくなりやすいです。([Hikari Fryn][7])
+   近距離（特に[間合](mechanics.md#range)2付近）でのビートダウンが極めて強く、[オボロ](megami/05_oboro.md)の[設置](mechanics.md#setchi)で利得を稼ぎつつ、[ユリナ](megami/01_yurina.md)の[切札](mechanics.md)で決め切る“シンプルでパワフル”な型です。弱点は極端で、遠距離レンジロックやクリンチ（[間合](mechanics.md#range)0に押し込む）に寄せられると攻撃が振れなくなりやすいです。
 
 
 <div class="grid cards" markdown>
@@ -552,7 +552,7 @@
 </div></details>
 
 7. <span id="oboro-yukihi"></span>忍傘（[オボロ](megami/05_oboro.md)／[ユキヒ](megami/06_yukihi.md)）
-   [設置](mechanics.md#setchi)で利得を稼ぐ[オボロ](megami/05_oboro.md)と、傘の[開閉](mechanics.md#kaihei)で得意[間合](mechanics.md#range)が変わる[ユキヒ](megami/06_yukihi.md)を合わせ、クロック的に削りながら終盤にリーサルを作る型が有名です。特定対面（レンジロック相手など）への回答として刺さりやすく、回り始めると相手が追いつけない展開になりますが、ループが止まる条件（大きい被弾、[後退](mechanics.md#retreat)不能など）を踏むと一気に破綻します。([Hikari Fryn][8])
+   [設置](mechanics.md#setchi)で利得を稼ぐ[オボロ](megami/05_oboro.md)と、傘の[開閉](mechanics.md#kaihei)で得意[間合](mechanics.md#range)が変わる[ユキヒ](megami/06_yukihi.md)を合わせ、クロック的に削りながら終盤にリーサルを作る型が有名です。特定対面（レンジロック相手など）への回答として刺さりやすく、回り始めると相手が追いつけない展開になりますが、ループが止まる条件（大きい被弾、[後退](mechanics.md#retreat)不能など）を踏むと一気に破綻します。
 
 
 <div class="grid cards" markdown>
@@ -609,7 +609,7 @@
 </div></details>
 
 8. <span id="saine-shinra"></span>「書」[シンラ](megami/07_shinra.md)系（例：薙書＝[サイネ](megami/02_saine.md)／[シンラ](megami/07_shinra.md)、ほか[シンラ](megami/07_shinra.md)核）
-   [シンラ](megami/07_shinra.md)は「相手のデッキギミック破壊」「悠長なプランの否定」「レンジロック補助・対抗」など、“ふるよにの基本構造から外れた勝ち筋”を取り締まるのが強みで、相方の火力補助やサブ火力も担えます。薙書のように、相方でビートもコントロールもカバーできる組み合わせはデッキタイプの射程が広く、対面適応力が高いのが売りです。([へくとぱ雑文投棄所][9])
+   [シンラ](megami/07_shinra.md)は「相手のデッキギミック破壊」「悠長なプランの否定」「レンジロック補助・対抗」など、“ふるよにの基本構造から外れた勝ち筋”を取り締まるのが強みで、相方の火力補助やサブ火力も担えます。薙書のように、相方でビートもコントロールもカバーできる組み合わせはデッキタイプの射程が広く、対面適応力が高いのが売りです。
 
 <div class="grid cards" markdown>
 
@@ -667,7 +667,7 @@
 </div></details>
 
 9. <span id="saine-yukihi"></span>薙傘（[サイネ](megami/02_saine.md)／[ユキヒ](megami/06_yukihi.md)）
-   [ユキヒ](megami/06_yukihi.md)の「閉」攻撃で[サイネ](megami/02_saine.md)の隙を埋めつつ、[間合](mechanics.md#range)5-7を維持して一方的に殴り続けるミッドレンジ構成。[サイネ](megami/02_saine.md)のリソース不足を[ユキヒ](megami/06_yukihi.md)が補い、[八相](mechanics.md#hasso)状態の火力を最大限に活かします。やや決定力に欠けるため、[切札](mechanics.md)の通し場所を見極める必要があります。([THTF's DustBox][10])
+   [ユキヒ](megami/06_yukihi.md)の「閉」攻撃で[サイネ](megami/02_saine.md)の隙を埋めつつ、[間合](mechanics.md#range)5-7を維持して一方的に殴り続けるミッドレンジ構成。[サイネ](megami/02_saine.md)のリソース不足を[ユキヒ](megami/06_yukihi.md)が補い、[八相](mechanics.md#hasso)状態の火力を最大限に活かします。やや決定力に欠けるため、[切札](mechanics.md)の通し場所を見極める必要があります。
 
 <div class="grid cards" markdown>
 

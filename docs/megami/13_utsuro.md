@@ -89,7 +89,7 @@
 
 <br clear="all">
 
-### N5 [![虚偽](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_13_o_n/na_13_o_n_5.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_13_o_n/na_13_o_n_5.png){ .glightbox }
+### N5 [![虚偽](../assets/images/card/cards/na_13_o_n/na_13_o_n_5.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_5.png){ .glightbox }
 
 [![虚偽](../assets/images/card/cards/na_13_o_n/na_13_o_n_5.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_5.png){ align=left width=150 }
 

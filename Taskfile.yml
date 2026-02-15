@@ -23,27 +23,20 @@ tasks:
   fix:
     desc: "Auto-fix code, format, and assets (Destructive)"
     cmds:
-      - uv run ruff check . --fix
-      - uv run ruff format .
-      - uv run scripts/maintain.py add-links
-      - uv run scripts/maintain.py sync-cards
-      - uv run scripts/maintain.py download-assets
-      - uv run scripts/maintain.py add-anchors
+      - npx ts-node src/main.ts fix
 
   check:
     desc: "Run all checks and audits (Read-only)"
     cmds:
-      - uv run ruff check .
-      - uv run ruff format . --check
-      - uv run scripts/maintain.py audit
+      - npx ts-node src/main.ts audit
       - uv run mkdocs build --strict
 
   init:
     desc: "Initialize project environment"
     cmds:
       - git init
+      - npm install
       - uv init .
-      - uv add --dev ruff
-      - uv add pyyaml pydantic requests mkdocs mkdocs-material
+      - uv add mkdocs mkdocs-material
       - git add .
       - git commit -m "init"

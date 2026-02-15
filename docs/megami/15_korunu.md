@@ -47,7 +47,7 @@
 
 ## [通常札](../mechanics.md)解説
 
-### N1 [![凍てつく足影](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_1.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_1.png){ .glightbox }
+### N1 [![凍てつく足影](../assets/images/card/cards/na_15_o_n/na_15_o_n_1.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_1.png){ .glightbox }
 
 [![凍てつく足影](../assets/images/card/cards/na_15_o_n/na_15_o_n_1.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_1.png){ align=left width=150 }
 
@@ -58,7 +58,7 @@
 
 <br clear="all">
 
-### N2 [![霜降らし](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_2.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_2.png){ .glightbox }
+### N2 [![霜降らし](../assets/images/card/cards/na_15_o_n/na_15_o_n_2.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_2.png){ .glightbox }
 
 [![霜降らし](../assets/images/card/cards/na_15_o_n/na_15_o_n_2.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_2.png){ align=left width=150 }
 
@@ -69,7 +69,7 @@
 
 <br clear="all">
 
-### N3 [![雪渡り](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_3.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_3.png){ .glightbox }
+### N3 [![雪渡り](../assets/images/card/cards/na_15_o_n/na_15_o_n_3.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_3.png){ .glightbox }
 
 [![雪渡り](../assets/images/card/cards/na_15_o_n/na_15_o_n_3.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_3.png){ align=left width=150 }
 
@@ -80,7 +80,7 @@
 
 <br clear="all">
 
-### N4 [![氷の棘](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_4.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_4.png){ .glightbox }
+### N4 [![氷の棘](../assets/images/card/cards/na_15_o_n/na_15_o_n_4.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_4.png){ .glightbox }
 
 [![氷の棘](../assets/images/card/cards/na_15_o_n/na_15_o_n_4.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_4.png){ align=left width=150 }
 
@@ -93,7 +93,7 @@
 
 <br clear="all">
 
-### N5 [![氷柱](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_5.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_5.png){ .glightbox }
+### N5 [![氷柱](../assets/images/card/cards/na_15_o_n/na_15_o_n_5.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_5.png){ .glightbox }
 
 [![氷柱](../assets/images/card/cards/na_15_o_n/na_15_o_n_5.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_5.png){ align=left width=150 }
 
@@ -115,14 +115,14 @@
 
 <br clear="all">
 
-### N7 [![氷の床](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_7.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }
+### N7 [![氷の床](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }
 
 [![氷の床](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ align=left width=150 }
 
 役割: トラップ / 滑走
 
 *   **解説**:
-    盤面に「[![氷の床](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_7.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }」を[設置](../mechanics.md#setchi)し、足を踏み入れた相手を思わぬ方向へ滑らせます。意図しない[間合](../mechanics.md#range)変化は、コンボメガミにとって最大の脅威です。
+    盤面に「[![氷の床](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }」を[設置](../mechanics.md#setchi)し、足を踏み入れた相手を思わぬ方向へ滑らせます。意図しない[間合](../mechanics.md#range)変化は、コンボメガミにとって最大の脅威です。
 
 <br clear="all">
 
@@ -176,14 +176,14 @@
 [オーラ](../mechanics.md#aura)と[フレア](../mechanics.md#flare)の両面を[凍結](../mechanics.md#freeze)し続け、相手に「ふるよに」というゲームをさせないスタイル。
 
 *   **基本戦術**:
-    1. 序盤から『[![霜降らし](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_2.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_2.png){ .glightbox }』で[オーラ](../mechanics.md#aura)を凍らせ、[纏い](../mechanics.md#matoy)を封じる。
+    1. 序盤から『[![霜降らし](../assets/images/card/cards/na_15_o_n/na_15_o_n_2.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_2.png){ .glightbox }』で[オーラ](../mechanics.md#aura)を凍らせ、[纏い](../mechanics.md#matoy)を封じる。
     2. [フレア](../mechanics.md#flare)が貯まりそうなタイミングで『凍天』を投入。
     3. 相手が解凍にリソースを割いている間に、安全圏から削る。
 *   **推奨パートナー**: [シンラ](07_shinra.md)(書)、[ウツロ](13_utsuro.md)(鎌)
 
 ### 2. 氷結追撃ビートダウン
 **「凍らせて、砕く。」**
-[凍結](../mechanics.md#freeze)をダメージバフとして活用し、高打点の『[![氷の棘](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_4.png)](https://main-bakafire.ssl-lolipop.jp/furuyoni/na/images/card/cards/na_15_o_n/na_15_o_n_4.png){ .glightbox }』や[切札](../mechanics.md)で一気に決着を狙う。
+[凍結](../mechanics.md#freeze)をダメージバフとして活用し、高打点の『[![氷の棘](../assets/images/card/cards/na_15_o_n/na_15_o_n_4.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_4.png){ .glightbox }』や[切札](../mechanics.md)で一気に決着を狙う。
 
 *   **基本戦術**:
     1. 最低限の[凍結](../mechanics.md#freeze)を維持し、攻撃札の条件を満たす。
