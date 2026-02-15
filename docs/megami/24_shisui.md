@@ -44,20 +44,57 @@ graph LR
 
 | カード名 | 主な役割 | 特徴 | S10 特記事項 |
 | :--- | :--- | :--- | :--- |
-| **鋸斬り** | 主力攻撃 | 2/2 相手に裂傷付与 | 基本性能の塊。 |
-| **刻み刃** | 継続火力 | 1/1 攻撃後、裂傷を深める | オーラを剥がした後に有効。 |
-| **茨道** | 位置調整 | 移動 + 相手に裂傷 | レンジロック対策の要。 |
-| **反乱撃** | 自己強化 | 自身の裂傷を火力に変換 | **リーサルパーツ**。 |
-| **金屑纏い** | リソース | 相手リソース奪取 + 自オーラ回復 | 粘り強く戦うために。 |
-| **徹底抗戦** | 妨害 | 攻撃を裂傷化して与える | 相手の「構築」を狂わせる。 |
+| **[![鋸斬り](../assets/images/card/cards/na_24_o_n/na_24_o_n_1.png)](../assets/images/card/cards/na_24_o_n/na_24_o_n_1.png){ .glightbox }** | 主力攻撃 | 2/2 相手に裂傷付与 | 基本性能の塊。 |
+| **[![刻み刃](../assets/images/card/cards/na_24_o_n/na_24_o_n_2.png)](../assets/images/card/cards/na_24_o_n/na_24_o_n_2.png){ .glightbox }** | 継続火力 | 1/1 攻撃後、裂傷を深める | [オーラ](../mechanics.md#aura)を剥がした後に有効。 |
+| **[![茨道](../assets/images/card/cards/na_24_o_n/na_24_o_n_3.png)](../assets/images/card/cards/na_24_o_n/na_24_o_n_3.png){ .glightbox }** | 位置調整 | 移動 + 相手に裂傷 | レンジロック対策の要。 |
+| **[![反乱撃](../assets/images/card/cards/na_24_o_n/na_24_o_n_4.png)](../assets/images/card/cards/na_24_o_n/na_24_o_n_4.png){ .glightbox }** | 自己強化 | 自身の裂傷を火力に変換 | **リーサルパーツ**。 |
+| **[![金屑纏い](../assets/images/card/cards/na_24_o_n/na_24_o_n_5.png)](../assets/images/card/cards/na_24_o_n/na_24_o_n_5.png){ .glightbox }** | リソース | 相手リソース奪取 + 自オーラ回復 | 粘り強く戦うために。 |
+| **[![徹底抗戦](../assets/images/card/cards/na_24_o_n/na_24_o_n_6.png)](../assets/images/card/cards/na_24_o_n/na_24_o_n_6.png){ .glightbox }** | 妨害 | 攻撃を裂傷化して与える | 相手の「構築」を狂わせる。 |
+| **[![蹂躙](../assets/images/card/cards/na_24_o_n/na_24_o_n_7.png)](../assets/images/card/cards/na_24_o_n/na_24_o_n_7.png){ .glightbox }** | 強襲 | 高い貫通力を持つ全力攻撃。 | 一気にライフを削る。 |
 
 ## [切札](../mechanics.md)：必殺の定義
 
 | 名称 | コスト | 種別 | 解説 |
-| :--- | :---: | :--- | :--- |
-| **ハドマギリ** | 2 | 攻撃 | **フィニッシャー**。裂傷ダメージを即座に処理する。 |
-| **ウバラザキ** | 5 | 攻撃 | [フレア](../mechanics.md#flare)裂傷によるリソース破壊。 |
-| **アブダグイ** | 3 | 対応 | **防御の要**。致命傷を避けるためのクッション。 |
+| :--- | :--- | :--- | :--- |
+| **[![ハドマギリ](../assets/images/card/cards/na_24_o_s/na_24_o_s_1.png)](../assets/images/card/cards/na_24_o_s/na_24_o_s_1.png){ .glightbox }** | 2 | 攻撃 | **フィニッシャー**。裂傷ダメージを即座に処理する。 |
+| **[![ウバラザキ](../assets/images/card/cards/na_24_o_s/na_24_o_s_2.png)](../assets/images/card/cards/na_24_o_s/na_24_o_s_2.png){ .glightbox }** | 5 | 攻撃 | [フレア](../mechanics.md#flare)裂傷によるリソース破壊。 |
+| **[![アブダグイ](../assets/images/card/cards/na_24_o_s/na_24_o_s_3.png)](../assets/images/card/cards/na_24_o_s/na_24_o_s_3.png){ .glightbox }** | 3 | 対応 | **防御の要**。致命傷を避けるためのクッション。 |
+| **[![ヂーガデハド](../assets/images/card/cards/na_24_o_s/na_24_o_s_4.png)](../assets/images/card/cards/na_24_o_s/na_24_o_s_4.png){ .glightbox }** | 4 | 攻撃 | 裂傷の多さに応じて威力が跳ね上がる一撃。 |
+
+## カード個別解説
+
+### N10 鋸斬り
+裂傷の起点となる、シスイの基本攻撃。
+
+### N10 刻み刃
+連続して裂傷を与えることで、相手の[ライフ](../mechanics.md#life)を追い詰める。
+
+### N10 茨道
+間合を詰めつつ、相手に裂傷のプレッシャーを与える[移動](#移動)札。
+
+### N10 反乱撃
+自身が負った裂傷を糧に、破壊的な一撃を放つ。
+
+### N10 金屑纏い
+裂傷を負いながらも、自身の[オーラ](../mechanics.md#aura)を強固に保つ。
+
+### N10 徹底抗戦
+相手の攻撃計算を狂わせ、裂傷によるジレンマを強いる。
+
+### N10 蹂躙
+相手の防御を嘲笑うかのような、圧倒的な全力攻撃。
+
+### S10 ハドマギリ
+裂傷という「時限爆弾」を即座に爆発させる、シスイの代表的[切札](../mechanics.md)。
+
+### S10 ウバラザキ
+相手のエネルギー（[フレア](../mechanics.md#flare)）さえも裂傷で食いつぶす。
+
+### S10 アブダグイ
+いかなる窮地も裂傷として受け流す、驚異の[対応](#対応)札。
+
+### S10 ヂーガデハド
+シスイの狂気が頂点に達した時、すべてを無に帰す暗黒の刃。
 
 ## アンチメガミ・相性
 - **得意**: 耐久力の低いメガミ、またはリソース供給が細いメガミ（[アキナ](23_akina.md)等とのリソース合戦）。

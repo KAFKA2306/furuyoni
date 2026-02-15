@@ -142,6 +142,103 @@ export const cards = {
     "images/card/cards/na_16_o_n/na_16_o_n_5.png",
     "images/card/cards/na_16_o_n/na_16_o_n_6.png",
     "images/card/cards/na_16_o_n/na_16_o_n_7.png"
+  ],
+  "ハツミ": [
+    "images/card/cards/na_17_o_n/na_17_o_n_1.png",
+    "images/card/cards/na_17_o_n/na_17_o_n_2.png",
+    "images/card/cards/na_17_o_n/na_17_o_n_3.png",
+    "images/card/cards/na_17_o_n/na_17_o_n_4.png",
+    "images/card/cards/na_17_o_n/na_17_o_n_5.png",
+    "images/card/cards/na_17_o_n/na_17_o_n_6.png",
+    "images/card/cards/na_17_o_n/na_17_o_n_7.png",
+    "images/card/cards/na_17_o_s/na_17_o_s_1.png",
+    "images/card/cards/na_17_o_s/na_17_o_s_2.png",
+    "images/card/cards/na_17_o_s/na_17_o_s_3.png"
+  ],
+  "ミズキ": [
+    "images/card/cards/na_18_o_n/na_18_o_n_1.png",
+    "images/card/cards/na_18_o_n/na_18_o_n_2.png",
+    "images/card/cards/na_18_o_n/na_18_o_n_3.png",
+    "images/card/cards/na_18_o_n/na_18_o_n_4.png",
+    "images/card/cards/na_18_o_n/na_18_o_n_5.png",
+    "images/card/cards/na_18_o_n/na_18_o_n_6.png",
+    "images/card/cards/na_18_o_n/na_18_o_n_7.png",
+    "images/card/cards/na_18_o_s/na_18_o_s_1.png",
+    "images/card/cards/na_18_o_s/na_18_o_s_2.png",
+    "images/card/cards/na_18_o_s/na_18_o_s_3.png"
+  ],
+  "メグミ": [
+    "images/card/cards/na_19_o_n/na_19_o_n_1.png",
+    "images/card/cards/na_19_o_n/na_19_o_n_2.png",
+    "images/card/cards/na_19_o_n/na_19_o_n_3.png",
+    "images/card/cards/na_19_o_n/na_19_o_n_4.png",
+    "images/card/cards/na_19_o_n/na_19_o_n_5.png",
+    "images/card/cards/na_19_o_n/na_19_o_n_6.png",
+    "images/card/cards/na_19_o_n/na_19_o_n_7.png",
+    "images/card/cards/na_19_o_s/na_19_o_s_1.png",
+    "images/card/cards/na_19_o_s/na_19_o_s_2.png",
+    "images/card/cards/na_19_o_s/na_19_o_s_3.png"
+  ],
+  "カナヱ": [
+    "images/card/cards/na_20_o_n/na_20_o_n_1.png",
+    "images/card/cards/na_20_o_n/na_20_o_n_2.png",
+    "images/card/cards/na_20_o_n/na_20_o_n_3.png",
+    "images/card/cards/na_20_o_n/na_20_o_n_4.png",
+    "images/card/cards/na_20_o_n/na_20_o_n_5.png",
+    "images/card/cards/na_20_o_n/na_20_o_n_6.png",
+    "images/card/cards/na_20_o_n/na_20_o_n_7.png",
+    "images/card/cards/na_20_o_s/na_20_o_s_1.png",
+    "images/card/cards/na_20_o_s/na_20_o_s_2.png",
+    "images/card/cards/na_20_o_s/na_20_o_s_3.png"
+  ],
+  "カムヰ": [
+    "images/card/cards/na_21_o_n/na_21_o_n_1.png",
+    "images/card/cards/na_21_o_n/na_21_o_n_2.png",
+    "images/card/cards/na_21_o_n/na_21_o_n_3.png",
+    "images/card/cards/na_21_o_n/na_21_o_n_4.png",
+    "images/card/cards/na_21_o_n/na_21_o_n_5.png",
+    "images/card/cards/na_21_o_n/na_21_o_n_6.png",
+    "images/card/cards/na_21_o_n/na_21_o_n_7.png",
+    "images/card/cards/na_21_o_s/na_21_o_s_1.png",
+    "images/card/cards/na_21_o_s/na_21_o_s_2.png",
+    "images/card/cards/na_21_o_s/na_21_o_s_3.png",
+    "images/card/cards/na_21_o_s/na_21_o_s_4.png"
+  ],
+  "レンリ": [
+    "images/card/cards/na_22_o_n/na_22_o_n_1.png",
+    "images/card/cards/na_22_o_n/na_22_o_n_2.png",
+    "images/card/cards/na_22_o_n/na_22_o_n_3.png",
+    "images/card/cards/na_22_o_n/na_22_o_n_4.png",
+    "images/card/cards/na_22_o_n/na_22_o_n_5.png",
+    "images/card/cards/na_22_o_n/na_22_o_n_6.png",
+    "images/card/cards/na_22_o_n/na_22_o_n_7.png",
+    "images/card/cards/na_22_o_s/na_22_o_s_1.png",
+    "images/card/cards/na_22_o_s/na_22_o_s_2.png",
+    "images/card/cards/na_22_o_s/na_22_o_s_3.png"
+  ],
+  "アキナ": [
+    "images/card/cards/na_23_o_n/na_23_o_n_1.png",
+    "images/card/cards/na_23_o_n/na_23_o_n_2.png",
+    "images/card/cards/na_23_o_n/na_23_o_n_3.png",
+    "images/card/cards/na_23_o_n/na_23_o_n_4.png",
+    "images/card/cards/na_23_o_n/na_23_o_n_5.png",
+    "images/card/cards/na_23_o_n/na_23_o_n_6.png",
+    "images/card/cards/na_23_o_n/na_23_o_n_7.png",
+    "images/card/cards/na_23_o_s/na_23_o_s_1.png",
+    "images/card/cards/na_23_o_s/na_23_o_s_2.png",
+    "images/card/cards/na_23_o_s/na_23_o_s_3.png"
+  ],
+  "シスイ": [
+    "images/card/cards/na_24_o_n/na_24_o_n_1.png",
+    "images/card/cards/na_24_o_n/na_24_o_n_2.png",
+    "images/card/cards/na_24_o_n/na_24_o_n_3.png",
+    "images/card/cards/na_24_o_n/na_24_o_n_4.png",
+    "images/card/cards/na_24_o_n/na_24_o_n_5.png",
+    "images/card/cards/na_24_o_n/na_24_o_n_6.png",
+    "images/card/cards/na_24_o_n/na_24_o_n_7.png",
+    "images/card/cards/na_24_o_s/na_24_o_s_1.png",
+    "images/card/cards/na_24_o_s/na_24_o_s_2.png",
+    "images/card/cards/na_24_o_s/na_24_o_s_3.png"
   ]
 };
 export const portraits = {
@@ -160,7 +257,15 @@ export const portraits = {
   "ウツロ": "images/chara/ico-13.png",
   "ホノカ": "images/chara/ico-14.png",
   "コルヌ": "images/chara/ico-15.png",
-  "ヤツハ": "images/chara/ico-16.png"
+  "ヤツハ": "images/chara/ico-16.png",
+  "ハツミ": "images/chara/ico-17.png",
+  "ミズキ": "images/chara/ico-18.png",
+  "メグミ": "images/chara/ico-19.png",
+  "カナヱ": "images/chara/ico-20.png",
+  "カムヰ": "images/chara/ico-21.png",
+  "レンリ": "images/chara/ico-22.png",
+  "アキナ": "images/chara/ico-23.png",
+  "シスイ": "images/chara/ico-24.png"
 };
 export const pairs = [
   {
@@ -244,4 +349,4 @@ export const pairs = [
     cons: "決定打を出すまでが遅く、火力で押し切られる展開を完全に防ぎきるのは困難です。"
   }
 ];
-export const baseUrl = "https:
+export const baseUrl = "https://main-bakafire.ssl-lolipop.jp/furuyoni/na/";
