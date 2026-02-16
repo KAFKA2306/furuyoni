@@ -16,7 +16,7 @@
 
 ## 物語の起源：クルル
 
-> 「[![くるるーん](../assets/images/card/cards/na_10_o_n/na_10_o_n_3.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_3.png){ .glightbox }♪ 発明は爆発なのです！ この世界をまるごと、私の絡繰にして差し上げます！」
+> 「くるるーん♪ 発明は爆発なのです！ この世界をまるごと、私の絡繰にして差し上げます！」
 
 クルルは、未知の技術と奇想天外な発想で「絡繰」を創り出す、天才（あるいは狂気）のメガミです。
 彼女の起源は、常識を打ち破ろうとする止まらない知的好奇心と、万物を「理論と歯車」で再構築しようとする独創性にあります。彼女にとって、世界の理は難解なパズルのようなものであり、それを解き明かすために自らの発明品を惜しみなく投入します。
@@ -37,15 +37,15 @@
 シーズン10（大[切札](../rules.md)時代）において、クルルは「コンボの頂点」として君臨しています。
 
 *   **大[切札](../rules.md)との親和性**: 相方のメガミが持つ強力な大[切札](../rules.md)をコピーしたり、再利用したりする能力に長けており、環境を定義するような巨大コンボの起点となります。
-*   **機動性の向上**: 『[![くるるーん](../assets/images/card/cards/na_10_o_n/na_10_o_n_3.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_3.png){ .glightbox }』や『[![あくせらー](../assets/images/card/cards/na_10_o_n/na_10_o_n_2.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_2.png){ .glightbox }』といった補助札の調整により、以前よりも柔軟に盤面を構築できるようになっています。
+*   **機動性の向上**: 『くるるーん』や『あくせらー』といった補助札の調整により、以前よりも柔軟に盤面を構築できるようになっています。
 
 ---
 
 ## [通常札](../rules.md)解説
 
-### N1 [![えれきてる](../assets/images/card/cards/na_10_o_n/na_10_o_n_1.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_1.png){ .glightbox }
+### N1 えれきてる
 
-[![えれきてる](../assets/images/card/cards/na_10_o_n/na_10_o_n_1.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_1.png){ align=left width=150 }
+えれきてる
 
 役割: 主力攻撃 / [機巧](../rules.md#mechanism)の核
 
@@ -55,9 +55,9 @@
 
 <br clear="all">
 
-### N2 [![あくせらー](../assets/images/card/cards/na_10_o_n/na_10_o_n_2.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_2.png){ .glightbox }
+### N2 あくせらー
 
-[![あくせらー](../assets/images/card/cards/na_10_o_n/na_10_o_n_2.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_2.png){ align=left width=150 }
+あくせらー
 
 役割: 加速 / ドロー
 
@@ -66,9 +66,9 @@
 
 <br clear="all">
 
-### N3 [![くるるーん](../assets/images/card/cards/na_10_o_n/na_10_o_n_3.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_3.png){ .glightbox }
+### N3 くるるーん
 
-[![くるるーん](../assets/images/card/cards/na_10_o_n/na_10_o_n_3.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_3.png){ align=left width=150 }
+くるるーん
 
 役割: 再利用 / 回路修復
 
@@ -77,9 +77,9 @@
 
 <br clear="all">
 
-### N4 [![とるねーど](../assets/images/card/cards/na_10_o_n/na_10_o_n_4.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_4.png){ .glightbox }
+### N4 とるねーど
 
-[![とるねーど](../assets/images/card/cards/na_10_o_n/na_10_o_n_4.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_4.png){ align=left width=150 }
+とるねーど
 
 役割: 範囲攻撃 / 盤面攪乱
 
@@ -88,9 +88,9 @@
 
 <br clear="all">
 
-### N5 [![りげいなー](../assets/images/card/cards/na_10_o_n/na_10_o_n_5.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_5.png){ .glightbox }
+### N5 りげいなー
 
-[![りげいなー](../assets/images/card/cards/na_10_o_n/na_10_o_n_5.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_5.png){ align=left width=150 }
+りげいなー
 
 役割: リソース回収 / 安定化
 
@@ -99,9 +99,9 @@
 
 <br clear="all">
 
-### N6 [![もじゅるー](../assets/images/card/cards/na_10_o_n/na_10_o_n_6.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_6.png){ .glightbox }
+### N6 もじゅるー
 
-[![もじゅるー](../assets/images/card/cards/na_10_o_n/na_10_o_n_6.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_6.png){ align=left width=150 }
+もじゅるー
 
 役割: モジュール強化 / 付与バフ
 
@@ -110,9 +110,9 @@
 
 <br clear="all">
 
-### N7 [![だうじんぐ](../assets/images/card/cards/na_10_o_n/na_10_o_n_7.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_7.png){ .glightbox }
+### N7 だうじんぐ
 
-[![だうじんぐ](../assets/images/card/cards/na_10_o_n/na_10_o_n_7.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_7.png){ align=left width=150 }
+だうじんぐ
 
 役割: サーチ / 索敵
 
@@ -127,7 +127,7 @@
 
 ### S1 びっぐごーれむ
 
-[![びっぐごーれむ](../assets/images/card/cards/na_10_o_s/na_10_o_s_1.png)](../assets/images/card/cards/na_10_o_s/na_10_o_s_1.png){ align=left width=150 }
+びっぐごーれむ
 
 **コスト**: 6
 **種別**: 攻撃 (大規模)
@@ -140,7 +140,7 @@
 
 ### S2 いんだすとりあ
 
-[![いんだすとりあ](../assets/images/card/cards/na_10_o_s/na_10_o_s_2.png)](../assets/images/card/cards/na_10_o_s/na_10_o_s_2.png){ align=left width=150 }
+いんだすとりあ
 
 **コスト**: 2
 **種別**: 行動
@@ -153,7 +153,7 @@
 
 ### S3 りさーち
 
-[![りさーち](../assets/images/card/cards/na_10_o_s/na_10_o_s_3.png)](../assets/images/card/cards/na_10_o_s/na_10_o_s_3.png){ align=left width=150 }
+りさーち
 
 **コスト**: 3
 **種別**: 行動
@@ -165,7 +165,7 @@
 
 ### S4 らすとーりぞーと
 
-[![らすとーりぞーと](../assets/images/card/cards/na_10_o_s/na_10_o_s_4.png)](../assets/images/card/cards/na_10_o_s/na_10_o_s_4.png){ align=left width=150 }
+らすとーりぞーと
 
 **コスト**: 4
 **種別**: 攻撃 (終焉)
@@ -180,12 +180,12 @@
 
 ### 1. いんだすとりあ量産コンボ (工場プラン)
 **「最強の札を、無限に送る。」**
-強力な[通常札](../rules.md)（例：[ユリナ](01_yurina.md)の『[![一閃](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png){ .glightbox }』や[ヒミカ](03_himika.md)の『[![マグナムカノン](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png){ .glightbox }』）をコピーし、毎ターン無償で叩き込み続ける。
+強力な[通常札](../rules.md)（例：[ユリナ](01_yurina.md)の『一閃』や[ヒミカ](03_himika.md)の『マグナムカノン』）をコピーし、毎ターン無償で叩き込み続ける。
 
 *   **基本戦術**:
     1. 序盤はコンボ準備に徹し、[切札](../rules.md)のコピー対象を厳選。
     2. 『いんだすとりあ』でコピーを確立。
-    3. 『[![くるるーん](../assets/images/card/cards/na_10_o_n/na_10_o_n_3.png)](../assets/images/card/cards/na_10_o_n/na_10_o_n_3.png){ .glightbox }』でリキャストを早め、1ターンに複数回の最強札を投げつける。
+    3. 『くるるーん』でリキャストを早め、1ターンに複数回の最強札を投げつける。
 *   **推奨パートナー**: 有能な[通常札](../rules.md)を持つ全メガミ（[ユリナ](01_yurina.md)、[ヒミカ](03_himika.md)、[ライラ](12_laila.md)等）
 
 ### 2. びっぐごーれむ降臨型 (超火力プラン)
@@ -203,7 +203,7 @@
 ## おすすめの組み合わせ (Pairs)
 
 ### [ユリナ](01_yurina.md) (刀絡)
-**「絡繰[![一閃](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png){ .glightbox }」**
+**「絡繰一閃」**
 [ユリナ](01_yurina.md)の高い打点をクルルが倍増させる、わかりやすくも強力なペア。
 
 ### [サリヤ](11_sariya.md) (騎絡)

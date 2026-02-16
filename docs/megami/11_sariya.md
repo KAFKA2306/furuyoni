@@ -18,7 +18,7 @@
 
 > 「加速しろ、私の心臓！ 蒸気の咆哮が、運命の先を切り拓く！」
 
-サリヤは、蒸気の力と強靭な[![意志](../assets/images/card/cards/na_16_o_n/na_16_o_n_5.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_5.png){ .glightbox }で戦場を蹂躙する「騎兵」のメガミです。
+サリヤは、蒸気の力と強靭な意志で戦場を蹂躙する「騎兵」のメガミです。
 彼女の起源は、限界を突破しようとする人類の挑戦心と、鋼の駿馬とともに「どこまでも遠くへ」駆け抜けようとする自由への渇望にあります。彼女にとって、速度こそが力であり、加速に身を委ねる瞬間こそが真の悦びです。
 物語では、実直で正義感が強く、かつ新しいものを愛する開拓者のような精神を持って描かれます。彼女が跨る「ガジェット」は、メガミの力を物理的な運動エネルギーへと昇華させ、あらゆる障害を力強く跳ね飛ばします。
 「燃料」という力は、彼女が自らの情熱（リソース）を燃焼させて爆発的な推進力を生み出し、相手の予測する限界速度（[間合](../rules.md#range)）を遥かに超越していく「進歩」の力を象徴しています。
@@ -44,9 +44,9 @@
 
 ## [通常札](../rules.md)解説
 
-### N1 [![Burning Steam](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png){ .glightbox }
+### N1 Burning Steam
 
-[![Burning Steam](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png){ align=left width=150 }
+Burning Steam
 
 役割: 主力攻撃 / 燃料消費
 
@@ -56,9 +56,9 @@
 
 <br clear="all">
 
-### N2 [![Waving Edge](../assets/images/card/cards/na_11_o_n/na_11_o_n_2.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_2.png){ .glightbox }
+### N2 Waving Edge
 
-[![Waving Edge](../assets/images/card/cards/na_11_o_n/na_11_o_n_2.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_2.png){ align=left width=150 }
+Waving Edge
 
 役割: 連続攻撃 / 位置調整
 
@@ -67,9 +67,9 @@
 
 <br clear="all">
 
-### N3 [![Turbo Switch](../assets/images/card/cards/na_11_o_n/na_11_o_n_3.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_3.png){ .glightbox }
+### N3 Turbo Switch
 
-[![Turbo Switch](../assets/images/card/cards/na_11_o_n/na_11_o_n_3.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_3.png){ align=left width=150 }
+Turbo Switch
 
 役割: 燃料供給 / ギアチェンジ
 
@@ -80,7 +80,7 @@
 
 ### N4 Steer / N5 Shield / N6 Roar (Transform)
 
-[![Form](../assets/images/card/cards/na_11_o_n/na_11_o_n_4.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_4.png){ align=left width=150 }
+Form
 
 役割: 形態変化 / 状況適応
 
@@ -89,9 +89,9 @@
 
 <br clear="all">
 
-### N7 [![Omega-Burst](../assets/images/card/cards/na_11_o_n/na_11_o_n_7.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_7.png){ .glightbox }
+### N7 Omega-Burst
 
-[![Omega-Burst](../assets/images/card/cards/na_11_o_n/na_11_o_n_7.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_7.png){ align=left width=150 }
+Omega-Burst
 
 役割: 緊急回避 / 全力防御
 
@@ -106,7 +106,7 @@
 
 ### S1 Alpha-Edge
 
-[![Alpha-Edge](../assets/images/card/cards/na_11_o_s/na_11_o_s_1.png)](../assets/images/card/cards/na_11_o_s/na_11_o_s_1.png){ align=left width=150 }
+Alpha-Edge
 
 **コスト**: 3
 **種別**: 攻撃
@@ -119,7 +119,7 @@
 
 ### S2 Beta-Turbine
 
-[![Beta-Turbine](../assets/images/card/cards/na_11_o_s/na_11_o_s_2.png)](../assets/images/card/cards/na_11_o_s/na_11_o_s_2.png){ align=left width=150 }
+Beta-Turbine
 
 **コスト**: 2
 **種別**: 行動
@@ -132,7 +132,7 @@
 
 ### S3 Gamma-Ray
 
-[![Gamma-Ray](../assets/images/card/cards/na_11_o_s/na_11_o_s_3.png)](../assets/images/card/cards/na_11_o_s/na_11_o_s_3.png){ align=left width=150 }
+Gamma-Ray
 
 **コスト**: 5
 **種別**: 攻撃 (大規模)
@@ -150,8 +150,8 @@
 燃料によって常勝の1ターンを作り出し、一気に[間合](../rules.md#range)を詰めて相手を沈める。
 
 *   **基本戦術**:
-    1. 序盤に『[![Turbo Switch](../assets/images/card/cards/na_11_o_n/na_11_o_n_3.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_3.png){ .glightbox }』で燃料を満タンにする。
-    2. 燃料を全消費して『[![Burning Steam](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png){ .glightbox }』を連打。
+    1. 序盤に『Turbo Switch』で燃料を満タンにする。
+    2. 燃料を全消費して『Burning Steam』を連打。
     3. 移動効果を駆使して相手の対応札をスカす。
 *   **推奨パートナー**: [ライラ](12_laila.md)(爪)、[ユリナ](01_yurina.md)(刀)
 
@@ -187,5 +187,5 @@
 
 !!! tip "「[間合](../rules.md#range)の暴力」を楽しめ"
     サリヤにとって、[間合](../rules.md#range)1から10までの移動は造作もありません。
-    相手が「この距離なら安全だ」と[宿し](../rules.md#yadoshi)を行った隙に、燃料1つで5マス[前進](../rules.md#advance)して『[![Burning Steam](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png)](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png){ .glightbox }』を叩き込む。
+    相手が「この距離なら安全だ」と[宿し](../rules.md#yadoshi)を行った隙に、燃料1つで5マス[前進](../rules.md#advance)して『Burning Steam』を叩き込む。
     **相手の想定する「ふるよにの常識（移動コスト）」を破壊することこそが、サリヤの真の力です。**

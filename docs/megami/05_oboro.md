@@ -38,15 +38,15 @@
 シーズン10（大[切札](../rules.md)時代）において、オボロは「コンボの接着剤」としての価値を再認識されています。
 
 *   **[フレア](../rules.md#flare)供給の要**: [切札](../rules.md)『壬蔓（みかづら）』による[フレア](../rules.md#flare)サポート能力は、重量級の[切札](../rules.md)が多い現代のメタゲームにおいて、相方の火力を底上げするために欠かせない要素となっています。
-*   **手札破壊の脅威**: [設置](../rules.md#setchi)『[![影菱](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ .glightbox }』によるハンデス（手札破壊）は、複雑なコンボを狙う相手の計算を狂わせ、大[切札](../rules.md)時代における強力なメタ戦術として機能します。
+*   **手札破壊の脅威**: [設置](../rules.md#setchi)『影菱』によるハンデス（手札破壊）は、複雑なコンボを狙う相手の計算を狂わせ、大[切札](../rules.md)時代における強力なメタ戦術として機能します。
 
 ---
 
 ## [通常札](../rules.md)の一覧
 
-### N1 [![鋼糸](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png){ .glightbox }
+### N1 鋼糸
 
-[![鋼糸](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png){ align=left width=150 }
+鋼糸
 
 役割: 主力攻撃 / [設置](../rules.md#setchi)コンボ
 
@@ -56,9 +56,9 @@
 
 <br clear="all">
 
-### N2 [![影菱](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ .glightbox }
+### N2 影菱
 
-[![影菱](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ align=left width=150 }
+影菱
 
 役割: 手札破壊 / 妨害
 
@@ -69,9 +69,9 @@
 
 <br clear="all">
 
-### N3 [![斬撃乱舞](../assets/images/card/cards/na_05_o_n/na_05_o_n_3.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_3.png){ .glightbox }
+### N3 斬撃乱舞
 
-[![斬撃乱舞](../assets/images/card/cards/na_05_o_n/na_05_o_n_3.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_3.png){ align=left width=150 }
+斬撃乱舞
 
 役割: バースト火力 / [設置](../rules.md#setchi)高打点
 
@@ -81,9 +81,9 @@
 
 <br clear="all">
 
-### N4 [![忍歩](../assets/images/card/cards/na_05_o_n/na_05_o_n_4.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_4.png){ .glightbox }
+### N4 忍歩
 
-[![忍歩](../assets/images/card/cards/na_05_o_n/na_05_o_n_4.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_4.png){ align=left width=150 }
+忍歩
 
 役割: 移動 / 潜入
 
@@ -93,9 +93,9 @@
 
 <br clear="all">
 
-### N5 [![誘導](../assets/images/card/cards/na_05_o_n/na_05_o_n_5.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_5.png){ .glightbox }
+### N5 誘導
 
-[![誘導](../assets/images/card/cards/na_05_o_n/na_05_o_n_5.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_5.png){ align=left width=150 }
+誘導
 
 役割: [オーラ](../rules.md#aura)奪取 / 距離制御
 
@@ -104,20 +104,20 @@
 
 <br clear="all">
 
-### N6 [![分身の術](../assets/images/card/cards/na_05_o_n/na_05_o_n_6.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_6.png){ .glightbox }
+### N6 分身の術
 
-[![分身の術](../assets/images/card/cards/na_05_o_n/na_05_o_n_6.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_6.png){ align=left width=150 }
+分身の術
 
 役割: コンボ増幅 / 連続使用
 
 *   **解説**:
-    [設置](../rules.md#setchi)されている、あるいは捨て札にあるカードをコピーして使用します。強力な『[![影菱](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ .glightbox }』を2回放ったり、『[![鋼糸](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png){ .glightbox }』を重ねたりすることで、1ターンの火力を限界突破させます。
+    [設置](../rules.md#setchi)されている、あるいは捨て札にあるカードをコピーして使用します。強力な『影菱』を2回放ったり、『鋼糸』を重ねたりすることで、1ターンの火力を限界突破させます。
 
 <br clear="all">
 
-### N7 [![生体活性](../assets/images/card/cards/na_05_o_n/na_05_o_n_7.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_7.png){ .glightbox }
+### N7 生体活性
 
-[![生体活性](../assets/images/card/cards/na_05_o_n/na_05_o_n_7.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_7.png){ align=left width=150 }
+生体活性
 
 役割: リソース補充 / [集中力](../rules.md#focus)調整
 
@@ -132,7 +132,7 @@
 
 ### S1 壬蔓 (みかづら)
 
-[![壬蔓](../assets/images/card/cards/na_05_o_s/na_05_o_s_1.png)](../assets/images/card/cards/na_05_o_s/na_05_o_s_1.png){ align=left width=150 }
+壬蔓
 
 **コスト**: 2
 **種別**: 行動
@@ -145,20 +145,20 @@
 
 ### S2 鳶影 (とびかげ)
 
-[![鳶影](../assets/images/card/cards/na_05_o_s/na_05_o_s_2.png)](../assets/images/card/cards/na_05_o_s/na_05_o_s_2.png){ align=left width=150 }
+鳶影
 
 **コスト**: 2
 **種別**: 行動 / 対応
 
 **解説**:
 **「相手のターン中に手札を使う」という禁忌を可能にする札。**
-相手が攻撃してきた瞬間に[設置](../rules.md#setchi)された（あるいは手札の）[通常札](../rules.md)を発動させます。相手の攻撃に『[![影菱](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ .glightbox }』でカウンターして手札を破壊したり、『[![鋼糸](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png){ .glightbox }』で返り討ちにしたりと、対応の王道を行く一枚です。
+相手が攻撃してきた瞬間に[設置](../rules.md#setchi)された（あるいは手札の）[通常札](../rules.md)を発動させます。相手の攻撃に『影菱』でカウンターして手札を破壊したり、『鋼糸』で返り討ちにしたりと、対応の王道を行く一枚です。
 
 <br clear="all">
 
 ### S3 虚魚 (うろくず)
 
-[![虚魚](../assets/images/card/cards/na_05_o_s/na_05_o_s_3.png)](../assets/images/card/cards/na_05_o_s/na_05_o_s_3.png){ align=left width=150 }
+虚魚
 
 **コスト**: 3
 **種別**: 行動
@@ -170,7 +170,7 @@
 
 ### S4 熊介 (くますけ)
 
-[![熊介](../assets/images/card/cards/na_05_o_s/na_05_o_s_4.png)](../assets/images/card/cards/na_05_o_s/na_05_o_s_4.png){ align=left width=150 }
+熊介
 
 **コスト**: 5
 **種別**: 攻撃 (究極奥義)
@@ -190,17 +190,17 @@
 2〜3ターンかけてカードを[設置](../rules.md#setchi)し、一斉に発動させて一撃でゲームを終わらせるスタイル。
 
 *   **基本戦術**:
-    1. 『[![鋼糸](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_1.png){ .glightbox }』『[![斬撃乱舞](../assets/images/card/cards/na_05_o_n/na_05_o_n_3.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_3.png){ .glightbox }』を丁寧に[設置](../rules.md#setchi)に回す。
+    1. 『鋼糸』『斬撃乱舞』を丁寧に[設置](../rules.md#setchi)に回す。
     2. [再構成](../rules.md#reconstruction)の直前のターンにさらに攻撃札を溜める。
     3. [再構成](../rules.md#reconstruction)と手札の同時発動により、1ターンに4〜5枚の攻撃を叩き込む。
 *   **推奨パートナー**: [ユキヒ](06_yukihi.md)(傘)、[ユリナ](01_yurina.md)(刀)
 
 ### 2. 妨害・ハンデス忍
 **「奪い、狂わせる。」**
-[設置](../rules.md#setchi)『[![影菱](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ .glightbox }』を『[![分身の術](../assets/images/card/cards/na_05_o_n/na_05_o_n_6.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_6.png){ .glightbox }』や『鳶影』で繰り返し発動させ、相手にまともなプレイングを許さないコントロールスタイル。
+[設置](../rules.md#setchi)『影菱』を『分身の術』や『鳶影』で繰り返し発動させ、相手にまともなプレイングを許さないコントロールスタイル。
 
 *   **基本戦術**:
-    1. 相手のターンの要所で『[![影菱](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ .glightbox }』を発動させる。
+    1. 相手のターンの要所で『影菱』を発動させる。
     2. 相手の手札を破壊し続け、テンポを奪う。
 *   **推奨パートナー**: [トコヨ](04_tokoyo.md)(扇)、[サイネ](02_saine.md)(薙)
 

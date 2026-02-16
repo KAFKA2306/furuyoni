@@ -47,7 +47,7 @@
 **[三拾一捨](../rules.md#3-choose-1)（Pick 3, Ban 1）の絶対王者**
 この組み合わせは、シーズン9-2の競技シーンにおいて「最も完成された3柱」と称されました。
 - **戦略**: [ホノカ](../megami/14_honoka.md)の「開花」による後半の爆発力、[トコヨ](../megami/04_tokoyo.md)の鉄壁の防御、そして[シンラ](../megami/07_shinra.md)（算・書）のコントロール性能。どれをBANしても強力な2柱が残るため、[眼前構築](../rules.md#construction)の時点で相手に多大なプレッシャーを与えます。
-- **強み**: 特に「算」を採用した際の、相手の[切札](../rules.md)を腐らせる「完全[![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }」の存在が、多くのコンボデッキを沈黙させました。
+- **強み**: 特に「算」を採用した際の、相手の[切札](../rules.md)を腐らせる「完全論破」の存在が、多くのコンボデッキを沈黙させました。
 
 ### ② 【鎌爆誕】[ウツロ](../megami/13_utsuro.md) / [ホノカ](../megami/14_honoka.md)
 **終盤の絶望、[灰塵](../rules.md#haijin)の福音**

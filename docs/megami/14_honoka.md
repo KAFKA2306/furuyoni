@@ -29,8 +29,8 @@
 
 *   **進化の仕組み**: 特定の[通常札](../rules.md)を使用、あるいは伏せ札から特定の効果（[再構成](../rules.md#reconstruction)など）によって、「より強力な別名のカード」に差し替えます。
 *   **進化の段階**: 
-    1. **[![精霊式](../assets/images/card/cards/na_14_o_n/na_14_o_n_1.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_1.png){ .glightbox }**: 基本。
-    2. **[守護](../rules.md#guardian)霊式 / [![突撃霊式](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png){ .glightbox }**: 強化。攻撃力や防御力が劇的に向上します。
+    1. **精霊式**: 基本。
+    2. **[守護](../rules.md#guardian)霊式 / 突撃霊式**: 強化。攻撃力や防御力が劇的に向上します。
     3. **神霊式**: 究極。[通常札](../rules.md)の枠を超えた[切札](../rules.md)級の性能を誇ります。
 *   **戦略的意味**: 序盤の数ターンは「いかに効率よく進化（[開花](../rules.md)）を済ませるか」が重要です。一度[開花](../rules.md)が完了すれば、[通常札](../rules.md)の基本スペックで相手を圧倒できるようになります。
 
@@ -40,16 +40,16 @@
 
 シーズン10（大[切札](../rules.md)時代）において、ホノカは「安定感の象徴」として重宝されています。
 
-*   **大[切札](../rules.md)への耐性**: [守護](../rules.md#guardian)霊式の高い防御性能や、『[![桜花のお守り](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png){ .glightbox }』による[ライフ](../rules.md#life)保護能力により、一撃必殺を狙う相手に対して粘り強く戦うことができます。
+*   **大[切札](../rules.md)への耐性**: [守護](../rules.md#guardian)霊式の高い防御性能や、『桜花のお守り』による[ライフ](../rules.md#life)保護能力により、一撃必殺を狙う相手に対して粘り強く戦うことができます。
 *   **コンボの柔軟性**: どのメガミと組んでも、自身が「自己完結した強力な[通常札](../rules.md)」へと進化するため、パートナーの自由度が非常に高いのが強みです。
 
 ---
 
 ## [通常札](../rules.md)解説
 
-### N1 [![精霊式](../assets/images/card/cards/na_14_o_n/na_14_o_n_1.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_1.png){ .glightbox } (→ [守護](../rules.md#guardian)霊式 → 神霊式)
+### N1 精霊式 (→ [守護](../rules.md#guardian)霊式 → 神霊式)
 
-[![精霊式](../assets/images/card/cards/na_14_o_n/na_14_o_n_1.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_1.png){ align=left width=150 }
+精霊式
 
 役割: 成長の核 / 主力攻撃
 
@@ -60,7 +60,7 @@
 
 ### N2 [守護](../rules.md#guardian)霊式
 
-[![守護霊式](../assets/images/card/cards/na_14_o_n/na_14_o_n_2.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_2.png){ align=left width=150 }
+守護霊式
 
 役割: 防御 / 鉄壁の守り
 
@@ -70,9 +70,9 @@
 
 <br clear="all">
 
-### N3 [![突撃霊式](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png){ .glightbox }
+### N3 突撃霊式
 
-[![突撃霊式](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png){ align=left width=150 }
+突撃霊式
 
 役割: 猛攻 / 加速
 
@@ -82,9 +82,9 @@
 
 <br clear="all">
 
-### N4 [![桜花のお守り](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png){ .glightbox }
+### N4 桜花のお守り
 
-[![桜花のお守り](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png){ align=left width=150 }
+桜花のお守り
 
 役割: [守護](../rules.md#guardian) / [ライフ](../rules.md#life)保護
 
@@ -93,9 +93,9 @@
 
 <br clear="all">
 
-### N5 [![桜の翅](../assets/images/card/cards/na_14_o_n/na_14_o_n_5.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_5.png){ .glightbox }
+### N5 桜の翅
 
-[![桜の翅](../assets/images/card/cards/na_14_o_n/na_14_o_n_5.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_5.png){ align=left width=150 }
+桜の翅
 
 役割: 移動 / 優雅な舞い
 
@@ -104,9 +104,9 @@
 
 <br clear="all">
 
-### N6 [![指揮](../assets/images/card/cards/na_14_o_n/na_14_o_n_6.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_6.png){ .glightbox }
+### N6 指揮
 
-[![指揮](../assets/images/card/cards/na_14_o_n/na_14_o_n_6.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_6.png){ align=left width=150 }
+指揮
 
 役割: 統率 / 進化加速
 
@@ -115,9 +115,9 @@
 
 <br clear="all">
 
-### N7 [![追い風](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }
+### N7 追い風
 
-[![追い風](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ align=left width=150 }
+追い風
 
 役割: 加速支援 / フィールド支配
 
@@ -132,7 +132,7 @@
 
 ### S1 胸に想いを
 
-[![胸に想いを](../assets/images/card/cards/na_14_o_s/na_14_o_s_1.png)](../assets/images/card/cards/na_14_o_s/na_14_o_s_1.png){ align=left width=150 }
+胸に想いを
 
 **コスト**: 2
 **種別**: 行動
@@ -144,7 +144,7 @@
 
 ### S2 この旗の名の下に
 
-[![この旗の名の下に](../assets/images/card/cards/na_14_o_s/na_14_o_s_2.png)](../assets/images/card/cards/na_14_o_s/na_14_o_s_2.png){ align=left width=150 }
+この旗の名の下に
 
 **コスト**: 4
 **種別**: 攻撃 (大規模)
@@ -157,7 +157,7 @@
 
 ### S3 四季は巡り
 
-[![四季は巡り](../assets/images/card/cards/na_14_o_s/na_14_o_s_3.png)](../assets/images/card/cards/na_14_o_s/na_14_o_s_3.png){ align=left width=150 }
+四季は巡り
 
 **コスト**: 3
 **種別**: 行動 (再誕)
@@ -175,14 +175,14 @@
 序盤は守りに徹してカードを最大段階まで進化させ、終盤に手がつけられない高スペック札で蹂躙する。
 
 *   **基本戦術**:
-    1. 『[![指揮](../assets/images/card/cards/na_14_o_n/na_14_o_n_6.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_6.png){ .glightbox }』や『胸に想いを』で最速進化を狙う。
-    2. 『[![桜花のお守り](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png){ .glightbox }』や『[守護](../rules.md#guardian)霊式』で、進化が終わるまで[ライフ](../rules.md#life)を守る。
+    1. 『指揮』や『胸に想いを』で最速進化を狙う。
+    2. 『桜花のお守り』や『[守護](../rules.md#guardian)霊式』で、進化が終わるまで[ライフ](../rules.md#life)を守る。
     3. 進化完了後、[3/2]や[4/3]の[通常札](../rules.md)を連射。
 *   **推奨パートナー**: [トコヨ](04_tokoyo.md)(扇)、[サイネ](02_saine.md)(薙)
 
 ### 2. 旗の進撃ビートダウン (アグロプラン)
 **「仲間と共に、道を切り拓く。」**
-『[![突撃霊式](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png){ .glightbox }』や『[![追い風](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }』による移動補助を活かし、パートナーの攻撃を適切な[間合](../rules.md#range)で連発させる。
+『突撃霊式』や『追い風』による移動補助を活かし、パートナーの攻撃を適切な[間合](../rules.md#range)で連発させる。
 
 *   **基本戦術**:
     1. [前進](../rules.md#advance)能力を活かして有利な[間合](../rules.md#range)へ。
@@ -199,7 +199,7 @@
 
 ### [サリヤ](11_sariya.md) (騎旗)
 **「旗印の加速」**
-ホノカの『[![追い風](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }』が[サリヤ](11_sariya.md)の移動コストを劇的に下げ、[サリヤ](11_sariya.md)の燃料管理に余裕を持たせる。戦場を支配するスピードペア。
+ホノカの『追い風』が[サリヤ](11_sariya.md)の移動コストを劇的に下げ、[サリヤ](11_sariya.md)の燃料管理に余裕を持たせる。戦場を支配するスピードペア。
 
 ---
 
@@ -211,5 +211,5 @@
     対戦相手が速攻デッキの場合は、進化の手間を惜しんででも防御札を先に構える勇気が必要です。
 
 !!! tip "「お守り」のタイミング"
-    『[![桜花のお守り](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png){ .glightbox }』は強力ですが、相手に「お守りがあるから今は攻撃しないでおこう」とリソースを溜める時間を与えてしまう側面もあります。
+    『桜花のお守り』は強力ですが、相手に「お守りがあるから今は攻撃しないでおこう」とリソースを溜める時間を与えてしまう側面もあります。
     相手の[集中力](../rules.md#focus)や[フレア](../rules.md#flare)を見て、「今この瞬間にお守りがあれば、相手の最大打点を無駄にできる」という急所で見せつけるのがスマートなホノカ使いです。

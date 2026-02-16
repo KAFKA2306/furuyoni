@@ -47,22 +47,22 @@ graph LR
 
 | カード名 | 主な役割 | 特徴 | S10 特記事項 |
 | :--- | :--- | :--- | :--- |
-| **[![紅刃](../assets/images/card/cards/na_21_o_n/na_21_o_n_1.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_1.png){ .glightbox }** | 主力削り | 禁忌+1。特定条件下でバフ。 | メイン火力。 |
-| **[![散華刃](../assets/images/card/cards/na_21_o_n/na_21_o_n_2.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_2.png){ .glightbox }** | リソース破壊 | 禁忌+1。相手[オーラ](../rules.md#aura)を自身の[オーラ](../rules.md#aura)へ。 | テンポ奪取の要。 |
-| **[![四剣乱刃](../assets/images/card/cards/na_21_o_n/na_21_o_n_3.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_3.png){ .glightbox }** | 追撃 | 禁忌+1。全力で追加攻撃。 | リーサルパーツ。 |
-| **[![棘縫い](../assets/images/card/cards/na_21_o_n/na_21_o_n_4.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_4.png){ .glightbox }** | 柔軟性 | [間合](../rules.md#range)に応じて効果変化。 | [レンジロック](../rules.md#range-lock)対策。 |
-| **[![血晶乱流](../assets/images/card/cards/na_21_o_n/na_21_o_n_5.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_5.png){ .glightbox }** | 万能札 | 複数の効果から2つ選択。 | 状況対応力が高い。 |
-| **[![斬り払い](../assets/images/card/cards/na_21_o_n/na_21_o_n_6.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_6.png){ .glightbox }** | 対応 | 禁忌+2。ダメージ無効化。 | 緊急回避用。 |
-| **[![血習い](../assets/images/card/cards/na_21_o_n/na_21_o_n_7.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_7.png){ .glightbox }** | 禁忌加速 | 山札回復＋禁忌進行。 | 覚醒までの時間短縮。 |
+| **紅刃** | 主力削り | 禁忌+1。特定条件下でバフ。 | メイン火力。 |
+| **散華刃** | リソース破壊 | 禁忌+1。相手[オーラ](../rules.md#aura)を自身の[オーラ](../rules.md#aura)へ。 | テンポ奪取の要。 |
+| **四剣乱刃** | 追撃 | 禁忌+1。全力で追加攻撃。 | リーサルパーツ。 |
+| **棘縫い** | 柔軟性 | [間合](../rules.md#range)に応じて効果変化。 | [レンジロック](../rules.md#range-lock)対策。 |
+| **血晶乱流** | 万能札 | 複数の効果から2つ選択。 | 状況対応力が高い。 |
+| **斬り払い** | 対応 | 禁忌+2。ダメージ無効化。 | 緊急回避用。 |
+| **血習い** | 禁忌加速 | 山札回復＋禁忌進行。 | 覚醒までの時間短縮。 |
 
 ## [切札](../rules.md)：必殺の定義
 
 | 名称 | コスト | 種別 | 解説 |
 | :--- | :---: | :--- | :--- |
-| **[![灯 / 暁](../assets/images/card/cards/na_21_o_s/na_21_o_s_1.png)](../assets/images/card/cards/na_21_o_s/na_21_o_s_1.png){ .glightbox }** | 2 | 攻撃 | **フィニッシャー**。6/4の疑似対応不可。 |
-| **[![阡](../assets/images/card/cards/na_21_o_s/na_21_o_s_2.png)](../assets/images/card/cards/na_21_o_s/na_21_o_s_2.png){ .glightbox }** | 5 | 付与 | 強力な盤面干渉。 |
-| **[![理](../assets/images/card/cards/na_21_o_s/na_21_o_s_3.png)](../assets/images/card/cards/na_21_o_s/na_21_o_s_3.png){ .glightbox }** | 1 | 行動 | 禁忌管理の起点。 |
-| **[![証](../assets/images/card/cards/na_21_o_s/na_21_o_s_4.png)](../assets/images/card/cards/na_21_o_s/na_21_o_s_4.png){ .glightbox }** | 4 | 攻撃 | [ライフ](../rules.md#life)を直接削る必殺の一撃。 |
+| **灯 / 暁** | 2 | 攻撃 | **フィニッシャー**。6/4の疑似対応不可。 |
+| **阡** | 5 | 付与 | 強力な盤面干渉。 |
+| **理** | 1 | 行動 | 禁忌管理の起点。 |
+| **証** | 4 | 攻撃 | [ライフ](../rules.md#life)を直接削る必殺の一撃。 |
 
 ## カード個別解説
 

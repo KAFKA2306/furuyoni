@@ -37,7 +37,7 @@
 
 シーズン10（大[切札](../rules.md)時代）において、ハガネは「不変のバースト役」として重宝されています。
 
-*   **[オーラ](../rules.md#aura)剥ぎのプロ**: 『[![砂風塵](../assets/images/card/cards/na_08_o_n/na_08_o_n_2.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_2.png){ .glightbox }』や『[遠心](../rules.md#enshin)撃』により、相手にまとまったダメージを与えながら[オーラ](../rules.md#aura)をボロボロにできるため、相方のフィニッシャーを通すための露払いとして非常に優秀です。
+*   **[オーラ](../rules.md#aura)剥ぎのプロ**: 『砂風塵』や『[遠心](../rules.md#enshin)撃』により、相手にまとまったダメージを与えながら[オーラ](../rules.md#aura)をボロボロにできるため、相方のフィニッシャーを通すための露払いとして非常に優秀です。
 *   **環境へのメタ**: 守りを固めるコントロール型のメガミに対し、[遠心](../rules.md#enshin)によるガード不能（あるいは高い[オーラ](../rules.md#aura)ダメージ）で強引に[ライフ](../rules.md#life)を削りにいけるため、膠着状態を打破する力があります。
 
 ---
@@ -46,7 +46,7 @@
 
 ### N1 [遠心](../rules.md#enshin)撃
 
-[![遠心撃](../assets/images/card/cards/na_08_o_n/na_08_o_n_1.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_1.png){ align=left width=150 }
+遠心撃
 
 役割: 最大火力 / ロマン砲
 
@@ -57,9 +57,9 @@
 
 <br clear="all">
 
-### N2 [![砂風塵](../assets/images/card/cards/na_08_o_n/na_08_o_n_2.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_2.png){ .glightbox }
+### N2 砂風塵
 
-[![砂風塵](../assets/images/card/cards/na_08_o_n/na_08_o_n_2.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_2.png){ align=left width=150 }
+砂風塵
 
 役割: 牽制 / リソース破壊
 
@@ -69,9 +69,9 @@
 
 <br clear="all">
 
-### N3 [![大地砕き](../assets/images/card/cards/na_08_o_n/na_08_o_n_3.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_3.png){ .glightbox }
+### N3 大地砕き
 
-[![大地砕き](../assets/images/card/cards/na_08_o_n/na_08_o_n_3.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_3.png){ align=left width=150 }
+大地砕き
 
 役割: フィールド操作 / 資源供給
 
@@ -80,9 +80,9 @@
 
 <br clear="all">
 
-### N4 [![超反発](../assets/images/card/cards/na_08_o_n/na_08_o_n_4.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_4.png){ .glightbox }
+### N4 超反発
 
-[![超反発](../assets/images/card/cards/na_08_o_n/na_08_o_n_4.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_4.png){ align=left width=150 }
+超反発
 
 役割: 移動 / 加速装置
 
@@ -92,9 +92,9 @@
 
 <br clear="all">
 
-### N5 [![円舞錬](../assets/images/card/cards/na_08_o_n/na_08_o_n_5.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_5.png){ .glightbox }
+### N5 円舞錬
 
-[![円舞錬](../assets/images/card/cards/na_08_o_n/na_08_o_n_5.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_5.png){ align=left width=150 }
+円舞錬
 
 役割: 持続バフ / 連続攻撃
 
@@ -103,9 +103,9 @@
 
 <br clear="all">
 
-### N6 [![鐘鳴らし](../assets/images/card/cards/na_08_o_n/na_08_o_n_6.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_6.png){ .glightbox }
+### N6 鐘鳴らし
 
-[![鐘鳴らし](../assets/images/card/cards/na_08_o_n/na_08_o_n_6.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_6.png){ align=left width=150 }
+鐘鳴らし
 
 役割: 至近距離防御崩し
 
@@ -114,9 +114,9 @@
 
 <br clear="all">
 
-### N7 [![引力場](../assets/images/card/cards/na_08_o_n/na_08_o_n_7.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_7.png){ .glightbox }
+### N7 引力場
 
-[![引力場](../assets/images/card/cards/na_08_o_n/na_08_o_n_7.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_7.png){ align=left width=150 }
+引力場
 
 役割: 捕獲 / 拘束
 
@@ -131,7 +131,7 @@
 
 ### S1 大嵐
 
-[![大嵐](../assets/images/card/cards/na_08_o_s/na_08_o_s_1.png)](../assets/images/card/cards/na_08_o_s/na_08_o_s_1.png){ align=left width=150 }
+大嵐
 
 **コスト**: 4
 **種別**: 攻撃 (大規模)
@@ -144,7 +144,7 @@
 
 ### S2 大地が震える
 
-[![大地が震える](../assets/images/card/cards/na_08_o_s/na_08_o_s_2.png)](../assets/images/card/cards/na_08_o_s/na_08_o_s_2.png){ align=left width=150 }
+大地が震える
 
 **コスト**: 2
 **種別**: 行動
@@ -157,7 +157,7 @@
 
 ### S3 未だ見ぬ明日
 
-[![未だ見ぬ明日](../assets/images/card/cards/na_08_o_s/na_08_o_s_3.png)](../assets/images/card/cards/na_08_o_s/na_08_o_s_3.png){ align=left width=150 }
+未だ見ぬ明日
 
 **コスト**: 5
 **種別**: 攻撃 (終焉)
@@ -175,17 +175,17 @@
 移動を繰り返して常に[遠心](../rules.md#enshin)条件を維持し、重い攻撃を叩き込み続ける基本スタイル。
 
 *   **基本戦術**:
-    1. 『[![超反発](../assets/images/card/cards/na_08_o_n/na_08_o_n_4.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_4.png){ .glightbox }』や[宿し](../rules.md#yadoshi)、[纏い](../rules.md#matoy)を絡めて毎ターン[間合](../rules.md#range)2移動を確保。
-    2. 加速が乗った『[遠心](../rules.md#enshin)撃』と『[![砂風塵](../assets/images/card/cards/na_08_o_n/na_08_o_n_2.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_2.png){ .glightbox }』を交互に叩き込む。
+    1. 『超反発』や[宿し](../rules.md#yadoshi)、[纏い](../rules.md#matoy)を絡めて毎ターン[間合](../rules.md#range)2移動を確保。
+    2. 加速が乗った『[遠心](../rules.md#enshin)撃』と『砂風塵』を交互に叩き込む。
     3. [オーラ](../rules.md#aura)が剥がれたところに『大嵐』を投下。
 *   **推奨パートナー**: [ライラ](12_laila.md)(爪)、[サリヤ](11_sariya.md)(騎)
 
-### 2. [![引力場](../assets/images/card/cards/na_08_o_n/na_08_o_n_7.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_7.png){ .glightbox }ロック (拘束プラン)
+### 2. 引力場ロック (拘束プラン)
 **「逃がさない、潰すまで。」**
-『[![引力場](../assets/images/card/cards/na_08_o_n/na_08_o_n_7.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_7.png){ .glightbox }』で相手をハガネの射程圏外へ逃がさず、一方的に槌で叩き潰すスタイル。
+『引力場』で相手をハガネの射程圏外へ逃がさず、一方的に槌で叩き潰すスタイル。
 
 *   **基本戦術**:
-    1. 『[![引力場](../assets/images/card/cards/na_08_o_n/na_08_o_n_7.png)](../assets/images/card/cards/na_08_o_n/na_08_o_n_7.png){ .glightbox }』を維持。
+    1. 『引力場』を維持。
     2. 相手が[後退](../rules.md#retreat)してもすぐに引き戻し、得意[間合](../rules.md#range)で殴り続ける。
 *   **推奨パートナー**: [サイネ](02_saine.md)(薙)、[トコヨ](04_tokoyo.md)(扇)
 

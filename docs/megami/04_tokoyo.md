@@ -37,16 +37,16 @@
 
 シーズン10（大[切札](../rules.md)時代）において、トコヨは「最強の盾」として再定義されています。
 
-*   **大[切札](../rules.md)への回答**: [ユリナ](01_yurina.md)の『月影落』などの大型[切札](../rules.md)に対し、トコヨの『久遠ノ花』や強化された『[![雅打ち](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png){ .glightbox }』は、数少ない確実な対抗手段となります。
+*   **大[切札](../rules.md)への回答**: [ユリナ](01_yurina.md)の『月影落』などの大型[切札](../rules.md)に対し、トコヨ host の『久遠ノ花』や強化された『雅打ち』は、数少ない確実な対抗手段となります。
 *   **時間切れと判定勝ち**: 環境が低速化したことで、[ライフ](../rules.md#life)を10点削り切るのではなく、リソース差をつけて有利な状況で試合終了（時間切れ）を迎える、テクニカルな勝利プランが有効になっています。
 
 ---
 
 ## [通常札](../rules.md)の一覧
 
-### N1 [![梳流し](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png){ .glightbox }
+### N1 梳流し
 
-[![梳流し](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png){ align=left width=150 }
+梳流し
 
 役割: 削り / 必中攻撃
 
@@ -57,9 +57,9 @@
 
 <br clear="all">
 
-### N2 [![雅打ち](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png){ .glightbox }
+### N2 雅打ち
 
-[![雅打ち](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png){ align=left width=150 }
+雅打ち
 
 役割: 防御 / 対応の核
 
@@ -71,9 +71,9 @@
 
 <br clear="all">
 
-### N3 [![跳ね兎](../assets/images/card/cards/na_04_o_n/na_04_o_n_3.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_3.png){ .glightbox }
+### N3 跳ね兎
 
-[![跳ね兎](../assets/images/card/cards/na_04_o_n/na_04_o_n_3.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_3.png){ align=left width=150 }
+跳ね兎
 
 役割: 移動 / リソース調整
 
@@ -82,9 +82,9 @@
 
 <br clear="all">
 
-### N4 [![詩舞](../assets/images/card/cards/na_04_o_n/na_04_o_n_4.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_4.png){ .glightbox }
+### N4 詩舞
 
-[![詩舞](../assets/images/card/cards/na_04_o_n/na_04_o_n_4.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_4.png){ align=left width=150 }
+詩舞
 
 役割: 回復 / [オーラ](../rules.md#aura)維持
 
@@ -95,26 +95,26 @@
 
 <br clear="all">
 
-### N5 [![要返し](../assets/images/card/cards/na_04_o_n/na_04_o_n_5.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_5.png){ .glightbox }
+### N5 要返し
 
-[![要返し](../assets/images/card/cards/na_04_o_n/na_04_o_n_5.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_5.png){ align=left width=150 }
+要返し
 
 役割: 再利用 / デッキ構築
 
 *   **解説**:
-    捨て札や伏せ札にある強力なカードを山札の底に戻します。これにより、トコヨは『[![梳流し](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png){ .glightbox }』や『[![雅打ち](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png){ .glightbox }』といったキーカードを他のメガミより頻繁に使用することが可能です。
+    捨て札や伏せ札にある強力なカードを山札の底に戻します。これにより、トコヨは『梳流し』や『雅打ち』といったキーカードを他のメガミより頻繁に使用することが可能です。
 
 <br clear="all">
 
-### N6 [![風舞台](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png){ .glightbox } / N7 [![晴舞台](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png){ .glightbox }
+### N6 風舞台 / N7 晴舞台
 
-[![風舞台](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png){ align=left width=150 }
-[![晴舞台](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png){ align=right width=150 }
+風舞台
+晴舞台
 
 役割: [間合](../rules.md#range)管理 / エンチャント
 
 *   **解説**:
-    相手を近づけさせない（[![晴舞台](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png){ .glightbox }）、あるいは[間合](../rules.md#range)に留まらせる（[![風舞台](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_6.png){ .glightbox }）ための付与札。相手のやりたいプレイングを強制的に否定し、トコヨの土俵で戦わせるためのツールです。
+    相手を近づけさせない（『晴舞台』）、あるいは[間合](../rules.md#range)に留まらせる（『風舞台』）ための付与札。相手のやりたいプレイングを強制的に否定し、トコヨの土俵で戦わせるためのツールです。
 
 <br clear="all">
 
@@ -124,7 +124,7 @@
 
 ### S1 久遠ノ花
 
-[![久遠ノ花](../assets/images/card/cards/na_04_o_s/na_04_o_s_1.png)](../assets/images/card/cards/na_04_o_s/na_04_o_s_1.png){ align=left width=150 }
+久遠ノ花
 
 **コスト**: 5
 **種別**: 攻撃 / 対応
@@ -137,7 +137,7 @@
 
 ### S2 千歳ノ鳥
 
-[![千歳ノ鳥](../assets/images/card/cards/na_04_o_s/na_04_o_s_2.png)](../assets/images/card/cards/na_04_o_s/na_04_o_s_2.png){ align=left width=150 }
+千歳ノ鳥
 
 **コスト**: 2
 **種別**: 行動
@@ -150,7 +150,7 @@
 
 ### S3 無窮ノ風
 
-[![無窮ノ風](../assets/images/card/cards/na_04_o_s/na_04_o_s_3.png)](../assets/images/card/cards/na_04_o_s/na_04_o_s_3.png){ align=left width=150 }
+無窮ノ風
 
 **コスト**: 3
 **種別**: 行動
@@ -163,7 +163,7 @@
 
 ### S4 常世ノ月
 
-[![常世ノ月](../assets/images/card/cards/na_04_o_s/na_04_o_s_4.png)](../assets/images/card/cards/na_04_o_s/na_04_o_s_4.png){ align=left width=150 }
+常世ノ月
 
 **コスト**: 4
 **種別**: 攻撃 (終焉)
@@ -186,8 +186,8 @@
 
 *   **基本戦術**:
     1. 常に「[境地](../rules.md#kyochi)（[集中力](../rules.md#focus)2）」を維持。
-    2. 『[![雅打ち](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png){ .glightbox }』『[![詩舞](../assets/images/card/cards/na_04_o_n/na_04_o_n_4.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_4.png){ .glightbox }』『久遠ノ花』を構え、相手の本命をすべてスカす。
-    [![3. 『無窮ノ風』で相手のコンボを未然に防ぐ。](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png){ .glightbox }
+    2. 『雅打ち』『詩舞』『久遠ノ花』を構え、相手の本命をすべてスカす。
+    3. 『無窮ノ風』で相手のコンボを未然に防ぐ。
     4. タイムアップ時に[ライフ](../rules.md#life)差1点でも勝っていればOK。
 *   **推奨パートナー**: [サイネ](02_saine.md)(薙)、[シンラ](07_shinra.md)(書)
 
@@ -196,8 +196,8 @@
 [ユキヒ](06_yukihi.md)の開状態とトコヨの移動・拒否札を組み合わせ、相手を得意[間合](../rules.md#range)の外に固定し続ける。
 
 *   **基本戦術**:
-    1. 『[![晴舞台](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_7.png){ .glightbox }』や『ふりはらい』で距離4-6を死守。
-    2. 中距離から一方的に『[![梳流し](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_1.png){ .glightbox }』を投げる。
+    1. 『晴舞台』や『ふりはらい』で距離4-6を死守。
+    2. 中距離から一方的に『梳流し』を投げる。
 *   **推奨パートナー**: [ユキヒ](06_yukihi.md)(傘)、[ヒミカ](03_himika.md)(銃)
 
 ---

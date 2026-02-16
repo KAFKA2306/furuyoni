@@ -44,22 +44,22 @@ graph LR
 
 | カード名 | 主な役割 | 特徴 | S10 特記事項 |
 | :--- | :--- | :--- | :--- |
-| **[![鋸斬り](../assets/images/card/cards/na_24_o_n/na_24_o_n_1.png)](../assets/images/card/cards/na_24_o_n/na_24_o_n_1.png){ .glightbox }** | 主力攻撃 | 2/2 相手に裂傷付与 | 基本性能の塊。 |
-| **[![刻み刃](../assets/images/card/cards/na_24_o_n/na_24_o_n_2.png)](../assets/images/card/cards/na_24_o_n/na_24_o_n_2.png){ .glightbox }** | 継続火力 | 1/1 攻撃後、裂傷を深める | [オーラ](../rules.md#aura)を剥がした後に有効。 |
-| **[![茨道](../assets/images/card/cards/na_24_o_n/na_24_o_n_3.png)](../assets/images/card/cards/na_24_o_n/na_24_o_n_3.png){ .glightbox }** | 位置調整 | 移動 + 相手に裂傷 | レンジロック対策の要。 |
-| **[![反乱撃](../assets/images/card/cards/na_24_o_n/na_24_o_n_4.png)](../assets/images/card/cards/na_24_o_n/na_24_o_n_4.png){ .glightbox }** | 自己強化 | 自身の裂傷を火力に変換 | **リーサルパーツ**。 |
-| **[![金屑纏い](../assets/images/card/cards/na_24_o_n/na_24_o_n_5.png)](../assets/images/card/cards/na_24_o_n/na_24_o_n_5.png){ .glightbox }** | リソース | 相手リソース奪取 + 自オーラ回復 | 粘り強く戦うために。 |
-| **[![徹底抗戦](../assets/images/card/cards/na_24_o_n/na_24_o_n_6.png)](../assets/images/card/cards/na_24_o_n/na_24_o_n_6.png){ .glightbox }** | 妨害 | 攻撃を裂傷化して与える | 相手の「構築」を狂わせる。 |
-| **[![蹂躙](../assets/images/card/cards/na_24_o_n/na_24_o_n_7.png)](../assets/images/card/cards/na_24_o_n/na_24_o_n_7.png){ .glightbox }** | 強襲 | 高い貫通力を持つ全力攻撃。 | 一気にライフを削る。 |
+| **鋸斬り** | 主力攻撃 | 2/2 相手に裂傷付与 | 基本性能の塊。 |
+| **刻み刃** | 継続火力 | 1/1 攻撃後、裂傷を深める | [オーラ](../rules.md#aura)を剥がした後に有効。 |
+| **茨道** | 位置調整 | 移動 + 相手に裂傷 | レンジロック対策の要。 |
+| **反乱撃** | 自己強化 | 自身の裂傷を火力に変換 | **リーサルパーツ**。 |
+| **金屑纏い** | リソース | 相手リソース奪取 + 自オーラ回復 | 粘り強く戦うために。 |
+| **徹底抗戦** | 妨害 | 攻撃を裂傷化して与える | 相手の「構築」を狂わせる。 |
+| **蹂躙** | 強襲 | 高い貫通力を持つ全力攻撃。 | 一気にライフを削る。 |
 
 ## [切札](../rules.md)：必殺の定義
 
 | 名称 | コスト | 種別 | 解説 |
 | :--- | :--- | :--- | :--- |
-| **[![ハドマギリ](../assets/images/card/cards/na_24_o_s/na_24_o_s_1.png)](../assets/images/card/cards/na_24_o_s/na_24_o_s_1.png){ .glightbox }** | 2 | 攻撃 | **フィニッシャー**。裂傷ダメージを即座に処理する。 |
-| **[![ウバラザキ](../assets/images/card/cards/na_24_o_s/na_24_o_s_2.png)](../assets/images/card/cards/na_24_o_s/na_24_o_s_2.png){ .glightbox }** | 5 | 攻撃 | [フレア](../rules.md#flare)裂傷によるリソース破壊。 |
-| **[![アブダグイ](../assets/images/card/cards/na_24_o_s/na_24_o_s_3.png)](../assets/images/card/cards/na_24_o_s/na_24_o_s_3.png){ .glightbox }** | 3 | 対応 | **防御の要**。致命傷を避けるためのクッション。 |
-| **[![ヂーガデハド](../assets/images/card/cards/na_24_o_s/na_24_o_s_4.png)](../assets/images/card/cards/na_24_o_s/na_24_o_s_4.png){ .glightbox }** | 4 | 攻撃 | 裂傷の多さに応じて威力が跳ね上がる一撃。 |
+| **ハドマギリ** | 2 | 攻撃 | **フィニッシャー**。裂傷ダメージを即座に処理する。 |
+| **ウバラザキ** | 5 | 攻撃 | [フレア](../rules.md#flare)裂傷によるリソース破壊。 |
+| **アブダグイ** | 3 | 対応 | **防御の要**。致命傷を避けるためのクッション。 |
+| **ヂーガデハド** | 4 | 攻撃 | 裂傷の多さに応じて威力が跳ね上がる一撃。 |
 
 ## カード個別解説
 

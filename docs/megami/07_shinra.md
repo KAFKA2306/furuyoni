@@ -21,7 +21,7 @@
 
 シンラは、世界の理を記述する「書」を司り、森羅万象を論理的に蒐集するメガミです。
 彼女の起源は、混沌とした世界に秩序をもたらそうとする飽くなき知識欲と、感情に流されない冷徹な知性にあります。彼女にとって、力任せの暴力は「非効率的で野蛮な行為」に過ぎません。
-物語では、膨大な知識を持つ賢者でありながら、その論理の刃で周囲を辟易させる（しかし否定できない正論を吐く）傲岸な観察者として描かれます。彼女が手に持つ書物は、相手の秘密を暴き、その存在意義さえも「[![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }」によって否定し去ります。
+物語では、膨大な知識を持つ賢者でありながら、その論理の刃で周囲を辟易させる（しかし否定できない正論を吐く）傲岸な観察者として描かれます。彼女が手に持つ書物は、相手の秘密を暴き、その存在意義さえも「論破」によって否定し去ります。
 「付与」という戦い方は、彼女が言葉と理論によって戦場を自分の定義に書き換え、相手を自らの「論理（ロジック）」の迷宮に閉じ込める支配的な在り方を体現しています。
 
 ## 特殊ギミック: 付与 (Enchantment) の支配
@@ -37,7 +37,7 @@
 
 シーズン10（大[切札](../rules.md)時代）において、シンラは「コンボ殺し」としての役割を強化されています。
 
-*   **大型[切札](../rules.md)のメタ**: 相手が重量級の[切札](../rules.md)を使用しようとしても、シンラの『[![引用](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ .glightbox }』でその発動条件を奪ったり、『[![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }』で準備を台無しにしたりすることができます。
+*   **大型[切札](../rules.md)のメタ**: 相手が重量級の[切札](../rules.md)を使用しようとしても、シンラの『引用』でその発動条件を奪ったり、『論破』で準備を台無しにしたりすることができます。
 *   **低速環境の恩恵**: 試合が長引くほど、シンラの「リソースをじわじわ削る」戦術が真価を発揮します。判定勝ちや山札切れを狙うプランが、環境的に通りやすくなっています。
 
 ---
@@ -46,7 +46,7 @@
 
 ### N1 立論
 
-[![立論](../assets/images/card/cards/na_07_o_n/na_07_o_n_1.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_1.png){ align=left width=150 }
+立論
 
 役割: ドロー / 資源循環
 
@@ -57,7 +57,7 @@
 
 ### N2 反論
 
-[![反論](../assets/images/card/cards/na_07_o_n/na_07_o_n_2.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_2.png){ align=left width=150 }
+反論
 
 役割: 妨害 / カウンター
 
@@ -68,9 +68,9 @@
 
 ### N3 詭弁
 
-[![詭弁](../assets/images/card/cards/na_07_o_n/na_07_o_n_3.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_3.png){ align=left width=150 }
+詭弁
 
-役割: 削り / 精神的[![重圧](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png){ .glightbox }
+役割: 削り / 精神的重圧
 
 *   **適正[間合](../rules.md#range)**: 1-10
 *   **ダメージ**: [2/1]
@@ -81,19 +81,19 @@
 
 ### N4 引用
 
-[![引用](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ align=left width=150 }
+引用
 
 役割: コピー / 資源強奪
 
 *   **解説**:
     **シンラの代名詞的な嫌がらせ札。**
-    相手の手札、あるいは山札からカードを「[![引用](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ .glightbox }」して自分が使用します。相手の切り札のパーツを奪い、逆に相手に叩き込む快感はシンラ使いだけの特権です。相手はこのカードを警戒して、キーカードを手札に溜め込むことができなくなります。
+    相手の手札、あるいは山札からカードを「引用」して自分が使用します。相手の切り札のパーツを奪い、逆に相手に叩き込む快感はシンラ使いだけの特権です。相手はこのカードを警戒して、キーカードを手札に溜め込むことができなくなります。
 
 <br clear="all">
 
 ### N5 扇動
 
-[![扇動](../assets/images/card/cards/na_07_o_n/na_07_o_n_5.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_5.png){ align=left width=150 }
+扇動
 
 役割: リソース操作 / 付与バフ
 
@@ -104,18 +104,18 @@
 
 ### N6 壮語
 
-[![壮語](../assets/images/card/cards/na_07_o_n/na_07_o_n_6.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_6.png){ align=left width=150 }
+壮語
 
 役割: 火力増強 / 宣言
 
 *   **解説**:
-    次に放つ「[![詭弁](../assets/images/card/cards/na_07_o_n/na_07_o_n_3.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_3.png){ .glightbox }」や他の攻撃を強化する札。シンラは一撃が軽いですが、この「[![壮語](../assets/images/card/cards/na_07_o_n/na_07_o_n_6.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_6.png){ .glightbox }」によって無視できない打点へと昇華させます。
+    次に放つ「詭弁」や他の攻撃を強化する札。シンラは一撃が軽いですが、この「壮語」によって無視できない打点へと昇華させます。
 
 <br clear="all">
 
 ### N7 論破
 
-[![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ align=left width=150 }
+論破
 
 役割: 打ち消し / 強制終了
 
@@ -130,7 +130,7 @@
 
 ### S1 完全論破
 
-[![完全論破](../assets/images/card/cards/na_07_o_s/na_07_o_s_1.png)](../assets/images/card/cards/na_07_o_s/na_07_o_s_1.png){ align=left width=150 }
+完全論破
 
 **コスト**: 4
 **種別**: 行動
@@ -143,20 +143,20 @@
 
 ### S2 皆塵唯我
 
-[![皆塵唯我](../assets/images/card/cards/na_07_o_s/na_07_o_s_2.png)](../assets/images/card/cards/na_07_o_s/na_07_o_s_2.png){ align=left width=150 }
+皆塵唯我
 
 **コスト**: 10
 **種別**: 行動 (終焉)
 
 **解説**:
-**この世のすべてを[![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }する。**
+**この世のすべてを論破する。**
 圧倒的なコスト10を要求しますが、発動した瞬間に盤面のリソースをほぼ無に帰し、自分だけが一方的に勝利する、あるいは相手を再起不能にする究極のスペルです。ロマン砲のように見えますが、シンラがリソースを管理しきれば、安定して発動させるルートが存在します。
 
 <br clear="all">
 
 ### S3 天地明察
 
-[![天地明察](../assets/images/card/cards/na_07_o_s/na_07_o_s_3.png)](../assets/images/card/cards/na_07_o_s/na_07_o_s_3.png){ align=left width=150 }
+天地明察
 
 **コスト**: 2
 **種別**: 行動
@@ -169,7 +169,7 @@
 
 ### S4 全知経典
 
-[![全知経典](../assets/images/card/cards/na_07_o_s/na_07_o_s_4.png)](../assets/images/card/cards/na_07_o_s/na_07_o_s_4.png){ align=left width=150 }
+全知経典
 
 **コスト**: 5
 **種別**: 攻撃 (終焉)
@@ -182,13 +182,13 @@
 
 ## 主要アーキタイプ
 
-### 1. [![引用](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ .glightbox }・判証コントロール (リソース強奪プラン)
+### 1. 引用・判証コントロール (リソース強奪プラン)
 **「私のものは私のもの。君のものも私のもの。」**
-相手のカードを『[![引用](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ .glightbox }』で奪い続け、リソースを使わせずに判定勝ちや山札切れを狙う。
+相手のカードを『引用』で奪い続け、リソースを使わせずに判定勝ちや山札切れを狙う。
 
 *   **基本戦術**:
-    1. 序盤から『[![引用](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ .glightbox }』を回し、相手のパーツを奪う。
-    2. 『[![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }』と『[![反論](../assets/images/card/cards/na_07_o_n/na_07_o_n_2.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_2.png){ .glightbox }』を構え、相手の「まともなターン」を消滅させる。
+    1. 序盤から『引用』を回し、相手のパーツを奪う。
+    2. 『論破』と『反論』を構え、相手の「まともなターン」を消滅させる。
     3. 付与札を並べ、相手が攻める気を失うまで守りを固める。
 *   **推奨パートナー**: [トコヨ](04_tokoyo.md)(扇)、[サイネ](02_saine.md)(薙)
 
@@ -219,8 +219,8 @@
 
 !!! danger "「書」の知識を過信しない"
     シンラは非常に強力なメガミですが、本人の防御ステータスは高くありません。
-    **「[![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }」を撃つタイミングを1ターン間違えるだけで、あっさり近距離火力で沈みます。**
-    相手のデッキの中身を熟知し、「今この瞬間にどのカードを奪えば（[![引用](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ .glightbox }すれば）相手は詰むか？」を正確に理解していなければ、シンラを使いこなすことは不可能です。
+    **「論破」を撃つタイミングを1ターン間違えるだけで、あっさり近距離火力で沈みます。**
+    相手のデッキの中身を熟知し、「今この瞬間にどのカードを奪えば（引用すれば）相手は詰むか？」を正確に理解していなければ、シンラを使いこなすことは不可能です。
 
 !!! tip "「付与」を並べる順序"
     付与札にはそれぞれ「終了時に発動する効果」や「場にあるだけで発動する効果」があります。

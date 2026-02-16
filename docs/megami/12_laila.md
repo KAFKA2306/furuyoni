@@ -44,9 +44,9 @@
 
 ## [通常札](../rules.md)解説
 
-### N1 [![獣爪](../assets/images/card/cards/na_12_o_n/na_12_o_n_1.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_1.png){ .glightbox }
+### N1 獣爪
 
-[![獣爪](../assets/images/card/cards/na_12_o_n/na_12_o_n_1.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_1.png){ align=left width=150 }
+獣爪
 
 役割: ゲージ稼ぎ / 基本攻撃
 
@@ -57,9 +57,9 @@
 
 <br clear="all">
 
-### N2 [![風雷撃](../assets/images/card/cards/na_12_o_n/na_12_o_n_2.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_2.png){ .glightbox }
+### N2 風雷撃
 
-[![風雷撃](../assets/images/card/cards/na_12_o_n/na_12_o_n_2.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_2.png){ align=left width=150 }
+風雷撃
 
 役割: バースト火力 / フィニッシャー
 
@@ -70,9 +70,9 @@
 
 <br clear="all">
 
-### N3 [![流転爪](../assets/images/card/cards/na_12_o_n/na_12_o_n_3.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_3.png){ .glightbox }
+### N3 流転爪
 
-[![流転爪](../assets/images/card/cards/na_12_o_n/na_12_o_n_3.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_3.png){ align=left width=150 }
+流転爪
 
 役割: 連続攻撃 / コンボパーツ
 
@@ -81,9 +81,9 @@
 
 <br clear="all">
 
-### N4 [![風走り](../assets/images/card/cards/na_12_o_n/na_12_o_n_4.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_4.png){ .glightbox }
+### N4 風走り
 
-[![風走り](../assets/images/card/cards/na_12_o_n/na_12_o_n_4.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_4.png){ align=left width=150 }
+風走り
 
 役割: 移動 / 加速
 
@@ -93,9 +93,9 @@
 
 <br clear="all">
 
-### N5 [![風雷の知恵](../assets/images/card/cards/na_12_o_n/na_12_o_n_5.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_5.png){ .glightbox }
+### N5 風雷の知恵
 
-[![風雷の知恵](../assets/images/card/cards/na_12_o_n/na_12_o_n_5.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_5.png){ align=left width=150 }
+風雷の知恵
 
 役割: リソース調整 / ゲージブースト
 
@@ -104,9 +104,9 @@
 
 <br clear="all">
 
-### N6 [![呼び声](../assets/images/card/cards/na_12_o_n/na_12_o_n_6.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_6.png){ .glightbox }
+### N6 呼び声
 
-[![呼び声](../assets/images/card/cards/na_12_o_n/na_12_o_n_6.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_6.png){ align=left width=150 }
+呼び声
 
 役割: 嵐の召喚 / サーチ
 
@@ -115,9 +115,9 @@
 
 <br clear="all">
 
-### N7 [![空駆け](../assets/images/card/cards/na_12_o_n/na_12_o_n_7.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_7.png){ .glightbox }
+### N7 空駆け
 
-[![空駆け](../assets/images/card/cards/na_12_o_n/na_12_o_n_7.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_7.png){ align=left width=150 }
+空駆け
 
 役割: 回避 / 攪乱
 
@@ -132,7 +132,7 @@
 
 ### S1 天雷召喚陣
 
-[![天雷召喚陣](../assets/images/card/cards/na_12_o_s/na_12_o_s_1.png)](../assets/images/card/cards/na_12_o_s/na_12_o_s_1.png){ align=left width=150 }
+天雷召喚陣
 
 **コスト**: 5
 **種別**: 攻撃 (大規模)
@@ -145,7 +145,7 @@
 
 ### S2 風神雷神限定解除
 
-[![風神雷神限定解除](../assets/images/card/cards/na_12_o_s/na_12_o_s_2.png)](../assets/images/card/cards/na_12_o_s/na_12_o_s_2.png){ align=left width=150 }
+風神雷神限定解除
 
 **コスト**: 2
 **種別**: 行動 (変身)
@@ -158,7 +158,7 @@
 
 ### S3 風雷の果て
 
-[![風雷の果て](../assets/images/card/cards/na_12_o_s/na_12_o_s_3.png)](../assets/images/card/cards/na_12_o_s/na_12_o_s_3.png){ align=left width=150 }
+風雷の果て
 
 **コスト**: 4
 **種別**: 攻撃 (終焉)
@@ -173,17 +173,17 @@
 
 ### 1. 超電磁連打 (バーストアグロ)
 **「一瞬で溜め、一瞬で殺す。」**
-手数の多い低コスト札を連打し、ゲージを最短でMAXにして『[![風雷撃](../assets/images/card/cards/na_12_o_n/na_12_o_n_2.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_2.png){ .glightbox }』を叩き込む。
+手数の多い低コスト札を連打し、ゲージを最短でMAXにして『風雷撃』を叩き込む。
 
 *   **基本戦術**:
-    1. 序盤から『[![獣爪](../assets/images/card/cards/na_12_o_n/na_12_o_n_1.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_1.png){ .glightbox }』や他メガミの低コスト札を連打。
-    2. 『[![風雷の知恵](../assets/images/card/cards/na_12_o_n/na_12_o_n_5.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_5.png){ .glightbox }』等でゲージを調整。
-    3. MAX状態で『[![風雷撃](../assets/images/card/cards/na_12_o_n/na_12_o_n_2.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_2.png){ .glightbox }』＋『天雷召喚陣』のオーバーキル・コンボ。
+    1. 序盤から『獣爪』や他メガミの低コスト札を連打。
+    2. 『風雷の知恵』等でゲージを調整。
+    3. MAX状態で『風雷撃』＋『天雷召喚陣』のオーバーキル・コンボ。
 *   **推奨パートナー**: [オボロ](05_oboro.md)(忍)、[サリヤ](11_sariya.md)(騎)
 
 ### 2. 暴風レンジロック (攪乱プラン)
 **「捕まえられない嵐。」**
-『[![風走り](../assets/images/card/cards/na_12_o_n/na_12_o_n_4.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_4.png){ .glightbox }』や『[![空駆け](../assets/images/card/cards/na_12_o_n/na_12_o_n_7.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_7.png){ .glightbox }』を使い回し、相手の攻撃を躱しながら自分だけがゲージを貯める。
+『風走り』や『空駆け』を使い回し、相手の攻撃を躱しながら自分だけがゲージを貯める。
 
 *   **基本戦術**:
     1. 相手の適正[間合](../rules.md#range)の外を維持。
@@ -209,7 +209,7 @@
 !!! danger "「空振り」の代償"
     ライラの強化札はゲージを消費したり、特定の枚数を使った後に発動したりします。
     **「せっかく溜めたゲージを対応札一枚でスカされる」ことは、ライラにとって致命的なテンポロスになります。**
-    相手の伏せ札や対応[切札](../rules.md)（[![雅打ち](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png)](../assets/images/card/cards/na_04_o_n/na_04_o_n_2.png){ .glightbox }、音無砕氷等）を正確に読み、本命を当てるための「エサ」を先に投げてください。
+    相手の伏せ札や対応[切札](../rules.md)（雅打ち、音無砕氷等）を正確に読み、本命を当てるための「エサ」を先に投げてください。
 
 !!! tip "「[切札](../rules.md)」はゲージのためのガソリン"
     ライラにとって、[切札](../rules.md)はダメージを与えるだけでなく「ゲージを1（またはそれ以上）上昇させる手段」です。

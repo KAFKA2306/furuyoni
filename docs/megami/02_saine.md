@@ -37,16 +37,16 @@
 
 シーズン10（大[切札](../rules.md)時代）において、サイネは安定した中距離の覇者として君臨しています。
 
-*   **レンジロックの適性**: [ユキヒ](06_yukihi.md)や[ヒミカ](03_himika.md)と組み、[間合](../rules.md#range)4-5を維持し続ける「レンジロック」戦術において、サイネの『[![八方振り](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png){ .glightbox }』や『[![石突き](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png){ .glightbox }』は中核を担います。
+*   **レンジロックの適性**: [ユキヒ](06_yukihi.md)や[ヒミカ](03_himika.md)と組み、[間合](../rules.md#range)4-5を維持し続ける「レンジロック」戦術において、サイネの『八方振り』や『石突き』は中核を担います。
 *   **対応札の価値向上**: 強力な[切札](../rules.md)が増えた環境において、攻撃を無効化する『音無砕氷』や、リソースを狂わせる『響鳴共振』の重要度が増しています。
 
 ---
 
 ## [通常札](../rules.md)の一覧
 
-### N1 [![八方振り](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png){ .glightbox }
+### N1 八方振り
 
-[![八方振り](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png){ align=left width=150 }
+八方振り
 
 役割: 主力攻撃 / 牽制
 
@@ -57,22 +57,22 @@
 
 <br clear="all">
 
-### N2 [![薙切り](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png){ .glightbox }
+### N2 薙切り
 
-[![薙切り](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png){ align=left width=150 }
+薙切り
 
 役割: [ライフ](../rules.md#life)破壊 / [八相](../rules.md#hasso)の暴力
 
 *   **通常時**: [2/1]
 *   **[八相](../rules.md#hasso)時**: [3/3]
 *   **解説**:
-    通常時は平凡な性能ですが、[八相](../rules.md#hasso)に入った瞬間に[3/3]という[通常札](../rules.md)にあるまじき破壊力に変貌します。サイネの勝利パターンの多くは、終盤に[八相](../rules.md#hasso)状態でこの『[![薙切り](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png){ .glightbox }』を[ライフ](../rules.md#life)に叩き込むことで完結します。
+    通常時は平凡な性能ですが、[八相](../rules.md#hasso)に入った瞬間に[3/3]という[通常札](../rules.md)にあるまじき破壊力に変貌します。サイネの勝利パターンの多くは、終盤に[八相](../rules.md#hasso)状態でこの『薙切り』を[ライフ](../rules.md#life)に叩き込むことで完結します。
 
 <br clear="all">
 
-### N3 [![圏域](../assets/images/card/cards/na_02_o_n/na_02_o_n_3.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_3.png){ .glightbox }
+### N3 圏域
 
-[![圏域](../assets/images/card/cards/na_02_o_n/na_02_o_n_3.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_3.png){ align=left width=150 }
+圏域
 
 役割: フィールド支配 / 接近拒否
 
@@ -81,9 +81,9 @@
 
 <br clear="all">
 
-### N4 [![見切り](../assets/images/card/cards/na_02_o_n/na_02_o_n_4.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_4.png){ .glightbox }
+### N4 見切り
 
-[![見切り](../assets/images/card/cards/na_02_o_n/na_02_o_n_4.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_4.png){ align=left width=150 }
+見切り
 
 役割: 資源確保 / [集中力](../rules.md#focus)調整
 
@@ -92,9 +92,9 @@
 
 <br clear="all">
 
-### N5 [![石突き](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png){ .glightbox }
+### N5 石突き
 
-[![石突き](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png){ align=left width=150 }
+石突き
 
 役割: 移動攻撃 / 距離維持
 
@@ -105,9 +105,9 @@
 
 <br clear="all">
 
-### N6 [![無音壁](../assets/images/card/cards/na_02_o_n/na_02_o_n_6.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_6.png){ .glightbox }
+### N6 無音壁
 
-[![無音壁](../assets/images/card/cards/na_02_o_n/na_02_o_n_6.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_6.png){ align=left width=150 }
+無音壁
 
 役割: 防御 / 急所保護
 
@@ -117,9 +117,9 @@
 
 <br clear="all">
 
-### N7 [![衝音晶](../assets/images/card/cards/na_02_o_n/na_02_o_n_7.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_7.png){ .glightbox }
+### N7 衝音晶
 
-[![衝音晶](../assets/images/card/cards/na_02_o_n/na_02_o_n_7.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_7.png){ align=left width=150 }
+衝音晶
 
 役割: 防御崩し / リソース変換
 
@@ -134,7 +134,7 @@
 
 ### S1 律動弧戟
 
-[![律動弧戟](../assets/images/card/cards/na_02_o_s/na_02_o_s_1.png)](../assets/images/card/cards/na_02_o_s/na_02_o_s_1.png){ align=left width=150 }
+律動弧戟
 
 **コスト**: 5
 **種別**: 攻撃 (連続攻撃)
@@ -147,7 +147,7 @@
 
 ### S2 響鳴共振
 
-[![響鳴共振](../assets/images/card/cards/na_02_o_s/na_02_o_s_2.png)](../assets/images/card/cards/na_02_o_s/na_02_o_s_2.png){ align=left width=150 }
+響鳴共振
 
 **コスト**: 2
 **種別**: 行動
@@ -159,7 +159,7 @@
 
 ### S3 音無砕氷
 
-[![音無砕氷](../assets/images/card/cards/na_02_o_s/na_02_o_s_3.png)](../assets/images/card/cards/na_02_o_s/na_02_o_s_3.png){ align=left width=150 }
+音無砕氷
 
 **コスト**: 2
 **種別**: 行動 / 対応
@@ -173,7 +173,7 @@
 
 ### S4 氷雨細音の果ての果て
 
-[![氷雨細音の果ての果て](../assets/images/card/cards/na_02_o_s/na_02_o_s_4.png)](../assets/images/card/cards/na_02_o_s/na_02_o_s_4.png){ align=left width=150 }
+氷雨細音の果ての果て
 
 **コスト**: 4
 **種別**: 攻撃 (終焉)
@@ -209,8 +209,8 @@
 [間合](../rules.md#range)4-5を絶対防衛圏とし、相手をレンジ（射程）に閉じ込めるスタイル。
 
 *   **基本戦術**:
-    1. 『[![八方振り](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png){ .glightbox }』と『[![石突き](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png){ .glightbox }』で[間合](../rules.md#range)を維持。
-    2. 相手が近づこうとしたら『[![圏域](../assets/images/card/cards/na_02_o_n/na_02_o_n_3.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_3.png){ .glightbox }』や[基本動作](../rules.md)（[後退](../rules.md#retreat)）で拒否。
+    1. 『八方振り』と『石突き』で[間合](../rules.md#range)を維持。
+    2. 相手が近づこうとしたら『圏域』や[基本動作](../rules.md)（[後退](../rules.md#retreat)）で拒否。
     3. 少しずつ[オーラ](../rules.md#aura)を削り、[切札](../rules.md)の連撃で[ライフ](../rules.md#life)を奪う。
 *   **推奨パートナー**: [ヒミカ](03_himika.md)(銃)、[トコヨ](04_tokoyo.md)(扇)
 
@@ -220,8 +220,8 @@
 
 *   **基本戦術**:
     1. 序盤はリソースを貯める。
-    2. [八相](../rules.md#hasso)（[オーラ](../rules.md#aura)1以下）圏内でターンを迎え、『[![薙切り](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png){ .glightbox }』や強化された[通常札](../rules.md)を連打。
-    [![3. 『音無砕氷』を構え、相手の必死の反撃をスカす。](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png){ .glightbox }
+    2. [八相](../rules.md#hasso)（[オーラ](../rules.md#aura)1以下）圏内でターンを迎え、『薙切り』や強化された[通常札](../rules.md)を連打。
+    3. 『音無砕氷』を構え、相手の必死の反撃をスカす。
 *   **推奨パートナー**: [ユリナ](01_yurina.md)(刀)、[ライラ](12_laila.md)(爪)
 
 ---
@@ -252,5 +252,5 @@
 
 !!! tip "対応札で「リズム」を狂わせる"
     サイネの真価は、自分のターンではなく「相手のターン」にあります。
-    相手が「この攻撃を通せば勝てる」と確信した瞬間に『[![無音壁](../assets/images/card/cards/na_02_o_n/na_02_o_n_6.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_6.png){ .glightbox }』や『音無砕氷』を合わせることで、相手の精神的なリズムを崩すことができます。
+    相手が「この攻撃を通せば勝てる」と確信した瞬間に『無音壁』や『音無砕氷』を合わせることで、相手の精神的なリズムを崩すことができます。
     サイネ使いは、常にポーカーフェイスで「対応札を持っているぞ」という無言の圧力をかけ続けてください。

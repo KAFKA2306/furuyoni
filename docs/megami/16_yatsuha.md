@@ -20,7 +20,7 @@
 
 ヤツハは、自らの存在を粉々に砕くことで真理を問い続ける、宿命の少女にして「鏡」のメガミです。
 彼女の起源は、欠落した自己を埋めようとする切実な渇望と、鏡に映る「虚像」と「実像」の境界で揺れ動く繊細な精神にあります。彼女は自らの身体を傷つける（自傷）という極限の痛みを代償にすることで、この幻の世界を切り裂くための言葉（力）を紡ぎ出します。
-物語では、儚げで守りたくなるような少女の面影を持ちつつ、その実、死すらも自分の目的のための手段と割り切る狂気的なまでの[![意志](../assets/images/card/cards/na_16_o_n/na_16_o_n_5.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_5.png){ .glightbox }の強さが描かれます。彼女の振るう鏡の欠片は、自らの血を浴びるほどに魔力を増し、相手の[ライフ](../rules.md#life)に「共有された痛み」を刻み込みます。
+物語では、儚げで守りたくなるような少女の面影を持ちつつ、その実、死すらも自分の目的のための手段と割り切る狂気的なまでの意志の強さが描かれます。彼女の振るう鏡の欠片は、自らの血を浴びるほどに魔力を増し、相手の[ライフ](../rules.md#life)に「共有された痛み」を刻み込みます。
 「自傷」という戦い方は、彼女が平穏な嘘を拒絶し、文字通り身を削りながら真実の勝利を掴み取ろうとする、峻烈で痛切な「自己証明」のプロセスを象徴しています。
 
 ---
@@ -41,9 +41,9 @@
 
 ## [通常札](../rules.md)の一覧
 
-### N1 [![星の爪](../assets/images/card/cards/na_16_o_n/na_16_o_n_1.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_1.png){ .glightbox }
+### N1 星の爪
 
-[![星の爪](../assets/images/card/cards/na_16_o_n/na_16_o_n_1.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_1.png){ align=left width=150 }
+星の爪
 
 役割: 主力攻撃 / 削り
 
@@ -54,9 +54,9 @@
 
 <br clear="all">
 
-### N2 [![昏い顎](../assets/images/card/cards/na_16_o_n/na_16_o_n_2.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_2.png){ .glightbox }
+### N2 昏い顎
 
-[![昏い顎](../assets/images/card/cards/na_16_o_n/na_16_o_n_2.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_2.png){ align=left width=150 }
+昏い顎
 
 役割: リソース破壊 / 追撃
 
@@ -67,9 +67,9 @@
 
 <br clear="all">
 
-### N3 [![鏡の悪魔](../assets/images/card/cards/na_16_o_n/na_16_o_n_3.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_3.png){ .glightbox }
+### N3 鏡の悪魔
 
-[![鏡の悪魔](../assets/images/card/cards/na_16_o_n/na_16_o_n_3.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_3.png){ align=left width=150 }
+鏡の悪魔
 
 役割: 至近距離爆発 / カウンター
 
@@ -80,9 +80,9 @@
 
 <br clear="all">
 
-### N4 [![幻影歩法](../assets/images/card/cards/na_16_o_n/na_16_o_n_4.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_4.png){ .glightbox }
+### N4 幻影歩法
 
-[![幻影歩法](../assets/images/card/cards/na_16_o_n/na_16_o_n_4.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_4.png){ align=left width=150 }
+幻影歩法
 
 役割: 高速移動 / 回避
 
@@ -92,9 +92,9 @@
 
 <br clear="all">
 
-### N5 [![意志](../assets/images/card/cards/na_16_o_n/na_16_o_n_5.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_5.png){ .glightbox }
+### N5 意志
 
-[![意志](../assets/images/card/cards/na_16_o_n/na_16_o_n_5.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_5.png){ align=left width=150 }
+意志
 
 役割: 遠距離牽制 / ドロー加速
 
@@ -105,9 +105,9 @@
 
 <br clear="all">
 
-### N6 [![契約](../assets/images/card/cards/na_16_o_n/na_16_o_n_6.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_6.png){ .glightbox }
+### N6 契約
 
-[![契約](../assets/images/card/cards/na_16_o_n/na_16_o_n_6.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_6.png){ align=left width=150 }
+契約
 
 役割: 資源獲得 / 自己犠牲
 
@@ -116,9 +116,9 @@
 
 <br clear="all">
 
-### N7 [![寄花](../assets/images/card/cards/na_16_o_n/na_16_o_n_7.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_7.png){ .glightbox }
+### N7 寄花
 
-[![寄花](../assets/images/card/cards/na_16_o_n/na_16_o_n_7.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_7.png){ align=left width=150 }
+寄花
 
 役割: サーチ / 運命操作
 
@@ -133,7 +133,7 @@
 
 ### S1 八葉鏡の輝き
 
-[![八葉鏡の輝き](../assets/images/card/cards/na_16_o_s/na_16_o_s_1.png)](../assets/images/card/cards/na_16_o_s/na_16_o_s_1.png){ align=left width=150 }
+八葉鏡の輝き
 
 **コスト**: 3
 **種別**: 行動
@@ -146,7 +146,7 @@
 
 ### S2 四季はまた巡り来る
 
-[![四季はまた巡り来る](../assets/images/card/cards/na_16_o_s/na_16_o_s_2.png)](../assets/images/card/cards/na_16_o_s/na_16_o_s_2.png){ align=left width=150 }
+四季はまた巡り来る
 
 **コスト**: 4
 **種別**: 行動 / 再生
@@ -156,9 +156,9 @@
 
 <br clear="all">
 
-### S3 [![鏡の悪魔](../assets/images/card/cards/na_16_o_n/na_16_o_n_3.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_3.png){ .glightbox }
+### S3 鏡の悪魔
 
-[![鏡の悪魔](../assets/images/card/cards/na_16_o_s/na_16_o_s_3.png)](../assets/images/card/cards/na_16_o_s/na_16_o_s_3.png){ align=left width=150 }
+鏡の悪魔
 
 **コスト**: 5
 **種別**: 攻撃 (終焉)
@@ -176,8 +176,8 @@
 序盤から自分の[ライフ](../rules.md#life)を[フレア](../rules.md#flare)やドローに変え、通常ありえない速度で高打点[切札](../rules.md)を叩き込む。
 
 *   **基本戦術**:
-    1. 『[![契約](../assets/images/card/cards/na_16_o_n/na_16_o_n_6.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_6.png){ .glightbox }』で自分の[ライフ](../rules.md#life)を1-2点削り、序盤から3[フレア](../rules.md#flare)程度確保。
-    2. 『意志』と『[![鏡の悪魔](../assets/images/card/cards/na_16_o_n/na_16_o_n_3.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_3.png){ .glightbox }』で相手の[オーラ](../rules.md#aura)を強引に削る。
+    1. 『契約』で自分の[ライフ](../rules.md#life)を1-2点削り、序盤から3[フレア](../rules.md#flare)程度確保。
+    2. 『意志』と『鏡の悪魔』で相手の[オーラ](../rules.md#aura)を強引に削る。
     3. [ライフ](../rules.md#life)が2-3になったタイミングで、強化された必殺技を放つ。
 *   **推奨パートナー**: [ライラ](12_laila.md)(爪)、[サリヤ](11_sariya.md)(騎)
 
@@ -195,7 +195,7 @@
 
 ### [チカゲ](09_chikage.md) ([毒](../rules.md#poison)鏡)
 **「[毒](../rules.md#poison)を食らわば皿まで」**
-ヤツハの『[![寄花](../assets/images/card/cards/na_16_o_n/na_16_o_n_7.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_7.png){ .glightbox }』による高速サーチと、[チカゲ](09_chikage.md)の[毒](../rules.md#poison)がシナジー。自傷の痛みすらも[毒](../rules.md#poison)に変えて、相手を内側から崩壊させる異色のコンボペア。
+ヤツハの『寄花』による高速サーチと、[チカゲ](09_chikage.md)の[毒](../rules.md#poison)がシナジー。自傷の痛みすらも[毒](../rules.md#poison)に変えて、相手を内側から崩壊させる異色のコンボペア。
 
 ### [ライラ](12_laila.md) (爪鏡)
 **「嵐と鏡の逆転劇」**

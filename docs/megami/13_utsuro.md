@@ -36,16 +36,16 @@
 
 シーズン10（大[切札](../rules.md)時代）において、ウツロは「最強のアンチ・[切札](../rules.md)」として君臨しています。
 
-*   **[フレア](../rules.md#flare)破壊の重要性**: 強力な[切札](../rules.md)が増えた環境において、相手の[フレア](../rules.md#flare)を奪う『[![重圧](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png){ .glightbox }』や『魔食』の価値は劇的に上昇しています。
+*   **[フレア](../rules.md#flare)破壊の重要性**: 強力な[切札](../rules.md)が増えた環境において、相手の[フレア](../rules.md#flare)を奪う『重圧』や『魔食』の価値は劇的に上昇しています。
 *   **[ダスト](../rules.md#dust)活用**: 盤面の結晶を[ダスト](../rules.md#dust)に送る性質上、[ダスト](../rules.md#dust)の数を参照する[ライラ](12_laila.md)や[ハガネ](08_hagane.md)といったメガミとの相性も良く、コンボの起点としても優秀です。
 
 ---
 
 ## [通常札](../rules.md)解説
 
-### N1 [![黒き波動](../assets/images/card/cards/na_13_o_n/na_13_o_n_1.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_1.png){ .glightbox }
+### N1 黒き波動
 
-[![黒き波動](../assets/images/card/cards/na_13_o_n/na_13_o_n_1.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_1.png){ align=left width=150 }
+黒き波動
 
 役割: リソース破壊 / ドロー
 
@@ -54,22 +54,22 @@
 
 <br clear="all">
 
-### N2 [![円月](../assets/images/card/cards/na_13_o_n/na_13_o_n_2.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_2.png){ .glightbox }
+### N2 円月
 
-[![円月](../assets/images/card/cards/na_13_o_n/na_13_o_n_2.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_2.png){ align=left width=150 }
+円月
 
 役割: 主力攻撃 / 終焉の刃
 
 *   **適正[間合](../rules.md#range)**: 2-4
 *   **ダメージ**: [3/2] ([ダスト](../rules.md#dust)の数により強化)
 *   **解説**:
-    ウツロのメイン火力。[ダスト](../rules.md#dust)が一定数（通常8〜10以上）溜まった状態で放たれるこの一撃は、[ライフ](../rules.md#life)2を確実に削る回避困難な[![重圧](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png){ .glightbox }となります。
+    ウツロのメイン火力。[ダスト](../rules.md#dust)が一定数（通常8〜10以上）溜まった状態で放たれるこの一撃は、[ライフ](../rules.md#life)2を確実に削る回避困難な重圧となります。
 
 <br clear="all">
 
-### N3 [![影の翅](../assets/images/card/cards/na_13_o_n/na_13_o_n_3.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_3.png){ .glightbox }
+### N3 影の翅
 
-[![影の翅](../assets/images/card/cards/na_13_o_n/na_13_o_n_3.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_3.png){ align=left width=150 }
+影の翅
 
 役割: 移動 / リソース変換
 
@@ -78,9 +78,9 @@
 
 <br clear="all">
 
-### N4 [![遺灰呪](../assets/images/card/cards/na_13_o_n/na_13_o_n_4.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_4.png){ .glightbox }
+### N4 遺灰呪
 
-[![遺灰呪](../assets/images/card/cards/na_13_o_n/na_13_o_n_4.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_4.png){ align=left width=150 }
+遺灰呪
 
 役割: ハンデス / 汚染
 
@@ -89,9 +89,9 @@
 
 <br clear="all">
 
-### N5 [![虚偽](../assets/images/card/cards/na_13_o_n/na_13_o_n_5.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_5.png){ .glightbox }
+### N5 虚偽
 
-[![虚偽](../assets/images/card/cards/na_13_o_n/na_13_o_n_5.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_5.png){ align=left width=150 }
+虚偽
 
 役割: 弱体化 / 環境封印
 
@@ -100,9 +100,9 @@
 
 <br clear="all">
 
-### N6 [![重圧](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png){ .glightbox }
+### N6 重圧
 
-[![重圧](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png){ align=left width=150 }
+重圧
 
 役割: [フレア](../rules.md#flare)破壊 / [切札](../rules.md)封じ
 
@@ -111,9 +111,9 @@
 
 <br clear="all">
 
-### N7 [![刈り取り](../assets/images/card/cards/na_13_o_n/na_13_o_n_7.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_7.png){ .glightbox }
+### N7 刈り取り
 
-[![刈り取り](../assets/images/card/cards/na_13_o_n/na_13_o_n_7.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_7.png){ align=left width=150 }
+刈り取り
 
 役割: リソース吸収 / 再生
 
@@ -128,7 +128,7 @@
 
 ### S1 灰滅 (かいめつ)
 
-[![灰滅](../assets/images/card/cards/na_13_o_s/na_13_o_s_1.png)](../assets/images/card/cards/na_13_o_s/na_13_o_s_1.png){ align=left width=150 }
+灰滅
 
 **コスト**: 5
 **種別**: 攻撃 (大規模)
@@ -141,7 +141,7 @@
 
 ### S2 魔食
 
-[![魔食](../assets/images/card/cards/na_13_o_s/na_13_o_s_2.png)](../assets/images/card/cards/na_13_o_s/na_13_o_s_2.png){ align=left width=150 }
+魔食
 
 **コスト**: 2
 **種別**: 行動
@@ -154,7 +154,7 @@
 
 ### S3 終末の果て
 
-[![終末の果て](../assets/images/card/cards/na_13_o_s/na_13_o_s_3.png)](../assets/images/card/cards/na_13_o_s/na_13_o_s_3.png){ align=left width=150 }
+終末の果て
 
 **コスト**: 4
 **種別**: 攻撃 (終焉)
@@ -172,9 +172,9 @@
 畏縮とリソース抜きを徹底し、相手が何もできない盤面を作り出す。
 
 *   **基本戦術**:
-    1. 『[![黒き波動](../assets/images/card/cards/na_13_o_n/na_13_o_n_1.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_1.png){ .glightbox }』と『[![重圧](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png){ .glightbox }』で[オーラ](../rules.md#aura)と[フレア](../rules.md#flare)を徹底的に削る。
-    [![2. 『魔食』を展開し、毎ターンの自動削りを発生させる。](../assets/images/card/cards/na_13_o_n/na_13_o_n_1.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_1.png){ .glightbox }
-    3. [ダスト](../rules.md#dust)が溜まったタイミングで『[![円月](../assets/images/card/cards/na_13_o_n/na_13_o_n_2.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_2.png){ .glightbox }』や『灰滅』で仕留める。
+    1. 『黒き波動』と『重圧』で[オーラ](../rules.md#aura)と[フレア](../rules.md#flare)を徹底的に削る。
+    2. 『魔食』を展開し、毎ターンの自動削りを発生させる。
+    3. [ダスト](../rules.md#dust)が溜まったタイミングで『円月』や『灰滅』で仕留める。
 *   **推奨パートナー**: [シンラ](07_shinra.md)(書)、[チカゲ](09_chikage.md)([毒](../rules.md#poison))
 
 ### 2. 広域制圧ビートダウン
@@ -182,7 +182,7 @@
 ウツロの[オーラ](../rules.md#aura)奪取能力を使い、常に自分だけが潤沢な[オーラ](../rules.md#aura)を持った状態で殴り勝つ。
 
 *   **基本戦術**:
-    1. 『[![刈り取り](../assets/images/card/cards/na_13_o_n/na_13_o_n_7.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_7.png){ .glightbox }』などで常に[オーラ](../rules.md#aura)を最大値付近に保つ。
+    1. 『刈り取り』などで常に[オーラ](../rules.md#aura)を最大値付近に保つ。
     2. 相手が[オーラ](../rules.md#aura)を宿す隙を与えず、連続攻撃で[ライフ](../rules.md#life)を狙う。
 *   **推奨パートナー**: [ヒミカ](03_himika.md)(銃)、[ライラ](12_laila.md)(爪)
 
@@ -196,7 +196,7 @@
 
 ### [シンラ](07_shinra.md) (書鎌)
 **「論理的崩壊」**
-[シンラ](07_shinra.md)の[![引用](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ .glightbox }とウツロの畏縮が重なり、相手は手札も[集中力](../rules.md#focus)も[フレア](../rules.md#flare)もすべて奪われる絶望的な対局。
+[シンラ](07_shinra.md)の引用とウツロの畏縮が重なり、相手は手札も[集中力](../rules.md#focus)も[フレア](../rules.md#flare)もすべて奪われる絶望的な対局。
 
 ---
 

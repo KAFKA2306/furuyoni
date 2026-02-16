@@ -1,4 +1,4 @@
-# シーズン3 環境回顧録：黄金の均衡と「完全[![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }」の衝撃
+# シーズン3 環境回顧録：黄金の均衡と「完全論破」の衝撃
 
 ## タイムライン
 - **開始**: 2018年〜（新メガミ：[チカゲ](../megami/09_chikage.md)、[クルル](../megami/10_kururu.md)、[シンラ](../megami/07_shinra.md)、[サリヤ](../megami/11_sariya.md)参戦）
@@ -14,12 +14,12 @@
 
 ---
 
-## 2. 環境の深淵：『完全[![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }』という壁
+## 2. 環境の深淵：『完全論破』という壁
 
 ### 言論の暴力
-シーズン3を象徴する一枚を挙げるならば、[シンラ](../megami/07_shinra.md)の[切札](../rules.md)《完全[![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }》をおいて他にありません。
+シーズン3を象徴する一枚を挙げるならば、[シンラ](../megami/07_shinra.md)の[切札](../rules.md)《完全論破》をおいて他にありません。
 - **絶望のロック**: 相手の特定のカードを使用不能にするこのカードは、コンボデッキや特定の切り札に依存するメガミにとって、文字通りの「壁」となりました。
-- **心理戦の極致**: 「いつ[![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }が飛んでくるか」という恐怖自体が、相手のプレイを歪ませる強力な圧力となりました。
+- **心理戦の極致**: 「いつ論破が飛んでくるか」という恐怖自体が、相手のプレイを歪ませる強力な圧力となりました。
 
 ### [毒](../rules.md#poison)と[機巧](../rules.md#mechanism)のバランス
 当初は強すぎると懸念された[チカゲ](../megami/09_chikage.md)の[毒](../rules.md#poison)も、研究が進むにつれて「リソース管理の延長」として受け入れられ、環境は極めて高度な次元で安定を見せました。
@@ -30,7 +30,7 @@
 
 ### ① 【騎算（当時の呼称）】[サリヤ](../megami/11_sariya.md) / [シンラ](../megami/07_shinra.md)
 **機動性と支配力の融合**
-- **戦略**: [サリヤ](../megami/11_sariya.md)の圧倒的な燃費と移動力で[間合](../rules.md#range)を制し、[シンラ](../megami/07_shinra.md)の付与札や[![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }で相手の反撃を封じる。
+- **戦略**: [サリヤ](../megami/11_sariya.md)の圧倒的な燃費と移動力で[間合](../rules.md#range)を制し、[シンラ](../megami/07_shinra.md)の付与札や論破で相手の反撃を封じる。
 - **強み**: 自由自在な[間合](../rules.md#range)制御と、確実に相手のプランを崩すコントロール性能が合致し、多くのプレイヤーが理想の組み合わせとして追求しました。
 
 ### ② 【[毒](../rules.md#poison)忍（当時の呼称）】[チカゲ](../megami/09_chikage.md) / [オボロ](../megami/05_oboro.md)
@@ -55,4 +55,4 @@
 ## 出典・参考資料
 - 第三拡張『新劇拡張前編』発売記念パッチノート
 - 第二回全国大会 メタゲーム分析レポート
-- 公式ブログ「完全[![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }の設計思想について」
+- 公式ブログ「完全論破の設計思想について」

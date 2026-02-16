@@ -48,9 +48,9 @@
 
 ## [通常札](../rules.md)解説
 
-### N1 [![飛苦無](../assets/images/card/cards/na_09_o_n/na_09_o_n_1.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_1.png){ .glightbox }
+### N1 飛苦無
 
-[![飛苦無](../assets/images/card/cards/na_09_o_n/na_09_o_n_1.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_1.png){ align=left width=150 }
+飛苦無
 
 役割: 削り / 追撃
 
@@ -63,7 +63,7 @@
 
 ### N2 [毒](../rules.md#poison)針
 
-[![毒針](../assets/images/card/cards/na_09_o_n/na_09_o_n_2.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_2.png){ align=left width=150 }
+毒針
 
 役割: 汚染の起点 / 嫌がらせ
 
@@ -75,9 +75,9 @@
 
 <br clear="all">
 
-### N3 [![遁術](../assets/images/card/cards/na_09_o_n/na_09_o_n_3.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_3.png){ .glightbox }
+### N3 遁術
 
-[![遁術](../assets/images/card/cards/na_09_o_n/na_09_o_n_3.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_3.png){ align=left width=150 }
+遁術
 
 役割: 移動 / 回避
 
@@ -87,9 +87,9 @@
 
 <br clear="all">
 
-### N4 [![首切り](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png){ .glightbox }
+### N4 首切り
 
-[![首切り](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png){ align=left width=150 }
+首切り
 
 役割: 暗殺の一撃 / フィニッシャー
 
@@ -103,7 +103,7 @@
 
 ### N5 [毒](../rules.md#poison)霧
 
-[![毒霧](../assets/images/card/cards/na_09_o_n/na_09_o_n_5.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_5.png){ align=left width=150 }
+毒霧
 
 役割: 広域汚染
 
@@ -112,9 +112,9 @@
 
 <br clear="all">
 
-### N6 [![抜き足](../assets/images/card/cards/na_09_o_n/na_09_o_n_6.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_6.png){ .glightbox }
+### N6 抜き足
 
-[![抜き足](../assets/images/card/cards/na_09_o_n/na_09_o_n_6.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_6.png){ align=left width=150 }
+抜き足
 
 役割: 極低コスト移動
 
@@ -123,9 +123,9 @@
 
 <br clear="all">
 
-### N7 [![泥濘](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png){ .glightbox }
+### N7 泥濘
 
-[![泥濘](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png){ align=left width=150 }
+泥濘
 
 役割: 環境支配 / 拘束
 
@@ -140,7 +140,7 @@
 
 ### S1 滅灯の魂[毒](../rules.md#poison)
 
-[![滅灯の魂毒](../assets/images/card/cards/na_09_o_s/na_09_o_s_1.png)](../assets/images/card/cards/na_09_o_s/na_09_o_s_1.png){ align=left width=150 }
+滅灯の魂毒
 
 **コスト**: 2
 **種別**: 行動
@@ -152,7 +152,7 @@
 
 ### S2 残響の喉笛
 
-[![残響の喉笛](../assets/images/card/cards/na_09_o_s/na_09_o_s_2.png)](../assets/images/card/cards/na_09_o_s/na_09_o_s_2.png){ align=left width=150 }
+残響の喉笛
 
 **コスト**: 4
 **種別**: 攻撃
@@ -164,7 +164,7 @@
 
 ### S3 叛旗の纏[毒](../rules.md#poison)
 
-[![叛旗の纏毒](../assets/images/card/cards/na_09_o_s/na_09_o_s_3.png)](../assets/images/card/cards/na_09_o_s/na_09_o_s_3.png){ align=left width=150 }
+叛旗の纏毒
 
 **コスト**: 3
 **種別**: 行動
@@ -177,7 +177,7 @@
 
 ### S4 闇色の幻影
 
-[![闇色の幻影](../assets/images/card/cards/na_09_o_s/na_09_o_s_4.png)](../assets/images/card/cards/na_09_o_s/na_09_o_s_4.png){ align=left width=150 }
+闇色の幻影
 
 **コスト**: 5
 **種別**: 攻撃 (終焉)
@@ -196,13 +196,13 @@
 
 *   **基本戦術**:
     1. 『[毒](../rules.md#poison)針』と『[毒](../rules.md#poison)霧』で相手の手札を埋める。
-    2. 『[![泥濘](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_7.png){ .glightbox }』で相手の機動力を封じる。
-    3. [毒](../rules.md#poison)によるリソースロスを重ねさせ、最後に『[![首切り](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png){ .glightbox }』で仕留める。
+    2. 『泥濘』で相手の機動力を封じる。
+    3. [毒](../rules.md#poison)によるリソースロスを重ねさせ、最後に『首切り』で仕留める。
 *   **推奨パートナー**: [オボロ](05_oboro.md)(忍)、[シンラ](07_shinra.md)(書)
 
 ### 2. 暗殺アグロ型 (バーストプラン)
 **「隙を見せれば、喉を掻き切る。」**
-最小限の[毒](../rules.md#poison)で相手の[オーラ](../rules.md#aura)を剥がし、[![首切り](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png)](../assets/images/card/cards/na_09_o_n/na_09_o_n_4.png){ .glightbox }や高打点[切札](../rules.md)で早期決着を狙う。
+最小限の[毒](../rules.md#poison)で相手の[オーラ](../rules.md#aura)を剥がし、首切りや高打点[切札](../rules.md)で早期決着を狙う。
 
 *   **基本戦術**:
     1. 序盤から積極的に[間合](../rules.md#range)に入り、『[毒](../rules.md#poison)針』で[オーラ](../rules.md#aura)削りと[毒](../rules.md#poison)の両立。
@@ -215,7 +215,7 @@
 
 ### [オボロ](05_oboro.md) (忍[毒](../rules.md#poison))
 **「通称：忍者[毒](../rules.md#poison)」**
-[設置](../rules.md#setchi)『[![影菱](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png)](../assets/images/card/cards/na_05_o_n/na_05_o_n_2.png){ .glightbox }』と『[毒](../rules.md#poison)針』の二段構えによるハンデス特化。相手は手札を守るか[オーラ](../rules.md#aura)を守るかの究極の選択を強いられます。
+[設置](../rules.md#setchi)『影菱』と『[毒](../rules.md#poison)針』の二段構えによるハンデス特化。相手は手札を守るか[オーラ](../rules.md#aura)を守るかの究極の選択を強いられます。
 
 ### [トコヨ](04_tokoyo.md) (扇[毒](../rules.md#poison))
 **「沈黙の舞奏」**

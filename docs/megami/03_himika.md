@@ -47,10 +47,10 @@ graph TD
 ## 初心者が陥りやすい罠
 
 !!! caution "弾切れ（ガス欠）"
-    ヒミカの最大の敵は自分自身です。序盤に気持ちよく『[![シュート](../assets/images/card/cards/na_03_o_n/na_03_o_n_1.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_1.png){ .glightbox }』や『[![ラピッドファイア](../assets/images/card/cards/na_03_o_n/na_03_o_n_2.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_2.png){ .glightbox }』を連射しすぎると、[再構成](../rules.md#reconstruction)直後の大事な場面で手札・山札がなくなり、何もできないターンが生まれます。**『撃つターン』と『溜めるターン』を明確に分けましょう。**
+    ヒミカの最大の敵は自分自身です。序盤に気持ちよく『シュート』や『ラピッドファイア』を連射しすぎると、[再構成](../rules.md#reconstruction)直後の大事な場面で手札・山札がなくなり、何もできないターンが生まれます。**『撃つターン』と『溜めるターン』を明確に分けましょう。**
 
 !!! warning "安易な[間合](../rules.md#range)接近"
-    ヒミカは[間合](../rules.md#range)0-4においては無力に近い存在です（『[![クリムゾンゼロ](../assets/images/card/cards/na_03_o_s/na_03_o_s_4.png)](../assets/images/card/cards/na_03_o_s/na_03_o_s_4.png){ .glightbox }』採用時を除く）。相手に[前進](../rules.md#advance)リソースを与えないよう、無駄な攻撃を控えて[間合](../rules.md#range)10を維持する『待ち』の姿勢も重要です。
+    ヒミカは[間合](../rules.md#range)0-4においては無力に近い存在です（『クリムゾンゼロ』採用時を除く）。相手に[前進](../rules.md#advance)リソースを与えないよう、無駄な攻撃を控えて[間合](../rules.md#range)10を維持する『待ち』の姿勢も重要です。
 
 ---
 
@@ -59,14 +59,14 @@ graph TD
 ### バースト型 (OTK狙い)
 | 局面 | 目標 | 推奨アクション |
 | :--- | :--- | :--- |
-| **序盤** | 準備 | [間合](../rules.md#range)10で『[![バックステップ](../assets/images/card/cards/na_03_o_n/na_03_o_n_5.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_5.png){ .glightbox }』確保。1ターン目は基本的に[宿し](../rules.md#yadoshi)を行い、[間合](../rules.md#range)を詰めさせない。 |
+| **序盤** | 準備 | [間合](../rules.md#range)10で『バックステップ』確保。1ターン目は基本的に[宿し](../rules.md#yadoshi)を行い、[間合](../rules.md#range)を詰めさせない。 |
 | **中盤** | パーツ集め | キーカード（スカーレットイマジン等）を手札に揃える。攻撃は最低限。 |
-| **終盤** | 決着 | 『[![レッドバレット](../assets/images/card/cards/na_03_o_s/na_03_o_s_1.png)](../assets/images/card/cards/na_03_o_s/na_03_o_s_1.png){ .glightbox }』『[![マグナムカノン](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png){ .glightbox }』を一気に吐き出し、1ターンで8〜10点を削り切る。 |
+| **終盤** | 決着 | 『レッドバレット』『マグナムカノン』を一気に吐き出し、1ターンで8〜10点を削り切る。 |
 
 ### レンジロック型 (完封狙い)
 | 局面 | 目標 | 推奨アクション |
 | :--- | :--- | :--- |
-| **序盤** | 剥がし | 1ターン目は[前進](../rules.md#advance)せず、[集中力](../rules.md#focus)を貯めつつ『[![シュート](../assets/images/card/cards/na_03_o_n/na_03_o_n_1.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_1.png){ .glightbox }』や『[![フルバースト](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png){ .glightbox }』で相手の[オーラ](../rules.md#aura)を削る。 |
+| **序盤** | 剥がし | 1ターン目は[前進](../rules.md#advance)せず、[集中力](../rules.md#focus)を貯めつつ『シュート』や『フルバースト』で相手の[オーラ](../rules.md#aura)を削る。 |
 | **中盤** | 拘束 | 相手が[前進](../rules.md#advance)しようとして払った[オーラ](../rules.md#aura)を再び射撃で奪う。 |
 | **終盤** | 詰み | 相手のリソースが枯渇したところで、一方的に[ライフ](../rules.md#life)を奪う。 |
 
@@ -89,37 +89,37 @@ graph TD
 ## [通常札](../rules.md)の詳細解説
 
 ### N1 シュート
-[![シュート](../assets/images/card/cards/na_03_o_n/na_03_o_n_1.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_1.png){ .glightbox }
+シュート
 
 至近距離までカバーする汎用札。適正[間合](../rules.md#range)の広さゆえに腐ることがなく、[連火](../rules.md#renka)のカウント稼ぎとしても優秀です。
 
 ### N2 ラピッドファイア
-[![ラピッドファイア](../assets/images/card/cards/na_03_o_n/na_03_o_n_2.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_2.png){ .glightbox }
+ラピッドファイア
 
 [連火](../rules.md#renka)条件を満たすことで、解決後に手札に戻ります。手札枚数を維持したまま連続攻撃を可能にする、中盤の要石です。
 
 ### N3 マグナムカノン
-[![マグナムカノン](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png){ .glightbox }
+マグナムカノン
 
 [ライフ](../rules.md#life)受けを強要させる3/2。ヒミカのダメージソースの要であり、これをいかに[ライフ](../rules.md#life)に通すかが勝負です。
 
 ### N4 フルバースト
-[![フルバースト](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png){ .glightbox }
+フルバースト
 
 [連火](../rules.md#renka)達成時の追加効果が凶悪。相手のリソース（[オーラ](../rules.md#aura)・[ライフ](../rules.md#life)・[フレア](../rules.md#flare)・[ダスト](../rules.md#dust)）全てに干渉し、盤面を崩壊させます。
 
 ### N5 バックステップ
-[![バックステップ](../assets/images/card/cards/na_03_o_n/na_03_o_n_5.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_5.png){ .glightbox }
+バックステップ
 
 [間合](../rules.md#range)を離しつつカードを引く、攻防一体のスキル。「攻めながら逃げる」ヒミカの動きを支える心臓部です。
 
 ### N6 バックドラフト
-[![バックドラフト](../assets/images/card/cards/na_03_o_n/na_03_o_n_6.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_6.png){ .glightbox }
+バックドラフト
 
-次の攻撃を強化。[決死](../rules.md#kesshi)でなくとも4/3の『[![マグナムカノン](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png){ .glightbox }』を作り出せる、バーストダメージの起爆剤です。
+次の攻撃を強化。[決死](../rules.md#kesshi)でなくとも4/3の『マグナムカノン』を作り出せる、バーストダメージの起爆剤です。
 
 ### N7 スモーク
-[![スモーク](../assets/images/card/cards/na_03_o_n/na_03_o_n_7.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_7.png){ .glightbox }
+スモーク
 
 相手の[オーラ](../rules.md#aura)を結晶ごと排除（納）する妨害札。防御が堅い相手への突破口として機能します。
 
@@ -128,22 +128,22 @@ graph TD
 ## [切札](../rules.md)の詳細解説
 
 ### S1 レッドバレット
-[![レッドバレット](../assets/images/card/cards/na_03_o_s/na_03_o_s_1.png)](../assets/images/card/cards/na_03_o_s/na_03_o_s_1.png){ .glightbox }
+レッドバレット
 
 **コスト0**の[3/1]。リソース消費なしで打てるため、リーサル計算が非常に計算しやすくなります。最後の一押しに。
 
 ### S2 スカーレットイマジン
-[![スカーレットイマジン](../assets/images/card/cards/na_03_o_s/na_03_o_s_2.png)](../assets/images/card/cards/na_03_o_s/na_03_o_s_2.png){ .glightbox }
+スカーレットイマジン
 
 **コスト3**。手札を超大量に確保する、ヒミカ最強のコンボ始動パーツ。ここから全ての悪夢が始まります。
 
 ### S3 ルルララリ
-[![ルルララリ](../assets/images/card/cards/na_03_o_s/na_03_o_s_3.png)](../assets/images/card/cards/na_03_o_s/na_03_o_s_3.png){ .glightbox }
+ルルララリ
 
 **コスト4**。特殊勝利や盤面破壊をもたらす、ロマンと実用を兼ねた大技。
 
 ### S4 クリムゾンゼロ
-[![クリムゾンゼロ](../assets/images/card/cards/na_03_o_s/na_03_o_s_4.png)](../assets/images/card/cards/na_03_o_s/na_03_o_s_4.png){ .glightbox }
+クリムゾンゼロ
 
 **コスト5**。弱点である[間合](../rules.md#range)0-2をカバーする、対クリンチ最終兵器。『クリムゾンゆらりび』の相方としても著名です。
 

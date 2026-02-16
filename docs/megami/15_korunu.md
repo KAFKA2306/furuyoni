@@ -47,9 +47,9 @@
 
 ## [通常札](../rules.md)解説
 
-### N1 [![凍てつく足影](../assets/images/card/cards/na_15_o_n/na_15_o_n_1.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_1.png){ .glightbox }
+### N1 凍てつく足影
 
-[![凍てつく足影](../assets/images/card/cards/na_15_o_n/na_15_o_n_1.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_1.png){ align=left width=150 }
+凍てつく足影
 
 役割: 移動妨害 / 基礎汚染
 
@@ -58,9 +58,9 @@
 
 <br clear="all">
 
-### N2 [![霜降らし](../assets/images/card/cards/na_15_o_n/na_15_o_n_2.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_2.png){ .glightbox }
+### N2 霜降らし
 
-[![霜降らし](../assets/images/card/cards/na_15_o_n/na_15_o_n_2.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_2.png){ align=left width=150 }
+霜降らし
 
 役割: 広域[凍結](../rules.md#freeze) / 防御崩し
 
@@ -69,9 +69,9 @@
 
 <br clear="all">
 
-### N3 [![雪渡り](../assets/images/card/cards/na_15_o_n/na_15_o_n_3.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_3.png){ .glightbox }
+### N3 雪渡り
 
-[![雪渡り](../assets/images/card/cards/na_15_o_n/na_15_o_n_3.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_3.png){ align=left width=150 }
+雪渡り
 
 役割: 位置調整 / 冷却
 
@@ -80,9 +80,9 @@
 
 <br clear="all">
 
-### N4 [![氷の棘](../assets/images/card/cards/na_15_o_n/na_15_o_n_4.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_4.png){ .glightbox }
+### N4 氷の棘
 
-[![氷の棘](../assets/images/card/cards/na_15_o_n/na_15_o_n_4.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_4.png){ align=left width=150 }
+氷の棘
 
 役割: 威力増強 / 削り
 
@@ -93,9 +93,9 @@
 
 <br clear="all">
 
-### N5 [![氷柱](../assets/images/card/cards/na_15_o_n/na_15_o_n_5.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_5.png){ .glightbox }
+### N5 氷柱
 
-[![氷柱](../assets/images/card/cards/na_15_o_n/na_15_o_n_5.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_5.png){ align=left width=150 }
+氷柱
 
 役割: 常時デバフ / 環境汚染
 
@@ -104,9 +104,9 @@
 
 <br clear="all">
 
-### N6 [![斬](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_1.png){ .glightbox }り払い
+### N6 斬り払い
 
-[![斬り払い](../assets/images/card/cards/na_15_o_n/na_15_o_n_6.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_6.png){ align=left width=150 }
+斬り払い
 
 役割: 至近距離防衛
 
@@ -115,14 +115,14 @@
 
 <br clear="all">
 
-### N7 [![氷の床](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }
+### N7 氷の床
 
-[![氷の床](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ align=left width=150 }
+氷の床
 
 役割: トラップ / 滑走
 
 *   **解説**:
-    盤面に「[![氷の床](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_7.png){ .glightbox }」を[設置](../rules.md#setchi)し、足を踏み入れた相手を思わぬ方向へ滑らせます。意図しない[間合](../rules.md#range)変化は、コンボメガミにとって最大の脅威です。
+    盤面に「氷の床」を[設置](../rules.md#setchi)し、足を踏み入れた相手を思わぬ方向へ滑らせます。意図しない[間合](../rules.md#range)変化は、コンボメガミにとって最大の脅威です。
 
 <br clear="all">
 
@@ -132,7 +132,7 @@
 
 ### S1 凍天 (とうてん)
 
-[![凍天](../assets/images/card/cards/na_15_o_s/na_15_o_s_1.png)](../assets/images/card/cards/na_15_o_s/na_15_o_s_1.png){ align=left width=150 }
+凍天
 
 **コスト**: 4
 **種別**: 行動
@@ -145,7 +145,7 @@
 
 ### S2 霜の帳
 
-[![霜の帳](../assets/images/card/cards/na_15_o_s/na_15_o_s_2.png)](../assets/images/card/cards/na_15_o_s/na_15_o_s_2.png){ align=left width=150 }
+霜の帳
 
 **コスト**: 3
 **種別**: 対応 / 防御
@@ -158,7 +158,7 @@
 
 ### S3 極夜の鎌
 
-[![極夜の鎌](../assets/images/card/cards/na_15_o_s/na_15_o_s_3.png)](../assets/images/card/cards/na_15_o_s/na_15_o_s_3.png){ align=left width=150 }
+極夜の鎌
 
 **コスト**: 5
 **種別**: 攻撃 (終焉)
@@ -176,14 +176,14 @@
 [オーラ](../rules.md#aura)と[フレア](../rules.md#flare)の両面を[凍結](../rules.md#freeze)し続け、相手に「ふるよに」というゲームをさせないスタイル。
 
 *   **基本戦術**:
-    1. 序盤から『[![霜降らし](../assets/images/card/cards/na_15_o_n/na_15_o_n_2.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_2.png){ .glightbox }』で[オーラ](../rules.md#aura)を凍らせ、[纏い](../rules.md#matoy)を封じる。
+    1. 序盤から『霜降らし』で[オーラ](../rules.md#aura)を凍らせ、[纏い](../rules.md#matoy)を封じる。
     2. [フレア](../rules.md#flare)が貯まりそうなタイミングで『凍天』を投入。
     3. 相手が解凍にリソースを割いている間に、安全圏から削る。
 *   **推奨パートナー**: [シンラ](07_shinra.md)(書)、[ウツロ](13_utsuro.md)(鎌)
 
 ### 2. 氷結追撃ビートダウン
 **「凍らせて、砕く。」**
-[凍結](../rules.md#freeze)をダメージバフとして活用し、高打点の『[![氷の棘](../assets/images/card/cards/na_15_o_n/na_15_o_n_4.png)](../assets/images/card/cards/na_15_o_n/na_15_o_n_4.png){ .glightbox }』や[切札](../rules.md)で一気に決着を狙う。
+[凍結](../rules.md#freeze)をダメージバフとして活用し、高打点の『氷の棘』や[切札](../rules.md)で一気に決着を狙う。
 
 *   **基本戦術**:
     1. 最低限の[凍結](../rules.md#freeze)を維持し、攻撃札の条件を満たす。
@@ -196,7 +196,7 @@
 
 ### [シンラ](07_shinra.md) (書鎌)
 **「論理的沈黙」**
-[シンラ](07_shinra.md)の[![引用](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ .glightbox }による手札ロックと、コルヌの[凍結](../rules.md#freeze)によるリソースロックの二重苦。相手は思考することも動くことも許されない、最も「嫌われる」が「最強」に近いペア。
+[シンラ](07_shinra.md)の引用による手札ロックと、コルヌの[凍結](../rules.md#freeze)によるリソースロックの二重苦。相手は思考することも動くことも許されない、最も「嫌われる」が「最強」に近いペア。
 
 ### [ウツロ](13_utsuro.md) (鎌鎌)
 **「空虚な氷獄」**
