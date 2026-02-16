@@ -1,12 +1,13 @@
 # シンラ
 
 <div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="" width="100">
+  <img src="../assets/images/chara/ico-07.png" width="100">
   <div class="megami-meta">
     <ul>
       <li><strong>権能</strong>: 書 (Book / Logic)</li>
       <li><strong>難易度</strong>: ★★★★★</li>
-      <li><strong>得意[間合](../mechanics.md#range)</strong>: 4-6</li>
+      <li><strong>得意[間合](../rules.md#range)</strong>: 4-6</li>
+      <li><strong>S10 Meta Tier</strong>: <span style="color: #ff9800; font-weight: bold;">A Regulation Watch</span></li>
     </ul>
   </div>
 </div>
@@ -34,16 +35,16 @@
 
 ## シーズン10における立ち位置
 
-シーズン10（大[切札](../mechanics.md)時代）において、シンラは「コンボ殺し」としての役割を強化されています。
+シーズン10（大[切札](../rules.md)時代）において、シンラは「コンボ殺し」としての役割を強化されています。
 
-*   **大型[切札](../mechanics.md)のメタ**: 相手が重量級の[切札](../mechanics.md)を使用しようとしても、シンラの『[![引用](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ .glightbox }』でその発動条件を奪ったり、『[![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }』で準備を台無しにしたりすることができます。
+*   **大型[切札](../rules.md)のメタ**: 相手が重量級の[切札](../rules.md)を使用しようとしても、シンラの『[![引用](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ .glightbox }』でその発動条件を奪ったり、『[![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }』で準備を台無しにしたりすることができます。
 *   **低速環境の恩恵**: 試合が長引くほど、シンラの「リソースをじわじわ削る」戦術が真価を発揮します。判定勝ちや山札切れを狙うプランが、環境的に通りやすくなっています。
 
 ---
 
-## [通常札](../mechanics.md)解説
+## [通常札](../rules.md)解説
 
-### N1 [![立論](../assets/images/card/cards/na_07_o_n/na_07_o_n_1.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_1.png){ .glightbox }
+### N1 立論
 
 [![立論](../assets/images/card/cards/na_07_o_n/na_07_o_n_1.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_1.png){ align=left width=150 }
 
@@ -54,7 +55,7 @@
 
 <br clear="all">
 
-### N2 [![反論](../assets/images/card/cards/na_07_o_n/na_07_o_n_2.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_2.png){ .glightbox }
+### N2 反論
 
 [![反論](../assets/images/card/cards/na_07_o_n/na_07_o_n_2.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_2.png){ align=left width=150 }
 
@@ -65,20 +66,20 @@
 
 <br clear="all">
 
-### N3 [![詭弁](../assets/images/card/cards/na_07_o_n/na_07_o_n_3.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_3.png){ .glightbox }
+### N3 詭弁
 
 [![詭弁](../assets/images/card/cards/na_07_o_n/na_07_o_n_3.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_3.png){ align=left width=150 }
 
 役割: 削り / 精神的[![重圧](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png)](../assets/images/card/cards/na_13_o_n/na_13_o_n_6.png){ .glightbox }
 
-*   **適正[間合](../mechanics.md#range)**: 1-10
+*   **適正[間合](../rules.md#range)**: 1-10
 *   **ダメージ**: [2/1]
 *   **解説**:
-    どこからでも飛んでくる小打点。ダメージよりも、この攻撃によって相手の[オーラ](../mechanics.md#aura)や[フレア](../mechanics.md#flare)を少しずつ奪い、相手に「常に削られている」というプレッシャーを与えることが目的です。
+    どこからでも飛んでくる小打点。ダメージよりも、この攻撃によって相手の[オーラ](../rules.md#aura)や[フレア](../rules.md#flare)を少しずつ奪い、相手に「常に削られている」というプレッシャーを与えることが目的です。
 
 <br clear="all">
 
-### N4 [![引用](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ .glightbox }
+### N4 引用
 
 [![引用](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ align=left width=150 }
 
@@ -90,18 +91,18 @@
 
 <br clear="all">
 
-### N5 [![扇動](../assets/images/card/cards/na_07_o_n/na_07_o_n_5.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_5.png){ .glightbox }
+### N5 扇動
 
 [![扇動](../assets/images/card/cards/na_07_o_n/na_07_o_n_5.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_5.png){ align=left width=150 }
 
 役割: リソース操作 / 付与バフ
 
 *   **解説**:
-    盤面の結晶（[オーラ](../mechanics.md#aura)や[間合](../mechanics.md#range)）を強制的に移動させる付与札。相手の[オーラ](../mechanics.md#aura)を剥ぎ取りながら[間合](../mechanics.md#range)を操作し、シンラの得意な距離を維持するために使われます。
+    盤面の結晶（[オーラ](../rules.md#aura)や[間合](../rules.md#range)）を強制的に移動させる付与札。相手の[オーラ](../rules.md#aura)を剥ぎ取りながら[間合](../rules.md#range)を操作し、シンラの得意な距離を維持するために使われます。
 
 <br clear="all">
 
-### N6 [![壮語](../assets/images/card/cards/na_07_o_n/na_07_o_n_6.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_6.png){ .glightbox }
+### N6 壮語
 
 [![壮語](../assets/images/card/cards/na_07_o_n/na_07_o_n_6.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_6.png){ align=left width=150 }
 
@@ -112,7 +113,7 @@
 
 <br clear="all">
 
-### N7 [![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }
+### N7 論破
 
 [![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ align=left width=150 }
 
@@ -125,9 +126,9 @@
 
 ---
 
-## [切札](../mechanics.md)解説
+## [切札](../rules.md)解説
 
-### S1 完全[![論破](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }
+### S1 完全論破
 
 [![完全論破](../assets/images/card/cards/na_07_o_s/na_07_o_s_1.png)](../assets/images/card/cards/na_07_o_s/na_07_o_s_1.png){ align=left width=150 }
 
@@ -135,7 +136,7 @@
 **種別**: 行動
 
 **解説**:
-相手の特定のカードをゲームから事実上除外する、あるいは永続的に封印するなどの超強力なメタ[切札](../mechanics.md)（※版により調整あり）。
+相手の特定のカードをゲームから事実上除外する、あるいは永続的に封印するなどの超強力なメタ[切札](../rules.md)（※版により調整あり）。
 特定のカードに頼り切ったデッキに対しては、この一枚だけでチェックメイトをかけることができます。
 
 <br clear="all">
@@ -175,7 +176,7 @@
 
 **解説**:
 シンラの知識が暴力へと変わる瞬間。
-判定勝ちを狙う際、あるいは相手の最後の[ライフ](../mechanics.md#life)を削り取る際の、非常に回避困難な連撃となります。
+判定勝ちを狙う際、あるいは相手の最後の[ライフ](../rules.md#life)を削り取る際の、非常に回避困難な連撃となります。
 
 ---
 
@@ -196,7 +197,7 @@
 圧倒的なリソース供給能力を持つ相方と組み、コスト10の『皆塵唯我』を安定して放つ。
 
 *   **基本戦術**:
-    1. 『壬蔓』([オボロ](05_oboro.md))等で[フレア](../mechanics.md#flare)を急速充電。
+    1. 『壬蔓』([オボロ](05_oboro.md))等で[フレア](../rules.md#flare)を急速充電。
     2. シンラが耐え忍び、コスト10が溜まった瞬間に世界を無に帰す。
 *   **推奨パートナー**: [オボロ](05_oboro.md)(忍)、[サリヤ](11_sariya.md)(騎)
 

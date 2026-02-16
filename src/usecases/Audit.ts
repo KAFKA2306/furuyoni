@@ -142,7 +142,7 @@ export class Audit {
         }
 
         // 3. Check Image Duplication (STRICT)
-        const MAX_IMAGE_REFERENCES = 10;
+        const MAX_IMAGE_REFERENCES = 2; // STRICT Rule: 3 or more = failure
         console.log("Checking for excessive image duplication...");
         for (const [file, images] of Object.entries(imageMap)) {
             for (const [image, count] of Object.entries(images)) {

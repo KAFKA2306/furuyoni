@@ -124,19 +124,19 @@
 
 <div class="grid cards" markdown>
 
--   [:external-link: ![シンラ](../assets/images/card/cards/na_07_o_n/na_07_o_n_1.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_1.png){ .glightbox }
+-   <span id="立論"></span>[:external-link: ![シンラ](../assets/images/card/cards/na_07_o_n/na_07_o_n_1.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_1.png){ .glightbox }
 
--   [:external-link: ![シンラ](../assets/images/card/cards/na_07_o_n/na_07_o_n_2.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_2.png){ .glightbox }
+-   <span id="反論"></span>[:external-link: ![シンラ](../assets/images/card/cards/na_07_o_n/na_07_o_n_2.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_2.png){ .glightbox }
 
--   [:external-link: ![シンラ](../assets/images/card/cards/na_07_o_n/na_07_o_n_3.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_3.png){ .glightbox }
+-   <span id="詭弁"></span>[:external-link: ![シンラ](../assets/images/card/cards/na_07_o_n/na_07_o_n_3.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_3.png){ .glightbox }
 
--   [:external-link: ![シンラ](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ .glightbox }
+-   <span id="引用"></span>[:external-link: ![シンラ](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_4.png){ .glightbox }
 
--   [:external-link: ![シンラ](../assets/images/card/cards/na_07_o_n/na_07_o_n_5.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_5.png){ .glightbox }
+-   <span id="扇動"></span>[:external-link: ![シンラ](../assets/images/card/cards/na_07_o_n/na_07_o_n_5.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_5.png){ .glightbox }
 
--   [:external-link: ![シンラ](../assets/images/card/cards/na_07_o_n/na_07_o_n_6.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_6.png){ .glightbox }
+-   <span id="壮語"></span>[:external-link: ![シンラ](../assets/images/card/cards/na_07_o_n/na_07_o_n_6.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_6.png){ .glightbox }
 
--   [:external-link: ![シンラ](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }
+-   <span id="論破"></span>[:external-link: ![シンラ](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png)](../assets/images/card/cards/na_07_o_n/na_07_o_n_7.png){ .glightbox }
 
 </div>
 

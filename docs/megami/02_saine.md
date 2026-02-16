@@ -6,43 +6,43 @@
     <ul>
       <li><strong>権能</strong>: 薙刀 (Naginata)</li>
       <li><strong>難易度</strong>: ★★☆☆☆</li>
-      <li><strong>得意[間合](../mechanics.md#range)</strong>: 4-5</li>
+      <li><strong>得意[間合](../rules.md#range)</strong>: 4-5</li>
     </ul>
   </div>
 </div>
 
 !!! info "静寂を奏でる、氷の旋律"
-    シーズン10（大[切札](../mechanics.md)時代）において、サイネは安定した中距離の覇者として君臨しています。
+    シーズン10（大[切札](../rules.md)時代）において、サイネは安定した中距離の覇者として君臨しています。
 
 ## 物語の起源：氷雨細音（ひさめ さいね）
 
-> 「調べは静寂の中にこそ響く。あなたの[焦燥](../mechanics.md#shousou)、私に奏でさせて」
+> 「調べは静寂の中にこそ響く。あなたの[焦燥](../rules.md#shousou)、私に奏でさせて」
 
 サイネの起源は、天音揺波の最良の友であり理解者であった少女、**氷雨細音**です。
-名家「氷雨家」の令嬢として生まれた彼女は、規律と洗練を象徴する薙刀を手にしました。揺波の無邪気なまでの剣風を時に戒め、時に見守りながら、彼女もまた独自の[境地](../mechanics.md#kyochi)へと至ります。
+名家「氷雨家」の令嬢として生まれた彼女は、規律と洗練を象徴する薙刀を手にしました。揺波の無邪気なまでの剣風を時に戒め、時に見守りながら、彼女もまた独自の[境地](../rules.md#kyochi)へと至ります。
 彼女が奏でる「奏鳴（そうめい）」の力は、世界を音色として捉え、歪みを正す力です。揺波と共に「八葉鏡」の儀式を成し遂げた彼女は、その魂をメガミへと昇華させ、奏でる神・サイネとなりました。
-彼女のカードが持つ「対応」や「[八相](../mechanics.md#hasso)」の効果は、静寂の中から生まれる一瞬の閃きと、不屈の精神を表現しています。
+彼女のカードが持つ「対応」や「[八相](../rules.md#hasso)」の効果は、静寂の中から生まれる一瞬の閃きと、不屈の精神を表現しています。
 
-## キーワード能力: [八相](../mechanics.md#hasso) (Hasso)
+## キーワード能力: [八相](../rules.md#hasso) (Hasso)
 
-サイネを使いこなす上で避けて通れないのが「[八相](../mechanics.md#hasso)」の管理です。
+サイネを使いこなす上で避けて通れないのが「[八相](../rules.md#hasso)」の管理です。
 
-*   **[八相](../mechanics.md#hasso)の条件**: 自分の[オーラ](../mechanics.md#aura)が**1以下**の時に発動します。
-*   **効果の性質**: [通常札](../mechanics.md)の攻撃性能が劇的に向上し、追加のドローやリソース獲得が可能になります。
-*   **戦略的意味**: 通常のメガミにとって「[オーラ](../mechanics.md#aura)が少ない」ことは敗北へのカウントダウンですが、サイネにとっては「反撃の狼煙」です。相手が防御を固めていても、[八相](../mechanics.md#hasso)状態の圧倒的なスペックでねじ伏せることができます。
+*   **[八相](../rules.md#hasso)の条件**: 自分の[オーラ](../rules.md#aura)が**1以下**の時に発動します。
+*   **効果の性質**: [通常札](../rules.md)の攻撃性能が劇的に向上し、追加のドローやリソース獲得が可能になります。
+*   **戦略的意味**: 通常のメガミにとって「[オーラ](../rules.md#aura)が少ない」ことは敗北へのカウントダウンですが、サイネにとっては「反撃の狼煙」です。相手が防御を固めていても、[八相](../rules.md#hasso)状態の圧倒的なスペックでねじ伏せることができます。
 
 ---
 
 ## 本質的な解説
 
-シーズン10（大[切札](../mechanics.md)時代）において、サイネは安定した中距離の覇者として君臨しています。
+シーズン10（大[切札](../rules.md)時代）において、サイネは安定した中距離の覇者として君臨しています。
 
-*   **レンジロックの適性**: [ユキヒ](06_yukihi.md)や[ヒミカ](03_himika.md)と組み、[間合](../mechanics.md#range)4-5を維持し続ける「レンジロック」戦術において、サイネの『[![八方振り](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png){ .glightbox }』や『[![石突き](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png){ .glightbox }』は中核を担います。
-*   **対応札の価値向上**: 強力な[切札](../mechanics.md)が増えた環境において、攻撃を無効化する『音無砕氷』や、リソースを狂わせる『響鳴共振』の重要度が増しています。
+*   **レンジロックの適性**: [ユキヒ](06_yukihi.md)や[ヒミカ](03_himika.md)と組み、[間合](../rules.md#range)4-5を維持し続ける「レンジロック」戦術において、サイネの『[![八方振り](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png){ .glightbox }』や『[![石突き](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png){ .glightbox }』は中核を担います。
+*   **対応札の価値向上**: 強力な[切札](../rules.md)が増えた環境において、攻撃を無効化する『音無砕氷』や、リソースを狂わせる『響鳴共振』の重要度が増しています。
 
 ---
 
-## [通常札](../mechanics.md)の一覧
+## [通常札](../rules.md)の一覧
 
 ### N1 [![八方振り](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png){ .glightbox }
 
@@ -50,10 +50,10 @@
 
 役割: 主力攻撃 / 牽制
 
-*   **適正[間合](../mechanics.md#range)**: 2-5
+*   **適正[間合](../rules.md#range)**: 2-5
 *   **ダメージ**: [3/1]
 *   **解説**:
-    サイネの代名詞とも言える、非常に広い射程を持つ[通常札](../mechanics.md)。中距離戦において、とりあえずこれを振るだけで相手の[オーラ](../mechanics.md#aura)を削り、[前進](../mechanics.md#advance)を躊躇わせることができます。[ライフ](../mechanics.md#life)ダメージは1と控えめですが、この「3点[オーラ](../mechanics.md#aura)ダメージ」を回避し続けるのは至難の業です。
+    サイネの代名詞とも言える、非常に広い射程を持つ[通常札](../rules.md)。中距離戦において、とりあえずこれを振るだけで相手の[オーラ](../rules.md#aura)を削り、[前進](../rules.md#advance)を躊躇わせることができます。[ライフ](../rules.md#life)ダメージは1と控えめですが、この「3点[オーラ](../rules.md#aura)ダメージ」を回避し続けるのは至難の業です。
 
 <br clear="all">
 
@@ -61,12 +61,12 @@
 
 [![薙切り](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png){ align=left width=150 }
 
-役割: [ライフ](../mechanics.md#life)破壊 / [八相](../mechanics.md#hasso)の暴力
+役割: [ライフ](../rules.md#life)破壊 / [八相](../rules.md#hasso)の暴力
 
 *   **通常時**: [2/1]
-*   **[八相](../mechanics.md#hasso)時**: [3/3]
+*   **[八相](../rules.md#hasso)時**: [3/3]
 *   **解説**:
-    通常時は平凡な性能ですが、[八相](../mechanics.md#hasso)に入った瞬間に[3/3]という[通常札](../mechanics.md)にあるまじき破壊力に変貌します。サイネの勝利パターンの多くは、終盤に[八相](../mechanics.md#hasso)状態でこの『[![薙切り](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png){ .glightbox }』を[ライフ](../mechanics.md#life)に叩き込むことで完結します。
+    通常時は平凡な性能ですが、[八相](../rules.md#hasso)に入った瞬間に[3/3]という[通常札](../rules.md)にあるまじき破壊力に変貌します。サイネの勝利パターンの多くは、終盤に[八相](../rules.md#hasso)状態でこの『[![薙切り](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png){ .glightbox }』を[ライフ](../rules.md#life)に叩き込むことで完結します。
 
 <br clear="all">
 
@@ -77,7 +77,7 @@
 役割: フィールド支配 / 接近拒否
 
 *   **解説**:
-    展開型の付与札。展開中、相手が特定の[間合](../mechanics.md#range)（主に近距離）へ入ろうとすると、その行動を制限したり、強制的に[間合](../mechanics.md#range)を離したりします（※バージョンにより詳細は異なりますが、基本は拒否設定です）。近距離アグロに対する最大のメタカードとなります。
+    展開型の付与札。展開中、相手が特定の[間合](../rules.md#range)（主に近距離）へ入ろうとすると、その行動を制限したり、強制的に[間合](../rules.md#range)を離したりします（※バージョンにより詳細は異なりますが、基本は拒否設定です）。近距離アグロに対する最大のメタカードとなります。
 
 <br clear="all">
 
@@ -85,10 +85,10 @@
 
 [![見切り](../assets/images/card/cards/na_02_o_n/na_02_o_n_4.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_4.png){ align=left width=150 }
 
-役割: 資源確保 / [集中力](../mechanics.md#focus)調整
+役割: 資源確保 / [集中力](../rules.md#focus)調整
 
 *   **解説**:
-    自傷や[オーラ](../mechanics.md#aura)管理を助ける一枚。[八相](../mechanics.md#hasso)状態で使用することで、追加ドローや[集中力](../mechanics.md#focus)獲得などの恩恵を得ます。攻撃の合間にリソースを補充し、息切れを防ぐための「潤滑油」として機能します。
+    自傷や[オーラ](../rules.md#aura)管理を助ける一枚。[八相](../rules.md#hasso)状態で使用することで、追加ドローや[集中力](../rules.md#focus)獲得などの恩恵を得ます。攻撃の合間にリソースを補充し、息切れを防ぐための「潤滑油」として機能します。
 
 <br clear="all">
 
@@ -98,10 +98,10 @@
 
 役割: 移動攻撃 / 距離維持
 
-*   **適正[間合](../mechanics.md#range)**: 3-5
-*   **効果**: [2/1]、攻撃後、[間合](../mechanics.md#range)を1つ離す（[後退](../mechanics.md#retreat)）。
+*   **適正[間合](../rules.md#range)**: 3-5
+*   **効果**: [2/1]、攻撃後、[間合](../rules.md#range)を1つ離す（[後退](../rules.md#retreat)）。
 *   **解説**:
-    攻撃しながら得意な[間合](../mechanics.md#range)へと離脱できる、極めて優秀なユーティリティ札。相手が苦労して近づいてきたところにこれを当てて[間合](../mechanics.md#range)を5に戻せば、相手の計算を大きく狂わせることができます。
+    攻撃しながら得意な[間合](../rules.md#range)へと離脱できる、極めて優秀なユーティリティ札。相手が苦労して近づいてきたところにこれを当てて[間合](../rules.md#range)を5に戻せば、相手の計算を大きく狂わせることができます。
 
 <br clear="all">
 
@@ -113,7 +113,7 @@
 
 *   **効果**: 対応
 *   **解説**:
-    相手の致命的なダメージを[オーラ](../mechanics.md#aura)に肩代わりさせる、あるいは[ダスト](../mechanics.md#dust)から結晶を補充するなどの防御効果を持ちます。[ユリナ](01_yurina.md)の『月影落』のような一撃必殺から身を守るための盾であり、これを構えているだけで相手は迂闊な攻撃ができなくなります。
+    相手の致命的なダメージを[オーラ](../rules.md#aura)に肩代わりさせる、あるいは[ダスト](../rules.md#dust)から結晶を補充するなどの防御効果を持ちます。[ユリナ](01_yurina.md)の『月影落』のような一撃必殺から身を守るための盾であり、これを構えているだけで相手は迂闊な攻撃ができなくなります。
 
 <br clear="all">
 
@@ -124,7 +124,7 @@
 役割: 防御崩し / リソース変換
 
 *   **解説**:
-    相手の[オーラ](../mechanics.md#aura)にある結晶を[フレア](../mechanics.md#flare)へ送る等、相手の「守り」を崩しながら、逆に相手に「使わせたくない[切札](../mechanics.md)」を早めさせてしまう（[フレア](../mechanics.md#flare)が増えるため）、あるいは自分のリソースに変換するテクニカルな攻撃です。
+    相手の[オーラ](../rules.md#aura)にある結晶を[フレア](../rules.md#flare)へ送る等、相手の「守り」を崩しながら、逆に相手に「使わせたくない[切札](../rules.md)」を早めさせてしまう（[フレア](../rules.md#flare)が増えるため）、あるいは自分のリソースに変換するテクニカルな攻撃です。
 
 <br clear="all">
 
@@ -141,7 +141,7 @@
 
 **解説**:
 [1/1][1/1][2/1][2/2]といった、段階的に威力が上がる四連撃（※構成は版により微調整あり）。
-サイネのフィニッシャーその1。相手の[オーラ](../mechanics.md#aura)が削れている時に放つことで、最後の数点を一気に削り取ります。[オーラ](../mechanics.md#aura)ダメージを刻むため、相手の対応札（ステップなど）を誘発させやすく、本命を通すための「露払い」としても優秀です。
+サイネのフィニッシャーその1。相手の[オーラ](../rules.md#aura)が削れている時に放つことで、最後の数点を一気に削り取ります。[オーラ](../rules.md#aura)ダメージを刻むため、相手の対応札（ステップなど）を誘発させやすく、本命を通すための「露払い」としても優秀です。
 
 <br clear="all">
 
@@ -153,7 +153,7 @@
 **種別**: 行動
 
 **解説**:
-相手のリソースを強制的に変動させる、嫌烈な妨害[切札](../mechanics.md)。相手の[フレア](../mechanics.md#flare)を奪う、あるいは[オーラ](../mechanics.md#aura)を空にするなどの心理的・物理的圧力を与えます。低コストで撃てるため、中盤の立ち回りを優位に進めるために頻用されます。
+相手のリソースを強制的に変動させる、嫌烈な妨害[切札](../rules.md)。相手の[フレア](../rules.md#flare)を奪う、あるいは[オーラ](../rules.md#aura)を空にするなどの心理的・物理的圧力を与えます。低コストで撃てるため、中盤の立ち回りを優位に進めるために頻用されます。
 
 <br clear="all">
 
@@ -165,7 +165,7 @@
 **種別**: 行動 / 対応
 
 **解説**:
-**サイネの[守護](../mechanics.md#guardian)神。**
+**サイネの[守護](../rules.md#guardian)神。**
 相手の攻撃を「なかったこと」にする強力な打ち消し効果（版により効果範囲は異なりますが、攻撃の無効化が主です）。
 相手が全リソースを賭けた一撃をこの一枚で透かした瞬間、勝負の天秤はサイネに大きく傾きます。
 
@@ -179,8 +179,8 @@
 **種別**: 攻撃 (終焉)
 
 **解説**:
-特定の条件（[八相](../mechanics.md#hasso)など）を満たした時に放てる、美しくも残酷な終焉の技。
-[ライフ](../mechanics.md#life)への直接打点が高く、相手に「対応」の猶予を与えずに幕を引くためのカードです。『響鳴共振』などで相手のリソースを枯らした後に静かに奏でられます。
+特定の条件（[八相](../rules.md#hasso)など）を満たした時に放てる、美しくも残酷な終焉の技。
+[ライフ](../rules.md#life)への直接打点が高く、相手に「対応」の猶予を与えずに幕を引くためのカードです。『響鳴共振』などで相手のリソースを枯らした後に静かに奏でられます。
 
 <br clear="all">
 
@@ -191,12 +191,12 @@
 ### [ユリナ](01_yurina.md) (刀薙)
 **「黄金の双璧」**
 全方位対応のスタンダード構成。サイネが外側, [ユリナ](01_yurina.md)が内側を担当し、相手を逃がさない。
-→ [詳細な攻略（刀薙）](../strategy.md#yurina-saine)
+→ [詳細な攻略（刀薙）](../rules.md#yurina-saine)
 
 ### [シンラ](07_shinra.md) (薙書)
 **「論理的完封」**
 サイネの防御カードと[シンラ](07_shinra.md)の付与・妨害カードを組み合わせ、相手に「何もさせない」勝利を目指す。
-→ [詳細な攻略（薙書）](../strategy.md#saine-shinra)
+→ [詳細な攻略（薙書）](../rules.md#strategy)
 
 ---
 
@@ -206,21 +206,21 @@
 
 ### 1. レンジロック・コントロール
 **「近づけず、削る。」**
-[間合](../mechanics.md#range)4-5を絶対防衛圏とし、相手をレンジ（射程）に閉じ込めるスタイル。
+[間合](../rules.md#range)4-5を絶対防衛圏とし、相手をレンジ（射程）に閉じ込めるスタイル。
 
 *   **基本戦術**:
-    1. 『[![八方振り](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png){ .glightbox }』と『[![石突き](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png){ .glightbox }』で[間合](../mechanics.md#range)を維持。
-    2. 相手が近づこうとしたら『[![圏域](../assets/images/card/cards/na_02_o_n/na_02_o_n_3.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_3.png){ .glightbox }』や[基本動作](../mechanics.md)（[後退](../mechanics.md#retreat)）で拒否。
-    3. 少しずつ[オーラ](../mechanics.md#aura)を削り、[切札](../mechanics.md)の連撃で[ライフ](../mechanics.md#life)を奪う。
+    1. 『[![八方振り](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_1.png){ .glightbox }』と『[![石突き](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_5.png){ .glightbox }』で[間合](../rules.md#range)を維持。
+    2. 相手が近づこうとしたら『[![圏域](../assets/images/card/cards/na_02_o_n/na_02_o_n_3.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_3.png){ .glightbox }』や[基本動作](../rules.md)（[後退](../rules.md#retreat)）で拒否。
+    3. 少しずつ[オーラ](../rules.md#aura)を削り、[切札](../rules.md)の連撃で[ライフ](../rules.md#life)を奪う。
 *   **推奨パートナー**: [ヒミカ](03_himika.md)(銃)、[トコヨ](04_tokoyo.md)(扇)
 
-### 2. [八相](../mechanics.md#hasso)カウンタービート
+### 2. [八相](../rules.md#hasso)カウンタービート
 **「隙を見せ、刺す。」**
-序盤は守りに徹し、あえて[オーラ](../mechanics.md#aura)を剥がされた（あるいは自分で[宿し](../mechanics.md#yadoshi)た）後に、[八相](../mechanics.md#hasso)状態の圧倒的火力で逆転するスタイル。
+序盤は守りに徹し、あえて[オーラ](../rules.md#aura)を剥がされた（あるいは自分で[宿し](../rules.md#yadoshi)た）後に、[八相](../rules.md#hasso)状態の圧倒的火力で逆転するスタイル。
 
 *   **基本戦術**:
     1. 序盤はリソースを貯める。
-    2. [八相](../mechanics.md#hasso)（[オーラ](../mechanics.md#aura)1以下）圏内でターンを迎え、『[![薙切り](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png){ .glightbox }』や強化された[通常札](../mechanics.md)を連打。
+    2. [八相](../rules.md#hasso)（[オーラ](../rules.md#aura)1以下）圏内でターンを迎え、『[![薙切り](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png){ .glightbox }』や強化された[通常札](../rules.md)を連打。
     [![3. 『音無砕氷』を構え、相手の必死の反撃をスカす。](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png)](../assets/images/card/cards/na_02_o_n/na_02_o_n_2.png){ .glightbox }
 *   **推奨パートナー**: [ユリナ](01_yurina.md)(刀)、[ライラ](12_laila.md)(爪)
 
@@ -238,17 +238,17 @@
 
 ### [ユキヒ](06_yukihi.md) (薙傘)
 **「氷雪のテンポ盤面」**
-[ユキヒ](06_yukihi.md)の「閉」攻撃で隙を埋めつつ、[間合](../mechanics.md#range)5-7を維持して一方的に殴り続けるミッドレンジ構成。
-サイネのリソース不足を[ユキヒ](06_yukihi.md)が補い、[八相](../mechanics.md#hasso)状態の火力を最大限に活かします。
+[ユキヒ](06_yukihi.md)の「閉」攻撃で隙を埋めつつ、[間合](../rules.md#range)5-7を維持して一方的に殴り続けるミッドレンジ構成。
+サイネのリソース不足を[ユキヒ](06_yukihi.md)が補い、[八相](../rules.md#hasso)状態の火力を最大限に活かします。
 
 ---
 
 ## 戦術の核心
 
-!!! caution "[八相](../mechanics.md#hasso)の「罠」"
-    [八相](../mechanics.md#hasso)は強力ですが、[オーラ](../mechanics.md#aura)1以下であるということは、相手の微々たる攻撃（1/1など）すら[ライフ](../mechanics.md#life)に直撃することを意味します。
-    **「[八相](../mechanics.md#hasso)で攻めるターン」と「[オーラ](../mechanics.md#aura)を纏って耐えるターン」を明確に切り替えてください。**
-    漫然と[八相](../mechanics.md#hasso)を維持し続けるのは、自殺行為に等しいです。
+!!! caution "[八相](../rules.md#hasso)の「罠」"
+    [八相](../rules.md#hasso)は強力ですが、[オーラ](../rules.md#aura)1以下であるということは、相手の微々たる攻撃（1/1など）すら[ライフ](../rules.md#life)に直撃することを意味します。
+    **「[八相](../rules.md#hasso)で攻めるターン」と「[オーラ](../rules.md#aura)を纏って耐えるターン」を明確に切り替えてください。**
+    漫然と[八相](../rules.md#hasso)を維持し続けるのは、自殺行為に等しいです。
 
 !!! tip "対応札で「リズム」を狂わせる"
     サイネの真価は、自分のターンではなく「相手のターン」にあります。

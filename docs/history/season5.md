@@ -17,8 +17,8 @@
 ## 2. 環境の支配者：『嵐の[![流転爪](../assets/images/card/cards/na_12_o_n/na_12_o_n_3.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_3.png){ .glightbox }』という悪夢 (S5.0)
 
 シーズン5初期（5.0）を語る上で、[ライラ](../megami/12_laila.md)の《嵐の[![流転爪](../assets/images/card/cards/na_12_o_n/na_12_o_n_3.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_3.png){ .glightbox }》を避けて通ることはできません。
-- **0[フレア](../mechanics.md#flare)の暴力**: 条件を満たせば0[フレア](../mechanics.md#flare)で3/2攻撃を毎ターン連打できる《風魔招来孔》とのシナジーは、あまりに致命的でした。
-- **対話の拒否**: 多くのメガミが準備を整える前に[ライフ](../mechanics.md#life)を削り切られる事態に対し、公式は《嵐の[![流転爪](../assets/images/card/cards/na_12_o_n/na_12_o_n_3.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_3.png){ .glightbox }》の禁止、そして《ASURA》の禁止という重い決断を下しました。
+- **0[フレア](../rules.md#flare)の暴力**: 条件を満たせば0[フレア](../rules.md#flare)で3/2攻撃を毎ターン連打できる《風魔招来孔》とのシナジーは、あまりに致命的でした。
+- **対話の拒否**: 多くのメガミが準備を整える前に[ライフ](../rules.md#life)を削り切られる事態に対し、公式は《嵐の[![流転爪](../assets/images/card/cards/na_12_o_n/na_12_o_n_3.png)](../assets/images/card/cards/na_12_o_n/na_12_o_n_3.png){ .glightbox }》の禁止、そして《ASURA》の禁止という重い決断を下しました。
 
 > [!CAUTION]
 > シーズン5.0は「いかに[ライラ](../megami/12_laila.md)をBANするか、あるいはいかに[ライラ](../megami/12_laila.md)で殺し切るか」という極端な環境であり、その後の反省が「現在の健全な[ライラ](../megami/12_laila.md)の設計」へと繋がっています。
@@ -29,16 +29,16 @@
 
 ### ① 【爪忍（当時の呼称）】[ライラ](../megami/12_laila.md) / [オボロ](../megami/05_oboro.md) (S5.0)
 **史上最速の殺戮マシン**
-- **戦略**: [オボロ](../megami/05_oboro.md)の[設置](../mechanics.md#setchi)による手数と、[ライラ](../megami/12_laila.md)の風雷ゲージによる爆発力を合体。
+- **戦略**: [オボロ](../megami/05_oboro.md)の[設置](../rules.md#setchi)による手数と、[ライラ](../megami/12_laila.md)の風雷ゲージによる爆発力を合体。
 - **結果**: 圧倒的なTier 0として君臨。この構成の存在が、シーズン5全体にわたる大規模な調整のトリガーとなりました。
 
 ### ② 【刀橇（当時の呼称）】[ユリナ](../megami/01_yurina.md) / [コルヌ](../megami/15_korunu.md) (S5.1〜)
-**[凍結](../mechanics.md#freeze)と[![一閃](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png){ .glightbox }の調和**
+**[凍結](../rules.md#freeze)と[![一閃](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png)](../assets/images/card/cards/na_01_o_n/na_01_o_n_2.png){ .glightbox }の調和**
 - **戦略**: [ライラ](../megami/12_laila.md)の弱体化後、対抗馬として浮上した中距離コントロール。
-- **強み**: [コルヌ](../megami/15_korunu.md)の「[凍結](../mechanics.md#freeze)」によってアグロの手を止め、[ユリナ](../megami/01_yurina.md)の重い一撃を通す。守りながら勝つという『ふるよに』の王道が再評価されました。
+- **強み**: [コルヌ](../megami/15_korunu.md)の「[凍結](../rules.md#freeze)」によってアグロの手を止め、[ユリナ](../megami/01_yurina.md)の重い一撃を通す。守りながら勝つという『ふるよに』の王道が再評価されました。
 
 ### ③ 【絡鏡（当時の呼称）】[クルル](../megami/10_kururu.md) / [ヤツハ](../megami/16_yatsuha.md) (S5.2)
-**[機巧](../mechanics.md#mechanism)と連撃の融合**
+**[機巧](../rules.md#mechanism)と連撃の融合**
 - **戦略**: [ヤツハ](../megami/16_yatsuha.md)の《[![星の爪](../assets/images/card/cards/na_16_o_n/na_16_o_n_1.png)](../assets/images/card/cards/na_16_o_n/na_16_o_n_1.png){ .glightbox }》を[クルル](../megami/10_kururu.md)の《いんだすとりあ》で複製し、一気に叩き込む。
 - **評価**: 複雑なコンボでありながら実戦的な速度を持ち、上級者を中心に環境の「回答」の一つとして親しまれました。
 

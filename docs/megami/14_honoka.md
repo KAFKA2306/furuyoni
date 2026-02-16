@@ -6,7 +6,7 @@
     <ul>
       <li><strong>権能</strong>: 旗 (Banner / Faith)</li>
       <li><strong>難易度</strong>: ★★★☆☆</li>
-      <li><strong>得意[間合](../mechanics.md#range)</strong>: 2-5</li>
+      <li><strong>得意[間合](../rules.md#range)</strong>: 2-5</li>
     </ul>
   </div>
 </div>
@@ -20,34 +20,34 @@
 
 ホノカは、未来への希望と輝かしき再生の力を象徴する「旗」のメガミです。
 彼女の起源は、絶望の淵にあっても明日を夢見る純粋な祈りと、周囲を奮い立たせる不屈の献身にあります。かつての苦難を乗り越え、彼女は自ら旗を掲げることで、消えかけていた精霊たちの声を集め、真の勇気へと変えていきます。
-物語では、時に未熟で悩みながらも、仲間との絆を通じて飛躍的な成長を遂げる、象徴的な「希望のヒロイン」として描かれます。彼女が掲げる旗は、味方の士気を高めるだけでなく、世界そのものに新たな命（[開花](../mechanics.md)）を吹き込みます。
-「[開花](../mechanics.md)」という力は、彼女が時間の経過とともに可能性を形に変え、脆弱な「精霊（現在）」を強大な「神霊（未来）」へと完成させていく、終わりなき「進化」と「希望」の物語を象徴しています。
+物語では、時に未熟で悩みながらも、仲間との絆を通じて飛躍的な成長を遂げる、象徴的な「希望のヒロイン」として描かれます。彼女が掲げる旗は、味方の士気を高めるだけでなく、世界そのものに新たな命（[開花](../rules.md)）を吹き込みます。
+「[開花](../rules.md)」という力は、彼女が時間の経過とともに可能性を形に変え、脆弱な「精霊（現在）」を強大な「神霊（未来）」へと完成させていく、終わりなき「進化」と「希望」の物語を象徴しています。
 
-## キーワード能力: [開花](../mechanics.md) (Kaikka / Evolution)
+## キーワード能力: [開花](../rules.md) (Kaikka / Evolution)
 
 ホノカのカードは、物語のように成長します。
 
-*   **進化の仕組み**: 特定の[通常札](../mechanics.md)を使用、あるいは伏せ札から特定の効果（[再構成](../mechanics.md#reconstruction)など）によって、「より強力な別名のカード」に差し替えます。
+*   **進化の仕組み**: 特定の[通常札](../rules.md)を使用、あるいは伏せ札から特定の効果（[再構成](../rules.md#reconstruction)など）によって、「より強力な別名のカード」に差し替えます。
 *   **進化の段階**: 
     1. **[![精霊式](../assets/images/card/cards/na_14_o_n/na_14_o_n_1.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_1.png){ .glightbox }**: 基本。
-    2. **[守護](../mechanics.md#guardian)霊式 / [![突撃霊式](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png){ .glightbox }**: 強化。攻撃力や防御力が劇的に向上します。
-    3. **神霊式**: 究極。[通常札](../mechanics.md)の枠を超えた[切札](../mechanics.md)級の性能を誇ります。
-*   **戦略的意味**: 序盤の数ターンは「いかに効率よく進化（[開花](../mechanics.md)）を済ませるか」が重要です。一度[開花](../mechanics.md)が完了すれば、[通常札](../mechanics.md)の基本スペックで相手を圧倒できるようになります。
+    2. **[守護](../rules.md#guardian)霊式 / [![突撃霊式](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png){ .glightbox }**: 強化。攻撃力や防御力が劇的に向上します。
+    3. **神霊式**: 究極。[通常札](../rules.md)の枠を超えた[切札](../rules.md)級の性能を誇ります。
+*   **戦略的意味**: 序盤の数ターンは「いかに効率よく進化（[開花](../rules.md)）を済ませるか」が重要です。一度[開花](../rules.md)が完了すれば、[通常札](../rules.md)の基本スペックで相手を圧倒できるようになります。
 
 ---
 
 ## シーズン10における立ち位置
 
-シーズン10（大[切札](../mechanics.md)時代）において、ホノカは「安定感の象徴」として重宝されています。
+シーズン10（大[切札](../rules.md)時代）において、ホノカは「安定感の象徴」として重宝されています。
 
-*   **大[切札](../mechanics.md)への耐性**: [守護](../mechanics.md#guardian)霊式の高い防御性能や、『[![桜花のお守り](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png){ .glightbox }』による[ライフ](../mechanics.md#life)保護能力により、一撃必殺を狙う相手に対して粘り強く戦うことができます。
-*   **コンボの柔軟性**: どのメガミと組んでも、自身が「自己完結した強力な[通常札](../mechanics.md)」へと進化するため、パートナーの自由度が非常に高いのが強みです。
+*   **大[切札](../rules.md)への耐性**: [守護](../rules.md#guardian)霊式の高い防御性能や、『[![桜花のお守り](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png){ .glightbox }』による[ライフ](../rules.md#life)保護能力により、一撃必殺を狙う相手に対して粘り強く戦うことができます。
+*   **コンボの柔軟性**: どのメガミと組んでも、自身が「自己完結した強力な[通常札](../rules.md)」へと進化するため、パートナーの自由度が非常に高いのが強みです。
 
 ---
 
-## [通常札](../mechanics.md)解説
+## [通常札](../rules.md)解説
 
-### N1 [![精霊式](../assets/images/card/cards/na_14_o_n/na_14_o_n_1.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_1.png){ .glightbox } (→ [守護](../mechanics.md#guardian)霊式 → 神霊式)
+### N1 [![精霊式](../assets/images/card/cards/na_14_o_n/na_14_o_n_1.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_1.png){ .glightbox } (→ [守護](../rules.md#guardian)霊式 → 神霊式)
 
 [![精霊式](../assets/images/card/cards/na_14_o_n/na_14_o_n_1.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_1.png){ align=left width=150 }
 
@@ -58,7 +58,7 @@
 
 <br clear="all">
 
-### N2 [守護](../mechanics.md#guardian)霊式
+### N2 [守護](../rules.md#guardian)霊式
 
 [![守護霊式](../assets/images/card/cards/na_14_o_n/na_14_o_n_2.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_2.png){ align=left width=150 }
 
@@ -66,7 +66,7 @@
 
 *   **効果**: 対応
 *   **解説**:
-    相手の攻撃を無効化したり、自分の[オーラ](../mechanics.md#aura)を大幅に回復する防御の要。これがあるおかげで、ホノカは盤石の態勢で自分の成長を待つことができます。
+    相手の攻撃を無効化したり、自分の[オーラ](../rules.md#aura)を大幅に回復する防御の要。これがあるおかげで、ホノカは盤石の態勢で自分の成長を待つことができます。
 
 <br clear="all">
 
@@ -76,9 +76,9 @@
 
 役割: 猛攻 / 加速
 
-*   **効果**: 攻撃 ＋ [前進](../mechanics.md#advance)など
+*   **効果**: 攻撃 ＋ [前進](../rules.md#advance)など
 *   **解説**:
-    攻撃しながら[間合](../mechanics.md#range)を詰めるアグレッシブな札。相手の[オーラ](../mechanics.md#aura)を強引に削り、本命のダメージを通すための道を作ります。
+    攻撃しながら[間合](../rules.md#range)を詰めるアグレッシブな札。相手の[オーラ](../rules.md#aura)を強引に削り、本命のダメージを通すための道を作ります。
 
 <br clear="all">
 
@@ -86,10 +86,10 @@
 
 [![桜花のお守り](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png){ align=left width=150 }
 
-役割: [守護](../mechanics.md#guardian) / [ライフ](../mechanics.md#life)保護
+役割: [守護](../rules.md#guardian) / [ライフ](../rules.md#life)保護
 
 *   **解説**:
-    次に受ける[ライフ](../mechanics.md#life)ダメージを軽減、あるいは無効化する付与札。一撃必殺を狙うメガミ（[ユリナ](01_yurina.md)等）にとって最悪のメタカードとなります。
+    次に受ける[ライフ](../rules.md#life)ダメージを軽減、あるいは無効化する付与札。一撃必殺を狙うメガミ（[ユリナ](01_yurina.md)等）にとって最悪のメタカードとなります。
 
 <br clear="all">
 
@@ -100,7 +100,7 @@
 役割: 移動 / 優雅な舞い
 
 *   **解説**:
-    自分の得意な2-5の[間合](../mechanics.md#range)を維持するための移動札。[基本動作](../mechanics.md)よりも効率よく動けるため、位置取りのストレスを軽減します。
+    自分の得意な2-5の[間合](../rules.md#range)を維持するための移動札。[基本動作](../rules.md)よりも効率よく動けるため、位置取りのストレスを軽減します。
 
 <br clear="all">
 
@@ -111,7 +111,7 @@
 役割: 統率 / 進化加速
 
 *   **解説**:
-    自分のカードを強制的に進化させる、あるいは[フレア](../mechanics.md#flare)などの資源に変換する司令塔的札。コンボのスピードを上げるために不可欠です。
+    自分のカードを強制的に進化させる、あるいは[フレア](../rules.md#flare)などの資源に変換する司令塔的札。コンボのスピードを上げるために不可欠です。
 
 <br clear="all">
 
@@ -128,7 +128,7 @@
 
 ---
 
-## [切札](../mechanics.md)解説
+## [切札](../rules.md)解説
 
 ### S1 胸に想いを
 
@@ -138,7 +138,7 @@
 **種別**: 行動
 
 **解説**:
-ホノカの祈りが形になる[切札](../mechanics.md)。山札から必要なカードを引き込み、同時に[開花](../mechanics.md)をトリガーさせるなど、中盤の安定性を保証します。
+ホノカの祈りが形になる[切札](../rules.md)。山札から必要なカードを引き込み、同時に[開花](../rules.md)をトリガーさせるなど、中盤の安定性を保証します。
 
 <br clear="all">
 
@@ -176,16 +176,16 @@
 
 *   **基本戦術**:
     1. 『[![指揮](../assets/images/card/cards/na_14_o_n/na_14_o_n_6.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_6.png){ .glightbox }』や『胸に想いを』で最速進化を狙う。
-    2. 『[![桜花のお守り](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png){ .glightbox }』や『[守護](../mechanics.md#guardian)霊式』で、進化が終わるまで[ライフ](../mechanics.md#life)を守る。
-    3. 進化完了後、[3/2]や[4/3]の[通常札](../mechanics.md)を連射。
+    2. 『[![桜花のお守り](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png){ .glightbox }』や『[守護](../rules.md#guardian)霊式』で、進化が終わるまで[ライフ](../rules.md#life)を守る。
+    3. 進化完了後、[3/2]や[4/3]の[通常札](../rules.md)を連射。
 *   **推奨パートナー**: [トコヨ](04_tokoyo.md)(扇)、[サイネ](02_saine.md)(薙)
 
 ### 2. 旗の進撃ビートダウン (アグロプラン)
 **「仲間と共に、道を切り拓く。」**
-『[![突撃霊式](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png){ .glightbox }』や『[![追い風](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }』による移動補助を活かし、パートナーの攻撃を適切な[間合](../mechanics.md#range)で連発させる。
+『[![突撃霊式](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_3.png){ .glightbox }』や『[![追い風](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_7.png){ .glightbox }』による移動補助を活かし、パートナーの攻撃を適切な[間合](../rules.md#range)で連発させる。
 
 *   **基本戦術**:
-    1. [前進](../mechanics.md#advance)能力を活かして有利な[間合](../mechanics.md#range)へ。
+    1. [前進](../rules.md#advance)能力を活かして有利な[間合](../rules.md#range)へ。
     2. 相方の大型攻撃をサポート。
 *   **推奨パートナー**: 有能な攻撃札を持つメガミ（[ユリナ](01_yurina.md)、[ハガネ](08_hagane.md)等）
 
@@ -207,9 +207,9 @@
 
 !!! danger "進化の「遅れ」は敗北"
     ホノカのカードは未進化の状態では明らかに弱いです。
-    **「進化させる前に[ライフ](../mechanics.md#life)を削りきられる」のがホノカの典型的な負けパターンです。**
+    **「進化させる前に[ライフ](../rules.md#life)を削りきられる」のがホノカの典型的な負けパターンです。**
     対戦相手が速攻デッキの場合は、進化の手間を惜しんででも防御札を先に構える勇気が必要です。
 
 !!! tip "「お守り」のタイミング"
     『[![桜花のお守り](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png)](../assets/images/card/cards/na_14_o_n/na_14_o_n_4.png){ .glightbox }』は強力ですが、相手に「お守りがあるから今は攻撃しないでおこう」とリソースを溜める時間を与えてしまう側面もあります。
-    相手の[集中力](../mechanics.md#focus)や[フレア](../mechanics.md#flare)を見て、「今この瞬間にお守りがあれば、相手の最大打点を無駄にできる」という急所で見せつけるのがスマートなホノカ使いです。
+    相手の[集中力](../rules.md#focus)や[フレア](../rules.md#flare)を見て、「今この瞬間にお守りがあれば、相手の最大打点を無駄にできる」という急所で見せつけるのがスマートなホノカ使いです。

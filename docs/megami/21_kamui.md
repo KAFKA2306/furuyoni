@@ -6,7 +6,7 @@
     <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">【剣】カムヰ / Season 10</div>
     <div style="display: flex; gap: 15px; font-size: 0.9em;">
       <span>難易度: ★★★★☆</span>
-      <span>[間合](../mechanics.md#range): 2-4</span>
+      <span>[間合](../rules.md#range): 2-4</span>
       <span>タイプ: 速攻ビートダウン</span>
       <span style="color: #d32f2f; font-weight: bold;">S10 Meta: Tier 2 (Burst)</span>
     </div>
@@ -24,17 +24,17 @@ graph LR
 
 > [!CAUTION]
 > **初心者が陥る致命的な罠**
-> - **無計画な通常札連打**: カムヰの通常札は振るだけで「禁忌」が加速する。リーサル計算なしに振り続けると、相手の[ライフ](../mechanics.md#life)を削り切る前に自滅（禁忌死）する。
-> - **リソース管理の欠如**: 攻撃に手札を使い切るため、[纏い](../mechanics.md#matoy)が疎かになりやすい。
+> - **無計画な通常札連打**: カムヰの通常札は振るだけで「禁忌」が加速する。リーサル計算なしに振り続けると、相手の[ライフ](../rules.md#life)を削り切る前に自滅（禁忌死）する。
+> - **リソース管理の欠如**: 攻撃に手札を使い切るため、[纏い](../rules.md#matoy)が疎かになりやすい。
 
 ## 戦略的タイムライン
 
 ### Phase 1: 開幕 (Turn 1-3)
-- **目的**: 『理』の展開と、得意[間合](../mechanics.md#range)3-4での牽制。
+- **目的**: 『理』の展開と、得意[間合](../rules.md#range)3-4での牽制。
 - **推奨挙動**: 禁忌を3-5程度まで進めつつ、相方の札でリソースを整え、カムヰのフルバースト準備。
 
 ### Phase 2: 中盤 (Turn 4-5)
-- **目的**: 『散華刃』や『紅刃』で相手の[オーラ](../mechanics.md#aura)を剥ぎ、[ライフ](../mechanics.md#life)4-5まで追い込む。
+- **目的**: 『散華刃』や『紅刃』で相手の[オーラ](../rules.md#aura)を剥ぎ、[ライフ](../rules.md#life)4-5まで追い込む。
 - **決戦準備**: 『灯』を使用し、『暁』を使える状態へ。
 
 ### Phase 3: 終盤 (リーサル)
@@ -43,55 +43,55 @@ graph LR
     - `[間合4] [紅刃](#n10-紅刃)(3/1+) > [血晶乱流](#n10-血晶乱流)(間合-2 & 集中+1) > [間合2] [暁](#s10-灯--暁) (6/4 対応不可)`
     - 禁忌の進行度に応じて、対応不可の『暁』をいかに叩き込むかが勝負を分ける。
 
-## [通常札](../mechanics.md)性能マトリクス
+## [通常札](../rules.md)性能マトリクス
 
 | カード名 | 主な役割 | 特徴 | S10 特記事項 |
 | :--- | :--- | :--- | :--- |
 | **[![紅刃](../assets/images/card/cards/na_21_o_n/na_21_o_n_1.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_1.png){ .glightbox }** | 主力削り | 禁忌+1。特定条件下でバフ。 | メイン火力。 |
-| **[![散華刃](../assets/images/card/cards/na_21_o_n/na_21_o_n_2.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_2.png){ .glightbox }** | リソース破壊 | 禁忌+1。相手[オーラ](../mechanics.md#aura)を自身の[オーラ](../mechanics.md#aura)へ。 | テンポ奪取の要。 |
+| **[![散華刃](../assets/images/card/cards/na_21_o_n/na_21_o_n_2.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_2.png){ .glightbox }** | リソース破壊 | 禁忌+1。相手[オーラ](../rules.md#aura)を自身の[オーラ](../rules.md#aura)へ。 | テンポ奪取の要。 |
 | **[![四剣乱刃](../assets/images/card/cards/na_21_o_n/na_21_o_n_3.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_3.png){ .glightbox }** | 追撃 | 禁忌+1。全力で追加攻撃。 | リーサルパーツ。 |
-| **[![棘縫い](../assets/images/card/cards/na_21_o_n/na_21_o_n_4.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_4.png){ .glightbox }** | 柔軟性 | [間合](../mechanics.md#range)に応じて効果変化。 | [レンジロック](../mechanics.md#range-lock)対策。 |
+| **[![棘縫い](../assets/images/card/cards/na_21_o_n/na_21_o_n_4.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_4.png){ .glightbox }** | 柔軟性 | [間合](../rules.md#range)に応じて効果変化。 | [レンジロック](../rules.md#range-lock)対策。 |
 | **[![血晶乱流](../assets/images/card/cards/na_21_o_n/na_21_o_n_5.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_5.png){ .glightbox }** | 万能札 | 複数の効果から2つ選択。 | 状況対応力が高い。 |
 | **[![斬り払い](../assets/images/card/cards/na_21_o_n/na_21_o_n_6.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_6.png){ .glightbox }** | 対応 | 禁忌+2。ダメージ無効化。 | 緊急回避用。 |
 | **[![血習い](../assets/images/card/cards/na_21_o_n/na_21_o_n_7.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_7.png){ .glightbox }** | 禁忌加速 | 山札回復＋禁忌進行。 | 覚醒までの時間短縮。 |
 
-## [切札](../mechanics.md)：必殺の定義
+## [切札](../rules.md)：必殺の定義
 
 | 名称 | コスト | 種別 | 解説 |
 | :--- | :---: | :--- | :--- |
 | **[![灯 / 暁](../assets/images/card/cards/na_21_o_s/na_21_o_s_1.png)](../assets/images/card/cards/na_21_o_s/na_21_o_s_1.png){ .glightbox }** | 2 | 攻撃 | **フィニッシャー**。6/4の疑似対応不可。 |
 | **[![阡](../assets/images/card/cards/na_21_o_s/na_21_o_s_2.png)](../assets/images/card/cards/na_21_o_s/na_21_o_s_2.png){ .glightbox }** | 5 | 付与 | 強力な盤面干渉。 |
 | **[![理](../assets/images/card/cards/na_21_o_s/na_21_o_s_3.png)](../assets/images/card/cards/na_21_o_s/na_21_o_s_3.png){ .glightbox }** | 1 | 行動 | 禁忌管理の起点。 |
-| **[![証](../assets/images/card/cards/na_21_o_s/na_21_o_s_4.png)](../assets/images/card/cards/na_21_o_s/na_21_o_s_4.png){ .glightbox }** | 4 | 攻撃 | [ライフ](../mechanics.md#life)を直接削る必殺の一撃。 |
+| **[![証](../assets/images/card/cards/na_21_o_s/na_21_o_s_4.png)](../assets/images/card/cards/na_21_o_s/na_21_o_s_4.png){ .glightbox }** | 4 | 攻撃 | [ライフ](../rules.md#life)を直接削る必殺の一撃。 |
 
 ## カード個別解説
 
 ### [![紅刃](../assets/images/card/cards/na_21_o_n/na_21_o_n_1.png){ width=30 }](#n10-紅刃) <a id="n10-紅刃"></a>N10 紅刃
-禁忌進行により火力が上がる主力通常札。禁忌10以上での3/2バフを狙い、相手の[オーラ](../mechanics.md#aura)にプレッシャーをかけ続けろ。
+禁忌進行により火力が上がる主力通常札。禁忌10以上での3/2バフを狙い、相手の[オーラ](../rules.md#aura)にプレッシャーをかけ続けろ。
 
 ### [![散華刃](../assets/images/card/cards/na_21_o_n/na_21_o_n_2.png){ width=30 }](#n10-散華刃) <a id="n10-散華刃"></a>N10 散華刃
-相手の[オーラ](../mechanics.md#aura)を奪う強力な妨害札。自分の集中力も上がるため、次ターンの纏いや纏い直しをスムーズにする。
+相手の[オーラ](../rules.md#aura)を奪う強力な妨害札。自分の集中力も上がるため、次ターンの纏いや纏い直しをスムーズにする。
 
 ### [![四剣乱刃](../assets/images/card/cards/na_21_o_n/na_21_o_n_3.png){ width=30 }](#n10-四剣乱刃) <a id="n10-四剣乱刃"></a>N10 四剣乱刃
-リーサル時の追撃に最適な全力攻撃。他の攻撃で[オーラ](../mechanics.md#aura)を削った後に叩き込み、[ライフ](../mechanics.md#life)を確実に奪う。
+リーサル時の追撃に最適な全力攻撃。他の攻撃で[オーラ](../rules.md#aura)を削った後に叩き込み、[ライフ](../rules.md#life)を確実に奪う。
 
 ### [![棘縫い](../assets/images/card/cards/na_21_o_n/na_21_o_n_4.png){ width=30 }](#n10-棘縫い) <a id="n10-棘縫い"></a>N10 棘縫い
-[間合](../mechanics.md#range)制御に長けた柔軟な攻撃。[レンジロック](../mechanics.md#range-lock)してくる相手に対し、強引に[間合](../mechanics.md#range)を詰める手段として重要。
+[間合](../rules.md#range)制御に長けた柔軟な攻撃。[レンジロック](../rules.md#range-lock)してくる相手に対し、強引に[間合](../rules.md#range)を詰める手段として重要。
 
 ### [![血晶乱流](../assets/images/card/cards/na_21_o_n/na_21_o_n_5.png){ width=30 }](#n10-血晶乱流) <a id="n10-血晶乱流"></a>N10 血晶乱流
-状況に応じて効果を選べる万能札。[間合](../mechanics.md#range)移動、集中力獲得、ダスト操作など、リーサルへの道筋を作る。
+状況に応じて効果を選べる万能札。[間合](../rules.md#range)移動、集中力獲得、ダスト操作など、リーサルへの道筋を作る。
 
 ### [![斬り払い](../assets/images/card/cards/na_21_o_n/na_21_o_n_6.png){ width=30 }](#n10-斬り払い) <a id="n10-斬り払い"></a>N10 斬り払い
-禁忌を進めつつ相手の攻撃を防ぐ対応札。中盤、無理に[オーラ](../mechanics.md#aura)を使わず禁忌死を回避するために役立つ。
+禁忌を進めつつ相手の攻撃を防ぐ対応札。中盤、無理に[オーラ](../rules.md#aura)を使わず禁忌死を回避するために役立つ。
 
 ### [![血習い](../assets/images/card/cards/na_21_o_n/na_21_o_n_7.png){ width=30 }](#n10-血習い) <a id="n10-血習い"></a>N10 血習い
 禁忌を加速させ、自身の山札を修復する。序盤に使い、再構成のダメージを抑えつつ早期の『灯』覚醒を目指せ。
 
 ### [![灯 / 暁](../assets/images/card/cards/na_21_o_s/na_21_o_s_1.png){ width=30 }](#s10-灯--暁) <a id="s10-灯--暁"></a>S10 灯 / 暁
-カムヰの存在理由とも言える最強の[切札](../mechanics.md)。禁忌への覚悟が十分なら、相手のいかなる防御も貫いて勝利を掴む。
+カムヰの存在理由とも言える最強の[切札](../rules.md)。禁忌への覚悟が十分なら、相手のいかなる防御も貫いて勝利を掴む。
 
 ### [![阡](../assets/images/card/cards/na_21_o_s/na_21_o_s_2.png){ width=30 }](#s10-阡) <a id="s10-阡"></a>S10 阡
-勝利は遠のくが、盤面を完全に支配する[切札](../mechanics.md)。禁忌が溜まりすぎた場合の延命、あるいはリソース戦での完封に。
+勝利は遠のくが、盤面を完全に支配する[切札](../rules.md)。禁忌が溜まりすぎた場合の延命、あるいはリソース戦での完封に。
 
 ### [![理](../assets/images/card/cards/na_21_o_s/na_21_o_s_3.png){ width=30 }](#s10-理) <a id="s10-理"></a>S10 理
 禁忌管理の中核を担い、バフを付与する。基本行動を強化し、カムヰの脆いリソースを補う生命線。
@@ -102,7 +102,7 @@ graph LR
 ## アンチメガミ・相性
 - **得意**: 防御が薄いメガミ、または準備に時間がかかるメガミ。
 - **苦手**: 禁忌ゲージを管理させながら時間を稼ぐコントロール（[トキヨ](04_tokoyo.md)など）。
-- **対策**: 『理』による盤面干渉を維持し、相手が中盤の陣形を整える前に『暁』まで駆け抜けろ。[レンジロック](../mechanics.md#range-lock)には『棘縫い』や『血晶乱流』で対応。
+- **対策**: 『理』による盤面干渉を維持し、相手が中盤の陣形を整える前に『暁』まで駆け抜けろ。[レンジロック](../rules.md#range-lock)には『棘縫い』や『血晶乱流』で対応。
 
 ---
 

@@ -40,8 +40,7 @@ edit_uri: edit/main/docs/
 nav:
   - ホーム: index.md
   - 世界観: lore.md
-  - ルール: mechanics.md
-  - 初心者ガイド: beginner.md
+  - 総合ガイド: rules.md
   - メガミ:
     - 概要: megami/index.md
     - 個別詳細:
@@ -70,7 +69,6 @@ nav:
       - アキナ: megami/23_akina.md
       - シスイ: megami/24_shisui.md
     - カード: megami/cards.md
-  - 戦略指南: strategy.md
   - 歴史資料:
     - シーズン1: history/season1.md
     - シーズン2: history/season2.md

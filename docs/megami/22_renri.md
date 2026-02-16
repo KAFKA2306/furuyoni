@@ -6,7 +6,7 @@
     <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">【衣】レンリ / Season 10</div>
     <div style="display: flex; gap: 15px; font-size: 0.9em;">
       <span>難易度: ★★★★★</span>
-      <span>[間合](../mechanics.md#range): 2-5</span>
+      <span>[間合](../rules.md#range): 2-5</span>
       <span>タイプ: 偽証・コントロール</span>
       <span style="color: #d32f2f; font-weight: bold;">S10 Meta: Tier 2 (Trickster)</span>
     </div>
@@ -38,7 +38,7 @@ graph LR
 ### Phase 3: 終盤 (リーサル)
 - **目的**: 『都度討ち』や神授された遺物札でトドメ。
 
-## [通常札](../mechanics.md)
+## [通常札](../rules.md)
 
 | カード名 | 主な役割 | 特徴 |
 | :--- | :--- | :--- |
@@ -46,7 +46,7 @@ graph LR
 | **都度討ち** | 追撃 | 表の通常札枚数でバフ。 |
 | **魚吊り** | 妨害 | 相手の対応を阻害。 |
 
-## [切札](../mechanics.md)
+## [切札](../rules.md)
 
 | 名称 | コスト | 解説 |
 | :--- | :---: | :--- |

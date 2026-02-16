@@ -6,7 +6,7 @@
     <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">【櫂】ハツミ / Season 10</div>
     <div style="display: flex; gap: 15px; font-size: 0.9em;">
       <span>難易度: ★★☆☆☆</span>
-      <span>[間合](../mechanics.md#range): 3-5</span>
+      <span>[間合](../rules.md#range): 3-5</span>
       <span>タイプ: レンジロック・中距離</span>
       <span style="color: #d32f2f; font-weight: bold;">S10 Meta: Tier 2 (Stable)</span>
     </div>
@@ -29,10 +29,10 @@ graph LR
 ## 戦略の要点
 
 ### 順風維持
-常に「順風」状態でターンを迎えることで、通常札のバリューを最大化する。相方には[間合](../mechanics.md#range)変化を助けるメガミが推奨される。
+常に「順風」状態でターンを迎えることで、通常札のバリューを最大化する。相方には[間合](../rules.md#range)変化を助けるメガミが推奨される。
 
 ### レンジロック
-[間合](../mechanics.md#range)5を維持し続けることで、近距離ビートダウン（ユリナ等）の攻撃を一切許さない立ち回りが基本。
+[間合](../rules.md#range)5を維持し続けることで、近距離ビートダウン（ユリナ等）の攻撃を一切許さない立ち回りが基本。
 
 ---
 

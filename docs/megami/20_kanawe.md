@@ -6,7 +6,7 @@
     <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">【面】カナヱ / Season 10</div>
     <div style="display: flex; gap: 15px; font-size: 0.9em;">
       <span>難易度: ★★★★★</span>
-      <span>[間合](../mechanics.md#range): 可変</span>
+      <span>[間合](../rules.md#range): 可変</span>
       <span>タイプ: 物語・物語構築</span>
       <span style="color: #d32f2f; font-weight: bold;">S10 Meta: Tier 3 (Utility)</span>
     </div>
