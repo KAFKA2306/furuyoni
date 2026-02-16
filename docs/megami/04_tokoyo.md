@@ -1,7 +1,7 @@
 # トコヨ
 
 <div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="" width="100">
+  <img src="../assets/images/chara/ico-04.png" width="100">
   <div class="megami-meta">
     <ul>
       <li><strong>権能</strong>: 扇 (Fan)</li>
@@ -44,7 +44,7 @@
 
 ## [通常札](../rules.md)の一覧
 
-### N1 梳流し
+### [N1 梳流し](cards.md#梳流し)
 
 梳流し
 
@@ -57,7 +57,7 @@
 
 <br clear="all">
 
-### N2 雅打ち
+### [N2 雅打ち](cards.md#雅打ち)
 
 雅打ち
 
@@ -71,7 +71,7 @@
 
 <br clear="all">
 
-### N3 跳ね兎
+### [N3 跳ね兎](cards.md#跳ね兎)
 
 跳ね兎
 
@@ -82,7 +82,7 @@
 
 <br clear="all">
 
-### N4 詩舞
+### [N4 詩舞](cards.md#詩舞)
 
 詩舞
 
@@ -95,7 +95,7 @@
 
 <br clear="all">
 
-### N5 要返し
+### [N5 要返し](cards.md#要返し)
 
 要返し
 
@@ -106,7 +106,7 @@
 
 <br clear="all">
 
-### N6 風舞台 / N7 晴舞台
+### [N6 風舞台 / N7 晴舞台](cards.md#風舞台)
 
 風舞台
 晴舞台

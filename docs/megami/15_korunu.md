@@ -1,7 +1,7 @@
 # コルヌ
 
 <div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="" width="100">
+  <img src="../assets/images/chara/ico-15.png" width="100">
   <div class="megami-meta">
     <ul>
       <li><strong>権能</strong>: 鎌 (Scythe / Frost)</li>
@@ -47,7 +47,7 @@
 
 ## [通常札](../rules.md)解説
 
-### N1 凍てつく足影
+### [N1 凍てつく足影](cards.md#雪あらし)
 
 凍てつく足影
 
@@ -58,7 +58,7 @@
 
 <br clear="all">
 
-### N2 霜降らし
+### [N2 霜降らし](cards.md#霜降らし)
 
 霜降らし
 
@@ -69,7 +69,7 @@
 
 <br clear="all">
 
-### N3 雪渡り
+### [N3 雪渡り](cards.md#雪渡り)
 
 雪渡り
 
@@ -80,7 +80,7 @@
 
 <br clear="all">
 
-### N4 氷の棘
+### [N4 氷の棘](cards.md#氷の棘)
 
 氷の棘
 

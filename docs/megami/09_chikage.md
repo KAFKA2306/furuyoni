@@ -1,7 +1,7 @@
 # チカゲ
 
 <div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="" width="100">
+  <img src="../assets/images/chara/ico-09.png" width="100">
   <div class="megami-meta">
     <ul>
       <li><strong>権能</strong>: [毒](../rules.md#poison) (Poison)</li>
@@ -48,7 +48,7 @@
 
 ## [通常札](../rules.md)解説
 
-### N1 飛苦無
+### [N1 飛苦無](cards.md#飛苦無)
 
 飛苦無
 
@@ -61,7 +61,7 @@
 
 <br clear="all">
 
-### N2 [毒](../rules.md#poison)針
+### [N2 毒針](cards.md#毒針)
 
 毒針
 
@@ -75,7 +75,7 @@
 
 <br clear="all">
 
-### N3 遁術
+### [N3 遁術](cards.md#遁術)
 
 遁術
 
@@ -87,7 +87,7 @@
 
 <br clear="all">
 
-### N4 首切り
+### [N4 首切り](cards.md#首切り)
 
 首切り
 
@@ -101,7 +101,7 @@
 
 <br clear="all">
 
-### N5 [毒](../rules.md#poison)霧
+### [N5 毒霧](cards.md#毒霧)
 
 毒霧
 
@@ -112,7 +112,7 @@
 
 <br clear="all">
 
-### N6 抜き足
+### [N6 抜き足](cards.md#抜き足)
 
 抜き足
 
@@ -123,7 +123,7 @@
 
 <br clear="all">
 
-### N7 泥濘
+### [N7 泥濘](cards.md#泥濘)
 
 泥濘
 

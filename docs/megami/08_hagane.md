@@ -1,7 +1,7 @@
 # ハガネ
 
 <div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="" width="100">
+  <img src="../assets/images/chara/ico-08.png" width="100">
   <div class="megami-meta">
     <ul>
       <li><strong>権能</strong>: 槌 (Hammer)</li>
@@ -44,7 +44,7 @@
 
 ## [通常札](../rules.md)解説
 
-### N1 [遠心](../rules.md#enshin)撃
+### [N1 遠心撃](cards.md#遠心撃)
 
 遠心撃
 
@@ -57,7 +57,7 @@
 
 <br clear="all">
 
-### N2 砂風塵
+### [N2 砂風塵](cards.md#砂風塵)
 
 砂風塵
 
@@ -69,7 +69,7 @@
 
 <br clear="all">
 
-### N3 大地砕き
+### [N3 大地砕き](cards.md#大地砕き)
 
 大地砕き
 
@@ -80,7 +80,7 @@
 
 <br clear="all">
 
-### N4 超反発
+### [N4 超反発](cards.md#超反発)
 
 超反発
 
@@ -92,7 +92,7 @@
 
 <br clear="all">
 
-### N5 円舞錬
+### [N5 円舞錬](cards.md#円舞錬)
 
 円舞錬
 
@@ -103,7 +103,7 @@
 
 <br clear="all">
 
-### N6 鐘鳴らし
+### [N6 鐘鳴らし](cards.md#鐘鳴らし)
 
 鐘鳴らし
 
@@ -114,7 +114,7 @@
 
 <br clear="all">
 
-### N7 引力場
+### [N7 引力場](cards.md#引力場)
 
 引力場
 

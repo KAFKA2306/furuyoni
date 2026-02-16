@@ -1,7 +1,7 @@
 # ユリナ
 
 <div class="megami-hud" style="display: grid; grid-template-columns: 100px 1fr; gap: 20px; background: rgba(0,0,0,0.05); padding: 20px; border-radius: 10px; border-left: 5px solid #d32f2f;">
-  <img src="" width="100">
+  <img src="../assets/images/chara/ico-01.png" width="100">
   <div class="hud-content">
     <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">【刀】ユリナ / Season 10</div>
     <div style="display: flex; gap: 15px; font-size: 0.9em;">
@@ -47,13 +47,13 @@ graph LR
 
 | カード名 | 主な役割 | 通常時 | [決死](../rules.md#kesshi)時 | S10 特記事項 |
 | :--- | :--- | :---: | :---: | :--- |
-| **斬** | 主力削り | 3/1 | 3/2 | 基本性能の高さ。 |
-| **一閃** | [ライフ](../rules.md#life)奪取 | 2/2 | 3/3 | **リーサルパーツ**。 |
-| **柄打ち** | 妨害/加速 | 1/1 | 1/1 | **S10: ヒット時集中+1** |
-| **居合** | 防御粉砕 | 3/2 | 4/3 | [足捌き](01_yurina.md#ashisabaki)とのコンボ推奨。 |
-| <span id="ashisabaki">**足捌き**</span> | 位置調整 | 移動 | 移動 | **3→2の潜り込み**に必須。 |
-| **気炎万丈**| 火力バフ | 強化 | 強化 | 月影落の対応不可領域を拡大. |
-| **圧気** | リソース破壊 | 納 | 納 | 相手の[オーラ](../rules.md#aura)管理を瓦解させる。 |
+| [**斬**](cards.md#斬) | 主力削り | 3/1 | 3/2 | 基本性能の高さ。 |
+| [**一閃**](cards.md#一閃) | [ライフ](../rules.md#life)奪取 | 2/2 | 3/3 | **リーサルパーツ**。 |
+| [**柄打ち**](cards.md#柄打ち) | 妨害/加速 | 1/1 | 1/1 | **S10: ヒット時集中+1** |
+| [**居合**](cards.md#居合) | 防御粉砕 | 3/2 | 4/3 | [足捌き](01_yurina.md#ashisabaki)とのコンボ推奨。 |
+| <span id="ashisabaki">[**足捌き**](cards.md#足捌き)</span> | 位置調整 | 移動 | 移動 | **3→2の潜り込み**に必須。 |
+| [**気炎万丈**](cards.md#気炎万丈)| 火力バフ | 強化 | 強化 | 月影落の対応不可領域を拡大. |
+| [**圧気**](cards.md#圧気) | リソース破壊 | 納 | 納 | 相手の[オーラ](../rules.md#aura)管理を瓦解させる。 |
 
 ## [切札](../rules.md)：必殺の定義
 

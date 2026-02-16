@@ -1,7 +1,7 @@
 # ホノカ
 
 <div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="" width="100">
+  <img src="../assets/images/chara/ico-14.png" width="100">
   <div class="megami-meta">
     <ul>
       <li><strong>権能</strong>: 旗 (Banner / Faith)</li>
@@ -47,7 +47,7 @@
 
 ## [通常札](../rules.md)解説
 
-### N1 精霊式 (→ [守護](../rules.md#guardian)霊式 → 神霊式)
+### [N1 精霊式](cards.md#精霊式) (→ [守護](../rules.md#guardian)霊式 → 神霊式)
 
 精霊式
 
@@ -58,7 +58,7 @@
 
 <br clear="all">
 
-### N2 [守護](../rules.md#guardian)霊式
+### [N2 守護霊式](cards.md#守護霊式)
 
 守護霊式
 
@@ -70,7 +70,7 @@
 
 <br clear="all">
 
-### N3 突撃霊式
+### [N3 突撃霊式](cards.md#突撃霊式)
 
 突撃霊式
 
@@ -82,7 +82,7 @@
 
 <br clear="all">
 
-### N4 桜花のお守り
+### [N4 桜花のお守り](cards.md#桜花のお守り)
 
 桜花のお守り
 
@@ -93,7 +93,7 @@
 
 <br clear="all">
 
-### N5 桜の翅
+### [N5 桜の翅](cards.md#桜の翅)
 
 桜の翅
 
@@ -104,7 +104,7 @@
 
 <br clear="all">
 
-### N6 指揮
+### [N6 指揮](cards.md#指揮)
 
 指揮
 
@@ -115,7 +115,7 @@
 
 <br clear="all">
 
-### N7 追い風
+### [N7 追い風](cards.md#追い風)
 
 追い風
 

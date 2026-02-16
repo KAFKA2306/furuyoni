@@ -1,7 +1,7 @@
 # ヤツハ
 
 <div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="" width="100">
+  <img src="../assets/images/chara/ico-16.png" width="100">
   <div class="megami-meta">
     <ul>
       <li><strong>権能</strong>: 鏡 (Mirror / Self-Damage)</li>
@@ -41,7 +41,7 @@
 
 ## [通常札](../rules.md)の一覧
 
-### N1 星の爪
+### [N1 星の爪](cards.md#星の爪)
 
 星の爪
 
@@ -54,7 +54,7 @@
 
 <br clear="all">
 
-### N2 昏い顎
+### [N2 昏い顎](cards.md#昏い顎)
 
 昏い顎
 
@@ -67,7 +67,7 @@
 
 <br clear="all">
 
-### N3 鏡の悪魔
+### [N3 鏡の悪魔](cards.md#鏡の悪魔)
 
 鏡の悪魔
 
@@ -80,7 +80,7 @@
 
 <br clear="all">
 
-### N4 幻影歩法
+### [N4 幻影歩法](cards.md#幻影歩法)
 
 幻影歩法
 
@@ -92,7 +92,7 @@
 
 <br clear="all">
 
-### N5 意志
+### [N5 意志](cards.md#意志)
 
 意志
 
@@ -105,7 +105,7 @@
 
 <br clear="all">
 
-### N6 契約
+### [N6 契約](cards.md#契約)
 
 契約
 
@@ -116,7 +116,7 @@
 
 <br clear="all">
 
-### N7 寄花
+### [N7 寄花](cards.md#寄花)
 
 寄花
 

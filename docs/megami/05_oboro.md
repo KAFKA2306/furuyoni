@@ -1,7 +1,7 @@
 # オボロ
 
 <div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="" width="100">
+  <img src="../assets/images/chara/ico-05.png" width="100">
   <div class="megami-meta">
     <ul>
       <li><strong>権能</strong>: 忍 (Shinobi)</li>
@@ -44,7 +44,7 @@
 
 ## [通常札](../rules.md)の一覧
 
-### N1 鋼糸
+### [N1 鋼糸](cards.md#鋼糸)
 
 鋼糸
 
@@ -56,7 +56,7 @@
 
 <br clear="all">
 
-### N2 影菱
+### [N2 影菱](cards.md#影菱)
 
 影菱
 
@@ -69,7 +69,7 @@
 
 <br clear="all">
 
-### N3 斬撃乱舞
+### [N3 斬撃乱舞](cards.md#斬撃乱舞)
 
 斬撃乱舞
 
@@ -81,7 +81,7 @@
 
 <br clear="all">
 
-### N4 忍歩
+### [N4 忍歩](cards.md#忍歩)
 
 忍歩
 
@@ -93,7 +93,7 @@
 
 <br clear="all">
 
-### N5 誘導
+### [N5 誘導](cards.md#誘導)
 
 誘導
 
@@ -104,7 +104,7 @@
 
 <br clear="all">
 
-### N6 分身の術
+### [N6 分身の術](cards.md#分身の術)
 
 分身の術
 
@@ -115,7 +115,7 @@
 
 <br clear="all">
 
-### N7 生体活性
+### [N7 生体活性](cards.md#生体活性)
 
 生体活性
 

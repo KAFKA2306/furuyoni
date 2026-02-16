@@ -1,7 +1,7 @@
 # ウツロ
 
 <div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="" width="100">
+  <img src="../assets/images/chara/ico-13.png" width="100">
   <div class="megami-meta">
     <ul>
       <li><strong>権能</strong>: 鎌 (Scythe / Hollow)</li>
@@ -43,7 +43,7 @@
 
 ## [通常札](../rules.md)解説
 
-### N1 黒き波動
+### [N1 黒き波動](cards.md#黒き波動)
 
 黒き波動
 
@@ -54,7 +54,7 @@
 
 <br clear="all">
 
-### N2 円月
+### [N2 円月](cards.md#円月)
 
 円月
 
@@ -67,7 +67,7 @@
 
 <br clear="all">
 
-### N3 影の翅
+### [N3 影の翅](cards.md#影の翅)
 
 影の翅
 
@@ -78,7 +78,7 @@
 
 <br clear="all">
 
-### N4 遺灰呪
+### [N4 遺灰呪](cards.md#遺灰呪)
 
 遺灰呪
 
@@ -89,7 +89,7 @@
 
 <br clear="all">
 
-### N5 虚偽
+### [N5 虚偽](cards.md#虚偽)
 
 虚偽
 
@@ -100,7 +100,7 @@
 
 <br clear="all">
 
-### N6 重圧
+### [N6 重圧](cards.md#重圧)
 
 重圧
 
@@ -111,7 +111,7 @@
 
 <br clear="all">
 
-### N7 刈り取り
+### [N7 刈り取り](cards.md#刈り取り)
 
 刈り取り
 

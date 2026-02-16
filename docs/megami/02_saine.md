@@ -1,13 +1,15 @@
 # サイネ
 
-<div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="" width="100">
-  <div class="megami-meta">
-    <ul>
-      <li><strong>権能</strong>: 薙刀 (Naginata)</li>
-      <li><strong>難易度</strong>: ★★☆☆☆</li>
-      <li><strong>得意[間合](../rules.md#range)</strong>: 4-5</li>
-    </ul>
+<div class="megami-hud" style="display: grid; grid-template-columns: 100px 1fr; gap: 20px; background: rgba(0,0,0,0.05); padding: 20px; border-radius: 10px; border-left: 5px solid #0288d1;">
+  <img src="../assets/images/chara/ico-02.png" width="100">
+  <div class="hud-content">
+    <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">【薙】サイネ / Season 10</div>
+    <div style="display: flex; gap: 15px; font-size: 0.9em;">
+      <span>難易度: ★★☆☆☆</span>
+      <span>[間合](../rules.md#range): 4-5</span>
+      <span>タイプ: 中距離・防衛</span>
+      <span style="color: #d32f2f; font-weight: bold;">S10 Meta: Tier 1 (Stable)</span>
+    </div>
   </div>
 </div>
 
@@ -44,7 +46,7 @@
 
 ## [通常札](../rules.md)の一覧
 
-### N1 八方振り
+### [N1 八方振り](cards.md#八方振り)
 
 八方振り
 
@@ -57,7 +59,7 @@
 
 <br clear="all">
 
-### N2 薙切り
+### [N2 薙切り](cards.md#薙切り)
 
 薙切り
 
@@ -70,7 +72,7 @@
 
 <br clear="all">
 
-### N3 圏域
+### [N3 圏域](cards.md#圏域)
 
 圏域
 
@@ -81,7 +83,7 @@
 
 <br clear="all">
 
-### N4 見切り
+### [N4 見切り](cards.md#見切り)
 
 見切り
 
@@ -92,7 +94,7 @@
 
 <br clear="all">
 
-### N5 石突き
+### [N5 石突き](cards.md#石突き)
 
 石突き
 
@@ -105,7 +107,7 @@
 
 <br clear="all">
 
-### N6 無音壁
+### [N6 無音壁](cards.md#無音壁)
 
 無音壁
 
@@ -117,7 +119,7 @@
 
 <br clear="all">
 
-### N7 衝音晶
+### [N7 衝音晶](cards.md#衝音晶)
 
 衝音晶
 
@@ -191,12 +193,12 @@
 ### [ユリナ](01_yurina.md) (刀薙)
 **「黄金の双璧」**
 全方位対応のスタンダード構成。サイネが外側, [ユリナ](01_yurina.md)が内側を担当し、相手を逃がさない。
-→ [詳細な攻略（刀薙）](../rules.md#yurina-saine)
+→ [詳細な攻略（刀薙）](../rules.md)
 
 ### [シンラ](07_shinra.md) (薙書)
 **「論理的完封」**
 サイネの防御カードと[シンラ](07_shinra.md)の付与・妨害カードを組み合わせ、相手に「何もさせない」勝利を目指す。
-→ [詳細な攻略（薙書）](../rules.md#strategy)
+→ [詳細な攻略（薙書）](../rules.md)
 
 ---
 

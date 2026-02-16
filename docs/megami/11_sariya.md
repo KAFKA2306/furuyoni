@@ -1,7 +1,7 @@
 # サリヤ
 
 <div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="" width="100">
+  <img src="../assets/images/chara/ico-11.png" width="100">
   <div class="megami-meta">
     <ul>
       <li><strong>権能</strong>: 騎 (Cavalry / Steam)</li>
@@ -44,7 +44,7 @@
 
 ## [通常札](../rules.md)解説
 
-### N1 Burning Steam
+### [N1 Burning Steam](cards.md#Burning_Steam)
 
 Burning Steam
 
@@ -56,7 +56,7 @@ Burning Steam
 
 <br clear="all">
 
-### N2 Waving Edge
+### [N2 Waving Edge](cards.md#Waving_Edge)
 
 Waving Edge
 
@@ -67,7 +67,7 @@ Waving Edge
 
 <br clear="all">
 
-### N3 Turbo Switch
+### [N3 Turbo Switch](cards.md#Turbo_Switch)
 
 Turbo Switch
 
@@ -89,7 +89,7 @@ Form
 
 <br clear="all">
 
-### N7 Omega-Burst
+### [N7 Omega-Burst](cards.md#Omega-Burst)
 
 Omega-Burst
 

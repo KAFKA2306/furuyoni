@@ -1,7 +1,7 @@
 # クルル
 
 <div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="" width="100">
+  <img src="../assets/images/chara/ico-10.png" width="100">
   <div class="megami-meta">
     <ul>
       <li><strong>権能</strong>: 絡繰 (Karakuri / Machine)</li>
@@ -43,7 +43,7 @@
 
 ## [通常札](../rules.md)解説
 
-### N1 えれきてる
+### [N1 えれきてる](cards.md#えれきてる)
 
 えれきてる
 
@@ -55,7 +55,7 @@
 
 <br clear="all">
 
-### N2 あくせらー
+### [N2 あくせらー](cards.md#あくせらー)
 
 あくせらー
 
@@ -66,7 +66,7 @@
 
 <br clear="all">
 
-### N3 くるるーん
+### [N3 くるるーん](cards.md#くるるーん)
 
 くるるーん
 
@@ -77,7 +77,7 @@
 
 <br clear="all">
 
-### N4 とるねーど
+### [N4 とるねーど](cards.md#とるねーど)
 
 とるねーど
 
@@ -88,7 +88,7 @@
 
 <br clear="all">
 
-### N5 りげいなー
+### [N5 りげいなー](cards.md#りげいなー)
 
 りげいなー
 
@@ -99,7 +99,7 @@
 
 <br clear="all">
 
-### N6 もじゅるー
+### [N6 もじゅるー](cards.md#もじゅるー)
 
 もじゅるー
 
@@ -110,7 +110,7 @@
 
 <br clear="all">
 
-### N7 だうじんぐ
+### [N7 だうじんぐ](cards.md#だうじんぐ)
 
 だうじんぐ
 

@@ -1,7 +1,7 @@
 # ライラ
 
 <div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="" width="100">
+  <img src="../assets/images/chara/ico-12.png" width="100">
   <div class="megami-meta">
     <ul>
       <li><strong>権能</strong>: 爪 (Claw / Storm)</li>
@@ -44,7 +44,7 @@
 
 ## [通常札](../rules.md)解説
 
-### N1 獣爪
+### [N1 獣爪](cards.md#獣爪)
 
 獣爪
 
@@ -57,7 +57,7 @@
 
 <br clear="all">
 
-### N2 風雷撃
+### [N2 風雷撃](cards.md#風雷撃)
 
 風雷撃
 
@@ -70,7 +70,7 @@
 
 <br clear="all">
 
-### N3 流転爪
+### [N3 流転爪](cards.md#流転爪)
 
 流転爪
 
@@ -81,7 +81,7 @@
 
 <br clear="all">
 
-### N4 風走り
+### [N4 風走り](cards.md#風走り)
 
 風走り
 
@@ -93,7 +93,7 @@
 
 <br clear="all">
 
-### N5 風雷の知恵
+### [N5 風雷の知恵](cards.md#風雷の知恵)
 
 風雷の知恵
 
@@ -104,7 +104,7 @@
 
 <br clear="all">
 
-### N6 呼び声
+### [N6 呼び声](cards.md#呼び声)
 
 呼び声
 
@@ -115,7 +115,7 @@
 
 <br clear="all">
 
-### N7 空駆け
+### [N7 空駆け](cards.md#空駆け)
 
 空駆け
 
