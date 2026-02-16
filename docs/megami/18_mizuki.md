@@ -1,7 +1,7 @@
 # ミズキ
 
 <div class="megami-hud" style="display: grid; grid-template-columns: 100px 1fr; gap: 20px; background: rgba(0,0,0,0.05); padding: 20px; border-radius: 10px; border-left: 5px solid #1a237e;">
-  <img src="../assets/images/chara/ico-18.png" width="100">
+  <img src="" width="100">
   <div class="hud-content">
     <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">【兜】ミズキ / Season 10</div>
     <div style="display: flex; gap: 15px; font-size: 0.9em;">

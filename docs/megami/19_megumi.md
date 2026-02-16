@@ -13,10 +13,10 @@
 
 メグミは唐棹（からさお）を象徴武器とするメガミです。唐棹は脱穀用農具であり、フレイルの原型でもあります。
 
-# メグミ
+## メグミ
 
 <div class="megami-hud" style="display: grid; grid-template-columns: 100px 1fr; gap: 20px; background: rgba(0,0,0,0.05); padding: 20px; border-radius: 10px; border-left: 5px solid #2e7d32;">
-  <img src="../assets/images/chara/ico-19.png" width="100">
+  <img src="" width="100">
   <div class="hud-content">
     <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">【櫂】メグミ / Season 10</div>
     <div style="display: flex; gap: 15px; font-size: 0.9em;">

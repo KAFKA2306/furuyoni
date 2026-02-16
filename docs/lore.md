@@ -86,9 +86,9 @@
 
 <div class="dashboard-grid">
     <!-- Yurina -->
-    <a href="megami/01_yurina/" class="feature-card" style="text-decoration: none; color: inherit;">
+    <a href="megami/01_yurina.md" class="feature-card" style="text-decoration: none; color: inherit;">
         <div class="megami-icon-wrapper">
-             <img src="assets/images/cards/01-yurina-o-1.png" alt="Yurina">
+             <img src="assets/images/card/cards/na_01_o_n/na_01_o_n_1.png" alt="Yurina">
         </div>
         <h3 style="justify-content: center;">天音 揺波 ([ユリナ](megami/01_yurina.md))</h3>
         <div style="text-align: center; margin-bottom: 0.5rem; color: var(--sakura-pink); font-weight: bold;">武の象徴</div>
@@ -96,9 +96,9 @@
     </a>
 
     <!-- Saine -->
-    <a href="megami/02_saine/" class="feature-card" style="text-decoration: none; color: inherit;">
+    <a href="megami/02_saine.md" class="feature-card" style="text-decoration: none; color: inherit;">
         <div class="megami-icon-wrapper">
-             <img src="assets/images/cards/02-saine-o-1.png" alt="Saine">
+             <img src="assets/images/card/cards/na_02_o_n/na_02_o_n_1.png" alt="Saine">
         </div>
         <h3 style="justify-content: center;">氷雨 細音 ([サイネ](megami/02_saine.md))</h3>
         <div style="text-align: center; margin-bottom: 0.5rem; color: var(--sakura-pink); font-weight: bold;">知・音の象徴</div>

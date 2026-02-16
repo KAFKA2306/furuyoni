@@ -1,7 +1,7 @@
 # シンラ
 
 <div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="../assets/images/chara/ico-07.png" width="100">
+  <img src="" width="100">
   <div class="megami-meta">
     <ul>
       <li><strong>権能</strong>: 書 (Book / Logic)</li>

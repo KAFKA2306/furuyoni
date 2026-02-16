@@ -428,19 +428,19 @@
 
 <div class="grid cards" markdown>
 
--   <span id="紅刃"></span>[:external-link: ![カムヰ](../assets/images/card/cards/na_21_o_n/na_21_o_n_1.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_1.png){ .glightbox }
+-   [:external-link: ![カムヰ](../assets/images/card/cards/na_21_o_n/na_21_o_n_1.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_1.png){ .glightbox }
 
--   <span id="散華刃"></span>[:external-link: ![カムヰ](../assets/images/card/cards/na_21_o_n/na_21_o_n_2.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_2.png){ .glightbox }
+-   [:external-link: ![カムヰ](../assets/images/card/cards/na_21_o_n/na_21_o_n_2.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_2.png){ .glightbox }
 
--   <span id="四剣乱刃"></span>[:external-link: ![カムヰ](../assets/images/card/cards/na_21_o_n/na_21_o_n_3.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_3.png){ .glightbox }
+-   [:external-link: ![カムヰ](../assets/images/card/cards/na_21_o_n/na_21_o_n_3.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_3.png){ .glightbox }
 
--   <span id="棘縫い"></span>[:external-link: ![カムヰ](../assets/images/card/cards/na_21_o_n/na_21_o_n_4.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_4.png){ .glightbox }
+-   [:external-link: ![カムヰ](../assets/images/card/cards/na_21_o_n/na_21_o_n_4.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_4.png){ .glightbox }
 
--   <span id="血晶乱流"></span>[:external-link: ![カムヰ](../assets/images/card/cards/na_21_o_n/na_21_o_n_5.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_5.png){ .glightbox }
+-   [:external-link: ![カムヰ](../assets/images/card/cards/na_21_o_n/na_21_o_n_5.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_5.png){ .glightbox }
 
--   <span id="斬り払い"></span>[:external-link: ![カムヰ](../assets/images/card/cards/na_21_o_n/na_21_o_n_6.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_6.png){ .glightbox }
+-   [:external-link: ![カムヰ](../assets/images/card/cards/na_21_o_n/na_21_o_n_6.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_6.png){ .glightbox }
 
--   <span id="血習い"></span>[:external-link: ![カムヰ](../assets/images/card/cards/na_21_o_n/na_21_o_n_7.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_7.png){ .glightbox }
+-   [:external-link: ![カムヰ](../assets/images/card/cards/na_21_o_n/na_21_o_n_7.png)](../assets/images/card/cards/na_21_o_n/na_21_o_n_7.png){ .glightbox }
 
 -   [:external-link: ![カムヰ](../assets/images/card/cards/na_21_o_s/na_21_o_s_1.png)](../assets/images/card/cards/na_21_o_s/na_21_o_s_1.png){ .glightbox }
 

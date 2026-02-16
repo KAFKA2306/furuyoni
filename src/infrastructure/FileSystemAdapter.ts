@@ -14,6 +14,10 @@ export class FileSystemAdapter {
         return fs.existsSync(filePath);
     }
 
+    static statSync(filePath: string): fs.Stats {
+        return fs.statSync(filePath);
+    }
+
     static ensureDir(dirPath: string): void {
         fs.ensureDirSync(dirPath);
     }
@@ -22,7 +26,7 @@ export class FileSystemAdapter {
         const files = fs.readdirSync(dir);
         for (const file of files) {
             const pathToFile = path.join(dir, file);
-            const isDirectory = fs.statSync(pathToFile).isDirectory();
+            const isDirectory = FileSystemAdapter.statSync(pathToFile).isDirectory();
             if (isDirectory) {
                 yield* FileSystemAdapter.walkSync(pathToFile);
             } else {

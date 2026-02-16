@@ -24,10 +24,10 @@
 - **直接金融 / 源上安岐那の御明算**: 折衝（序盤戦）で使えるカードで、折衝で優位に立ちやすい。
 - **回収 / 投機**: 反撃しながら自[オーラ](../mechanics.md#aura)回復を行える。
 - **盤狂わせ**: 相手[フレア](../mechanics.md#flare)や相手[オーラ](../mechanics.md#aura)を奪取し、相手の[切札](../mechanics.md)・全力札を使いにくくする。
-# アキナ
+## アキナ
 
 <div class="megami-hud" style="display: grid; grid-template-columns: 100px 1fr; gap: 20px; background: rgba(0,0,0,0.05); padding: 20px; border-radius: 10px; border-left: 5px solid #ffb300;">
-  <img src="../assets/images/chara/ico-23.png" width="100">
+  <img src="" width="100">
   <div class="hud-content">
     <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">【算】アキナ / Season 10</div>
     <div style="display: flex; gap: 15px; font-size: 0.9em;">
@@ -91,7 +91,7 @@ graph LR
 ---
 
 !!! note "出典"
-    本ページの内容は [「アキナ概論」（ぷれ）](https://pure4183.hatenadiary.com/entry/2023/12/31/Akina_Intro) 等を参考にしています。
+    本ページの内容は「アキナ概論」（ぷれ）等を参考にしています。
 
 ### まとめ
 > 算盤は折衝が強く、[オーラ](../mechanics.md#aura)回復と対応で硬い。切取法と回収の打点があるからこそ強い。リソースの王。
@@ -106,4 +106,4 @@ graph LR
 ---
 
 !!! note "出典"
-    本ページの内容は [「算鋸が強すぎたから解説してみた」（ぷれ）](https://pure4183.hatenadiary.com/entry/SANOKOSAIKYO) を主な根拠としています。
+    本ページの内容は「算鋸が強すぎたから解説してみた」（ぷれ）を主な根拠としています。

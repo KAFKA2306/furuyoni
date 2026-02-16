@@ -1,7 +1,7 @@
 # ヒミカ
 
 <div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="../assets/images/chara/ico-03.png" width="100">
+  <img src="" width="100">
   <div class="megami-meta">
     <ul>
       <li><strong>権能</strong>: 銃 (Gun)</li>
@@ -67,7 +67,7 @@
 *   **ダメージ**: [2/1]
 *   **[連火](../mechanics.md#renka)時**: 【[連火](../mechanics.md#renka)】もう一度このカードを使用する（※版により調整あり）。
 *   **解説**:
-    一発の重みではなく、数で圧倒する弾幕。[連火](../mechanics.md#renka)条件を満たすことで実質的な手札消費なしでの二連撃が可能になります。相手の[オーラ](../mechanics.md#aura)を剥ぎ取り、本命の『[![マグナムカノン](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png){ .glightbox }』への道を作ります。
+    一発の重みではなく、数で圧倒する弾幕。[連火](../mechanics.md#renka)条件を満たすことで実質的な手札消費なしでの二連撃が可能になります。相手の[オーラ](../mechanics.md#aura)を剥ぎ取り、本命の「マグナムカノン」への道を作ります。
 
 <br clear="all">
 
@@ -117,7 +117,7 @@
 役割: 火力バフ / [連火](../mechanics.md#renka)サポート
 
 *   **解説**:
-    次に使用する攻撃カードを[+1/+1]強化します。[決死](../mechanics.md#kesshi)を待たずとも高火力を出せるヒミカにとって、このバフを乗せた『[![マグナムカノン](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png){ .glightbox }』[4/3]や『レッドバレット』は、もはや災害レベルの脅威となります。
+    次に使用する攻撃カードを+1/+1強化します。[決死](../mechanics.md#kesshi)を待たずとも高火力を出せるヒミカにとって、このバフを乗せた「マグナムカノン」4/3や「レッドバレット」は、もはや災害レベルの脅威となります。
 
 <br clear="all">
 
@@ -128,7 +128,7 @@
 役割: 妨害 / 防御削り
 
 *   **解説**:
-    相手の[オーラ](../mechanics.md#aura)にある結晶を強制的に排除します。納（なふ）の効果により、一時的に相手の防御を無効化し、後続の銃弾を確実に[ライフ](../mechanics.md#life)へ通すための視界不良（[![スモーク](../assets/images/card/cards/na_03_o_n/na_03_o_n_7.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_7.png){ .glightbox }）を作り出します。
+    相手の[オーラ](../mechanics.md#aura)にある結晶を強制的に排除します。納（なふ）の効果により、一時的に相手の防御を無効化し、後続の銃弾を確実に[ライフ](../mechanics.md#life)へ通すための視界不良を作り出します。
 
 <br clear="all">
 
@@ -200,8 +200,8 @@
 
 *   **基本戦術**:
     1. 序盤は一切攻撃せず、ひたすらドローと[宿し](../mechanics.md#yadoshi)に徹する。
-    2. キーパーツ（スカーレットイマジン、[![バックドラフト](../assets/images/card/cards/na_03_o_n/na_03_o_n_6.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_6.png){ .glightbox }、[![マグナムカノン](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png){ .glightbox }等）が揃った瞬間に仕掛ける。
-    3. 『[![バックステップ](../assets/images/card/cards/na_03_o_n/na_03_o_n_5.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_5.png){ .glightbox }』で適宜距離を離し、相手の反撃レンジ外から一方的に撃つ。
+    2. キーパーツ（スカーレットイマジン、バックドラフト、マグナムカノン等）が揃った瞬間に仕掛ける。
+    3. 「バックステップ」で適宜距離を離し、相手の反撃レンジ外から一方的に撃つ。
 *   **推奨パートナー**: [トコヨ](04_tokoyo.md)(扇)、[サイネ](02_saine.md)(薙)
 
 ### 2. 近距離クリムゾン (奇襲プラン)
@@ -229,7 +229,7 @@
 
 ---
 
-## 戦術の核心
+## 戦術ガイド
 
 !!! warning "「[連火](../mechanics.md#renka)」の不発に注意"
     ヒミカの最大の敵は、自分自身の「手札不足」です。
@@ -238,7 +238,7 @@
 
 !!! tip "「[間合](../mechanics.md#range)10」はヒミカの聖域"
     ふるよににおいて[間合](../mechanics.md#range)10から攻撃できるメガミは限られています。
-    相手が[前進](../mechanics.md#advance)するのに必要な結晶（[オーラ](../mechanics.md#aura)）を『[![シュート](../assets/images/card/cards/na_03_o_n/na_03_o_n_1.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_1.png){ .glightbox }』や『[![フルバースト](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png){ .glightbox }』で削り続けることで、相手を「近づくこともできず、リサイクルダメージだけが蓄積する」絶望的な状況（レンジロック）へ追い込むことができます。
+    相手が[前進](../mechanics.md#advance)するのに必要な結晶（[オーラ](../mechanics.md#aura)）を「シュート」や「フルバースト」で削り続けることで、相手を「近づくこともできず、リサイクルダメージだけが蓄積する」絶望的な状況（レンジロック）へ追い込むことができます。
 
 !!! question "『フルバースト』の返しに『フルバースト』は撃てるか？"
     銃ミラー（ヒミカ対面）において、後攻1ターン目に相手が『フルバースト』を撃ってきた場合、先攻2ターン目に自分も『フルバースト』を撃ち返すべきでしょうか？

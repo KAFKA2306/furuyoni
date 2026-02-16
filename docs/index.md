@@ -62,7 +62,7 @@ hide:
     <!-- ユリナ -->
     <a href="megami/01_yurina.md" class="feature-card" style="text-align: center; text-decoration: none; color: inherit;">
         <div class="megami-icon-wrapper">
-             <img src="assets/images/cards/01-yurina-o-1.png" alt="Yurina">
+             <img src="assets/images/card/cards/na_01_o_n/na_01_o_n_1.png" alt="Yurina">
         </div>
         <h3>[ユリナ](megami/01_yurina.md)</h3>
         <p>一閃の破壊力。至近距離での猛攻を得意とし、決闘の基礎を体現する武神。</p>
@@ -71,7 +71,7 @@ hide:
     <!-- サイネ -->
     <a href="megami/02_saine.md" class="feature-card" style="text-align: center; text-decoration: none; color: inherit;">
         <div class="megami-icon-wrapper">
-             <img src="assets/images/cards/02-saine-o-1.png" alt="Saine">
+             <img src="assets/images/card/cards/na_02_o_n/na_02_o_n_1.png" alt="Saine">
         </div>
         <h3>[サイネ](megami/02_saine.md)</h3>
         <p>鉄壁の要塞。[八相](mechanics.md#hasso)を操り、[間合](mechanics.md#range)いを見切って相手を翻弄する氷雪の賢者。</p>
@@ -80,7 +80,7 @@ hide:
     <!-- ウツロ -->
     <a href="megami/13_utsuro.md" class="feature-card" style="text-align: center; text-decoration: none; color: inherit;">
         <div class="megami-icon-wrapper">
-             <img src="assets/images/cards/13-utsuro-o-1.png" alt="Utsuro">
+             <img src="assets/images/card/cards/na_13_o_n/na_13_o_n_1.png" alt="Utsuro">
         </div>
         <h3>[ウツロ](megami/13_utsuro.md)</h3>
         <p>虚無の支配者。[ダスト](mechanics.md#dust)を操り、相手のリソースを枯渇させる終焉の影。</p>

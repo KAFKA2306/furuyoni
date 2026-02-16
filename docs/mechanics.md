@@ -180,6 +180,7 @@ A. そのターン中に攻撃処理が完了した状態。対応で無効化�
 | **<span id="mirror">[鏡映](#mirror)</span>** | 自身の特定の数値（[オーラ](#aura)数、手札数等）が、相手の対応する数値と一致している場合に発動する。 |
 | **<span id="poison">[毒](#poison)</span>** | [チカゲ](megami/09_chikage.md)専用。相手の手札や山札に混ぜることで、使用時に不利益を与えたり手札を圧迫したりするカード。 |
 | **<span id="mechanism">[機巧](#mechanism)</span>** | [クルル](megami/10_kururu.md)専用。使用済みのカード（捨て札や使用済み切札）の「種別（攻撃・行動・付与）」の組み合わせを参照して効果を発揮する。 |
+| **<span id="range-lock">レンジロック</span>** | 相手が得意とする[間合](#range)から一方的に離れ続ける（または近づき続ける）ことで、相手に攻撃の機会を与えず完封を目指す戦術。 |
 | **<span id="electrify">[帯電](#electrify)</span>** | [ライラ](megami/12_laila.md)専用。[帯電](#electrify)ゲージが溜まっている状態。 |
 | **<span id="guardian">[守護](#guardian)</span>** | [ホノカ](megami/14_honoka.md)専用霊魂。開花することで追加効果を得る。 |
 | **<span id="end-shadow">[終焉影](#end-shadow)</span>** | [ウツロ](megami/13_utsuro.md)が変身した姿。 |

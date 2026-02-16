@@ -1,7 +1,7 @@
 # シスイ
 
 <div class="megami-hud" style="display: grid; grid-template-columns: 100px 1fr; gap: 20px; background: rgba(0,0,0,0.05); padding: 20px; border-radius: 10px; border-left: 5px solid #5d4037;">
-  <img src="../assets/images/chara/ico-24.png" width="100">
+  <img src="" width="100">
   <div class="hud-content">
     <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">【鋸】シスイ / Season 10</div>
     <div style="display: flex; gap: 15px; font-size: 0.9em;">
@@ -104,4 +104,4 @@ graph LR
 ---
 
 !!! note "出典"
-    本ページの内容は [「算鋸が強すぎたから解説してみた」（ぷれ）](https://pure4183.hatenadiary.com/entry/SANOKOSAIKYO) を主な根拠としています。
+    本ページの内容は「算鋸が強すぎたから解説してみた」（ぷれ）を主な根拠としています。
