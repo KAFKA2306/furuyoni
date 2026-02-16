@@ -44,19 +44,19 @@
 
 <div class="grid cards" markdown>
 
--   [:external-link: ![ヒミカ](../assets/images/card/cards/na_03_o_n/na_03_o_n_1.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_1.png){ .glightbox }
+-   <span id="シュート"></span>[:external-link: ![ヒミカ](../assets/images/card/cards/na_03_o_n/na_03_o_n_1.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_1.png){ .glightbox }
 
--   [:external-link: ![ヒミカ](../assets/images/card/cards/na_03_o_n/na_03_o_n_2.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_2.png){ .glightbox }
+-   <span id="ラピッドファイア"></span>[:external-link: ![ヒミカ](../assets/images/card/cards/na_03_o_n/na_03_o_n_2.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_2.png){ .glightbox }
 
--   [:external-link: ![ヒミカ](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png){ .glightbox }
+-   <span id="マグナムカノン"></span>[:external-link: ![ヒミカ](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_3.png){ .glightbox }
 
--   [:external-link: ![ヒミカ](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png){ .glightbox }
+-   <span id="フルバースト"></span>[:external-link: ![ヒミカ](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_4.png){ .glightbox }
 
--   [:external-link: ![ヒミカ](../assets/images/card/cards/na_03_o_n/na_03_o_n_5.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_5.png){ .glightbox }
+-   <span id="バックステップ"></span>[:external-link: ![ヒミカ](../assets/images/card/cards/na_03_o_n/na_03_o_n_5.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_5.png){ .glightbox }
 
--   [:external-link: ![ヒミカ](../assets/images/card/cards/na_03_o_n/na_03_o_n_6.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_6.png){ .glightbox }
+-   <span id="バックドラフト"></span>[:external-link: ![ヒミカ](../assets/images/card/cards/na_03_o_n/na_03_o_n_6.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_6.png){ .glightbox }
 
--   [:external-link: ![ヒミカ](../assets/images/card/cards/na_03_o_n/na_03_o_n_7.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_7.png){ .glightbox }
+-   <span id="スモーク"></span>[:external-link: ![ヒミカ](../assets/images/card/cards/na_03_o_n/na_03_o_n_7.png)](../assets/images/card/cards/na_03_o_n/na_03_o_n_7.png){ .glightbox }
 
 </div>
 
