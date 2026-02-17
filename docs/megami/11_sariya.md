@@ -46,59 +46,29 @@
 
 ### [N1 Burning Steam](cards.md#Burning_Steam)
 
-Burning Steam
-
-役割: 主力攻撃 / 燃料消費
-
-*   **適正[間合](../rules.md#range)**: 2-4
-*   **解説**:
-    サリヤの基幹攻撃。燃料を消費することで、1ターンに何度も振れる、あるいはダメージが増強されるといった爆発力を持ちます。蒸気の熱で相手の[オーラ](../rules.md#aura)を溶かし、[ライフ](../rules.md#life)への道をこじ開けます。
-
-<br clear="all">
+![Burning Steam](../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png)
 
 ### [N2 Waving Edge](cards.md#Waving_Edge)
 
-Waving Edge
-
-役割: 連続攻撃 / 位置調整
-
-*   **解説**:
-    攻撃しながら[間合](../rules.md#range)を操作する、サリヤの機動力を象徴する札。これ一発で相手の死角（適正[間合](../rules.md#range)外）へ回り込み、一方的な連撃へと繋げます。
-
-<br clear="all">
+![Waving Edge](../assets/images/card/cards/na_11_o_n/na_11_o_n_2.png)
 
 ### [N3 Turbo Switch](cards.md#Turbo_Switch)
 
-Turbo Switch
+![Turbo Switch](../assets/images/card/cards/na_11_o_n/na_11_o_n_6.png)
 
-役割: 燃料供給 / ギアチェンジ
+### [N4 Steer](cards.md#Steer)
 
-*   **解説**:
-    リソースを即座に燃料へ変換するための札。コンボを始める前の「アイドリング」として必須の一枚です。
+### [N5 Shield](cards.md#Shield)
 
-<br clear="all">
+### [N6 Roar](cards.md#Roar)
 
-### N4 Steer / N5 Shield / N6 Roar (Transform)
-
-Form
-
-役割: 形態変化 / 状況適応
-
-*   **解説**:
-    サリヤが搭乗する騎兵（ガジェット）の形態を変化させます。攻撃特化、防御特化、移動特化など、戦況に合わせて自分のステータスを書き換えることができます。
-
-<br clear="all">
+![Shield](../assets/images/card/cards/na_11_o_n/na_11_o_n_3.png)
+![Steer](../assets/images/card/cards/na_11_o_n/na_11_o_n_4.png)
+![Roar](../assets/images/card/cards/na_11_o_n/na_11_o_n_5.png)
 
 ### [N7 Omega-Burst](cards.md#Omega-Burst)
 
-Omega-Burst
-
-役割: 緊急回避 / 全力防御
-
-*   **解説**:
-    全燃料を一度に放出し、相手の攻撃を回避、あるいは盤面をリセットする究極の防御札。命の危機に瀕した時の脱出装置として機能します。
-
-<br clear="all">
+![Omega-Burst](../assets/images/card/cards/na_11_o_n/na_11_o_n_7.png)
 
 ---
 
@@ -106,40 +76,15 @@ Omega-Burst
 
 ### S1 Alpha-Edge
 
-Alpha-Edge
-
-**コスト**: 3
-**種別**: 攻撃
-
-**解説**:
-低コストで高効率なダメージを叩き出す、サリヤのスタンダードな[切札](../rules.md)。
-燃料と合わせることで、想定外のタイミングでのリーサル（勝利確定）を作り出します。
-
-<br clear="all">
+![Alpha-Edge](../assets/images/card/cards/na_11_o_s/na_11_o_s_1.png)
 
 ### S2 Beta-Turbine
 
-Beta-Turbine
-
-**コスト**: 2
-**種別**: 行動
-
-**解説**:
-コンボの回転を極限まで早めるためのタービン。
-燃料の再利用や[集中力](../rules.md#focus)の獲得など、1ターンの行動数を劇的に増やします。
-
-<br clear="all">
+![Beta-Turbine](../assets/images/card/cards/na_11_o_s/na_11_o_s_2.png)
 
 ### S3 Gamma-Ray
 
-Gamma-Ray
-
-**コスト**: 5
-**種別**: 攻撃 (大規模)
-
-**解説**:
-**サリヤの最終兵器。**
-出力MAXの蒸気で放たれる閃光。ガード不能に近いダメージを[ライフ](../rules.md#life)に突き通し、どんなに防御を固めた相手も一瞬で蒸発させます。
+![Gamma-Ray](../assets/images/card/cards/na_11_o_s/na_11_o_s_3.png)
 
 ---
 

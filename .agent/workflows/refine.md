@@ -14,38 +14,46 @@ description: 構造・内容・戦略・整合性の包括的・破壊的リフ�
 ## 手順
 
 1. **多角的監査 (Multi-Pass Audit)**
-    - `.agent/skills/furuyoni_master/SKILL.md` を読み込み、全7ペルソナを適用して対象ファイルを批評する。
-    - 指摘事項を統合し、具体的かつ最小限の修正案（diff形式）を生成する。
+    - `.agent/skills/furuyoni_master/SKILL.md` の新チェックリストを読み込む。
+    - 全7ペルソナを適用し、**「ペルソナ別監査レポート」**を作成してから修正案を生成する。
 
 2. **自動メンテナンス (Auto-Fix)**
     // turbo
-    - `npx ts-node src/main.ts fix` を実行し、リンク切れ修正、カード名同期、アセット更新、アンカー付与を一括適用する。
+    - `npx ts-node src/main.ts fix` を実行。
+    - 指標：リンク修正、カード名同期、アセット更新、アンカー付与（`{: #Name }`形式）。
 
 3. **構造整合性検証 (Structural Audit) — STRICT**
     // turbo
-    - `npx ts-node src/main.ts audit` を実行し、以下を**厳格に検証**:
-        - ヘッダー構造（H1は1つ、レベルスキップ禁止）
-        - ナビゲーション（孤立ファイル禁止）
-        - リンク・画像の存在確認（内部リンク、アンカー、画像パス）
-        - **画像の過剰な重複（同一画像3回以上 = ビルド失敗）**
-        - **トップページからの導線（`hero-section`, `dashboard-grid` 必須）**
-    - **失敗時は即座に中断。修正するまで次のステップに進まない。**
+    - `npx ts-node src/main.ts audit` を実行し、以下を**強制検証**:
+        - H1はファイルに1つのみ。ヘッダーのレベルスキップ禁止。
+        - **画像の重複：同一画像は3回以上出現で問答無用でエラー。**
+        - `index.md` の `hero-section`, `dashboard-grid` クラス。
+    - **エラーが1つでもあればステージングせず、修正に戻る。**
 
 4. **ビルド検証 (Build Verification) — STRICT**
     // turbo
-    - `uv run mkdocs build --strict` でサイト全体のビルドが正常であることを確認する。
-    - **警告も許容しない。すべてのwarningを解消する。**
-    - 画像が正しく表示されているか、トップページ (`index.md`) のヒーローセクションやカードのリンクが壊れていないかを目視またはログで再確認する。
+    - `uv run mkdocs build --strict` でビルド。
+    - **Warning（警告）を1つも残さない。すべて解消する。**
 
-5. **適用と報告**
-    - 全修正内容を `notify_user` で提示し、承認後に確定させる。
-    - **厳格モードの結果**: すべての検証をパスした場合のみ成功とみなす。
+5. **CI/CD 同期と検証**
+    // turbo
+    - `gh run watch` を実行し、直近のビルドが完了するまで待機する。
+    - `gh run list --limit 1` でステータスが `completed` かつ `success` であることを確認。
 
-6. `git status` で変更内容を確認。
-7. `git add .` で全変更をステージング。
-8. `git commit  最も適切で具体的なメッセージを考える
-9. `git push` を実行。
+6. **適用と完了**
+    - `git add .`
+    - `git commit -m "docs: <内容> (Audit Passed, S10 Validated)"`
+    - `git push`
 
-10. `git log -n 1` で最終結果を報告。
+7. **最終視覚監査 (Visual Audit) — Browser Subagent**
+    - `browser_subagent` を起動。
+    - `mkdocs.yml` の `site_url` ( https://kafka2306.github.io/furuyoni/ ) にアクセス。
+    - **重点チェック項目**:
+        - [ ] **Console/Network**: コンソールにエラー（404, JSエラー）が出ていないか？
+        - [ ] **Asset Integrity**: カード画像やアイコンが Alt テキストではなく、正しくレンダリングされているか？
+        - [ ] **Functional Audit**: カード名リンク（アンカー）をクリックし、正しい位置にジャンプするか？
+        - [ ] **UI Audit**: `hero-section` や `dashboard-grid` のレイアウトが崩れていないか？
+        - [ ] **Policy Check**: Role Badge 等が画像ではなくテキストで表示されているか？
+    - 各チェック項目のスクリーンショットを撮影し、問題があれば `notify_user` で報告する。
 
-11. gh runs list
+8. `git log -n 1` で最終結果を報告。

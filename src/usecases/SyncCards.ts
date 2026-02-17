@@ -94,7 +94,9 @@ export class SyncCards {
                 if (cardMap[filename]) {
                     // Clean name: remove links if any (though mapped value should be clean)
                     const cleanName = cardMap[filename].replace(/\[([^\]]+)\]\(.*?\)/g, '$1');
-                    anchor = ` id="${cleanName}"`;
+                    // Slugify: replace spaces with underscores for ID compatibility
+                    const slugName = cleanName.replace(/\s+/g, '_');
+                    anchor = ` id="${slugName}"`;
                 }
 
                 if (anchor) {

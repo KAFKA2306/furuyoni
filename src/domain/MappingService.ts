@@ -29,43 +29,52 @@ export class MappingService {
 
     static buildCardMap(docsRoot: string = DOCS_DIR): { [filename: string]: string } {
         const cardMap: { [filename: string]: string } = {};
-        const headerPat = /^#{3,4}\s+(?:[NS]10|[NS]\d+|[A-Z]\d+)\s+(?:(?:\(A\d+\)\s+)?)(.+)$/gm;
+        // Relaxed header pattern to catch formats like "### [N1 Name](...)" or "### N1 Name"
+        const headerPat = /^#{3,4}\s+(?:\[?(?:[NS]10|[NS]\d+|[A-Z]\d+)\s+)?([^\]\n]+)\]?(?:\(.*\))?$/gm;
+        const tableRowPat = /^\s*\|\s*(?:\[?\*\*([^\]\*]+)\*\*\]?\(.*?\)|([^\|]+))\s*\|/gm;
         const imgPat = /!\[([^\]]*)\]\((?:[^)]*\/)?([^/]+\.png)(?:\s.*?)?\)/g;
 
         const megamiDir = path.join(docsRoot, 'megami');
         if (!FileSystemAdapter.exists(megamiDir)) return cardMap;
 
-        // Walk megami directory
         for (const file of FileSystemAdapter.walkSync(megamiDir)) {
             if (!file.endsWith('.md') || file.endsWith('cards.md') || file.endsWith('index.md')) continue;
 
             const content = FileSystemAdapter.readFileSync(file);
             const validNames = new Set<string>();
 
-            // 1. Extract valid names from headers
+            // 1. Extract from headers and table rows using a more robust name-finding regex
+            // This regex looks for [**Name**] or [Name](...) or just **Name**
+            const nameExtractPat = /\[(?:\*\*)?([^\]\*]+)(?:\*\*)?\](?:\(.*\))?|\*\*([^\|\*]+)\*\*/g;
+
             let headerMatch;
             while ((headerMatch = headerPat.exec(content)) !== null) {
-                const rawName = headerMatch[1].trim();
-                const candidates = rawName.split('/').map(s => s.trim());
-
-                for (let candidate of candidates) {
-                    // Remove reading in parens
-                    candidate = candidate.split(/[（(]/)[0].trim();
-                    // Remove markdown images/links
-                    candidate = candidate.replace(/!\[([^\]]*)\]\(.*?\)/g, '');
-                    candidate = candidate.replace(/\[([^\]]+)\]\(.*?\)/g, '$1');
-                    candidate = candidate.replace(/<[^>]+>/g, '');
-                    candidate = candidate.replace(/\{:.*?}/g, '');
-                    candidate = candidate.trim();
-
+                const rawLine = headerMatch[0];
+                let nameMatch;
+                while ((nameMatch = nameExtractPat.exec(rawLine)) !== null) {
+                    let candidate = (nameMatch[1] || nameMatch[2]).trim();
+                    candidate = candidate.replace(/^[NS]\d+\s+/, '').trim();
                     if (candidate && !BLACKLIST.has(candidate) && candidate.length > 1) {
-                        validNames.add(candidate);
-                        // Also add without white spaces? Python didn't do that explicitly but handled it via exact match.
+                        validNames.add(candidate.replace(/\[\*\*|\*\*\]/g, '').trim());
                     }
                 }
             }
 
-            // 2. Extract images and check against valid names
+            headerPat.lastIndex = 0; // Reset
+            let tableMatch;
+            while ((tableMatch = tableRowPat.exec(content)) !== null) {
+                const rawLine = tableMatch[0];
+                let nameMatch;
+                while ((nameMatch = nameExtractPat.exec(rawLine)) !== null) {
+                    let candidate = (nameMatch[1] || nameMatch[2]).trim();
+                    candidate = candidate.replace(/^[NS]\d+\s+/, '').trim();
+                    if (candidate && !BLACKLIST.has(candidate) && candidate.length > 1 && !candidate.includes(':') && !candidate.includes('|')) {
+                        validNames.add(candidate.replace(/\[\*\*|\*\*\]/g, '').trim());
+                    }
+                }
+            }
+
+            // 3. Map images to names
             let imgMatch;
             while ((imgMatch = imgPat.exec(content)) !== null) {
                 const altText = imgMatch[1].trim();
