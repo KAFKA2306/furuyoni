@@ -93,10 +93,11 @@ export class SyncCards {
 
                 if (cardMap[filename]) {
                     // Clean name: remove links if any (though mapped value should be clean)
-                    const cleanName = cardMap[filename].replace(/\[([^\]]+)\]\(.*?\)/g, '$1');
-                    // Slugify: replace spaces with underscores for ID compatibility
-                    const slugName = cleanName.replace(/\s+/g, '_');
-                    anchor = ` id="${slugName}"`;
+                    const cleanName = cardMap[filename].replace(/\[([^\]]+)\]\(.*?\)/g, '$1').trim();
+                    // Remove characters that break anchor parsing: (), {}, [], 「」
+                    // And replace spaces with underscores for ID compatibility with links
+                    const safeName = cleanName.replace(/[(){}\[\]「」]/g, '').replace(/\s+/g, '_');
+                    anchor = ` id="${safeName}"`;
                 }
 
                 if (anchor) {

@@ -1,18 +1,31 @@
 # サリヤ
 
-<div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
-  <img src="../assets/images/chara/ico-11.png" width="100">
-  <div class="megami-meta">
-    <ul>
-      <li><strong>権能</strong>: 騎 (Cavalry / Steam)</li>
-      <li><strong>難易度</strong>: ★★★★☆</li>
-      <li><strong>得意[間合](../rules.md#range)</strong>: 2-4</li>
-    </ul>
+<div class="megami-hud" style="display: grid; grid-template-columns: 100px 1fr; gap: 20px; background: rgba(0,0,0,0.05); padding: 20px; border-radius: 10px; border-left: 5px solid #ec407a;">
+  <img src="../assets/images/card/cards/na_11_o_n/na_11_o_n_1.png" width="100">
+  <div class="hud-content">
+    <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">【騎】サリヤ / Season 10</div>
+    <div style="display: flex; gap: 15px; font-size: 0.9em;">
+      <span>難易度: ★★★★☆</span>
+      <span>[間合](../rules.md#range): 2-4</span>
+      <span>タイプ: 爆発的ビートダウン・機動制御</span>
+      <span style="color: #d32f2f; font-weight: bold;">S10 Meta: Tier 1 (Excellent)</span>
+    </div>
   </div>
 </div>
 
+## S10 環境分析
+```mermaid
+graph LR
+    A[燃料リソースの確保] --> B(超高速移動)
+    B --> C{間合破壊}
+    C --> D[対応不可の打点]
+    C --> E[レンジロックの粉砕]
+    D --> F(勝利条件の達成)
+    E --> F
+```
+
 !!! info "蒸気の咆哮、全戦域を蹂躙する鋼の駿馬"
-    シーズン10においても、その圧倒的な機動力による「[間合](../rules.md#range)破壊」性能は随一であり、対戦相手に常に緊張感を与え続けます。
+    シーズン10（大[切札](../rules.md)時代）においても、その圧倒的な機動力による「[間合](../rules.md#range)破壊」性能は随一であり、対戦相手に常に緊張感を与え続けます。
 
 ## 物語の起源：サリヤ
 
@@ -20,25 +33,21 @@
 
 サリヤは、蒸気の力と強靭な意志で戦場を蹂躙する「騎兵」のメガミです。
 彼女の起源は、限界を突破しようとする人類の挑戦心と、鋼の駿馬とともに「どこまでも遠くへ」駆け抜けようとする自由への渇望にあります。彼女にとって、速度こそが力であり、加速に身を委ねる瞬間こそが真の悦びです。
-物語では、実直で正義感が強く、かつ新しいものを愛する開拓者のような精神を持って描かれます。彼女が跨る「ガジェット」は、メガミの力を物理的な運動エネルギーへと昇華させ、あらゆる障害を力強く跳ね飛ばします。
+彼女が跨る「ガジェット」は、メガミの力を物理的な運動エネルギーへと昇華させ、あらゆる障害を力強く跳ね飛ばします。
 「燃料」という力は、彼女が自らの情熱（リソース）を燃焼させて爆発的な推進力を生み出し、相手の予測する限界速度（[間合](../rules.md#range)）を遥かに超越していく「進歩」の力を象徴しています。
 
 ## キーワード能力: 燃料 (Fuel)
 
-サリヤの心臓は、蒸気機関です。
-
 *   **燃料の仕組み**: 自分の[オーラ](../rules.md#aura)や[フレア](../rules.md#flare)にある結晶を「燃料タンク」に移動させることで蓄積します。
 *   **燃焼の効果**: カード使用時に燃料を消費することで、攻撃力の増加、移動距離の延長、特殊効果の付与などが行われます。
-*   **戦略的意味**: 燃料は強力ですが、使いすぎると[オーラ](../rules.md#aura)（防御力）や[フレア](../rules.md#flare)（[切札](../rules.md)リソース）が枯渇します。「いつ燃料を貯め、いつ一気に燃やすか」という極めてシビアなリソース管理が、サリヤ使いの醍醐味です。
+*   **戦略的意味**: 「いつ燃料を貯め、いつ一気に燃やすか」というシビアなリソース管理が、サリヤ使いの醍醐味です。
 
 ---
 
 ## シーズン10における立ち位置
 
-シーズン10（大[切札](../rules.md)時代）において、サリヤは「速度の支配者」としての地位を確立しています。
-
-*   **大[切札](../rules.md)の安定運用**: サリヤ自身が高い機動力を持つため、相方の重量級[切札](../rules.md)を当てるための「お膳立て（[間合](../rules.md#range)操作）」を一人で完遂できます。
-*   **環境への対応**: 遠距離メガミによるレンジロックに対しても、燃料を燃やした超高速[前進](../rules.md#advance)によって無理やり懐に潜り込み、粉砕することができます。
+*   **大[切札](../rules.md)の安定運用**: 圧倒的な機動力で相方の重量級[切札](../rules.md)を当てるための「お膳立て」を一人で完遂。
+*   **レンジロック対策**: 遠距離メガミに対しても、燃料を燃やした高速[前進](../rules.md#advance)によって無理やり懐に潜り込みます。
 
 ---
 
