@@ -11,3 +11,5 @@ site/
 .python-version
 *lock*
 archive/
+*txt*
+*tmp*
