@@ -44,7 +44,7 @@ export class SyncCards {
         }
 
         let out = "# 全カード一覧\n\n";
-        out += "各メガミのタブから通常札と切札を確認できます。アナザー版ではオリジンと共通のカードは少し薄く表示されています。\n\n";
+        out += "各メガミのカードセット（通常札7枚＋切札4枚）を一覧できます。アナザー版の共通カードは透過表示されています。\n\n";
 
         const ids = Object.keys(idToName).sort();
 
@@ -62,10 +62,8 @@ export class SyncCards {
 
             out += `## ${name}${headerAttr}\n\n`;
 
-            // Only include versions that actually have at least one unique card locally, OR 'o'
             const versions = megamiData[id] ? Object.keys(megamiData[id]).filter(v => {
                 if (v === 'o') return true;
-                // Check if this version has any unique cards
                 return (megamiData[id][v].n.size > 0 || megamiData[id][v].s.size > 0);
             }).sort((a, b) => {
                 if (a === 'o') return -1;
@@ -77,16 +75,19 @@ export class SyncCards {
                 const vName = v === 'o' ? "オリジン" : v.replace('a', 'アナザー');
                 out += `=== "${vName}"\n\n`;
                 
-                out += `    ### 通常札\n\n    <div class="grid cards" markdown>\n\n`;
+                // Unified Grid for both Normal and Special
+                out += `    <div class="megami-card-grid" markdown>\n\n`;
+                
+                // Normal Cards (1-7)
                 for (let i = 1; i <= 7; i++) {
-                    out += this.renderCard(id, v, 'n', i, name, megamiData, cardMap);
+                    out += this.renderCard(id, v, 'n', i, name, megamiData, cardMap, "normal-card");
                 }
-                out += `    </div>\n\n`;
-
-                out += `    ### 切札\n\n    <div class="grid cards special-cards" markdown>\n\n`;
+                
+                // Special Cards (1-4)
                 for (let i = 1; i <= 4; i++) {
-                    out += this.renderCard(id, v, 's', i, name, megamiData, cardMap);
+                    out += this.renderCard(id, v, 's', i, name, megamiData, cardMap, "special-card");
                 }
+                
                 out += `    </div>\n\n`;
             }
             out += "\n";
@@ -96,10 +97,10 @@ export class SyncCards {
         console.log(`Synced cards to ${outputCardsPath}`);
     }
 
-    private renderCard(id: string, v: string, type: string, index: number, mName: string, data: any, cardMap: any): string {
+    private renderCard(id: string, v: string, type: string, index: number, mName: string, data: any, cardMap: any, extraClass: string = ""): string {
         let versionsToTry = [v];
         if (v !== 'o') {
-            versionsToTry.push('o'); // Fallback to Origin if Another card doesn't exist (shared cards)
+            versionsToTry.push('o');
         }
 
         let imgPath = "";
@@ -107,8 +108,6 @@ export class SyncCards {
 
         for (const ver of versionsToTry) {
             const filename = `na_${id}_${ver}_${type}_${index}.png`;
-            
-            // Find local path if exists
             if (data[id] && data[id][ver]) {
                 for (const folder of data[id][ver].folders) {
                     const potential = path.join(DOCS_DIR, 'assets/images/card/cards', folder, filename);
@@ -122,24 +121,11 @@ export class SyncCards {
             if (imgPath) break;
         }
 
-        // If still not found locally, try to guess official URL for the REQUESTED version
         if (!imgPath) {
             const filename = `na_${id}_${v}_${type}_${index}.png`;
             const folder = `na_${id}_${v}_${type}`;
             imgPath = `${this.config.urls.base_card_url}images/card/cards/${folder}/${filename}`;
             foundFilename = filename;
-            
-            // Note: We don't fallback to official Origin URL here because 
-            // if we don't have it locally, we probably don't need it or it's genuinely missing.
-            // But actually, for standard Origin cards, we should probably include them.
-            if (v === 'o') {
-                // Keep it, DownloadAssets will try to get it.
-            } else {
-                // For Another cards that don't exist locally, we might be guessing wrong.
-                // However, many Another cards ARE replacements.
-                // Let's only include it if it's likely to exist or if it's Origin.
-                // For now, let's just include it and let DownloadAssets/Audit handle it.
-            }
         }
 
         let anchor = "";
@@ -150,11 +136,10 @@ export class SyncCards {
             anchor = ` id="${safeName}"`;
         }
 
-        // Visual indicator for shared cards
         const isShared = !foundFilename.includes(`_${v}_`) && v !== 'o';
-        const opacityStyle = isShared ? ' style="opacity: 0.8; filter: grayscale(20%);"' : '';
+        const opacityClass = isShared ? ' shared-card' : '';
         const sharedLabel = isShared ? ' (共通)' : '';
 
-        return `    -   <span${anchor}></span>[:external-link: ![${mName}${sharedLabel}](${imgPath})](${imgPath}){ .glightbox ${opacityStyle} }\n\n`;
+        return `    -   <span${anchor}></span>[:external-link: ![${mName}${sharedLabel}](${imgPath})](${imgPath}){ .glightbox .card-img .${extraClass}${opacityClass} }\n\n`;
     }
 }

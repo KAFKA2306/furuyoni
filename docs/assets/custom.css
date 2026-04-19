@@ -284,3 +284,73 @@
 .grid.cards li:hover a::after {
     opacity: 1;
 }
+
+/* Unified Card Grid - Dashboard Style */
+.megami-card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 1rem;
+    margin: 1.5rem 0 3rem;
+    background: rgba(0, 0, 0, 0.15);
+    padding: 1.5rem;
+    border-radius: 12px;
+    border: 1px solid var(--glass-border);
+}
+
+.megami-card-grid li {
+    list-style: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.card-img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    border: 1px solid rgba(255,255,255,0.1);
+}
+
+.card-img:hover {
+    transform: scale(1.15) translateY(-5px);
+    z-index: 200;
+    box-shadow: 0 15px 30px rgba(0,0,0,0.7);
+    border-color: var(--sakura-pink);
+}
+
+/* Special Cards Styling */
+.special-card {
+    border: 2px solid var(--star-gold) !important;
+    box-shadow: 0 0 15px rgba(255, 215, 0, 0.15) !important;
+}
+
+.special-card:hover {
+    box-shadow: 0 0 25px rgba(255, 215, 0, 0.4) !important;
+}
+
+/* Shared Cards Styling */
+.shared-card {
+    opacity: 0.65;
+    filter: grayscale(30%);
+}
+
+.shared-card:hover {
+    opacity: 1;
+    filter: grayscale(0%);
+}
+
+/* Viewport Adjustments */
+@media screen and (min-width: 1200px) {
+    .megami-card-grid {
+        grid-template-columns: repeat(6, 1fr); /* 6 columns to fit 11 cards in ~2 rows */
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .megami-card-grid {
+        grid-template-columns: repeat(3, 1fr);
+        padding: 0.8rem;
+        gap: 0.5rem;
+    }
+}
