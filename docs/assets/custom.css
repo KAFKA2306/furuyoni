@@ -224,115 +224,67 @@
     background: rgba(255, 255, 255, 0.2);
     border-color: white;
 }
-/* Card Gallery */
-.grid.cards {
-    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-    gap: 1.5rem;
-    margin-bottom: 2rem;
-}
 
-.grid.cards li {
-    list-style: none !important;
-    margin: 0 !important;
-    padding: 0 !important;
-    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-}
+/* --- Card Gallery Dashboard --- */
 
-.grid.cards li:hover {
-    transform: scale(1.1) translateY(-10px);
-    z-index: 100;
-}
-
-.grid.cards img {
-    width: 100%;
-    height: auto;
-    border-radius: 10px;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.4);
-    border: 1px solid var(--glass-border);
-    background: #000;
-}
-
-.grid.special-cards {
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-}
-
-.grid.special-cards img {
-    border: 2px solid var(--star-gold);
-    box-shadow: 0 0 20px rgba(255, 215, 0, 0.2);
-}
-
-.grid.cards a {
-    display: block;
-    position: relative;
-}
-
-.grid.cards a::after {
-    content: "VIEW";
-    position: absolute;
-    bottom: 10px;
-    right: 10px;
-    background: var(--sakura-deep);
-    color: white;
-    font-size: 0.6rem;
-    font-weight: bold;
-    padding: 2px 6px;
-    border-radius: 4px;
-    opacity: 0;
-    transition: opacity 0.3s;
-}
-
-.grid.cards li:hover a::after {
-    opacity: 1;
-}
-
-/* Unified Card Grid - Dashboard Style */
 .megami-card-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
-    gap: 1rem;
-    margin: 1.5rem 0 3rem;
-    background: rgba(0, 0, 0, 0.15);
+    background: rgba(0, 0, 0, 0.25);
     padding: 1.5rem;
     border-radius: 12px;
     border: 1px solid var(--glass-border);
+    margin: 1rem 0 3rem;
+}
+
+/* Force the UL to be the grid container */
+.megami-card-grid ul {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)) !important;
+    gap: 0.7rem !important;
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
 }
 
 .megami-card-grid li {
-    list-style: none !important;
     margin: 0 !important;
     padding: 0 !important;
+}
+
+.megami-card-grid li p {
+    margin: 0 !important;
 }
 
 .card-img {
     width: 100%;
     height: auto;
-    border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.5);
-    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 6px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+    transition: all 0.25s ease-out;
+    border: 1px solid rgba(255,255,255,0.05);
+    display: block;
 }
 
 .card-img:hover {
-    transform: scale(1.15) translateY(-5px);
-    z-index: 200;
-    box-shadow: 0 15px 30px rgba(0,0,0,0.7);
+    transform: scale(1.2) translateY(-8px);
+    z-index: 500;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.8);
     border-color: var(--sakura-pink);
 }
 
 /* Special Cards Styling */
 .special-card {
     border: 2px solid var(--star-gold) !important;
-    box-shadow: 0 0 15px rgba(255, 215, 0, 0.15) !important;
+    box-shadow: 0 0 15px rgba(255, 215, 0, 0.2) !important;
 }
 
 .special-card:hover {
-    box-shadow: 0 0 25px rgba(255, 215, 0, 0.4) !important;
+    box-shadow: 0 0 25px rgba(255, 215, 0, 0.5) !important;
 }
 
 /* Shared Cards Styling */
 .shared-card {
-    opacity: 0.65;
-    filter: grayscale(30%);
+    opacity: 0.5;
+    filter: grayscale(40%);
 }
 
 .shared-card:hover {
@@ -340,52 +292,25 @@
     filter: grayscale(0%);
 }
 
-/* Viewport Adjustments */
-@media screen and (min-width: 1200px) {
-    .megami-card-grid {
-        grid-template-columns: repeat(6, 1fr); /* 6 columns to fit 11 cards in ~2 rows */
-    }
-}
-
-@media screen and (max-width: 768px) {
-    .megami-card-grid {
-        grid-template-columns: repeat(3, 1fr);
-        padding: 0.8rem;
-        gap: 0.5rem;
-    }
-}
-
-/* Fix for Grid Layout inside Markdown Lists */
-.megami-card-grid ul {
-    display: grid !important;
-    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)) !important;
-    gap: 0.8rem !important;
-    list-style: none !important;
-    padding: 0 !important;
-    margin: 0 !important;
-}
-
-/* Specific adjustment for Special Cards within the unified grid */
-.megami-card-grid li:has(.special-card) {
-    /* Potential for special styling if needed */
-}
-
-/* Ensure images don't have bottom margin from list styles */
-.megami-card-grid li p {
-    margin: 0 !important;
-}
-
-/* Responsive adjustment for desktop - Force 6 columns to break verticality */
-@media screen and (min-width: 1200px) {
+/* Desktop: 6 columns force (7+4 cards fit well in 2 rows) */
+@media screen and (min-width: 1024px) {
     .megami-card-grid ul {
         grid-template-columns: repeat(6, 1fr) !important;
     }
 }
 
-/* Responsive adjustment for mobile - 3 columns */
-@media screen and (max-width: 768px) {
+/* Tablet: 4 columns */
+@media screen and (max-width: 1023px) and (min-width: 601px) {
+    .megami-card-grid ul {
+        grid-template-columns: repeat(4, 1fr) !important;
+    }
+}
+
+/* Mobile: 3 columns */
+@media screen and (max-width: 600px) {
     .megami-card-grid ul {
         grid-template-columns: repeat(3, 1fr) !important;
         gap: 0.4rem !important;
+        padding: 0.5rem !important;
     }
 }
