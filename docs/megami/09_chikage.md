@@ -1,13 +1,15 @@
 # チカゲ
 
-<div class="megami-header" style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+<div class="megami-hud" style="display: grid; grid-template-columns: 100px 1fr; gap: 20px; background: rgba(0,0,0,0.05); padding: 20px; border-radius: 10px; border-left: 5px solid #d32f2f;">
   <img src="../assets/images/chara/ico-09.png" width="100">
-  <div class="megami-meta">
-    <ul>
-      <li><strong>権能</strong>: [毒](../rules.md#poison) (Poison)</li>
-      <li><strong>難易度</strong>: ★★★★☆</li>
-      <li><strong>得意[間合](../rules.md#range)</strong>: 1-4</li>
-    </ul>
+  <div class="hud-content">
+    <div style="font-size: 1.5em; font-weight: bold; margin-bottom: 5px;">【毒】チカゲ / Season 10</div>
+    <div style="display: flex; gap: 15px; font-size: 0.9em;">
+      <span>難易度: ★★★★☆</span>
+      <span>[間合](../rules.md#range): 1-4</span>
+      <span>タイプ: 近距離・妨害</span>
+      <span style="color: #d32f2f; font-weight: bold;">S10 Meta: Tier 1 (High Utility)</span>
+    </div>
   </div>
 </div>
 

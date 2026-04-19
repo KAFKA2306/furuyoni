@@ -135,11 +135,6 @@ hide:
 *   **Q: 対応の処理順番は？**
     *   A: 攻撃使用 → 対応使用 → 対応解決 → 攻撃解決 の順です。
 
-<<<<<<< HEAD
-## 9. 付録：用語集(詳細版) <a id="glossary-details"></a>
-=======
----
-
 ## 9. 裁定・ルール補足 <a id="rulings"></a>
 
 ### 適正距離修正の適用順序
@@ -165,7 +160,6 @@ hide:
 ---
 
 ## 10. 付録：用語集(詳細版) <a id="glossary-details"></a>
->>>>>>> 181c1be (feat: implement comprehensive knowledge system and run /refine maintenance)
 
 | 用語 | 解説 |
 | :--- | :--- |
