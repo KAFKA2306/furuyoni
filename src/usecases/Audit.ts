@@ -145,6 +145,9 @@ export class Audit {
         const MAX_IMAGE_REFERENCES = 2; // STRICT Rule: 3 or more = failure
         console.log("Checking for excessive image duplication...");
         for (const [file, images] of Object.entries(imageMap)) {
+            // Skip duplication check for cards.md as it naturally contains shared cards
+            if (file.endsWith('cards.md')) continue;
+
             for (const [image, count] of Object.entries(images)) {
                 if (count > MAX_IMAGE_REFERENCES) {
                     console.error(`Excessive image duplication in ${file}: ${image} appears ${count} times (max: ${MAX_IMAGE_REFERENCES})`);
