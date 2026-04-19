@@ -224,3 +224,63 @@
     background: rgba(255, 255, 255, 0.2);
     border-color: white;
 }
+/* Card Gallery */
+.grid.cards {
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.grid.cards li {
+    list-style: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.grid.cards li:hover {
+    transform: scale(1.1) translateY(-10px);
+    z-index: 100;
+}
+
+.grid.cards img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.4);
+    border: 1px solid var(--glass-border);
+    background: #000;
+}
+
+.grid.special-cards {
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+}
+
+.grid.special-cards img {
+    border: 2px solid var(--star-gold);
+    box-shadow: 0 0 20px rgba(255, 215, 0, 0.2);
+}
+
+.grid.cards a {
+    display: block;
+    position: relative;
+}
+
+.grid.cards a::after {
+    content: "VIEW";
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    background: var(--sakura-deep);
+    color: white;
+    font-size: 0.6rem;
+    font-weight: bold;
+    padding: 2px 6px;
+    border-radius: 4px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.grid.cards li:hover a::after {
+    opacity: 1;
+}

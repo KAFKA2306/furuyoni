@@ -30,7 +30,7 @@ export class MappingService {
     static buildCardMap(docsRoot: string = DOCS_DIR): { [filename: string]: string } {
         const cardMap: { [filename: string]: string } = {};
         // Relaxed header pattern to catch formats like "### [N1 Name](...)" or "### N1 Name"
-        const headerPat = /^#{3,4}\s+(?:\[?(?:[NS]10|[NS]\d+|[A-Z]\d+)\s+)?([^\]\n]+)\]?(?:\(.*\))?$/gm;
+        const headerPat = /^#{2,4}\s+(?:\[?(?:[NS]10|[NS]\d+|[A-Z]\d+)\s+)?([^\]\n]+)\]?(?:\(.*\))?$/gm;
         const tableRowPat = /^\s*\|\s*(?:\[?\*\*([^\]\*]+)\*\*\]?\(.*?\)|([^\|]+))\s*\|/gm;
         const imgPat = /!\[([^\]]*)\]\((?:[^)]*\/)?([^/]+\.png)(?:\s.*?)?\)/g;
 
@@ -44,7 +44,6 @@ export class MappingService {
             const validNames = new Set<string>();
 
             // 1. Extract from headers and table rows using a more robust name-finding regex
-            // This regex looks for [**Name**] or [Name](...) or just **Name**
             const nameExtractPat = /\[(?:\*\*)?([^\]\*]+)(?:\*\*)?\](?:\(.*\))?|\*\*([^\|\*]+)\*\*/g;
 
             let headerMatch;
@@ -52,7 +51,7 @@ export class MappingService {
                 const rawLine = headerMatch[0];
                 let nameMatch;
                 while ((nameMatch = nameExtractPat.exec(rawLine)) !== null) {
-                    let candidate = (nameMatch[1] || nameMatch[2]).trim();
+                    let candidate = (nameMatch[1] || nameMatch[2] || "").trim();
                     candidate = candidate.replace(/^[NS]\d+\s+/, '').trim();
                     if (candidate && !BLACKLIST.has(candidate) && candidate.length > 1) {
                         validNames.add(candidate.replace(/\[\*\*|\*\*\]/g, '').trim());
@@ -66,7 +65,7 @@ export class MappingService {
                 const rawLine = tableMatch[0];
                 let nameMatch;
                 while ((nameMatch = nameExtractPat.exec(rawLine)) !== null) {
-                    let candidate = (nameMatch[1] || nameMatch[2]).trim();
+                    let candidate = (nameMatch[1] || nameMatch[2] || "").trim();
                     candidate = candidate.replace(/^[NS]\d+\s+/, '').trim();
                     if (candidate && !BLACKLIST.has(candidate) && candidate.length > 1 && !candidate.includes(':') && !candidate.includes('|')) {
                         validNames.add(candidate.replace(/\[\*\*|\*\*\]/g, '').trim());
@@ -81,6 +80,9 @@ export class MappingService {
                 const filename = imgMatch[2].trim();
 
                 if (validNames.has(altText)) {
+                    cardMap[filename] = altText;
+                } else if (altText && !BLACKLIST.has(altText)) {
+                    // Fallback: if it's not in validNames but has reasonable alt text
                     cardMap[filename] = altText;
                 }
             }
