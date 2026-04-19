@@ -354,3 +354,38 @@
         gap: 0.5rem;
     }
 }
+
+/* Fix for Grid Layout inside Markdown Lists */
+.megami-card-grid ul {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)) !important;
+    gap: 0.8rem !important;
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/* Specific adjustment for Special Cards within the unified grid */
+.megami-card-grid li:has(.special-card) {
+    /* Potential for special styling if needed */
+}
+
+/* Ensure images don't have bottom margin from list styles */
+.megami-card-grid li p {
+    margin: 0 !important;
+}
+
+/* Responsive adjustment for desktop - Force 6 columns to break verticality */
+@media screen and (min-width: 1200px) {
+    .megami-card-grid ul {
+        grid-template-columns: repeat(6, 1fr) !important;
+    }
+}
+
+/* Responsive adjustment for mobile - 3 columns */
+@media screen and (max-width: 768px) {
+    .megami-card-grid ul {
+        grid-template-columns: repeat(3, 1fr) !important;
+        gap: 0.4rem !important;
+    }
+}
