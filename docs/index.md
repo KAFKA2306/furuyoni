@@ -38,22 +38,6 @@ hide:
         </h3>
         <p>[双掌繚乱](rules.md)。[眼前構築](rules.md#construction)から始まる、たった一度の決闘の作法。</p>
     </a>
-    
-    <a href="rules.md#curriculum" class="feature-card" style="text-decoration: none; color: inherit;">
-        <h3>
-            <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3L1 9l4 2.18v6L12 21l7-3.82v-6l2-1.09V17h2V9L12 3zm6.82 6L12 12.72 5.18 9 12 5.28 18.82 9zM17 15.99l-5 2.73-5-2.73v-3.72l5 2.73 5-2.73v3.72z"/></svg></span>
-            入門カリキュラム
-        </h3>
-        <p>旅の始まり。基礎から応用まで、ミコトとしての第一歩を。</p>
-    </a>
- 
-     <a href="rules.md#strategy" class="feature-card" style="text-decoration: none; color: inherit;">
-        <h3>
-            <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 3H3c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H3V5h18v14zM5 15h14v3H5v-3zm0-8h14v6H5V7z"/></svg></span>
-            戦略指南
-        </h3>
-        <p>勝利への道筋。環境分析と構築理論の深淵。</p>
-    </a>
 </div>
 
 ## <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg></span> 注目メガミ
@@ -86,11 +70,3 @@ hide:
         <p>虚無の支配者。[ダスト](rules.md#dust)を操り、相手のリソースを枯渇させる終焉の影。</p>
     </a>
 </div>
-
-## <span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 3h-4.18C14.4 1.84 13.3 1 12 1c-1.3 0-2.4.84-2.82 2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7 0c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zm2 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg></span> 最新情報
-
-| 日付 | カテゴリ | 内容 |
-| :--- | :--- | :--- |
-| 2026/02/15 | <span class="update-badge badge-new">News</span> | **Phase 6 ロードマップ公開** - 新たな拡張計画が始動 |
-| 2026/02/14 | <span class="update-badge badge-season">Season 10</span> | **シーズン10総括** - 環境メタレポートを更新しました |
-| 2026/02/08 | <span class="update-badge">Site</span> | **サイトリニューアル** - ダークモードと新しいデザインシステムを導入 |

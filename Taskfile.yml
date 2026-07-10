@@ -28,8 +28,19 @@ tasks:
   check:
     desc: "Run all checks and audits (Read-only)"
     cmds:
+      - uv run python scripts/official_text_gate.py
       - npx ts-node src/main.ts audit
       - uv run mkdocs build --strict
+
+  official-text-gate:
+    desc: "Block rule-bearing text without a verified official quote"
+    cmds:
+      - uv run python scripts/official_text_gate.py
+
+  test:
+    desc: "Run the official text gate unit tests"
+    cmds:
+      - uv run python -m unittest discover -s tests
 
   init:
     desc: "Initialize project environment"

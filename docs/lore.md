@@ -102,7 +102,7 @@
         </div>
         <h3 style="justify-content: center;">氷雨 細音 ([サイネ](megami/02_saine.md))</h3>
         <div style="text-align: center; margin-bottom: 0.5rem; color: var(--sakura-pink); font-weight: bold;">知・音の象徴</div>
-        <p>揺波の剣を支え、時に律するための調べ。彼女の奏でる「氷雨の調べ」は、<a href="rules.md#shousou">焦燥</a>に駆られた魂を静め、真実を見通します。</p>
+        <p>揺波の剣を支え、時に律するための調べ。彼女の奏でる「氷雨の調べ」は、焦燥に駆られた魂を静め、真実を見通します。</p>
     </a>
 </div>
 

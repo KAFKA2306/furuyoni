@@ -1,0 +1,83 @@
+version: 1
+sources:
+  comprehensive:
+    url: https://main-bakafire.ssl-lolipop.jp/furuyoni/sp/na/dl/furuyoni_comprehensive_rule.pdf
+    format: pdf
+    sha256: b96c743b343d7522db61af03952db73189283816868b8e8747f289a71801ab98
+    refs:
+      - "1-"
+      - "2-"
+      - "3-"
+      - "4-"
+      - "5-"
+      - "6-"
+      - "7-"
+      - "8-"
+      - "9-"
+  faq:
+    url: https://main-bakafire.ssl-lolipop.jp/furuyoni/faq.html
+    format: html
+    sha256: 6a42151c68d3be74ea60bbb946c0a450e8be6b1c42d82074fb3e2d45a2d9da2a
+    refs:
+      - "ルールへのＦＡＱ"
+  cardlist:
+    url: https://main-bakafire.ssl-lolipop.jp/furuyoni/sp/na/dl/event_cardlist.pdf
+    format: pdf_ocr
+    sha256: 0fe5813bcbc29736ae9988ff7758d5d84a67071b52760e84129052be1b758f19
+  cardlist_origins:
+    url: https://main-bakafire.ssl-lolipop.jp/furuyoni/sp/na/dl/event_cardlist_origins.pdf
+    format: binary
+    sha256: 4dd29de9533e57fbaf8e4dc4a3c9f6af51833467f2d7fe47e66880bf60639eeb
+
+policy:
+  cache_dir: .cache/official-sources
+  target_dirs:
+    - docs
+    - .agent/skills/furuyoni_master/rules
+  extensions:
+    - .md
+    - .html
+    - .js
+    - .ts
+    - .yaml
+    - .yml
+    - .json
+  rule_terms:
+    - 間合
+    - オーラ
+    - ライフ
+    - フレア
+    - ダスト
+    - 集中力
+    - 山札
+    - 伏せ札
+    - 捨て札
+    - 切札
+    - 通常札
+    - 攻撃
+    - 行動
+    - 付与
+    - 対応
+    - 全力
+    - 前進
+    - 後退
+    - 纏い
+    - 宿し
+    - 決死
+    - 八相
+    - 境地
+    - 灰塵
+    - 連火
+    - 設置
+    - 納
+    - 展開時
+    - 展開中
+    - 破棄時
+    - 攻撃後
+    - 適正距離
+  claim_patterns:
+    - "[0-9０-９]+[/-][0-9０-９]+"
+    - "(?:最大|上限|初期|合計|[0-9０-９]+枚|[0-9０-９]+個|[0-9０-９]+点)"
+    - "(?:できる|できない|不可|可能|強制|必ず|のみ|優先|選ぶ|選択)"
+  card_claim_patterns:
+    - "(?:解説|効果|ダメージ|適正距離|コスト|種別|対応|全力|納|攻撃後|展開時|展開中|破棄時)"

@@ -1,6 +1,6 @@
 # 全カード一覧
 
-各メガミのカードセット（通常札7枚＋切札4枚）を一覧できます。アナザー版の共通カードは透過表示されています。
+各メガミのカード画像を一覧できます。アナザー版の共通カードは透過表示されています。
 
 ## ユリナ {: #yurina }
 
@@ -1052,5 +1052,4 @@
     -   <span></span>[:external-link: ![シスイ](../assets/images/card/cards/na_24_o_s/na_24_o_s_4.png)](../assets/images/card/cards/na_24_o_s/na_24_o_s_4.png){ .glightbox .card-img .special-card }
 
     </div>
-
 
