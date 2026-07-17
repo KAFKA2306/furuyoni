@@ -1,98 +1,85 @@
-<div align="center">
+# ふるよに 統合ガイド
 
-# 🌸 Furuyoni Guide
-### 桜降る代に決闘を — 究極の攻略データベース
+『桜降る代に決闘を 再演』の現行公式情報と、『新幕 桜降る代に決闘を』シーズン1〜10の蓄積を、対象版を混同せずに参照するための非公式サイトです。
 
-*"花弁が舞い散るその時、決闘の幕が上がる..."*
+- 公開サイト: https://kafka2306.github.io/furuyoni/
+- 再演公式サイト: https://furuyoni.sekiseiro.com/re/
+- 新幕旧公式サイト: https://main-bakafire.ssl-lolipop.jp/furuyoni/
 
-[![Live Demo](https://img.shields.io/badge/🎴_Enter_The_Stage-kafka2306.github.io/furuyoni-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://kafka2306.github.io/furuyoni/)
-[![Status](https://img.shields.io/website?up_message=online&up_color=success&down_message=offline&down_color=critical&url=https%3A%2F%2Fkafka2306.github.io%2Ffuruyoni%2F&style=for-the-badge&logo=google-chrome&logoColor=white)](https://kafka2306.github.io/furuyoni/)
-[![License](https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge)](LICENSE)
+## 方針
 
-[**Explore Docs**](https://kafka2306.github.io/furuyoni/) · [**Report Bug**](https://github.com/kafka2306/furuyoni/issues) · [**Request Feature**](https://github.com/kafka2306/furuyoni/issues)
+このリポジトリは、旧資料を捨てて再演だけへ置き換えるものではありません。
 
-</div>
+- 再演起源戦・完全戦・古典戦の公式情報へ案内する
+- 新幕24柱、旧カード、シーズン1〜10、コミュニティ記事をアーカイブとして保存する
+- 現行公式、旧公式、非公式解説、検証待ちを区分する
+- 同名カードや同じメガミでも、再演と新幕の差を確認して利用する
+- 厳密な裁定、使用可能カード、大会情報は公式案内を優先する
 
----
+詳細はサイト内の「版・フォーマット統合ガイド」を参照してください。
 
-## 📖 About The Project
+## 主な入口
 
-**Furuyoni Guide** は、対戦型カードゲーム「桜降る代に決闘を」の世界を深く探求するための、美しく高速なナレッジベースです。
+| 目的 | ページ |
+| --- | --- |
+| 版・フォーマットを選ぶ | `docs/status.md` |
+| ルール・戦術を調べる | `docs/rules.md` |
+| メガミを探す | `docs/megami/index.md` |
+| 現行・旧公式資料を探す | `docs/resources-index.md` |
+| 世界観・物語を調べる | `docs/lore-index.md` |
+| 新幕コミュニティ記事を見る | `docs/resources.md` |
+| 新幕カード画像を見る | `docs/megami/cards.md` |
 
-初心者から競技プレイヤーまで、すべてのミコト（プレイヤー）が最強を目指すための情報を、MkDocsとMaterial Designの力でエレガントに提供します。
+## ローカル実行
 
-<details>
-<summary>✨ Why use this guide?</summary>
+### 必要環境
 
-- 公式ルールブックよりも噛み砕いた解説
-- 実践的なコンボや立ち回りの紹介
-- モバイルでもPCでも快適な閲覧体験
-- 強力な全文検索機能
+- Python 3.12以上
+- `uv`
+- `go-task`（Taskfileを利用する場合）
+- Node.js / npm（監査スクリプトを利用する場合）
 
-</details>
-
-## 🧩 Key Features
-
-| Feature | Description |
-| :--- | :--- |
-| 🌸 **Megami Database** | 全18柱以上のメガミの能力、戦術、カード詳細を網羅。 |
-| ⚔️ **Strategy & Meta** | シーズンごとのメタゲーム分析、ティアリスト、構築論。 |
-| 📜 **Lore & History** | 桜降る代の歴史、神話、そしてキャラクターの物語。 |
-| ⚡ **Lightning Fast** | 静的サイトジェネレーターによる爆速の読み込みと検索。 |
-| 📱 **Responsive Design** | どんなデバイスでも美しく表示されるモダンUI。 |
-
-## 🚀 Quick Start
-
-### Prerequisites
-
-- **Python 3.1x**
-- **uv** (Recommended package manager)
-- **go-task** (Task runner)
-
-### Installation
+### 開発サーバー
 
 ```bash
-# Clone the repository
-git clone https://github.com/kafka2306/furuyoni.git
-
-# Install dependencies and start dev server
-task serve
+git clone https://github.com/KAFKA2306/furuyoni.git
+cd furuyoni
+uv sync
+task dev
 ```
 
-ブラウザで `http://localhost:8080` を開けば、そこに桜降る代が広がっています。
+`http://localhost:8080`で確認できます。
 
-## 🛠️ Tech Stack
-
-- [**MkDocs**](https://www.mkdocs.org/) - Documentation
-- [**Material for MkDocs**](https://squidfunk.github.io/mkdocs-material/) - Theme
-- [**Python**](https://www.python.org/) - Scripting
-- [**GitHub Pages**](https://pages.github.com/) - Hosting
-
-## 📂 Project Structure
+### 検証
 
 ```bash
+task build   # MkDocs strict build
+task check   # TypeScript監査 + MkDocs strict build
+```
+
+## ディレクトリ
+
+```text
 furuyoni/
-├── 📂 docs/                # Knowledge Base Source
-│   ├── 📂 megami/          # Megami Data
-│   ├── 📂 strategy/        # Strategy Guides
-│   └── 📂 history/         # Season Logs
-├── ⚙️ mkdocs.yml           # Configuration
-├── 📝 Taskfile.yml         # Automation Tasks
-└── 📦 pyproject.toml       # Dependencies
+├── docs/
+│   ├── history/          # 新幕シーズン資料
+│   ├── megami/           # 新幕メガミ・カード資料
+│   ├── status.md         # 版・フォーマット方針
+│   ├── rules.md          # 統合ルール・戦術索引
+│   ├── resources-index.md
+│   └── lore-index.md
+├── src/                  # 監査・保守スクリプト
+├── mkdocs.yml
+├── Taskfile.yml
+└── pyproject.toml
 ```
 
-## 🤝 Acknowledgments & Copyright
+## 著作権・免責
 
-本サイトは非公式のファンメイドガイドです。
+本サイトは非公式のファンメイド資料です。BakaFire Partyおよび公式運営によるものではありません。
 
-- **BakaFire Party** - [桜降る代に決闘を 公式サイト](https://main-bakafire.ssl-lolipop.jp/furuyoni/)
-- カード画像、キャラクター画像、および世界観設定の著作権は **BakaFire Party** に帰属します。
-- "Sakura Arms" is a property of **BakaFire Party**.
+カード画像、キャラクター画像、名称、世界観設定などの権利は、それぞれの権利者に帰属します。公式素材の利用条件と公式ガイドラインを優先してください。
 
----
+このリポジトリには、現時点でライセンスファイルを設置していません。リポジトリ内のコード・文章・画像を、明示的な許諾なしに再配布可能とは解釈しないでください。
 
-<div align="center">
-
-**Made with ❤️ and 🌸 by [kafka2306](https://github.com/kafka2306)**
-
-</div>
+**最終方針更新:** 2026年7月17日
