@@ -15,7 +15,7 @@
 /* Base Override */
 body {
   background-color: var(--night-sky);
-  background-image: 
+  background-image:
     radial-gradient(circle at 10% 20%, rgba(233, 30, 99, 0.05) 0%, transparent 40%),
     radial-gradient(circle at 90% 80%, rgba(29, 29, 58, 0.8) 0%, transparent 60%);
   color: #e0e0e0;
@@ -86,7 +86,7 @@ article {
 }
 
 /* Admonitions */
-.md-typeset .admonition, 
+.md-typeset .admonition,
 .md-typeset details {
   background: rgba(255, 255, 255, 0.03);
   border: 1px solid var(--glass-border);
@@ -96,6 +96,41 @@ article {
 .md-typeset .admonition.note,
 .md-typeset .admonition.info {
   border-left-color: var(--sakura-deep);
+}
+
+/* Legacy edition notice */
+.legacy-version-banner {
+  display: grid;
+  grid-template-columns: auto 1fr auto auto;
+  align-items: center;
+  gap: 0.6rem 1rem;
+  margin: 0 0 1.25rem;
+  padding: 0.85rem 1rem;
+  border: 1px solid rgba(255, 183, 197, 0.45);
+  border-left: 4px solid var(--sakura-deep);
+  border-radius: 10px;
+  background: rgba(233, 30, 99, 0.09);
+  font-size: 0.78rem;
+  line-height: 1.5;
+}
+
+.legacy-version-banner strong {
+  color: var(--sakura-pink);
+  white-space: nowrap;
+}
+
+.legacy-version-banner a {
+  white-space: nowrap;
+  font-weight: 700;
+}
+
+/* Keyboard access */
+.md-typeset a:focus-visible,
+.md-nav__link:focus-visible,
+.md-search__input:focus-visible {
+  outline: 3px solid var(--star-gold);
+  outline-offset: 3px;
+  border-radius: 3px;
 }
 
 /* Footer */
@@ -115,7 +150,7 @@ footer {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #333;
+  background: #555;
   border-radius: 4px;
 }
 
@@ -132,4 +167,48 @@ footer {
   height: 100%;
   pointer-events: none;
   z-index: 9999;
+}
+
+@media screen and (max-width: 768px) {
+  article {
+    padding: 1rem !important;
+    border-radius: 10px;
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+  }
+
+  h1, h2, h3 {
+    letter-spacing: 0.02em;
+  }
+
+  .legacy-version-banner {
+    grid-template-columns: 1fr;
+    align-items: start;
+  }
+
+  #sakura-canvas {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #sakura-canvas {
+    display: none !important;
+  }
+
+  html {
+    scroll-behavior: auto !important;
+  }
+}
+
+@media (forced-colors: active) {
+  h1 {
+    background: none;
+    -webkit-text-fill-color: currentColor;
+    text-shadow: none;
+  }
+
+  .legacy-version-banner {
+    border: 2px solid CanvasText;
+  }
 }
