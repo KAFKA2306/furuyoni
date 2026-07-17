@@ -12,7 +12,6 @@ hide:
 
 [版・フォーマットを選ぶ](status.md){ .md-button .md-button--primary }
 [再演 公式サイト](https://furuyoni.sekiseiro.com/re/){ .md-button }
-[サイト内検索](#){ .md-button }
 
 ## どの形式で遊びますか
 
@@ -35,7 +34,7 @@ hide:
 過去環境、旧カード、コミュニティ記事を歴史資料として保存しています。現行環境の評価とは分離して表示します。
 
 [シーズン10](history/season10.md){ .md-button }
-[歴史資料一覧](status.md#まず遊ぶフォーマットを選ぶ){ .md-button }
+[版・フォーマット一覧](status.md#まず遊ぶフォーマットを選ぶ){ .md-button }
 
 ## 目的から探す
 
@@ -46,8 +45,8 @@ hide:
 | メガミを探す | [メガミ統合索引](megami/index.md) | 再演確認＋新幕24柱 |
 | カード画像を見る | [カード一覧](megami/cards.md) | 主に新幕 |
 | 過去環境を調べる | [歴史資料](history/season10.md) | 新幕 |
-| 公式・外部資料を探す | [リソース](resources.md) | 再演＋新幕 |
-| 世界観を調べる | [世界観資料](lore.md) | 出典区分付き |
+| 公式・外部資料を探す | [リソース統合索引](resources-index.md) | 再演＋新幕 |
+| 世界観を調べる | [世界観・物語統合索引](lore-index.md) | 再演＋新幕 |
 
 ## 情報の読み方
 
