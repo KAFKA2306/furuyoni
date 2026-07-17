@@ -1,6 +1,6 @@
-site_name: ふるよに ガイド
+site_name: ふるよに 統合ガイド
 site_url: https://kafka2306.github.io/furuyoni/
-site_description: 桜降る代に決闘を - 初心者向けペアガイド＆攻略情報
+site_description: 桜降る代に決闘を 再演と新幕を横断する非公式統合ガイド
 
 theme:
   name: material
@@ -20,7 +20,7 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.sections
-    - navigation.expand
+    - navigation.prune
     - navigation.top
     - search.highlight
     - content.tabs.link
@@ -34,57 +34,64 @@ theme:
 
 use_directory_urls: false
 
-
 repo_url: https://github.com/kafka2306/furuyoni
 repo_name: kafka2306/furuyoni
 edit_uri: edit/main/docs/
 
 nav:
   - ホーム: index.md
-  - 世界観: lore.md
-  - 総合ガイド: rules.md
-  - メガミ:
-    - 概要: megami/index.md
-    - 個別詳細:
-      - ユリナ: megami/01_yurina.md
-      - サイネ: megami/02_saine.md
-      - ヒミカ: megami/03_himika.md
-      - トコヨ: megami/04_tokoyo.md
-      - オボロ: megami/05_oboro.md
-      - ユキヒ: megami/06_yukihi.md
-      - シンラ: megami/07_shinra.md
-      - ハガネ: megami/08_hagane.md
-      - チカゲ: megami/09_chikage.md
-      - クルル: megami/10_kururu.md
-      - サリヤ: megami/11_sariya.md
-      - ライラ: megami/12_laila.md
-      - ウツロ: megami/13_utsuro.md
-      - ホノカ: megami/14_honoka.md
-      - コルヌ: megami/15_korunu.md
-      - ヤツハ: megami/16_yatsuha.md
-      - ハツミ: megami/17_hatsumi.md
-      - ミズキ: megami/18_mizuki.md
-      - メグミ: megami/19_megumi.md
-      - カナヱ: megami/20_kanawe.md
-      - カムヰ: megami/21_kamui.md
-      - レンリ: megami/22_renri.md
-      - アキナ: megami/23_akina.md
-      - シスイ: megami/24_shisui.md
-    - カード: megami/cards.md
-  - 歴史資料:
-    - シーズン1: history/season1.md
-    - シーズン2: history/season2.md
-    - シーズン3: history/season3.md
-    - シーズン4: history/season4.md
-    - シーズン5: history/season5.md
-    - シーズン6: history/season6.md
-    - シーズン7: history/season7.md
-    - シーズン8: history/season8.md
-    - シーズン9: history/season9.md
-    - シーズン10: history/season10.md
-  - リソース: resources.md
-
-
+  - 版・フォーマット: status.md
+  - 現行・再演:
+      - 公式サイト: https://furuyoni.sekiseiro.com/re/
+      - 公式ルール: https://furuyoni.sekiseiro.com/re/rules/
+      - メガミ紹介: https://furuyoni.sekiseiro.com/re/megami/
+      - カードリスト: https://furuyoni.sekiseiro.com/re/cardlist/
+      - 新幕からの変更点: https://furuyoni.sekiseiro.com/re/rules/renewal/
+  - 統合ガイド:
+      - ルール・戦術: rules.md
+      - メガミ索引: megami/index.md
+      - 世界観・物語: lore-index.md
+      - 公式・外部リソース: resources-index.md
+  - 新幕アーカイブ:
+      - 世界観メモ（検証待ち）: lore.md
+      - メガミ個別:
+          - ユリナ: megami/01_yurina.md
+          - サイネ: megami/02_saine.md
+          - ヒミカ: megami/03_himika.md
+          - トコヨ: megami/04_tokoyo.md
+          - オボロ: megami/05_oboro.md
+          - ユキヒ: megami/06_yukihi.md
+          - シンラ: megami/07_shinra.md
+          - ハガネ: megami/08_hagane.md
+          - チカゲ: megami/09_chikage.md
+          - クルル: megami/10_kururu.md
+          - サリヤ: megami/11_sariya.md
+          - ライラ: megami/12_laila.md
+          - ウツロ: megami/13_utsuro.md
+          - ホノカ: megami/14_honoka.md
+          - コルヌ: megami/15_korunu.md
+          - ヤツハ: megami/16_yatsuha.md
+          - ハツミ: megami/17_hatsumi.md
+          - ミズキ: megami/18_mizuki.md
+          - メグミ: megami/19_megumi.md
+          - カナヱ: megami/20_kanawe.md
+          - カムヰ: megami/21_kamui.md
+          - レンリ: megami/22_renri.md
+          - アキナ: megami/23_akina.md
+          - シスイ: megami/24_shisui.md
+      - カード画像: megami/cards.md
+      - シーズン資料:
+          - シーズン1: history/season1.md
+          - シーズン2: history/season2.md
+          - シーズン3: history/season3.md
+          - シーズン4: history/season4.md
+          - シーズン5: history/season5.md
+          - シーズン6: history/season6.md
+          - シーズン7: history/season7.md
+          - シーズン8: history/season8.md
+          - シーズン9: history/season9.md
+          - シーズン10: history/season10.md
+      - コミュニティ記事: resources.md
 
 plugins:
   - search:
@@ -115,9 +122,7 @@ extra_javascript:
 
 extra_css:
   - assets/custom.css
-
   - assets/furuyoni_style.css
-
 
 extra:
   social:
