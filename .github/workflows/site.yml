@@ -99,3 +99,60 @@ jobs:
       - name: Deploy GitHub Pages artifact
         id: deployment
         uses: actions/deploy-pages@v4
+
+  live-audit:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Inspect active Pages source
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          curl --fail --silent --show-error \
+            -H "Authorization: Bearer ${GH_TOKEN}" \
+            -H "Accept: application/vnd.github+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/pages" \
+            | jq '{html_url, status, build_type, source, public}'
+
+      - name: Verify the real public guide
+        shell: bash
+        run: |
+          set -euo pipefail
+          base="https://kafka2306.github.io/furuyoni"
+          tmp="$(mktemp -d)"
+
+          matched=false
+          for attempt in $(seq 1 36); do
+            curl --fail --silent --show-error --location \
+              "$base/?smoke=${GITHUB_SHA}-${attempt}" -o "$tmp/index.html"
+            curl --fail --silent --show-error --location \
+              "$base/assets/furuyoni_style.css?smoke=${GITHUB_SHA}-${attempt}" -o "$tmp/furuyoni.css"
+            if grep -Fq -- '--kafka-pastel-build: 20260723' "$tmp/furuyoni.css"; then
+              matched=true
+              break
+            fi
+            echo "Live site has not propagated yet (attempt ${attempt})."
+            sleep 10
+          done
+          test "$matched" = true
+
+          grep -F 'data-md-color-scheme="default"' "$tmp/index.html"
+          grep -F 'ふるよに 統合ガイド' "$tmp/index.html"
+          grep -F -- '--lavender:' "$tmp/furuyoni.css"
+          grep -F -- '--rose:' "$tmp/furuyoni.css"
+          grep -F -- '--mint:' "$tmp/furuyoni.css"
+          grep -F '#sakura-canvas { display: none !important; }' "$tmp/furuyoni.css"
+
+          curl --fail --silent --show-error --location "$base/assets/custom.css?smoke=${GITHUB_SHA}" -o "$tmp/custom.css"
+          grep -F '.feature-card' "$tmp/custom.css"
+          grep -F '.hero-section' "$tmp/custom.css"
+
+          curl --fail --silent --show-error --location "$base/status.html?smoke=${GITHUB_SHA}" -o "$tmp/status.html"
+          grep -F '版・フォーマット' "$tmp/status.html"
+
+          curl --fail --silent --show-error --location "$base/search/search_index.json?smoke=${GITHUB_SHA}" -o "$tmp/search.json"
+          python -m json.tool "$tmp/search.json" >/dev/null
+
+          echo "Live Pages audit passed: $base/"
