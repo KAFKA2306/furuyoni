@@ -6,12 +6,9 @@ theme:
   name: material
   language: ja
   palette:
-    - scheme: slate
-      primary: black
-      accent: pink
-      toggle:
-        icon: material/weather-night
-        name: 闇夜に還る
+    - scheme: default
+      primary: custom
+      accent: custom
 
   icon:
     repo: fontawesome/brands/github
