@@ -18,6 +18,21 @@
 
 詳細はサイト内の「版・フォーマット統合ガイド」を参照してください。
 
+## Project ontology
+
+[`ontology/project.yaml`](ontology/project.yaml) は、版・フォーマット・情報源の状態を共通の因果・証拠構造で記述します。
+
+```text
+VersionedFuruyoniKnowledgeBase
+  -> source acquisition and edition classification
+  -> official or community observations
+  -> rule, card, legality, and interpretation claims
+  -> source and cross-version evidence
+  -> current_official / historical_official / unofficial_commentary / verification_required
+```
+
+現行公式、過去の公式、非公式解説、検証待ちは異なる assertion type として保持します。同名カードや同一メガミも版をまたいで自動統合せず、現行裁定には現行公式ソースだけを優先します。
+
 ## 主な入口
 
 | 目的 | ページ |
@@ -82,4 +97,4 @@ furuyoni/
 
 このリポジトリには、現時点でライセンスファイルを設置していません。リポジトリ内のコード・文章・画像を、明示的な許諾なしに再配布可能とは解釈しないでください。
 
-**最終方針更新:** 2026年7月17日
+**最終方針更新:** 2026年7月30日
