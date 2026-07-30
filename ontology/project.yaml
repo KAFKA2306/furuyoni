@@ -1,0 +1,83 @@
+project:
+  id: kafka:furuyoni
+  name: ふるよに 統合ガイド
+  repository: https://github.com/KAFKA2306/furuyoni
+  pages: https://kafka2306.github.io/furuyoni/
+  version: 0.1.0
+  updated: 2026-07-30
+  core_ontology: https://raw.githubusercontent.com/KAFKA2306/know/main/ontology/causal-evidence-core.yaml
+  schema: https://raw.githubusercontent.com/KAFKA2306/know/main/ontology/project.schema.json
+
+purpose:
+  problem: Preserve and navigate current Re:Edition and historical New Acts information without conflating editions, formats, seasons, official rulings, archives, and community interpretation.
+  intended_decisions: [current_official, historical_official, unofficial_commentary, verification_required, excluded_from_current_ruling]
+  success_conditions:
+    - Every rule, card, Megami, format, and resource identifies its edition and status.
+    - Current official guidance takes precedence for current rulings and tournament legality.
+    - Historical and community material remains accessible without being relabeled as current official fact.
+    - Unverified or conflicting statements are visibly marked.
+  falsification_conditions:
+    - Same-name cards or Megami records from different editions are silently merged.
+    - Community interpretation is presented as an official ruling.
+    - Historical legality is presented as current legality without version context.
+    - A rights-sensitive asset is treated as freely redistributable without an explicit license.
+
+scope:
+  included: [Re:Edition formats and official links, New Acts seasons 1–10, Megami and card references, rules and tactics indexes, lore and community archives, status labels]
+  excluded: [claims of official affiliation, unsupported current rulings, implicit redistribution permission]
+  temporal: Edition, season, publication date, current-status date, and retrieval date are explicit.
+  abstraction_level: Versioned documentation and source-status knowledge base.
+
+competency_questions:
+  - Which edition, season, and format does this statement or card belong to?
+  - Is the source current official, historical official, unofficial commentary, or awaiting verification?
+  - What source should control a current ruling or legality question?
+  - Are same-name entities materially different across editions?
+  - Which rights and reuse constraints apply to each asset or document?
+
+domain_mapping:
+  System: VersionedFuruyoniKnowledgeBase
+  State: [edition state, format state, legality state, verification state, publication state]
+  Action: [acquire source, classify status, link edition, compare versions, publish guide, mark verification required]
+  Process: [source review, identity resolution, version comparison, documentation build, link audit]
+  Observation: [official page, official rule text, archived official material, community article, card or asset record]
+  Model: [edition-status taxonomy, format mapping, resource precedence, entity identity mapping]
+  Requirement: [edition separation, source-status labeling, current-official precedence, conflict visibility, rights notice]
+  Claim: [current rule, historical rule, card identity, legality, strategic interpretation, lore statement]
+  Evidence: [official URL, archived official URL, community source, comparison note, retrieval date]
+  Decision: [current_official, historical_official, unofficial_commentary, verification_required, excluded_from_current_ruling]
+
+claims_and_evidence:
+  assertion_types: [ReportedFact, CalculatedValue, Assumption, Hypothesis, RequirementAssertion, DecisionAssertion]
+  required_evidence:
+    CurrentOfficialClaim: [current official source, edition, format, retrieval date]
+    HistoricalOfficialClaim: [historical official source, edition or season, archival status]
+    UnofficialInterpretation: [identified author or community source, unofficial label]
+    CrossEditionComparison: [both source versions, entity identity, explicit differences]
+  unknown_policy: Unresolved edition, status, source, or conflict is labeled verification_required and cannot control a current ruling.
+
+decision_rules:
+  - id: current-official-classification
+    when: A source is published by the current official Re:Edition authority and applies to the stated format.
+    result: current_official
+  - id: historical-official-classification
+    when: A source was official for New Acts or an earlier state but is not the controlling current source.
+    result: historical_official
+  - id: community-classification
+    when: A source is commentary, strategy, archive, or explanation outside official publication.
+    result: unofficial_commentary
+  - id: unresolved-status
+    when: Edition, source authority, applicability, or identity cannot be established.
+    result: verification_required
+
+provenance:
+  sources: [Re:Edition official site, New Acts historical official site, identified community resources, repository-maintained comparison notes]
+  generated_artifacts: [MkDocs pages, status indexes, Megami and card references, resource indexes, validation reports]
+  agents: [maintainer, source-audit scripts, TypeScript checks, MkDocs strict build, GitHub Actions]
+  lineage: Resource entries retain edition, format, status, URL, retrieval date, and comparison relationships.
+
+validation:
+  structural: Internal links, required metadata, unique paths, and MkDocs strict build.
+  semantic: Edition and status labels, current-official precedence, same-name identity separation, and conflict markers.
+  evidence: Source URL, authority class, edition, format, retrieval date, and comparison record.
+  publication: Pages URL, strict build, link audit, and visible rights or unofficial notices.
