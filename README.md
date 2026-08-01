@@ -1,49 +1,42 @@
-# ふるよに 統合ガイド
+# ふるよに統合ガイド
 
-『桜降る代に決闘を 再演』の現行公式情報と、『新幕 桜降る代に決闘を』シーズン1〜10の蓄積を、対象版を混同せずに参照するための非公式サイトです。
+**公開サイト:** https://kafka2306.github.io/furuyoni/
 
-- 公開サイト: https://kafka2306.github.io/furuyoni/
-- 再演公式サイト: https://furuyoni.sekiseiro.com/re/
-- 新幕旧公式サイト: https://main-bakafire.ssl-lolipop.jp/furuyoni/
+『桜降る代に決闘を 再演』の現行情報と、『新幕 桜降る代に決闘を』シーズン1〜10の蓄積を、版を混同せずに調べるための非公式資料サイトです。
 
-## 方針
+## このサイトの目的
 
-このリポジトリは、旧資料を捨てて再演だけへ置き換えるものではありません。
+- 現在遊ばれている「再演」の公式情報へ案内する
+- 新幕24柱、旧カード、過去シーズン、コミュニティ記事を保存する
+- 現行公式、過去の公式、非公式解説、要確認情報を区別する
+- 同名カードや同じメガミでも、版ごとの差を確認できるようにする
 
-- 再演起源戦・完全戦・古典戦の公式情報へ案内する
-- 新幕24柱、旧カード、シーズン1〜10、コミュニティ記事をアーカイブとして保存する
-- 現行公式、旧公式、非公式解説、検証待ちを区分する
-- 同名カードや同じメガミでも、再演と新幕の差を確認して利用する
-- 厳密な裁定、使用可能カード、大会情報は公式案内を優先する
-
-詳細はサイト内の「版・フォーマット統合ガイド」を参照してください。
-
-## Project ontology
-
-[`ontology/project.yaml`](ontology/project.yaml) は、版・フォーマット・情報源の状態を共通の因果・証拠構造で記述します。
-
-```text
-VersionedFuruyoniKnowledgeBase
-  -> source acquisition and edition classification
-  -> official or community observations
-  -> rule, card, legality, and interpretation claims
-  -> source and cross-version evidence
-  -> current_official / historical_official / unofficial_commentary / verification_required
-```
-
-現行公式、過去の公式、非公式解説、検証待ちは異なる assertion type として保持します。同名カードや同一メガミも版をまたいで自動統合せず、現行裁定には現行公式ソースだけを優先します。
+厳密な裁定、使用可能カード、大会ルールは、必ず現行の公式案内を優先してください。
 
 ## 主な入口
 
-| 目的 | ページ |
+| 調べたいこと | ページ |
 | --- | --- |
-| 版・フォーマットを選ぶ | `docs/status.md` |
-| ルール・戦術を調べる | `docs/rules.md` |
-| メガミを探す | `docs/megami/index.md` |
-| 現行・旧公式資料を探す | `docs/resources-index.md` |
-| 世界観・物語を調べる | `docs/lore-index.md` |
-| 新幕コミュニティ記事を見る | `docs/resources.md` |
-| 新幕カード画像を見る | `docs/megami/cards.md` |
+| どの版・フォーマットを見るべきか | [版・フォーマット統合ガイド](docs/status.md) |
+| ルールや戦術を調べる | [ルール・戦術索引](docs/rules.md) |
+| メガミを探す | [メガミ一覧](docs/megami/index.md) |
+| 現行・旧公式資料を探す | [資料索引](docs/resources-index.md) |
+| 世界観・物語を調べる | [物語索引](docs/lore-index.md) |
+| 新幕のコミュニティ記事を見る | [コミュニティ資料](docs/resources.md) |
+| 新幕カード画像を見る | [カード資料](docs/megami/cards.md) |
+
+## 情報の区分
+
+```text
+現行公式
+過去の公式
+非公式の解説・考察
+検証待ち
+```
+
+これらは別の情報種別として保存します。同名のカードやメガミを版をまたいで自動統合せず、現行裁定には現行公式ソースだけを優先します。
+
+機械可読な定義は[`ontology/project.yaml`](ontology/project.yaml)にあります。
 
 ## ローカル実行
 
@@ -51,10 +44,10 @@ VersionedFuruyoniKnowledgeBase
 
 - Python 3.12以上
 - `uv`
-- `go-task`（Taskfileを利用する場合）
-- Node.js / npm（監査スクリプトを利用する場合）
+- `go-task`
+- Node.js / npm（監査スクリプト利用時）
 
-### 開発サーバー
+### 起動
 
 ```bash
 git clone https://github.com/KAFKA2306/furuyoni.git
@@ -72,15 +65,15 @@ task build   # MkDocs strict build
 task check   # TypeScript監査 + MkDocs strict build
 ```
 
-## ディレクトリ
+## 主な構成
 
 ```text
 furuyoni/
 ├── docs/
 │   ├── history/          # 新幕シーズン資料
-│   ├── megami/           # 新幕メガミ・カード資料
+│   ├── megami/           # メガミ・カード資料
 │   ├── status.md         # 版・フォーマット方針
-│   ├── rules.md          # 統合ルール・戦術索引
+│   ├── rules.md          # ルール・戦術索引
 │   ├── resources-index.md
 │   └── lore-index.md
 ├── src/                  # 監査・保守スクリプト
@@ -89,12 +82,15 @@ furuyoni/
 └── pyproject.toml
 ```
 
+## 公式サイト
+
+- 再演公式: https://furuyoni.sekiseiro.com/re/
+- 新幕旧公式: https://main-bakafire.ssl-lolipop.jp/furuyoni/
+
 ## 著作権・免責
 
-本サイトは非公式のファンメイド資料です。BakaFire Partyおよび公式運営によるものではありません。
+本サイトはBakaFire Partyおよび公式運営とは関係のない非公式ファンメイド資料です。カード画像、キャラクター画像、名称、世界観設定などの権利は各権利者に帰属します。
 
-カード画像、キャラクター画像、名称、世界観設定などの権利は、それぞれの権利者に帰属します。公式素材の利用条件と公式ガイドラインを優先してください。
+このリポジトリには現時点でライセンスファイルを設置していません。コード・文章・画像を、明示的な許諾なしに再配布可能とは解釈しないでください。
 
-このリポジトリには、現時点でライセンスファイルを設置していません。リポジトリ内のコード・文章・画像を、明示的な許諾なしに再配布可能とは解釈しないでください。
-
-**最終方針更新:** 2026年7月30日
+**README最終監査:** 2026-08-01
