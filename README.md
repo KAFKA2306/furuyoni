@@ -2,34 +2,56 @@
 
 **同じカード名でも、版が違えば「今使える情報」は同じとは限らない。**
 
-過去シーズンの記事、旧版の公式資料、現在の再演ルール、コミュニティ解説を一つに混ぜると、昔は正しかった裁定を現行ルールとして読んでしまいます。必要なのは情報を消すことではなく、「どの版の、どの種類の情報か」を残したまま調べられることです。
+過去seasonの記事、旧版の公式資料、現在の再演rule、community解説を一つに混ぜると、昔は正しかった裁定を現行ruleとして読んでしまいます。
 
-このサイトは、『桜降る代に決闘を 再演』の現行情報と『新幕 桜降る代に決闘を』シーズン1〜10の蓄積を、版を混同せずに調べるための非公式資料です。版、フォーマット、資料索引、機械可読オントロジーを分離して管理し、現行公式、過去の公式、非公式解説、検証待ちを区別します。
+このsiteは、『桜降る代に決闘を 再演』の現行情報と『新幕 桜降る代に決闘を』Season 1〜10の蓄積を、**版と情報種別を保ったまま調べる非公式統合ガイド**です。
 
-**公開サイト:** https://kafka2306.github.io/furuyoni/
+- 公開サイト: https://kafka2306.github.io/furuyoni/
 
-## このサイトの目的
+## Vision
 
-- 現在遊ばれている「再演」の公式情報へ案内する
-- 新幕24柱、旧カード、過去シーズン、コミュニティ記事を保存する
-- 現行公式、過去の公式、非公式解説、要確認情報を区別する
-- 同名カードや同じメガミでも、版ごとの差を確認できるようにする
+ふるよにの情報探しを「検索結果の日付を見て、どの版か自分で推測する作業」から、**まず現行か過去かを判断し、その版に適用できる公式資料・解説へ安全に辿れる体験**へ変えます。
 
-厳密な裁定、使用可能カード、大会ルールは、必ず現行の公式案内を優先してください。
+## Design philosophy
 
-## 主な入口
+- **Version before content.** 同名card / メガミでも版をまたいで自動統合しない。
+- **Current official wins for current rulings.** 現行裁定は再演の最新公式情報を優先する。
+- **History is preserved, not promoted.** 旧ruleや旧season資料を消さず、過去情報として明示する。
+- **Official and community stay separate.** 公式・過去公式・非公式解説・verification pendingを区別する。
+- **Index before duplication.** 同じ資料を複製するより、適切なsourceへ案内する索引を優先する。
+- **Unknown scope stays unknown.** どの版に適用するか確認できない情報を現行ruleへ昇格しない。
 
-| 調べたいこと | ページ |
+## Why / 差別化
+
+長く続く対戦gameでは、情報が古いから無価値なのではなく、**どの時点では正しかったかが重要**です。
+
+このguideの差別化は資料数ではありません。再演・新幕・season archive・community contentを同じsiteから探せても、**現行情報と歴史資料を混同しないこと**を中心にします。
+
+MkDocsやontologyは、version boundaryを利用者から隠さないための手段です。
+
+## User journey
+
+```text
+知りたいcard / メガミ / ruleを探す
+  → version / formatを確認
+  → current official / historical official / communityを識別
+  → relevant sourceを読む
+  → current rulingなら再演公式を最終確認
+```
+
+## Main entry points
+
+| 調べたいこと | page |
 | --- | --- |
-| どの版・フォーマットを見るべきか | [版・フォーマット統合ガイド](docs/status.md) |
-| ルールや戦術を調べる | [ルール・戦術索引](docs/rules.md) |
-| メガミを探す | [メガミ一覧](docs/megami/index.md) |
-| 現行・旧公式資料を探す | [資料索引](docs/resources-index.md) |
-| 世界観・物語を調べる | [物語索引](docs/lore-index.md) |
-| 新幕のコミュニティ記事を見る | [コミュニティ資料](docs/resources.md) |
-| 新幕カード画像を見る | [カード資料](docs/megami/cards.md) |
+| どの版・formatを見るべきか | [版・フォーマット統合ガイド](docs/status.md) |
+| rule / strategy | [ルール・戦術索引](docs/rules.md) |
+| メガミ | [メガミ一覧](docs/megami/index.md) |
+| current / old official source | [資料索引](docs/resources-index.md) |
+| lore / story | [物語索引](docs/lore-index.md) |
+| 新幕community article | [コミュニティ資料](docs/resources.md) |
+| 新幕card image | [カード資料](docs/megami/cards.md) |
 
-## 情報の区分
+## Information states
 
 ```text
 現行公式
@@ -38,20 +60,30 @@
 検証待ち
 ```
 
-これらは別の情報種別として保存します。同名のカードやメガミを版をまたいで自動統合せず、現行裁定には現行公式ソースだけを優先します。
+これらは別情報種別です。同じcard名をversion跨ぎで一つのruleへ潰しません。
 
-機械可読な定義は[`ontology/project.yaml`](ontology/project.yaml)にあります。
+Machine-readable definition: [`ontology/project.yaml`](ontology/project.yaml)
 
-## ローカル実行
+## What this guide preserves
 
-### 必要環境
+- 再演の現行公式情報への入口
+- 新幕24柱の資料
+- 旧card / past season archive
+- official resource index
+- community explanation index
+- lore / world-building index
+- version / format policy
 
-- Python 3.12以上
+厳密な裁定・legal card・tournament ruleは必ず現行公式を優先してください。
+
+## Quick start
+
+Requirements:
+
+- Python 3.12+
 - `uv`
 - `go-task`
-- Node.js / npm（監査スクリプト利用時）
-
-### 起動
+- Node.js / npm for audit scripts
 
 ```bash
 git clone https://github.com/KAFKA2306/furuyoni.git
@@ -60,39 +92,49 @@ uv sync
 task dev
 ```
 
-`http://localhost:8080`で確認できます。
-
-### 検証
-
-```bash
-task build   # MkDocs strict build
-task check   # TypeScript監査 + MkDocs strict build
-```
-
-## 主な構成
+Open:
 
 ```text
-furuyoni/
-├── docs/
-│   ├── history/          # 新幕シーズン資料
-│   ├── megami/           # メガミ・カード資料
-│   ├── status.md         # 版・フォーマット方針
-│   ├── rules.md          # ルール・戦術索引
-│   ├── resources-index.md
-│   └── lore-index.md
-├── src/                  # 監査・保守スクリプト
-├── mkdocs.yml
-├── Taskfile.yml
-└── pyproject.toml
+http://localhost:8080
 ```
 
-## 公式サイト
+Validation:
+
+```bash
+task build
+task check
+```
+
+## Repository map
+
+```text
+docs/
+  history/          Shinmaku season archive
+  megami/           Megami / card resources
+  status.md         version / format policy
+  rules.md          rules / strategy index
+  resources-index.md
+  lore-index.md
+src/                audit / maintenance scripts
+ontology/project.yaml
+mkdocs.yml
+Taskfile.yml
+pyproject.toml
+```
+
+## Official sources
 
 - 再演公式: https://furuyoni.sekiseiro.com/re/
 - 新幕旧公式: https://main-bakafire.ssl-lolipop.jp/furuyoni/
 
-## 著作権・免責
+## Done
 
-本サイトはBakaFire Partyおよび公式運営とは関係のない非公式ファンメイド資料です。カード画像、キャラクター画像、名称、世界観設定などの権利は各権利者に帰属します。
+成功指標は過去資料をすべて現行形式へ統合することではありません。
 
-このリポジトリには現時点でライセンスファイルを設置していません。コード・文章・画像を、明示的な許諾なしに再配布可能とは解釈しないでください。
+**利用者が調べたい情報について「これは現行公式・過去公式・非公式・未確認のどれか」を見分け、現在遊ぶために使ってよいsourceへ到達できること**をDoneとします。
+
+## Rights / disclaimer
+
+本siteはBakaFire Partyおよび公式運営とは関係のない非公式fan-made resourceです。card画像、character画像、名称、world setting等の権利は各権利者に帰属します。
+
+現時点でrepository license fileはありません。code / text / imageを明示許諾なしに再配布可能とは解釈しないでください。
