@@ -1,5 +1,7 @@
 # ふるよに統合ガイド
 
+[![Build and deploy Furuyoni guide](https://github.com/KAFKA2306/furuyoni/actions/workflows/site.yml/badge.svg)](https://github.com/KAFKA2306/furuyoni/actions/workflows/site.yml)
+
 **同じカード名でも、版が違えば「今使える情報」は同じとは限らない。**
 
 過去seasonの記事、旧版の公式資料、現在の再演rule、community解説を一つに混ぜると、昔は正しかった裁定を現行ruleとして読んでしまいます。
