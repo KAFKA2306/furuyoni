@@ -107,7 +107,7 @@
 4. 12/4 「いずは兜デッキを教えることができるのか」 — iZu*24 & [Link](https://izu24furuyoni.hatenablog.com/entry/2024/12/04/210005)
 5. 12/5 「兜カード概説」 — でるた [Link](https://deruta521.hatenablog.com/entry/2024/12/06/000232)
 6. 12/6 「そろそろ徒[![寄花](assets/images/card/cards/na_16_o_n/na_16_o_n_7.png)](assets/images/card/cards/na_16_o_n/na_16_o_n_7.png){ .glightbox }足りない時期じゃない？」 — ヴィミラニエ@ふるよに [Link](https://rw49krem2fz4hnp.hatenablog.com/entry/2024/12/06/065736)
-7. 12/7 「土下座ビートダウン社騎（[ユキヒ](megami/06_yukihi.md)A/[サリヤ](megami/11_sariya.md)）」 — しいはさん [Link](https://thallya-enshinoh.hatenablog.jp/entry/2024/12/06/235855)
+7. 12/7 「土下座ビートダウン社騎（[ユキヒ](megami/06_yukihi.md)A/[サリヤ](megami/11_sariya.md)）」 — しいはさん [Link](https://thallya-enshinoh.hatenablog.com/entry/2024/12/06/235855)
 8. 12/8 「『ぎふよに大決戦』レポート其ノ参 — 環境分析」 — ikari [Link](https://ikari2642.hatenablog.com/entry/gifuyoni3)
 9. 12/9 「【ふるよに】今期の握りについて」 — いちい すわ [Link](https://ichii-suwa.hatenablog.com/entry/2024/12/09/214750)
 10. 12/10 「【ふるよに:[サイネ](megami/02_saine.md)/[ユキヒ](megami/06_yukihi.md)(薙傘) 解説】雪降る節季 傘を片手に」 — tahITEF [Link](https://thtfuruyoni.hatenadiary.jp/entry/2024/12/10/032253)
@@ -128,6 +128,6 @@
 25. 12/25 「ちょっとこっちは本読んでるんで邪魔しないでもらっていいですか？」 — 魔法幼女へくとぱちゃん [Link](https://3422project.hateblo.jp/entry/2024/12/25/233512)
 
 ### 2023 年
-(一部抜粋、詳細は[Advent Calendar](https://adventar.org/)を参照)
+(一部抜粋。詳細は下記の2023ハブ記事を参照)
 1. 12/1 「ふるよに Advent Calendar 2023 ハブ」 — 魔法幼女へくとぱちゃん [Link](https://3422project.hateblo.jp/entry/2023/12/01/002000)
 ...（他記事はバックナンバーとして省略または必要に応じて追記）
