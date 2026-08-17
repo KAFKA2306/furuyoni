@@ -22,13 +22,28 @@ export class NetworkAdapter {
     }
 
     static async checkLink(url: string): Promise<{ status: string; code?: number }> {
+        const headers = { 'User-Agent': 'Mozilla/5.0' };
+
         try {
-            const response = await axios.head(url, { timeout: 5000, headers: { 'User-Agent': 'Mozilla/5.0' } });
+            const response = await axios.head(url, { timeout: 5000, headers });
             return { status: 'OK', code: response.status };
-        } catch (error: any) {
-            if (error.code === 'ECONNABORTED') return { status: 'TIMEOUT' };
-            if (error.response) return { status: 'BROKEN', code: error.response.status };
-            return { status: 'CONNECTION_ERROR' };
+        } catch (headError: any) {
+            if (headError.code === 'ECONNABORTED') return { status: 'TIMEOUT' };
+            if (!headError.response) return { status: 'CONNECTION_ERROR' };
+
+            try {
+                const response = await axios.get(url, {
+                    timeout: 5000,
+                    headers,
+                    responseType: 'stream'
+                });
+                response.data.destroy();
+                return { status: 'OK', code: response.status };
+            } catch (getError: any) {
+                if (getError.code === 'ECONNABORTED') return { status: 'TIMEOUT' };
+                if (getError.response) return { status: 'BROKEN', code: getError.response.status };
+                return { status: 'CONNECTION_ERROR' };
+            }
         }
     }
 }
