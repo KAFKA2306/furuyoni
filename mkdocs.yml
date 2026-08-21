@@ -95,6 +95,13 @@ plugins:
       lang: ja
   - glightbox
 
+hooks:
+  - hooks/link_anchors.py
+
+validation:
+  links:
+    anchors: warn
+
 markdown_extensions:
   - tables
   - admonition
