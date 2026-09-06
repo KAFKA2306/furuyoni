@@ -10,7 +10,8 @@ hide:
     現行シリーズは**『桜降る代に決闘を 再演』**です。  
     このサイトでは、再演の公式情報と、新幕シーズン1〜10の蓄積を版ラベル付きで接続します。
 
-[版・フォーマットを選ぶ](status.md){ .md-button .md-button--primary }
+[現行版「再演」の公式ルールを見る](https://furuyoni.sekiseiro.com/re/rules/){ .md-button .md-button--primary }
+[版・フォーマットを確認する](status.md){ .md-button }
 [再演 公式サイト](https://furuyoni.sekiseiro.com/re/){ .md-button }
 
 ## どの形式で遊びますか
