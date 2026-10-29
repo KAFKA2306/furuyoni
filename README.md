@@ -1,3 +1,5 @@
+https://kafka2306.github.io/furuyoni/
+
 # ふるよに統合ガイド
 
 [![Build and deploy Furuyoni guide](https://github.com/KAFKA2306/furuyoni/actions/workflows/site.yml/badge.svg)](https://github.com/KAFKA2306/furuyoni/actions/workflows/site.yml)
@@ -7,8 +9,6 @@
 過去seasonの記事、旧版の公式資料、現在の再演rule、community解説を一つに混ぜると、昔は正しかった裁定を現行ruleとして読んでしまいます。
 
 このsiteは、『桜降る代に決闘を 再演』の現行情報と『新幕 桜降る代に決闘を』Season 1〜10の蓄積を、**版と情報種別を保ったまま調べる非公式統合ガイド**です。
-
-- 公開サイト: https://kafka2306.github.io/furuyoni/
 
 ## Vision
 
